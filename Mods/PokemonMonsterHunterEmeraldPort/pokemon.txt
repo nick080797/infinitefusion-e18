@@ -372,9 +372,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[605285]
+[608881]
 Name = KELBI♀
-InternalName = KELBI
+InternalName = KELBI2
 Type1 = NORMAL
 Type2 = GRASS
 BaseStats = 85,70,80,60,60,65
@@ -392,9 +392,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[605285]
+[608882]
 Name = KELBI♂
-InternalName = KELBI
+InternalName = KELBI3
 Type1 = NORMAL
 Type2 = GRASS
 BaseStats = 60,80,70,85,60,65

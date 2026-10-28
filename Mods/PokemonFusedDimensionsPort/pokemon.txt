@@ -38,9 +38,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[604491]
+[608851]
 Name = Venugarde
-InternalName = VENUGARDE
+InternalName = VENUGARDE2
 Type1 = GRASS
 Type2 = DRAGON
 BaseStats = 113,100,112,96,100,107
@@ -100,9 +100,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 35,ABSORB
 
-[604494]
+[608852]
 Name = Gardezard
-InternalName = GARDEZARD
+InternalName = GARDEZARD2
 Type1 = FIRE
 Type2 = PSYCHIC
 BaseStats = 80,83,79,99,124,110
@@ -121,9 +121,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,SPITUP
 
-[604495]
+[608853]
 Name = Gallazard
-InternalName = GALLAZARD
+InternalName = GALLAZARD2
 Type1 = FIRE
 Type2 = FIGHTING
 BaseStats = 80,116,79,99,96,110
@@ -184,9 +184,9 @@ StepsToHatch = 7140
 Shape = Head
 Moves = 0,SPITUP,195,SNORE,215,BATONPASS,218,IRONTAIL,231,HIDDENPOWER,232,METALCLAW
 
-[604498]
+[608854]
 Name = Blastron
-InternalName = BLASTRON
+InternalName = BLASTRON2
 Type1 = WATER
 Type2 = STEEL
 BaseStats = 83,107,154,70,80,92
@@ -246,9 +246,9 @@ Compatibility = Undiscovered
 StepsToHatch = 4590
 Shape = Head
 
-[604501]
+[608855]
 Name = Butterein
-InternalName = BUTTEREIN
+InternalName = BUTTEREIN2
 Type1 = BUG
 Type2 = ICE
 BaseStats = 94,69,77,75,102,94
@@ -307,9 +307,9 @@ Compatibility = Undiscovered
 StepsToHatch = 4590
 Shape = Head
 
-[604504]
+[608856]
 Name = Beedrazam
-InternalName = BEEDRAZAM
+InternalName = BEEDRAZAM2
 Type1 = BUG
 Type2 = PSYCHIC
 BaseStats = 66,77,47,108,99,97
@@ -370,9 +370,9 @@ StepsToHatch = 4590
 Shape = Head
 Moves = 0,SPITUP,14,PAYDAY,16,DOUBLEKICK,82,DRAGONRAGE,82,DRAGONRAGE
 
-[604507]
+[608857]
 Name = Pidgeoken
-InternalName = PIDGEOKEN
+InternalName = PIDGEOKEN2
 Type1 = FIRE
 Type2 = FLYING
 BaseStats = 90,110,80,100,99,77
@@ -683,9 +683,9 @@ StepsToHatch = 7650
 Shape = Head
 Moves = 131,JUMPKICK,240,STRENGTH
 
-[604522]
+[608858]
 Name = Metaslash
-InternalName = METASLASH
+InternalName = METASLASH2
 Type1 = GROUND
 Type2 = STEEL
 BaseStats = 86,130,132,75,77,80
@@ -1625,9 +1625,9 @@ StepsToHatch = 4590
 Shape = Head
 Moves = 0,SPITUP
 
-[604568]
+[608859]
 Name = Gigachamp
-InternalName = GIGACHAMP
+InternalName = GIGACHAMP2
 Type1 = FIGHTING
 Type2 = ROCK
 BaseStats = 97,146,116,44,69,91
@@ -1930,9 +1930,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[604583]
+[608860]
 Name = Glawbro
-InternalName = GLAWBRO
+InternalName = GLAWBRO2
 Type1 = WATER
 Type2 = ICE
 BaseStats = 97,86,105,61,99,88
@@ -2092,9 +2092,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[604591]
+[608861]
 Name = Basfetch’d
-InternalName = BASFETCHD
+InternalName = BASFETCHD2
 Type1 = WATER
 Type2 = FLYING
 BaseStats = 67,100,66,87,76,65
@@ -2402,9 +2402,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,SPITUP,213,HIDDENPOWER,214,ATTRACT,228,ENCORE,231,FRUSTRATION,231,SPITUP,232,IRONTAIL,232,PAINSPLIT
 
-[604606]
+[608862]
 Name = Genninja
-InternalName = GENNINJA
+InternalName = GENNINJA2
 Type1 = WATER
 Type2 = GHOST
 BaseStats = 73,88,70,128,129,80
@@ -2583,26 +2583,6 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 Moves = 219,BATONPASS,220,PRESENT,227,PRESENT
-
-[604615]
-Name = Electrim
-InternalName = ELECTRIM
-Type1 = GRASS
-Type2 = ELECTRIC
-BaseStats = 72,61,77,130,92,87
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 165
-EffortPoints = 0,0,0,0,0,0
-Rareness = 68
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = STATIC,CHLOROPHYLL
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
 
 [604616]
 Name = Clamcute
@@ -3098,9 +3078,9 @@ StepsToHatch = 4590
 Shape = Head
 Moves = 2,HAIL
 
-[604640]
+[608863]
 Name = Cragaskhan
-InternalName = CRAGASKHAN
+InternalName = CRAGASKHAN2
 Type1 = NORMAL
 Type2 = WATER
 BaseStats = 92,119,91,80,72,75
@@ -3342,9 +3322,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5865
 Shape = Head
 
-[604652]
+[608864]
 Name = Mr. Race
-InternalName = MRRACE
+InternalName = MRRACE2
 Type1 = FIRE
 Type2 = ICE
 BaseStats = 88,111,83,104,96,96
@@ -4116,9 +4096,9 @@ StepsToHatch = 7140
 Shape = Head
 Moves = 0,SPITUP,0,SPITUP,213,IRONTAIL,213,PRESENT,216,PRESENT,221,HIDDENPOWER,221,SCARYFACE,229,IRONTAIL,231,IRONTAIL,231,ATTRACT
 
-[604690]
+[608865]
 Name = Snortic
-InternalName = SNORTIC
+InternalName = SNORTIC2
 Type1 = NORMAL
 Type2 = ICE
 BaseStats = 141,132,80,44,75,105
@@ -4279,9 +4259,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[604698]
+[608866]
 Name = Intelite
-InternalName = INTELITE
+InternalName = INTELITE2
 Type1 = DRAGON
 Type2 = WATER
 BaseStats = 89,120,88,110,124,91
@@ -4359,27 +4339,6 @@ Abilities = INSOMNIA,MAGICGUARD
 Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
-
-[604591]
-Name = Basfetch’d
-InternalName = BASFETCHD
-Type1 = WATER
-Type2 = FLYING
-BaseStats = 67,100,66,87,76,65
-GenderRate = AlwaysMale
-GrowthRate = Medium
-BaseEXP = 147
-EffortPoints = 0,0,0,0,0,0
-Rareness = 35
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Green
-Abilities = INNERFOCUS,ADAPTABILITY
-Compatibility = Undiscovered
-StepsToHatch = 7650
-Shape = Head
-Moves = 2,HAIL
 
 [604615]
 Name = Electrim
@@ -4693,9 +4652,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[604706]
+[608867]
 Name = Bascudame
-InternalName = BASCUDAME
+InternalName = BASCUDAME2
 Type1 = WATER
 Type2 = FLYING
 BaseStats = 103,119,74,95,80,81
@@ -5218,9 +5177,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[604732]
+[608868]
 Name = Scepharos
-InternalName = SCEPHAROS
+InternalName = SCEPHAROS2
 Type1 = GRASS
 Type2 = ELECTRIC
 BaseStats = 88,88,83,97,121,97
@@ -5523,26 +5482,6 @@ Compatibility = Undiscovered
 StepsToHatch = 5865
 Shape = Head
 Moves = 0,SPITUP,219,METALCLAW,221,PRESENT,225,HEALBELL,230,PRESENT,231,IRONTAIL,235,PRESENT
-
-[604747]
-Name = Meowmagius
-InternalName = MEOWMAGIUS
-Type1 = PSYCHIC
-Type2 = GHOST
-BaseStats = 74,59,75,116,103,102
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 168
-EffortPoints = 0,0,0,0,0,0
-Rareness = 60
-Happiness = 35
-Height = 1.0
-Weight = 10.0
-Color = Purple
-Abilities = LEVITATE,INFILTRATOR
-Compatibility = Undiscovered
-StepsToHatch = 5865
-Shape = Head
 
 [604748]
 Name = Wyseed
@@ -6179,26 +6118,6 @@ StepsToHatch = 10200
 Shape = Head
 Moves = 213,FRUSTRATION,214,IRONTAIL,215,MEGAHORN,218,PRESENT,220,HIDDENPOWER,227,PRESENT,232,RETURN
 
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
 [604780]
 Name = Delifey
 InternalName = DELIFEY
@@ -6570,9 +6489,9 @@ StepsToHatch = 10200
 Shape = Head
 Moves = 0,SPITUP,217,PAINSPLIT,218,RETURN,218,PRESENT,224,PRESENT,228,PAINSPLIT,235,IRONTAIL,235,SWEETSCENT
 
-[604798]
+[608869]
 Name = Tyranchomp
-InternalName = TYRANCHOMP
+InternalName = TYRANCHOMP2
 Type1 = DRAGON
 Type2 = ROCK
 BaseStats = 114,145,113,90,97,102
@@ -6758,26 +6677,6 @@ Name = Bascudame
 InternalName = BASCUDAME
 Type1 = WATER
 Type2 = FLYING
-BaseStats = 103,119,74,95,80,81
-GenderRate = AlwaysMale
-GrowthRate = Medium
-BaseEXP = 210
-EffortPoints = 0,0,0,0,0,0
-Rareness = 40
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Green
-Abilities = ADAPTABILITY
-Compatibility = Undiscovered
-StepsToHatch = 7650
-Shape = Head
-
-[604706]
-Name = Bascudame
-InternalName = BASCUDAME
-Type1 = WATER
-Type2 = FLYING
 BaseStats = 103,108,74,95,91,81
 GenderRate = AlwaysFemale
 GrowthRate = Medium
@@ -6811,166 +6710,6 @@ Color = Purple
 Abilities = LEVITATE,INFILTRATOR
 Compatibility = Undiscovered
 StepsToHatch = 5865
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[604779]
-Name = Bomfrou
-InternalName = BOMFROU
-Type1 = NORMAL
-Type2 = FIRE
-BaseStats = 77,100,70,98,97,92
-GenderRate = Female50Percent
-GrowthRate = Medium
-BaseEXP = 166
-EffortPoints = 0,0,0,0,0,0
-Rareness = 130
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = TECHNICIAN
-Compatibility = Undiscovered
-StepsToHatch = 5100
 Shape = Head
 
 [604779]

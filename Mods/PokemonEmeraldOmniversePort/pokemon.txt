@@ -3595,9 +3595,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[604227]
+[608850]
 Name = ATOMIC-X
-InternalName = ATOMICX
+InternalName = ATOMICX2
 Type1 = PSYCHIC
 Type2 = STEEL
 BaseStats = 90,145,90,140,145,90

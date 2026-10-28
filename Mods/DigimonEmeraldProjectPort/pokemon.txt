@@ -1313,9 +1313,9 @@ Compatibility = Undiscovered
 StepsToHatch = 1275
 Shape = Head
 
-[602244]
+[608561]
 Name = MetMamemon
-InternalName = METMAMEMON
+InternalName = METMAMEMON2
 Type1 = STEEL
 Type2 = FIRE
 BaseStats = 80,90,70,70,90,70
@@ -3414,9 +3414,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602352]
+[608562]
 Name = Millennium
-InternalName = MILLENNIUM
+InternalName = MILLENNIUM2
 Type1 = QMARKS
 BaseStats = 66,66,66,66,66,66
 GenderRate = Genderless
@@ -5003,9 +5003,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[602431]
+[608563]
 Name = Hippowdon
-InternalName = HIPPOWDON
+InternalName = HIPPOWDON2
 Type1 = GROUND
 BaseStats = 108,112,118,47,68,72
 GenderRate = AlwaysMale
@@ -5179,9 +5179,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602440]
+[608564]
 Name = Abomasnow
-InternalName = ABOMASNOW
+InternalName = ABOMASNOW2
 Type1 = GRASS
 Type2 = ICE
 BaseStats = 90,92,75,60,92,85
@@ -5715,9 +5715,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[602468]
+[608565]
 Name = Unfezant
-InternalName = UNFEZANT
+InternalName = UNFEZANT2
 Type1 = NORMAL
 Type2 = FLYING
 BaseStats = 80,115,80,93,65,55
@@ -6552,9 +6552,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602511]
+[608566]
 Name = Frillish
-InternalName = FRILLISH
+InternalName = FRILLISH2
 Type1 = WATER
 Type2 = GHOST
 BaseStats = 55,40,50,40,65,85
@@ -6572,9 +6572,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602512]
+[608567]
 Name = Jellicent
-InternalName = JELLICENT
+InternalName = JELLICENT2
 Type1 = WATER
 Type2 = GHOST
 BaseStats = 100,60,70,60,85,105
@@ -7154,9 +7154,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[602542]
+[608568]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN2
 Type1 = DARK
 Type2 = NORMAL
 BaseStats = 32,56,35,72,25,35
@@ -7174,9 +7174,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[602542]
+[608569]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN3
 Type1 = DARK
 Type2 = NORMAL
 BaseStats = 75,71,70,77,40,80
@@ -7194,9 +7194,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[602542]
+[608570]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN4
 Type1 = ELECTRIC
 Type2 = PSYCHIC
 BaseStats = 60,85,50,110,95,85
@@ -7214,9 +7214,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[602542]
+[608571]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN5
 Type1 = ICE
 BaseStats = 50,75,90,40,1,35
 GenderRate = FemaleOneEighth
@@ -7233,9 +7233,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608572]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN6
 Type1 = ICE
 BaseStats = 75,100,120,65,25,65
 GenderRate = FemaleOneEighth
@@ -7252,9 +7252,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608573]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN7
 Type1 = ICE
 BaseStats = 38,41,40,65,50,65
 GenderRate = Female50Percent
@@ -7271,9 +7271,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608574]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN8
 Type1 = ICE
 Type2 = CUSTOM_TYPE_23_4
 BaseStats = 73,67,75,109,81,100
@@ -7291,9 +7291,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608575]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN9
 Type1 = GROUND
 Type2 = STEEL
 BaseStats = 10,55,30,90,35,255
@@ -7311,9 +7311,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608576]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN10
 Type1 = GROUND
 Type2 = STEEL
 BaseStats = 35,100,60,110,50,70
@@ -7331,9 +7331,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608577]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN11
 Type1 = DARK
 BaseStats = 40,35,35,90,50,40
 GenderRate = FemaleOneEighth
@@ -7350,9 +7350,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608578]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN12
 Type1 = DARK
 BaseStats = 65,60,60,115,75,95
 GenderRate = FemaleOneEighth
@@ -7369,9 +7369,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608579]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN13
 Type1 = ROCK
 Type2 = ELECTRIC
 BaseStats = 40,80,100,20,30,30
@@ -7389,9 +7389,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[602542]
+[608580]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN14
 Type1 = ROCK
 Type2 = ELECTRIC
 BaseStats = 55,95,115,35,45,45
@@ -7409,9 +7409,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[602542]
+[608581]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN15
 Type1 = ROCK
 Type2 = ELECTRIC
 BaseStats = 80,120,130,45,55,65
@@ -7429,9 +7429,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[602542]
+[608582]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN16
 Type1 = POISON
 Type2 = DARK
 BaseStats = 80,80,50,25,40,50
@@ -7449,9 +7449,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608583]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN17
 Type1 = POISON
 Type2 = DARK
 BaseStats = 105,105,49,50,65,100
@@ -7469,9 +7469,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[602542]
+[608584]
 Name = Alolan
-InternalName = ALOLAN
+InternalName = ALOLAN18
 Type1 = GRASS
 Type2 = DRAGON
 BaseStats = 95,105,85,45,125,75
@@ -8179,9 +8179,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602577]
+[608585]
 Name = Flying
-InternalName = FLYING
+InternalName = FLYING2
 Type1 = ELECTRIC
 BaseStats = 35,55,40,90,50,50
 GenderRate = AlwaysFemale
@@ -8735,9 +8735,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602605]
+[608587]
 Name = Fighting
-InternalName = FIGHTING
+InternalName = FIGHTING2
 Type1 = FIGHTING
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8754,9 +8754,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602577]
+[608586]
 Name = Flying
-InternalName = FLYING
+InternalName = FLYING3
 Type1 = FLYING
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8773,9 +8773,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602606]
+[608588]
 Name = Poison
-InternalName = POISON
+InternalName = POISON2
 Type1 = POISON
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8792,9 +8792,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602607]
+[608589]
 Name = Ground
-InternalName = GROUND
+InternalName = GROUND2
 Type1 = GROUND
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8811,9 +8811,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602608]
+[608590]
 Name = Rock
-InternalName = ROCK
+InternalName = ROCK2
 Type1 = ROCK
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8830,9 +8830,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602609]
+[608591]
 Name = Bug
-InternalName = BUG
+InternalName = BUG2
 Type1 = BUG
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8849,9 +8849,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602610]
+[608592]
 Name = Ghost
-InternalName = GHOST
+InternalName = GHOST2
 Type1 = GHOST
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8868,9 +8868,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602611]
+[608593]
 Name = Steel
-InternalName = STEEL
+InternalName = STEEL2
 Type1 = STEEL
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8887,9 +8887,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602612]
+[608594]
 Name = Fire
-InternalName = FIRE
+InternalName = FIRE2
 Type1 = FIRE
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8906,9 +8906,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602613]
+[608595]
 Name = Water
-InternalName = WATER
+InternalName = WATER2
 Type1 = WATER
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8925,9 +8925,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602614]
+[608596]
 Name = Grass
-InternalName = GRASS
+InternalName = GRASS2
 Type1 = GRASS
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8944,9 +8944,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602615]
+[608597]
 Name = Electric
-InternalName = ELECTRIC
+InternalName = ELECTRIC2
 Type1 = ELECTRIC
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8963,9 +8963,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602616]
+[608598]
 Name = Psychic
-InternalName = PSYCHIC
+InternalName = PSYCHIC2
 Type1 = PSYCHIC
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -8982,9 +8982,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602617]
+[608599]
 Name = Ice
-InternalName = ICE
+InternalName = ICE2
 Type1 = ICE
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -9001,9 +9001,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602618]
+[608600]
 Name = Dragon
-InternalName = DRAGON
+InternalName = DRAGON2
 Type1 = DRAGON
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -9020,9 +9020,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602619]
+[608601]
 Name = Dark
-InternalName = DARK
+InternalName = DARK2
 Type1 = DARK
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -9039,9 +9039,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602620]
+[608602]
 Name = Fairy
-InternalName = FAIRY
+InternalName = FAIRY2
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 95,95,95,95,95,95
 GenderRate = Genderless
@@ -9198,26 +9198,6 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602627]
-Name = Ultra
-InternalName = ULTRA
-Type1 = PSYCHIC
-Type2 = DRAGON
-BaseStats = 97,167,97,129,167,97
-GenderRate = Genderless
-GrowthRate = Slow
-BaseEXP = 220
-EffortPoints = 0,0,0,0,0,0
-Rareness = 3
-Happiness = 0
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 255
-Shape = Head
-
 [602628]
 Name = Original
 InternalName = ORIGINAL
@@ -9258,9 +9238,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602630]
+[608603]
 Name = White
-InternalName = WHITE
+InternalName = WHITE2
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 44,38,39,42,61,79
 GenderRate = AlwaysFemale
@@ -9277,9 +9257,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602631]
+[608606]
 Name = Yellow
-InternalName = YELLOW
+InternalName = YELLOW2
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 44,38,39,42,61,79
 GenderRate = AlwaysFemale
@@ -9296,9 +9276,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602632]
+[608608]
 Name = Orange
-InternalName = ORANGE
+InternalName = ORANGE2
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 44,38,39,42,61,79
 GenderRate = AlwaysFemale
@@ -9315,9 +9295,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602633]
+[608610]
 Name = Blue
-InternalName = BLUE
+InternalName = BLUE2
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 44,38,39,42,61,79
 GenderRate = AlwaysFemale
@@ -9334,9 +9314,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602630]
+[608604]
 Name = White
-InternalName = WHITE
+InternalName = WHITE3
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 54,45,47,52,75,98
 GenderRate = AlwaysFemale
@@ -9353,9 +9333,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602631]
+[608607]
 Name = Yellow
-InternalName = YELLOW
+InternalName = YELLOW3
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 54,45,47,52,75,98
 GenderRate = AlwaysFemale
@@ -9372,9 +9352,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602632]
+[608609]
 Name = Orange
-InternalName = ORANGE
+InternalName = ORANGE3
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 54,45,47,52,75,98
 GenderRate = AlwaysFemale
@@ -9391,9 +9371,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602633]
+[608611]
 Name = Blue
-InternalName = BLUE
+InternalName = BLUE3
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 54,45,47,52,75,98
 GenderRate = AlwaysFemale
@@ -9410,9 +9390,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602630]
+[608605]
 Name = White
-InternalName = WHITE
+InternalName = WHITE4
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 78,65,68,75,112,154
 GenderRate = AlwaysFemale
@@ -9467,9 +9447,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602633]
+[608612]
 Name = Blue
-InternalName = BLUE
+InternalName = BLUE4
 Type1 = CUSTOM_TYPE_23_4
 BaseStats = 78,65,68,75,112,154
 GenderRate = AlwaysFemale
@@ -9526,9 +9506,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602636]
+[608615]
 Name = Sandy
-InternalName = SANDY
+InternalName = SANDY2
 Type1 = BUG
 BaseStats = 40,29,45,36,29,45
 GenderRate = Female50Percent
@@ -9545,9 +9525,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602637]
+[608616]
 Name = Trash
-InternalName = TRASH
+InternalName = TRASH2
 Type1 = BUG
 BaseStats = 40,29,45,36,29,45
 GenderRate = Female50Percent
@@ -9623,9 +9603,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602633]
+[608613]
 Name = Blue
-InternalName = BLUE
+InternalName = BLUE5
 Type1 = WATER
 BaseStats = 76,48,48,34,57,62
 GenderRate = Female50Percent
@@ -9642,9 +9622,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602633]
+[608614]
 Name = Blue
-InternalName = BLUE
+InternalName = BLUE6
 Type1 = WATER
 Type2 = GROUND
 BaseStats = 111,83,68,39,92,82
@@ -10204,9 +10184,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602646]
+[608617]
 Name = Summer
-InternalName = SUMMER
+InternalName = SUMMER2
 Type1 = NORMAL
 Type2 = GRASS
 BaseStats = 60,60,50,75,40,50
@@ -10224,9 +10204,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602647]
+[608618]
 Name = Autumn
-InternalName = AUTUMN
+InternalName = AUTUMN2
 Type1 = NORMAL
 Type2 = GRASS
 BaseStats = 60,60,50,75,40,50
@@ -10244,9 +10224,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602648]
+[608619]
 Name = Winter
-InternalName = WINTER
+InternalName = WINTER2
 Type1 = NORMAL
 Type2 = GRASS
 BaseStats = 60,60,50,75,40,50
@@ -10464,9 +10444,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602655]
+[608620]
 Name = Therian
-InternalName = THERIAN
+InternalName = THERIAN2
 Type1 = FLYING
 BaseStats = 79,100,80,121,110,90
 GenderRate = AlwaysMale
@@ -10483,9 +10463,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[602655]
+[608621]
 Name = Therian
-InternalName = THERIAN
+InternalName = THERIAN3
 Type1 = ELECTRIC
 Type2 = FLYING
 BaseStats = 79,105,70,101,145,80

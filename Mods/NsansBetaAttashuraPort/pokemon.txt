@@ -851,9 +851,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603730]
+[608842]
 Name = Tobi
-InternalName = TOBI
+InternalName = TOBI3
 Type1 = DARK
 Type2 = GHOST
 BaseStats = 100,50,50,100,100,50
@@ -2715,9 +2715,9 @@ StepsToHatch = 3825
 Shape = Head
 Moves = 253,ENPUNORAPPA
 
-[603822]
+[608843]
 Name = Susanoo-P.
-InternalName = SUSANOOP
+InternalName = SUSANOOP2
 Type1 = DARK
 Type2 = FIRE
 BaseStats = 100,200,190,70,240,185
@@ -2876,9 +2876,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[603830]
+[608844]
 Name = Sexy Mode-
-InternalName = SEXYMODE
+InternalName = SEXYMODE2
 Type1 = FLYING
 BaseStats = 50,60,50,55,60,45
 GenderRate = AlwaysFemale
@@ -3020,9 +3020,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 213,C2,227,SHOKUSHUKEN,230,C3,230,ENPUNORAPPA
 
-[603836]
+[608845]
 Name = -BORUTO-
-InternalName = BORUTO
+InternalName = BORUTO2
 Type1 = ELECTRIC
 Type2 = FLYING
 BaseStats = 25,35,70,45,95,55
@@ -3040,9 +3040,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603837]
+[608846]
 Name = -SARADA-
-InternalName = SARADA
+InternalName = SARADA3
 Type1 = FIGHTING
 BaseStats = 46,57,40,50,40,40
 GenderRate = AlwaysMale
@@ -3060,9 +3060,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 213,C2,227,SHOKUSHUKEN,230,C3,230,ENPUNORAPPA
 
-[603838]
+[608847]
 Name = -MITSUKI-
-InternalName = MITSUKI
+InternalName = MITSUKI2
 Type1 = NORMAL
 BaseStats = 30,40,55,60,40,55
 GenderRate = Female50Percent

@@ -1166,9 +1166,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,ICEPUNCH
 
-[604863]
+[608870]
 Name = Manerock
-InternalName = MANEROCK
+InternalName = MANEROCK2
 Type1 = ELECTRIC
 Type2 = ROCK
 BaseStats = 85,115,80,100,70,85
@@ -2175,9 +2175,9 @@ StepsToHatch = 6375
 Shape = Head
 Moves = 0,SPITUP,0,SPITUP,214,SCARYFACE,221,RETURN,225,THUNDERCUT,227,IRONTAIL,228,BATONPASS
 
-[604911]
+[608871]
 Name = Ponyrig
-InternalName = PONYRIG
+InternalName = PONYRIG2
 Type1 = PSYCHIC
 Type2 = FIRE
 BaseStats = 60,85,60,90,85,60
@@ -2196,9 +2196,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,SPITUP
 
-[604912]
+[608872]
 Name = Giradash
-InternalName = GIRADASH
+InternalName = GIRADASH2
 Type1 = FIRE
 Type2 = PSYCHIC
 BaseStats = 70,100,70,110,100,70
@@ -3840,9 +3840,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,SPITUP,0,SPITUP,0,SPITUP
 
-[604992]
+[608873]
 Name = Marotisse
-InternalName = MAROTISSE
+InternalName = MAROTISSE2
 Type1 = CUSTOM_TYPE_23_11
 Type2 = GHOST
 BaseStats = 90,75,105,55,100,95
@@ -4130,9 +4130,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,SPITUP,2,HAIL,2,HAIL,2,HAIL,2,HAIL,2,HAIL
 
-[605003]
+[608874]
 Name = Castiic
-InternalName = CASTIIC
+InternalName = CASTIIC2
 Type1 = FIRE
 Type2 = GRASS
 BaseStats = 70,50,85,75,115,95
@@ -4150,9 +4150,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[605003]
+[608875]
 Name = Castiic
-InternalName = CASTIIC
+InternalName = CASTIIC3
 Type1 = WATER
 Type2 = GRASS
 BaseStats = 70,75,95,50,85,115

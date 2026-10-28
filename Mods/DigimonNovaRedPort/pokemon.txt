@@ -1,6 +1,6 @@
-[607991]
+[608788]
 Name = kamon
-InternalName = KAMON
+InternalName = KAMON2
 Type1 = FIRE
 BaseStats = 40,55,50,55,50,50
 GenderRate = AlwaysMale
@@ -75,9 +75,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607995]
+[608789]
 Name = kemon
-InternalName = KEMON
+InternalName = KEMON2
 Type1 = FIRE
 Type2 = STEEL
 BaseStats = 120,115,90,115,90,90
@@ -153,9 +153,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[607999]
+[608790]
 Name = arurumon
-InternalName = ARURUMON
+InternalName = ARURUMON2
 Type1 = WATER
 BaseStats = 70,70,100,50,60,100
 GenderRate = AlwaysMale
@@ -192,9 +192,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608000]
+[608791]
 Name = komon
-InternalName = KOMON
+InternalName = KOMON2
 Type1 = WATER
 Type2 = ELECTRIC
 BaseStats = 90,90,130,60,60,130
@@ -212,9 +212,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608001]
+[608794]
 Name = tamon
-InternalName = TAMON
+InternalName = TAMON2
 Type1 = ICE
 BaseStats = 40,55,40,70,55,40
 GenderRate = AlwaysMale
@@ -269,9 +269,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608000]
+[608792]
 Name = komon
-InternalName = KOMON
+InternalName = KOMON3
 Type1 = ICE
 Type2 = STEEL
 BaseStats = 120,115,80,130,95,80
@@ -289,9 +289,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608004]
+[608797]
 Name = yomon
-InternalName = YOMON
+InternalName = YOMON2
 Type1 = CUSTOM_TYPE_23_17
 BaseStats = 40,40,40,50,65,65
 GenderRate = AlwaysMale
@@ -308,9 +308,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608005]
+[608798]
 Name = rdramon
-InternalName = RDRAMON
+InternalName = RDRAMON2
 Type1 = CUSTOM_TYPE_23_17
 BaseStats = 60,50,50,60,80,80
 GenderRate = AlwaysMale
@@ -445,9 +445,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608012]
+[608800]
 Name = lamon
-InternalName = LAMON
+InternalName = LAMON2
 Type1 = BUG
 BaseStats = 55,50,55,55,60,55
 GenderRate = Female50Percent
@@ -464,9 +464,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608013]
+[608802]
 Name = tomon
-InternalName = TOMON
+InternalName = TOMON2
 Type1 = BUG
 Type2 = ELECTRIC
 BaseStats = 65,60,65,65,70,65
@@ -563,9 +563,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608018]
+[608803]
 Name = emon
-InternalName = EMON
+InternalName = EMON2
 Type1 = CUSTOM_TYPE_23_17
 BaseStats = 65,45,45,65,85,85
 GenderRate = AlwaysFemale
@@ -622,9 +622,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608021]
+[608806]
 Name = idramon
-InternalName = IDRAMON
+InternalName = IDRAMON2
 Type1 = NORMAL
 BaseStats = 30,30,30,30,30,30
 GenderRate = AlwaysMale
@@ -932,9 +932,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608000]
+[608793]
 Name = komon
-InternalName = KOMON
+InternalName = KOMON4
 Type1 = FLYING
 Type2 = GRASS
 BaseStats = 70,85,65,90,70,70
@@ -952,9 +952,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608037]
+[608807]
 Name = pmon
-InternalName = PMON
+InternalName = PMON2
 Type1 = BUG
 Type2 = POISON
 BaseStats = 50,65,45,70,55,45
@@ -1032,9 +1032,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608041]
+[608809]
 Name = mmymon
-InternalName = MMYMON
+InternalName = MMYMON2
 Type1 = DRAGON
 BaseStats = 110,105,85,110,95,85
 GenderRate = AlwaysMale
@@ -1108,9 +1108,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608045]
+[608810]
 Name = ximon
-InternalName = XIMON
+InternalName = XIMON2
 Type1 = FIGHTING
 Type2 = CUSTOM_TYPE_23_17
 BaseStats = 110,130,100,100,110,80
@@ -1128,9 +1128,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608046]
+[608811]
 Name = namon
-InternalName = NAMON
+InternalName = NAMON2
 Type1 = NORMAL
 BaseStats = 65,65,65,65,65,65
 GenderRate = AlwaysMale
@@ -1166,9 +1166,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608048]
+[608812]
 Name = omon
-InternalName = OMON
+InternalName = OMON2
 Type1 = NORMAL
 BaseStats = 85,85,85,85,85,85
 GenderRate = AlwaysMale
@@ -1282,9 +1282,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608037]
+[608808]
 Name = pmon
-InternalName = PMON
+InternalName = PMON3
 Type1 = FIRE
 BaseStats = 55,55,50,50,50,50
 GenderRate = AlwaysMale
@@ -1321,9 +1321,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608005]
+[608799]
 Name = r.Dramon
-InternalName = RDRAMON
+InternalName = RDRAMON3
 Type1 = FIRE
 Type2 = DRAGON
 BaseStats = 95,90,70,70,75,70
@@ -1438,9 +1438,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608059]
+[608814]
 Name = edmon
-InternalName = EDMON
+InternalName = EDMON2
 Type1 = DRAGON
 Type2 = DARK
 BaseStats = 75,75,75,65,65,75
@@ -1458,9 +1458,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608060]
+[608815]
 Name = ramon
-InternalName = RAMON
+InternalName = RAMON2
 Type1 = DRAGON
 Type2 = DARK
 BaseStats = 100,110,90,80,80,80
@@ -1497,9 +1497,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608060]
+[608816]
 Name = ramon
-InternalName = RAMON
+InternalName = RAMON3
 Type1 = DARK
 BaseStats = 35,50,45,50,55,55
 GenderRate = AlwaysMale
@@ -1713,9 +1713,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608070]
+[608819]
 Name = rimon
-InternalName = RIMON
+InternalName = RIMON2
 Type1 = DARK
 BaseStats = 95,100,85,100,100,85
 GenderRate = AlwaysMale
@@ -1751,9 +1751,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608072]
+[608821]
 Name = memon
-InternalName = MEMON
+InternalName = MEMON2
 Type1 = CUSTOM_TYPE_23_17
 BaseStats = 90,65,55,95,130,110
 GenderRate = Female50Percent
@@ -1808,9 +1808,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608075]
+[608823]
 Name = nimon
-InternalName = NIMON
+InternalName = NIMON2
 Type1 = GROUND
 Type2 = DRAGON
 BaseStats = 110,95,110,75,60,90
@@ -1828,9 +1828,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608018]
+[608804]
 Name = emon
-InternalName = EMON
+InternalName = EMON3
 Type1 = NORMAL
 BaseStats = 40,45,35,90,40,40
 GenderRate = Female50Percent
@@ -1985,9 +1985,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608001]
+[608795]
 Name = tamon
-InternalName = TAMON
+InternalName = TAMON3
 Type1 = DARK
 BaseStats = 75,75,55,65,75,55
 GenderRate = Female50Percent
@@ -2175,9 +2175,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[608018]
+[608805]
 Name = emon
-InternalName = EMON
+InternalName = EMON4
 Type1 = GROUND
 BaseStats = 60,60,95,40,45,60
 GenderRate = Female50Percent
@@ -2350,9 +2350,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608098]
+[608825]
 Name = kumon
-InternalName = KUMON
+InternalName = KUMON2
 Type1 = DRAGON
 BaseStats = 40,55,40,50,50,55
 GenderRate = Female50Percent
@@ -2388,9 +2388,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[608100]
+[608826]
 Name = ldramon
-InternalName = LDRAMON
+InternalName = LDRAMON2
 Type1 = DRAGON
 Type2 = FLYING
 BaseStats = 75,80,65,75,75,80
@@ -2428,9 +2428,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[608102]
+[608827]
 Name = lemon
-InternalName = LEMON
+InternalName = LEMON2
 Type1 = WATER
 BaseStats = 65,45,55,45,45,70
 GenderRate = Female50Percent
@@ -2723,9 +2723,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608001]
+[608796]
 Name = tamon
-InternalName = TAMON
+InternalName = TAMON4
 Type1 = BUG
 Type2 = DARK
 BaseStats = 100,80,80,60,80,80
@@ -3330,9 +3330,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608143]
+[608828]
 Name = armon
-InternalName = ARMON
+InternalName = ARMON2
 Type1 = ROCK
 Type2 = DRAGON
 BaseStats = 105,130,120,40,45,45
@@ -3524,9 +3524,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[608151]
+[608830]
 Name = remon
-InternalName = REMON
+InternalName = REMON2
 Type1 = GHOST
 BaseStats = 60,65,60,95,110,75
 GenderRate = FemaleOneEighth
@@ -3583,9 +3583,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608048]
+[608813]
 Name = omon
-InternalName = OMON
+InternalName = OMON3
 Type1 = POISON
 Type2 = FLYING
 BaseStats = 75,80,70,90,65,75
@@ -3642,9 +3642,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608075]
+[608824]
 Name = nimon
-InternalName = NIMON
+InternalName = NIMON3
 Type1 = POISON
 Type2 = GROUND
 BaseStats = 80,105,79,90,75,90
@@ -3834,9 +3834,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608164]
+[608831]
 Name = temon
-InternalName = TEMON
+InternalName = TEMON2
 Type1 = DARK
 BaseStats = 75,105,75,75,100,70
 GenderRate = Female50Percent
@@ -4291,9 +4291,9 @@ Compatibility = Undiscovered
 StepsToHatch = 20400
 Shape = Head
 
-[608060]
+[608817]
 Name = ramon
-InternalName = RAMON
+InternalName = RAMON4
 Type1 = ICE
 BaseStats = 84,84,84,84,84,84
 GenderRate = Female50Percent
@@ -4444,9 +4444,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[608060]
+[608818]
 Name = ramon
-InternalName = RAMON
+InternalName = RAMON5
 Type1 = FLYING
 Type2 = STEEL
 BaseStats = 90,90,85,100,80,80
@@ -4464,9 +4464,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608143]
+[608829]
 Name = armon
-InternalName = ARMON
+InternalName = ARMON3
 Type1 = FLYING
 Type2 = GROUND
 BaseStats = 85,95,90,95,80,80
@@ -4503,9 +4503,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608194]
+[608832]
 Name = adramon
-InternalName = ADRAMON
+InternalName = ADRAMON2
 Type1 = FIRE
 BaseStats = 40,40,40,40,50,50
 GenderRate = Female50Percent
@@ -4816,9 +4816,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608012]
+[608801]
 Name = lamon
-InternalName = LAMON
+InternalName = LAMON3
 Type1 = WATER
 Type2 = PSYCHIC
 BaseStats = 105,85,70,80,110,110
@@ -5012,9 +5012,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608213]
+[608833]
 Name = nmon
-InternalName = NMON
+InternalName = NMON2
 Type1 = GRASS
 Type2 = DARK
 BaseStats = 70,80,70,70,80,70
@@ -5032,9 +5032,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[608072]
+[608822]
 Name = memon
-InternalName = MEMON
+InternalName = MEMON3
 Type1 = GRASS
 Type2 = POISON
 BaseStats = 95,70,75,55,70,75
@@ -5617,9 +5617,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608241]
+[608834]
 Name = Chessmon
-InternalName = CHESSMON
+InternalName = CHESSMON2
 Type1 = ELECTRIC
 BaseStats = 70,50,60,90,70,60
 GenderRate = AlwaysMale
@@ -5656,9 +5656,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608241]
+[608835]
 Name = Chessmon
-InternalName = CHESSMON
+InternalName = CHESSMON3
 Type1 = ELECTRIC
 Type2 = FIGHTING
 BaseStats = 100,90,80,120,90,80
@@ -5733,9 +5733,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[608070]
+[608820]
 Name = rimon
-InternalName = RIMON
+InternalName = RIMON3
 Type1 = STEEL
 BaseStats = 40,50,70,30,20,20
 GenderRate = Genderless
@@ -6059,9 +6059,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[608258]
+[608836]
 Name = llenium
-InternalName = LLENIUM
+InternalName = LLENIUM2
 Type1 = CUSTOM_TYPE_23_17
 BaseStats = 120,130,95,90,150,150
 GenderRate = AlwaysFemale

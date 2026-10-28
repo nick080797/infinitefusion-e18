@@ -18,9 +18,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607973]
+[608876]
 Name = VALOR SORA
-InternalName = VALORSORA
+InternalName = VALORSORA2
 Type1 = FIRE
 Type2 = FIGHTING
 BaseStats = 58,64,58,80,80,65
@@ -38,9 +38,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607974]
+[608877]
 Name = FINAL SORA
-InternalName = FINALSORA
+InternalName = FINALSORA2
 Type1 = FIRE
 Type2 = STEEL
 BaseStats = 78,84,78,100,109,85
@@ -277,9 +277,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[607986]
+[608878]
 Name = Anti Sora
-InternalName = ANTISORA
+InternalName = ANTISORA2
 Type1 = GHOST
 Type2 = STEEL
 BaseStats = 100,100,100,100,100,100

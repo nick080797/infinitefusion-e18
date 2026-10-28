@@ -684,9 +684,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[606894]
+[608883]
 Name = SCRATCH
-InternalName = SCRATCH
+InternalName = SCRATCH2
 Type1 = STEEL
 BaseStats = 45,60,40,50,35,40
 GenderRate = AlwaysMale
@@ -742,9 +742,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[606896]
+[608884]
 Name = COCONUTS
-InternalName = COCONUTS
+InternalName = COCONUTS2
 Type1 = STEEL
 BaseStats = 45,65,35,50,30,35
 GenderRate = AlwaysMale
@@ -1057,9 +1057,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[606911]
+[608885]
 Name = E102 GAMMA
-InternalName = E102GAMMA
+InternalName = E102GAMMA2
 Type1 = STEEL
 BaseStats = 70,70,70,70,70,70
 GenderRate = Genderless
@@ -1256,9 +1256,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[606920]
+[608886]
 Name = CHARMY BEE
-InternalName = CHARMYBEE
+InternalName = CHARMYBEE2
 Type1 = BUG
 Type2 = FLYING
 BaseStats = 45,55,40,55,35,40
@@ -1373,9 +1373,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[606925]
+[608887]
 Name = COSMO
-InternalName = COSMO
+InternalName = COSMO2
 Type1 = GRASS
 BaseStats = 65,35,50,55,75,50
 GenderRate = AlwaysFemale
@@ -1585,9 +1585,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[606935]
+[608888]
 Name = NACK
-InternalName = NACK
+InternalName = NACK2
 Type1 = NORMAL
 BaseStats = 45,45,45,60,50,45
 GenderRate = AlwaysMale
@@ -1978,9 +1978,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[606954]
+[608889]
 Name = SHADE
-InternalName = SHADE
+InternalName = SHADE2
 Type1 = FIGHTING
 BaseStats = 45,70,35,50,30,35
 GenderRate = AlwaysFemale

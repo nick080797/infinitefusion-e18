@@ -1,25 +1,6 @@
-[607002]
-Name = Spikan
-InternalName = SPIKAN
-Type1 = ROCK
-BaseStats = 70,74,70,58,65,70
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 141
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Green
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607003]
+[608890]
 Name = Spikanor
-InternalName = SPIKANOR
+InternalName = SPIKANOR2
 Type1 = ROCK
 BaseStats = 91,97,87,77,88,88
 GenderRate = Genderless
@@ -37,28 +18,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,SPITUP
 
-[607004]
-Name = Zozane
-InternalName = ZOZANE
-Type1 = FIGHTING
-BaseStats = 66,70,62,85,61,62
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 142
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607005]
+[608891]
 Name = Zozanero
-InternalName = ZOZANERO
+InternalName = ZOZANERO2
 Type1 = FIGHTING
 BaseStats = 84,90,83,111,80,82
 GenderRate = Genderless
@@ -75,218 +37,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607006]
-Name = Vilamasta
-InternalName = VILAMASTA
-Type1 = FIGHTING
-BaseStats = 76,68,79,45,59,78
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 143
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = ARMOREDBULK
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607007]
-Name = Vilanox
-InternalName = VILANOX
-Type1 = FIGHTING
-BaseStats = 92,82,87,74,105,90
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 210
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = ARMOREDBULK
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607008]
-Name = Segulos
-InternalName = SEGULOS
-Type1 = ROCK
-BaseStats = 70,65,74,65,60,73
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 72
-EffortPoints = 0,0,0,0,0,0
-Rareness = 120
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Green
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607009]
-Name = Segulara
-InternalName = SEGULARA
-Type1 = ROCK
-BaseStats = 95,70,90,70,104,101
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 160
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Green
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607010]
-Name = Shakor
-InternalName = SHAKOR
-Type1 = FLYING
-BaseStats = 65,81,60,69,64,63
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 71
-EffortPoints = 0,0,0,0,0,0
-Rareness = 120
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607011]
-Name = Shakoblad
-InternalName = SHAKOBLAD
-Type1 = FLYING
-BaseStats = 87,111,81,84,84,83
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 159
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607012]
-Name = Aoba
-InternalName = AOBA
-Type1 = FLYING
-BaseStats = 66,69,64,73,69,64
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 113
-EffortPoints = 0,0,0,0,0,0
-Rareness = 120
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607013]
-Name = Aobasar
-InternalName = AOBASAR
-Type1 = FLYING
-BaseStats = 85,90,84,97,91,84
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 172
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607014]
-Name = Komanoto
-InternalName = KOMANOTO
-Type1 = FIGHTING
-BaseStats = 70,73,65,61,70,65
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 116
-EffortPoints = 0,0,0,0,0,0
-Rareness = 127
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = GUARDIANDOGS
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607015]
-Name = Komadoros
-InternalName = KOMADOROS
-Type1 = FIGHTING
-BaseStats = 96,93,85,80,93,85
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 58
-EffortPoints = 0,0,0,0,0,0
-Rareness = 255
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = GUARDIANDOGS
-Compatibility = Undiscovered
-StepsToHatch = 3825
-Shape = Head
-
-[607016]
-Name = Naguryu
-InternalName = NAGURYU
-Type1 = FLYING
-BaseStats = 64,73,62,71,64,71
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 62
-EffortPoints = 0,0,0,0,0,0
-Rareness = 255
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = DRACONIC
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607017]
+[608892]
 Name = Naguzoro
-InternalName = NAGUZORO
+InternalName = NAGUZORO2
 Type1 = FLYING
 BaseStats = 89,93,87,71,96,91
 GenderRate = Genderless
@@ -303,28 +56,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607018]
-Name = Samurite
-InternalName = SAMURITE
-Type1 = FLYING
-BaseStats = 67,74,64,68,69,65
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 122
-EffortPoints = 0,0,0,0,0,0
-Rareness = 75
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 2550
-Shape = Head
-
-[607019]
+[608893]
 Name = Samugeki
-InternalName = SAMUGEKI
+InternalName = SAMUGEKI2
 Type1 = FLYING
 BaseStats = 95,79,86,68,110,90
 GenderRate = Genderless
@@ -341,67 +75,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607020]
-Name = Bartolor
-InternalName = BARTOLOR
-Type1 = ROCK
-BaseStats = 73,70,79,53,58,72
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 59
-EffortPoints = 0,0,0,0,0,0
-Rareness = 235
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Green
-Abilities = ARMOREDBULK
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-Moves = 0,SPITUP
-
-[607021]
-Name = Bartolosa
-InternalName = BARTOLOSA
-Type1 = ROCK
-BaseStats = 98,82,99,80,80,96
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 117
-EffortPoints = 0,0,0,0,0,0
-Rareness = 120
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Green
-Abilities = ARMOREDBULK
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607022]
-Name = Shimanoto
-InternalName = SHIMANOTO
-Type1 = FIGHTING
-BaseStats = 73,69,70,55,63,71
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 60
-EffortPoints = 0,0,0,0,0,0
-Rareness = 235
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = GUARDIANDOGS
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607023]
+[608894]
 Name = Shimadoros
-InternalName = SHIMADOROS
+InternalName = SHIMADOROS2
 Type1 = FIGHTING
 BaseStats = 100,89,90,72,85,91
 GenderRate = Genderless
@@ -418,28 +94,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607024]
-Name = Dongora
-InternalName = DONGORA
-Type1 = FIGHTING
-BaseStats = 83,73,78,41,54,78
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 68
-EffortPoints = 0,0,0,0,0,0
-Rareness = 150
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Pink
-Abilities = TECTONIC
-Compatibility = Undiscovered
-StepsToHatch = 2550
-Shape = Head
-
-[607025]
+[608895]
 Name = Dongiga
-InternalName = DONGIGA
+InternalName = DONGIGA2
 Type1 = FIGHTING
 BaseStats = 100,90,100,58,85,95
 GenderRate = Genderless
@@ -456,47 +113,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[607026]
-Name = Kuganon
-InternalName = KUGANON
-Type1 = ROCK
-BaseStats = 67,60,62,66,80,69
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 178
-EffortPoints = 0,0,0,0,0,0
-Rareness = 75
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Yellow
-Abilities = WARMACHINES
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607027]
-Name = Kugaster
-InternalName = KUGASTER
-Type1 = ROCK
-BaseStats = 85,77,82,105,100,82
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 76
-EffortPoints = 0,0,0,0,0,0
-Rareness = 170
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Pink
-Abilities = WARMACHINES
-Compatibility = Undiscovered
-StepsToHatch = 2550
-Shape = Head
-
-[607028]
+[608896]
 Name = Danapix
-InternalName = DANAPIX
+InternalName = DANAPIX2
 Type1 = FIGHTING
 BaseStats = 67,63,62,63,74,78
 GenderRate = Genderless
@@ -513,9 +132,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[607029]
+[608897]
 Name = Danaphant
-InternalName = DANAPHANT
+InternalName = DANAPHANT2
 Type1 = FIGHTING
 BaseStats = 99,80,92,60,94,100
 GenderRate = Genderless
@@ -532,66 +151,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[607030]
-Name = Grilden
-InternalName = GRILDEN
-Type1 = ROCK
-BaseStats = 67,72,64,67,70,64
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 132
-EffortPoints = 0,0,0,0,0,0
-Rareness = 120
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = DRACONIC
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607031]
-Name = Grildragos
-InternalName = GRILDRAGOS
-Type1 = ROCK
-BaseStats = 83,91,87,83,92,92
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 184
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = DRACONIC
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607032]
-Name = Hapazoa
-InternalName = HAPAZOA
-Type1 = ROCK
-BaseStats = 68,66,63,61,67,76
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 128
-EffortPoints = 0,0,0,0,0,0
-Rareness = 75
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Red
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607033]
+[608898]
 Name = Hapaxion
-InternalName = HAPAXION
+InternalName = HAPAXION2
 Type1 = ROCK
 BaseStats = 85,92,87,78,90,92
 GenderRate = Genderless
@@ -608,28 +170,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607034]
-Name = Anubos
-InternalName = ANUBOS
-Type1 = FIGHTING
-BaseStats = 66,72,63,65,71,67
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 81
-EffortPoints = 0,0,0,0,0,0
-Rareness = 255
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Brown
-Abilities = THEANCIENTS
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607035]
+[608899]
 Name = Anuberos
-InternalName = ANUBEROS
+InternalName = ANUBEROS2
 Type1 = FIGHTING
 BaseStats = 91,86,76,81,98,93
 GenderRate = Genderless
@@ -646,28 +189,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607036]
-Name = Hanegaku
-InternalName = HANEGAKU
-Type1 = FLYING
-BaseStats = 66,66,62,71,78,65
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 148
-EffortPoints = 0,0,0,0,0,0
-Rareness = 90
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Yellow
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607037]
+[608900]
 Name = Hanebakuon
-InternalName = HANEBAKUON
+InternalName = HANEBAKUON2
 Type1 = FLYING
 BaseStats = 95,76,87,86,100,82
 GenderRate = Genderless
@@ -684,28 +208,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607038]
-Name = Tamazoa
-InternalName = TAMAZOA
-Type1 = FLYING
-BaseStats = 80,82,78,85,95,80
-GenderRate = Genderless
-GrowthRate = Parabolic
-BaseEXP = 174
-EffortPoints = 0,0,0,0,0,0
-Rareness = 75
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = RUNAWAY
-Compatibility = Undiscovered
-StepsToHatch = 5100
-Shape = Head
-
-[607039]
+[608901]
 Name = Tiazoa
-InternalName = TIAZOA
+InternalName = TIAZOA2
 Type1 = FLYING
 BaseStats = 65,70,60,68,68,70
 GenderRate = Genderless
@@ -722,9 +227,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607040]
+[608902]
 Name = Gokazoa
-InternalName = GOKAZOA
+InternalName = GOKAZOA2
 Type1 = FLYING
 BaseStats = 88,85,79,82,96,96
 GenderRate = Genderless
@@ -741,9 +246,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607041]
+[608903]
 Name = Kasumite
-InternalName = KASUMITE
+InternalName = KASUMITE2
 Type1 = FLYING
 BaseStats = 61,65,55,59,80,80
 GenderRate = Genderless
@@ -760,9 +265,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607042]
+[608904]
 Name = Kasumire
-InternalName = KASUMIRE
+InternalName = KASUMIRE2
 Type1 = FLYING
 BaseStats = 90,69,69,75,110,115
 GenderRate = Genderless
@@ -779,9 +284,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607043]
+[608905]
 Name = Winbus
-InternalName = WINBUS
+InternalName = WINBUS2
 Type1 = ROCK
 BaseStats = 66,68,68,66,70,68
 GenderRate = Genderless
@@ -798,9 +303,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607044]
+[608906]
 Name = Windora
-InternalName = WINDORA
+InternalName = WINDORA2
 Type1 = ROCK
 BaseStats = 88,82,90,82,93,90
 GenderRate = Genderless
@@ -817,9 +322,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607045]
+[608907]
 Name = Thundor
-InternalName = THUNDOR
+InternalName = THUNDOR2
 Type1 = FIGHTING
 BaseStats = 70,68,68,62,70,68
 GenderRate = Genderless
@@ -836,9 +341,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607046]
+[608908]
 Name = Thundora
-InternalName = THUNDORA
+InternalName = THUNDORA2
 Type1 = FIGHTING
 BaseStats = 85,86,88,82,96,88
 GenderRate = Genderless
@@ -855,9 +360,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607047]
+[608909]
 Name = Korogeki
-InternalName = KOROGEKI
+InternalName = KOROGEKI2
 Type1 = FIGHTING
 BaseStats = 90,130,80,55,65,85
 GenderRate = Female25Percent
@@ -875,9 +380,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 3,SAMURAISLASH
 
-[607048]
+[608910]
 Name = Korozama
-InternalName = KOROZAMA
+InternalName = KOROZAMA2
 Type1 = GRASS
 Type2 = POISON
 BaseStats = 50,75,35,40,70,30
@@ -896,9 +401,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 3,SAMURAISLASH
 
-[607049]
+[608911]
 Name = Ryza
-InternalName = RYZA
+InternalName = RYZA2
 Type1 = GRASS
 Type2 = POISON
 BaseStats = 65,90,50,55,85,45
@@ -916,9 +421,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607050]
+[608912]
 Name = Rygazelle
-InternalName = RYGAZELLE
+InternalName = RYGAZELLE2
 Type1 = GRASS
 Type2 = POISON
 BaseStats = 80,105,65,70,100,60
@@ -937,9 +442,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 3,SAMURAISLASH
 
-[607051]
+[608913]
 Name = Rydrake
-InternalName = RYDRAKE
+InternalName = RYDRAKE2
 Type1 = WATER
 Type2 = POISON
 BaseStats = 40,40,35,70,50,100
@@ -957,9 +462,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607052]
+[608914]
 Name = Leo
-InternalName = LEO
+InternalName = LEO2
 Type1 = WATER
 Type2 = POISON
 BaseStats = 80,70,65,100,80,120
@@ -977,9 +482,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[607053]
+[608915]
 Name = Leopuba
-InternalName = LEOPUBA
+InternalName = LEOPUBA2
 Type1 = ROCK
 Type2 = GROUND
 BaseStats = 40,80,100,20,30,30
@@ -997,9 +502,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[607054]
+[608916]
 Name = Leozar
-InternalName = LEOZAR
+InternalName = LEOZAR2
 Type1 = ROCK
 Type2 = GROUND
 BaseStats = 55,95,115,35,45,45
@@ -1277,9 +782,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 0,DOUBLEHIT
 
-[607068]
+[608917]
 Name = Viblova?x
-InternalName = VIBLOVAX
+InternalName = VIBLOVAX2
 Type1 = ROCK
 BaseStats = 56,20,80,15,19,85
 GenderRate = Genderless
@@ -4073,9 +3578,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[607158]
+[608918]
 Name = Rallenshoc
-InternalName = RALLENSHOC
+InternalName = RALLENSHOC2
 Type1 = PSYCHIC
 BaseStats = 65,50,70,65,95,80
 GenderRate = Female50Percent
@@ -5403,25 +4908,6 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[607226]
-Name = GrantScare
-InternalName = GRANTSCARE
-Type1 = PSYCHIC
-BaseStats = 65,50,70,65,95,80
-GenderRate = Female50Percent
-GrowthRate = Fast
-BaseEXP = 147
-EffortPoints = 0,0,0,0,0,0
-Rareness = 45
-Happiness = 70
-Height = 1.0
-Weight = 10.0
-Color = Blue
-Abilities = LEVITATE
-Compatibility = Undiscovered
-StepsToHatch = 6375
-Shape = Head
-
 [607227]
 Name = Start1
 InternalName = START1
@@ -6106,9 +5592,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[607263]
+[608919]
 Name = Atk
-InternalName = ATK
+InternalName = ATK2
 Type1 = PSYCHIC
 BaseStats = 65,50,70,65,95,80
 GenderRate = Female50Percent
@@ -6125,9 +5611,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[607264]
+[608920]
 Name = Def
-InternalName = DEF
+InternalName = DEF2
 Type1 = PSYCHIC
 BaseStats = 65,50,70,65,95,80
 GenderRate = Female50Percent
@@ -6144,9 +5630,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[607265]
+[608921]
 Name = HP
-InternalName = HP
+InternalName = HP2
 Type1 = PSYCHIC
 BaseStats = 65,50,70,65,95,80
 GenderRate = Female50Percent
@@ -6163,9 +5649,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[607266]
+[608922]
 Name = SpAtk
-InternalName = SPATK
+InternalName = SPATK2
 Type1 = PSYCHIC
 BaseStats = 65,50,70,65,95,80
 GenderRate = Female50Percent
@@ -6182,9 +5668,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[607267]
+[608923]
 Name = SpDef
-InternalName = SPDEF
+InternalName = SPDEF2
 Type1 = PSYCHIC
 BaseStats = 65,50,70,65,95,80
 GenderRate = Female50Percent

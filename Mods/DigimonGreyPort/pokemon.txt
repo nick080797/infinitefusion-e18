@@ -1,6 +1,6 @@
-[603238]
+[608622]
 Name = ???S??
-InternalName = S
+InternalName = S2
 Type1 = DRAGON
 BaseStats = 65,70,75,60,45,55
 GenderRate = Genderless
@@ -17,9 +17,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608623]
 Name = ???????S??
-InternalName = S
+InternalName = S3
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 80,90,95,70,60,70
@@ -37,9 +37,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608624]
 Name = ?…????S
-InternalName = S
+InternalName = S4
 Type1 = DRAGON
 BaseStats = 45,50,45,45,35,40
 GenderRate = Genderless
@@ -95,9 +95,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608658]
 Name = ?Y??????
-InternalName = Y
+InternalName = Y2
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 80,98,80,69,68,75
@@ -115,9 +115,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603242]
+[608671]
 Name = ?p?s??
-InternalName = PS
+InternalName = PS2
 Type1 = BUG
 Type2 = DRAGON
 BaseStats = 80,88,80,82,60,60
@@ -135,9 +135,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603243]
+[608672]
 Name = ???c??
-InternalName = C
+InternalName = C3
 Type1 = BUG
 Type2 = POISON
 BaseStats = 40,40,40,40,25,25
@@ -155,9 +155,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603238]
+[608625]
 Name = ???s??
-InternalName = S
+InternalName = S5
 Type1 = BUG
 Type2 = POISON
 BaseStats = 65,57,53,60,40,45
@@ -175,9 +175,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603238]
+[608626]
 Name = ???s??
-InternalName = S
+InternalName = S6
 Type1 = BUG
 Type2 = STEEL
 BaseStats = 75,85,80,70,60,70
@@ -215,9 +215,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603245]
+[608681]
 Name = ?D????
-InternalName = D
+InternalName = D2
 Type1 = NORMAL
 BaseStats = 30,45,35,42,35,35
 GenderRate = Genderless
@@ -234,9 +234,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603241]
+[608659]
 Name = ?Y????
-InternalName = Y
+InternalName = Y3
 Type1 = GROUND
 BaseStats = 60,75,70,60,45,50
 GenderRate = Genderless
@@ -253,9 +253,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603246]
+[608690]
 Name = ?r?%??
-InternalName = R
+InternalName = R2
 Type1 = CUSTOM_TYPE_22
 BaseStats = 65,50,55,80,90,80
 GenderRate = Genderless
@@ -272,9 +272,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[603247]
+[608692]
 Name = ???H??
-InternalName = H
+InternalName = H2
 Type1 = GROUND
 BaseStats = 60,70,80,55,45,55
 GenderRate = Genderless
@@ -291,9 +291,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603248]
+[608695]
 Name = ???t??
-InternalName = T
+InternalName = T2
 Type1 = PSYCHIC
 BaseStats = 55,55,55,60,65,55
 GenderRate = Genderless
@@ -310,9 +310,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608660]
 Name = ?y????
-InternalName = Y
+InternalName = Y4
 Type1 = PSYCHIC
 BaseStats = 70,75,70,75,90,80
 GenderRate = Genderless
@@ -329,9 +329,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603249]
+[608703]
 Name = ???U??
-InternalName = U
+InternalName = U2
 Type1 = NORMAL
 BaseStats = 40,40,40,40,45,40
 GenderRate = Genderless
@@ -348,9 +348,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603250]
+[608711]
 Name = ?y?ö??
-InternalName = YÖ
+InternalName = YÖ2
 Type1 = PSYCHIC
 BaseStats = 50,65,50,60,70,55
 GenderRate = Genderless
@@ -386,9 +386,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608661]
 Name = ?Y????
-InternalName = Y
+InternalName = Y5
 Type1 = NORMAL
 BaseStats = 40,45,40,45,35,35
 GenderRate = Genderless
@@ -424,9 +424,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[603246]
+[608691]
 Name = ?r????
-InternalName = R
+InternalName = R4
 Type1 = PSYCHIC
 BaseStats = 40,45,40,45,45,40
 GenderRate = Genderless
@@ -443,9 +443,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608662]
 Name = ???Y????
-InternalName = Y
+InternalName = Y6
 Type1 = NORMAL
 BaseStats = 40,40,40,40,45,45
 GenderRate = Genderless
@@ -462,9 +462,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[603253]
+[608716]
 Name = ?9????
-InternalName = N9
+InternalName = N92
 Type1 = FIGHTING
 BaseStats = 60,70,60,65,50,50
 GenderRate = Genderless
@@ -481,9 +481,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[603254]
+[608727]
 Name = ???p??
-InternalName = P
+InternalName = P2
 Type1 = GRASS
 BaseStats = 43,42,40,30,35,35
 GenderRate = Genderless
@@ -500,9 +500,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608663]
 Name = ?y??????
-InternalName = Y
+InternalName = Y7
 Type1 = GRASS
 BaseStats = 65,70,50,50,50,65
 GenderRate = Genderless
@@ -519,9 +519,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603255]
+[608733]
 Name = ???ö??
-InternalName = Ö
+InternalName = Ö2
 Type1 = GRASS
 Type2 = CUSTOM_TYPE_22
 BaseStats = 70,80,65,75,85,70
@@ -558,9 +558,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603247]
+[608693]
 Name = ?H????
-InternalName = H
+InternalName = H3
 Type1 = BUG
 BaseStats = 40,50,50,45,40,40
 GenderRate = Genderless
@@ -577,9 +577,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603257]
+[608735]
 Name = ?D?D??
-InternalName = DD
+InternalName = DD2
 Type1 = WATER
 BaseStats = 50,52,48,55,70,70
 GenderRate = Genderless
@@ -596,9 +596,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603245]
+[608682]
 Name = ???D??
-InternalName = D
+InternalName = D3
 Type1 = FIGHTING
 BaseStats = 65,70,60,60,45,50
 GenderRate = Genderless
@@ -615,9 +615,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603243]
+[608673]
 Name = ???c????
-InternalName = C
+InternalName = C4
 Type1 = FIRE
 BaseStats = 55,60,55,50,70,60
 GenderRate = Genderless
@@ -634,9 +634,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603243]
+[608674]
 Name = ?c????????
-InternalName = C
+InternalName = C5
 Type1 = FIRE
 Type2 = DRAGON
 BaseStats = 70,75,70,75,90,80
@@ -674,9 +674,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603254]
+[608728]
 Name = ?p????
-InternalName = P
+InternalName = P3
 Type1 = FIGHTING
 BaseStats = 60,75,70,55,50,55
 GenderRate = Genderless
@@ -694,9 +694,9 @@ StepsToHatch = 5100
 Shape = Head
 Moves = 3,O
 
-[603254]
+[608729]
 Name = ?%?(?p????
-InternalName = P
+InternalName = P4
 Type1 = FIGHTING
 BaseStats = 70,90,80,75,60,75
 GenderRate = Genderless
@@ -713,9 +713,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603259]
+[608738]
 Name = ?0????
-InternalName = N0
+InternalName = N05
 Type1 = WATER
 BaseStats = 52,68,50,50,50,60
 GenderRate = Genderless
@@ -732,9 +732,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603260]
+[608739]
 Name = ?O????
-InternalName = O
+InternalName = O2
 Type1 = WATER
 Type2 = DARK
 BaseStats = 80,90,65,60,65,85
@@ -752,9 +752,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603261]
+[608741]
 Name = ???A??
-InternalName = A
+InternalName = A2
 Type1 = GROUND
 Type2 = ROCK
 BaseStats = 70,90,90,60,60,65
@@ -772,9 +772,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603262]
+[608745]
 Name = ???f??????
-InternalName = F
+InternalName = F2
 Type1 = ROCK
 Type2 = GROUND
 BaseStats = 90,130,135,80,110,85
@@ -792,9 +792,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603249]
+[608704]
 Name = ???U??
-InternalName = U
+InternalName = U3
 Type1 = FIRE
 BaseStats = 50,60,55,50,70,65
 GenderRate = Genderless
@@ -830,9 +830,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603264]
+[608748]
 Name = ?v????
-InternalName = V
+InternalName = V2
 Type1 = STEEL
 Type2 = FLYING
 BaseStats = 85,120,100,105,75,75
@@ -869,9 +869,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603264]
+[608749]
 Name = ???v??
-InternalName = V
+InternalName = V3
 Type1 = POISON
 BaseStats = 75,50,55,40,40,70
 GenderRate = Genderless
@@ -888,9 +888,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603264]
+[608750]
 Name = ???????v??
-InternalName = V
+InternalName = V4
 Type1 = POISON
 BaseStats = 95,65,70,55,60,90
 GenderRate = Genderless
@@ -907,9 +907,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603261]
+[608742]
 Name = ???a??
-InternalName = A
+InternalName = A3
 Type1 = WATER
 BaseStats = 40,40,45,40,40,40
 GenderRate = Genderless
@@ -926,9 +926,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603261]
+[608743]
 Name = ???a??
-InternalName = A
+InternalName = A4
 Type1 = WATER
 BaseStats = 50,65,70,50,55,60
 GenderRate = Genderless
@@ -945,9 +945,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603249]
+[608705]
 Name = ???U??
-InternalName = U
+InternalName = U4
 Type1 = GHOST
 BaseStats = 60,90,60,70,75,85
 GenderRate = Genderless
@@ -964,9 +964,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603266]
+[608752]
 Name = ?R?S??
-InternalName = RS
+InternalName = RS2
 Type1 = FLYING
 Type2 = DRAGON
 BaseStats = 50,70,60,70,50,50
@@ -1004,9 +1004,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603243]
+[608675]
 Name = ???C??
-InternalName = C
+InternalName = C6
 Type1 = NORMAL
 Type2 = PSYCHIC
 BaseStats = 60,85,70,80,75,70
@@ -1043,9 +1043,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603269]
+[608753]
 Name = ?…?t?D??
-InternalName = TD
+InternalName = TD2
 Type1 = WATER
 BaseStats = 60,90,95,65,60,80
 GenderRate = Genderless
@@ -1062,9 +1062,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603270]
+[608754]
 Name = ?n?’??
-InternalName = N
+InternalName = N2
 Type1 = GRASS
 BaseStats = 55,60,55,50,65,65
 GenderRate = Genderless
@@ -1140,9 +1140,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608664]
 Name = ?Y????
-InternalName = Y
+InternalName = Y8
 Type1 = POISON
 BaseStats = 40,55,65,50,50,70
 GenderRate = Genderless
@@ -1159,9 +1159,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608627]
 Name = ???S??
-InternalName = S
+InternalName = S7
 Type1 = GROUND
 Type2 = DRAGON
 BaseStats = 50,70,70,50,50,60
@@ -1179,9 +1179,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608628]
 Name = ?????S??
-InternalName = S
+InternalName = S8
 Type1 = GROUND
 Type2 = DRAGON
 BaseStats = 70,90,90,60,60,70
@@ -1218,9 +1218,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608629]
 Name = ???????S??
-InternalName = S
+InternalName = S10
 Type1 = DRAGON
 BaseStats = 55,70,65,50,50,60
 GenderRate = Genderless
@@ -1237,9 +1237,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603261]
+[608744]
 Name = ???a????
-InternalName = A
+InternalName = A5
 Type1 = WATER
 BaseStats = 55,70,65,50,60,55
 GenderRate = Genderless
@@ -1256,9 +1256,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603249]
+[608706]
 Name = ?U????
-InternalName = U
+InternalName = U5
 Type1 = WATER
 BaseStats = 60,90,70,70,75,85
 GenderRate = Genderless
@@ -1275,9 +1275,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603243]
+[608676]
 Name = ?C????
-InternalName = C
+InternalName = C7
 Type1 = WATER
 BaseStats = 50,50,55,55,65,60
 GenderRate = Genderless
@@ -1294,9 +1294,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603249]
+[608707]
 Name = ???U??
-InternalName = U
+InternalName = U6
 Type1 = STEEL
 Type2 = PSYCHIC
 BaseStats = 65,65,80,40,85,95
@@ -1314,9 +1314,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603238]
+[608630]
 Name = ???s??
-InternalName = S
+InternalName = S11
 Type1 = ELECTRIC
 Type2 = FLYING
 BaseStats = 55,55,55,65,70,60
@@ -1334,9 +1334,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603245]
+[608683]
 Name = ???D??
-InternalName = D
+InternalName = D4
 Type1 = BUG
 BaseStats = 60,70,65,55,45,55
 GenderRate = Genderless
@@ -1353,9 +1353,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603273]
+[608755]
 Name = ???e??
-InternalName = E
+InternalName = E2
 Type1 = WATER
 BaseStats = 40,40,40,35,43,42
 GenderRate = Genderless
@@ -1372,9 +1372,9 @@ Compatibility = Undiscovered
 StepsToHatch = 1275
 Shape = Head
 
-[603274]
+[608759]
 Name = ?O?S??
-InternalName = OS
+InternalName = OS2
 Type1 = WATER
 Type2 = DRAGON
 BaseStats = 55,65,55,55,60,55
@@ -1411,9 +1411,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603276]
+[608762]
 Name = ???k??
-InternalName = K
+InternalName = K2
 Type1 = NORMAL
 BaseStats = 70,90,70,70,90,70
 GenderRate = Genderless
@@ -1430,9 +1430,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603264]
+[608751]
 Name = V????
-InternalName = V
+InternalName = V5
 Type1 = DRAGON
 BaseStats = 42,42,40,41,35,40
 GenderRate = Genderless
@@ -1469,9 +1469,9 @@ Compatibility = Undiscovered
 StepsToHatch = 8925
 Shape = Head
 
-[603238]
+[608631]
 Name = ???S??
-InternalName = S
+InternalName = S12
 Type1 = ELECTRIC
 Type2 = DRAGON
 BaseStats = 60,80,60,90,90,60
@@ -1509,9 +1509,9 @@ Compatibility = Undiscovered
 StepsToHatch = 8925
 Shape = Head
 
-[603238]
+[608632]
 Name = ?S????
-InternalName = S
+InternalName = S13
 Type1 = DRAGON
 BaseStats = 40,40,40,40,40,40
 GenderRate = Genderless
@@ -1547,9 +1547,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[603273]
+[608756]
 Name = ???e?(??
-InternalName = E
+InternalName = E3
 Type1 = ICE
 Type2 = FIGHTING
 BaseStats = 55,70,50,65,55,65
@@ -1587,9 +1587,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[603281]
+[608763]
 Name = ???t???S??
-InternalName = TS
+InternalName = TS2
 Type1 = DRAGON
 Type2 = GHOST
 BaseStats = 80,95,60,80,60,75
@@ -1607,9 +1607,9 @@ Compatibility = Undiscovered
 StepsToHatch = 8925
 Shape = Head
 
-[603249]
+[608708]
 Name = ???U??
-InternalName = U
+InternalName = U7
 Type1 = WATER
 Type2 = STEEL
 BaseStats = 95,130,110,85,120,110
@@ -1627,9 +1627,9 @@ Compatibility = Undiscovered
 StepsToHatch = 20400
 Shape = Head
 
-[603249]
+[608709]
 Name = ???U??
-InternalName = U
+InternalName = U8
 Type1 = ELECTRIC
 Type2 = STEEL
 BaseStats = 95,100,100,120,135,100
@@ -1667,9 +1667,9 @@ Compatibility = Undiscovered
 StepsToHatch = 20400
 Shape = Head
 
-[603283]
+[608767]
 Name = ???Ä?S??
-InternalName = ÄS
+InternalName = ÄS2
 Type1 = DRAGON
 BaseStats = 55,70,65,70,50,50
 GenderRate = Genderless
@@ -1686,9 +1686,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608633]
 Name = ???S??
-InternalName = S
+InternalName = S14
 Type1 = DRAGON
 Type2 = FLYING
 BaseStats = 67,88,75,90,60,65
@@ -1706,9 +1706,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608634]
 Name = ???S??
-InternalName = S
+InternalName = S15
 Type1 = DRAGON
 Type2 = FIGHTING
 BaseStats = 95,135,95,115,80,85
@@ -1726,9 +1726,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603253]
+[608717]
 Name = ?????9????
-InternalName = N9
+InternalName = N93
 Type1 = PSYCHIC
 Type2 = DARK
 BaseStats = 120,120,120,120,120,120
@@ -1746,9 +1746,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[603253]
+[608718]
 Name = ?9????
-InternalName = N9
+InternalName = N94
 Type1 = PSYCHIC
 BaseStats = 90,90,90,90,90,90
 GenderRate = Genderless
@@ -1784,9 +1784,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603285]
+[608768]
 Name = ?D?p?p??
-InternalName = DPP
+InternalName = DPP2
 Type1 = FIRE
 BaseStats = 55,70,55,70,55,55
 GenderRate = Genderless
@@ -1803,9 +1803,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603285]
+[608769]
 Name = ?????D?p?p
-InternalName = DPP
+InternalName = DPP3
 Type1 = FIGHTING
 BaseStats = 65,90,70,90,65,70
 GenderRate = Genderless
@@ -1841,9 +1841,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603287]
+[608770]
 Name = ???H?S??
-InternalName = HS
+InternalName = HS2
 Type1 = DRAGON
 BaseStats = 70,90,75,75,65,75
 GenderRate = Genderless
@@ -1860,9 +1860,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608635]
 Name = ?????S??
-InternalName = S
+InternalName = S16
 Type1 = DRAGON
 BaseStats = 80,120,95,105,80,90
 GenderRate = Genderless
@@ -1879,9 +1879,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603288]
+[608771]
 Name = V?S??
-InternalName = VS
+InternalName = VS2
 Type1 = DRAGON
 BaseStats = 50,70,60,55,50,55
 GenderRate = Genderless
@@ -1918,9 +1918,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603288]
+[608772]
 Name = ????V?S??
-InternalName = VS
+InternalName = VS3
 Type1 = DRAGON
 Type2 = FIGHTING
 BaseStats = 85,125,100,135,80,85
@@ -1938,9 +1938,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603245]
+[608684]
 Name = ?D????
-InternalName = D
+InternalName = D5
 Type1 = NORMAL
 BaseStats = 35,45,40,40,35,35
 GenderRate = Genderless
@@ -1957,9 +1957,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603257]
+[608736]
 Name = ?D???D??
-InternalName = DD
+InternalName = DD3
 Type1 = NORMAL
 BaseStats = 60,75,65,70,45,55
 GenderRate = Genderless
@@ -2016,9 +2016,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603249]
+[608710]
 Name = ???U??????
-InternalName = U
+InternalName = U9
 Type1 = BUG
 BaseStats = 95,115,100,85,70,100
 GenderRate = Genderless
@@ -2035,9 +2035,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603292]
+[608773]
 Name = ???B??
-InternalName = B
+InternalName = B2
 Type1 = BUG
 Type2 = POISON
 BaseStats = 60,65,50,45,40,60
@@ -2055,9 +2055,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603247]
+[608694]
 Name = ?H??????
-InternalName = H
+InternalName = H4
 Type1 = DARK
 BaseStats = 80,90,80,75,60,75
 GenderRate = Genderless
@@ -2113,9 +2113,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[603245]
+[608685]
 Name = ?d????
-InternalName = D
+InternalName = D6
 Type1 = FIGHTING
 BaseStats = 60,90,85,80,60,80
 GenderRate = Genderless
@@ -2152,9 +2152,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603253]
+[608719]
 Name = ???9??
-InternalName = N9
+InternalName = N95
 Type1 = ELECTRIC
 Type2 = FIGHTING
 BaseStats = 55,70,65,50,65,55
@@ -2172,9 +2172,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603253]
+[608720]
 Name = ???9??
-InternalName = N9
+InternalName = N96
 Type1 = ELECTRIC
 Type2 = STEEL
 BaseStats = 75,90,80,65,80,70
@@ -2192,9 +2192,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603262]
+[608746]
 Name = ???f??????
-InternalName = F
+InternalName = F3
 Type1 = ELECTRIC
 Type2 = BUG
 BaseStats = 100,105,110,85,130,100
@@ -2212,9 +2212,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603262]
+[608747]
 Name = ???f??????
-InternalName = F
+InternalName = F4
 Type1 = WATER
 Type2 = FIGHTING
 BaseStats = 100,105,90,95,130,120
@@ -2232,9 +2232,9 @@ Compatibility = Undiscovered
 StepsToHatch = 2550
 Shape = Head
 
-[603257]
+[608737]
 Name = ?????D???D
-InternalName = DD
+InternalName = DD4
 Type1 = STEEL
 Type2 = FIGHTING
 BaseStats = 70,90,80,85,55,70
@@ -2252,9 +2252,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608636]
 Name = ???S??
-InternalName = S
+InternalName = S17
 Type1 = DARK
 Type2 = DRAGON
 BaseStats = 50,75,65,60,50,60
@@ -2291,9 +2291,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608637]
 Name = ?=?S??
-InternalName = S
+InternalName = S18
 Type1 = GRASS
 Type2 = DRAGON
 BaseStats = 70,90,70,70,80,70
@@ -2369,9 +2369,9 @@ Compatibility = Undiscovered
 StepsToHatch = 8925
 Shape = Head
 
-[603254]
+[608730]
 Name = ???p??
-InternalName = P
+InternalName = P5
 Type1 = DARK
 Type2 = FIGHTING
 BaseStats = 50,75,60,65,55,60
@@ -2446,9 +2446,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603301]
+[608774]
 Name = ???????g
-InternalName = G
+InternalName = G2
 Type1 = PSYCHIC
 BaseStats = 48,72,48,48,72,48
 GenderRate = Genderless
@@ -2465,9 +2465,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608638]
 Name = ???S??
-InternalName = S
+InternalName = S19
 Type1 = DRAGON
 BaseStats = 55,70,60,50,55,60
 GenderRate = Genderless
@@ -2484,9 +2484,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608639]
 Name = ?)?????S??
-InternalName = S
+InternalName = S20
 Type1 = DRAGON
 BaseStats = 70,90,80,65,70,75
 GenderRate = Genderless
@@ -2503,9 +2503,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608640]
 Name = ?????S??
-InternalName = S
+InternalName = S21
 Type1 = STEEL
 Type2 = DRAGON
 BaseStats = 75,90,85,70,60,70
@@ -2561,9 +2561,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603253]
+[608721]
 Name = ???9??
-InternalName = N9
+InternalName = N97
 Type1 = WATER
 Type2 = FIGHTING
 BaseStats = 90,110,90,90,70,90
@@ -2581,9 +2581,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608641]
 Name = ???????S??
-InternalName = S
+InternalName = S22
 Type1 = STEEL
 Type2 = DRAGON
 BaseStats = 65,90,80,80,70,65
@@ -2620,9 +2620,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603260]
+[608740]
 Name = ???O?(??
-InternalName = O
+InternalName = O3
 Type1 = DARK
 BaseStats = 65,80,70,70,90,75
 GenderRate = Genderless
@@ -2639,9 +2639,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608665]
 Name = ???Y??????
-InternalName = Y
+InternalName = Y10
 Type1 = STEEL
 BaseStats = 80,80,90,60,60,70
 GenderRate = Genderless
@@ -2658,9 +2658,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603248]
+[608696]
 Name = ???t??????
-InternalName = T
+InternalName = T3
 Type1 = GHOST
 Type2 = GROUND
 BaseStats = 90,110,90,80,80,90
@@ -2698,9 +2698,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603274]
+[608760]
 Name = ???O?S??
-InternalName = OS
+InternalName = OS3
 Type1 = WATER
 Type2 = DRAGON
 BaseStats = 70,90,75,75,65,75
@@ -2718,9 +2718,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603274]
+[608761]
 Name = ?????O?S??
-InternalName = OS
+InternalName = OS4
 Type1 = STEEL
 Type2 = DRAGON
 BaseStats = 85,110,95,85,80,85
@@ -2757,9 +2757,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603255]
+[608734]
 Name = ?Ö????
-InternalName = Ö
+InternalName = Ö3
 Type1 = PSYCHIC
 Type2 = FLYING
 BaseStats = 90,100,90,90,110,90
@@ -2777,9 +2777,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603248]
+[608697]
 Name = ???t????
-InternalName = T
+InternalName = T4
 Type1 = DARK
 BaseStats = 70,90,70,80,70,70
 GenderRate = Genderless
@@ -2816,9 +2816,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603241]
+[608666]
 Name = ?y????
-InternalName = Y
+InternalName = Y11
 Type1 = PSYCHIC
 BaseStats = 70,70,70,70,90,80
 GenderRate = Genderless
@@ -2874,9 +2874,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603308]
+[608775]
 Name = ?m?S??
-InternalName = MS
+InternalName = MS2
 Type1 = PSYCHIC
 Type2 = DRAGON
 BaseStats = 90,90,85,85,110,100
@@ -2913,9 +2913,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603310]
+[608776]
 Name = ?x????
-InternalName = X
+InternalName = X6
 Type1 = FIGHTING
 BaseStats = 40,45,40,40,40,40
 GenderRate = Genderless
@@ -2932,9 +2932,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603311]
+[608779]
 Name = ?l?e??
-InternalName = LE
+InternalName = LE2
 Type1 = DRAGON
 BaseStats = 40,45,40,40,40,40
 GenderRate = Genderless
@@ -2970,9 +2970,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603248]
+[608698]
 Name = ???t??
-InternalName = T
+InternalName = T5
 Type1 = DRAGON
 BaseStats = 40,45,40,40,40,40
 GenderRate = Genderless
@@ -3067,9 +3067,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608642]
 Name = ???S??
-InternalName = S
+InternalName = S23
 Type1 = DRAGON
 Type2 = GROUND
 BaseStats = 70,90,85,70,65,70
@@ -3087,9 +3087,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608643]
 Name = ?????S??
-InternalName = S
+InternalName = S24
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 100,135,110,90,80,90
@@ -3107,9 +3107,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603315]
+[608781]
 Name = ???s?9????
-InternalName = S9
+InternalName = S92
 Type1 = DARK
 BaseStats = 160,180,150,110,150,150
 GenderRate = Genderless
@@ -3126,9 +3126,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[603253]
+[608722]
 Name = ?9????????
-InternalName = N9
+InternalName = N98
 Type1 = DARK
 BaseStats = 100,150,150,150,180,180
 GenderRate = Genderless
@@ -3145,9 +3145,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[603238]
+[608644]
 Name = ???S??
-InternalName = S
+InternalName = S25
 Type1 = DRAGON
 BaseStats = 40,45,40,40,40,40
 GenderRate = Genderless
@@ -3164,9 +3164,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608645]
 Name = ???S??
-InternalName = S
+InternalName = S26
 Type1 = DRAGON
 BaseStats = 55,75,60,55,50,55
 GenderRate = Genderless
@@ -3261,9 +3261,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608646]
 Name = ?????S??
-InternalName = S
+InternalName = S27
 Type1 = DRAGON
 BaseStats = 60,75,60,50,55,60
 GenderRate = Genderless
@@ -3280,9 +3280,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608647]
 Name = ???????S??
-InternalName = S
+InternalName = S28
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 70,95,80,65,70,70
@@ -3300,9 +3300,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603248]
+[608699]
 Name = ?????t??
-InternalName = T
+InternalName = T6
 Type1 = STEEL
 BaseStats = 70,88,77,65,60,80
 GenderRate = Genderless
@@ -3319,9 +3319,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603248]
+[608700]
 Name = ???????t??
-InternalName = T
+InternalName = T7
 Type1 = STEEL
 BaseStats = 90,115,100,75,70,95
 GenderRate = Genderless
@@ -3338,9 +3338,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603253]
+[608723]
 Name = ?9????
-InternalName = N9
+InternalName = N99
 Type1 = FIGHTING
 BaseStats = 80,90,85,65,60,70
 GenderRate = Genderless
@@ -3357,9 +3357,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603310]
+[608777]
 Name = ?x????
-InternalName = X
+InternalName = X8
 Type1 = FIGHTING
 BaseStats = 105,125,110,105,80,95
 GenderRate = Genderless
@@ -3414,9 +3414,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603321]
+[608782]
 Name = ???…?I????
-InternalName = I
+InternalName = I2
 Type1 = QMARKS
 BaseStats = 95,120,105,110,75,95
 GenderRate = Genderless
@@ -3433,9 +3433,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603322]
+[608784]
 Name = ?.?C?X??
-InternalName = CX
+InternalName = CX2
 Type1 = DARK
 BaseStats = 110,125,110,105,80,105
 GenderRate = Genderless
@@ -3472,9 +3472,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603248]
+[608701]
 Name = ?????t??
-InternalName = T
+InternalName = T8
 Type1 = DARK
 BaseStats = 50,68,57,60,50,60
 GenderRate = Genderless
@@ -3510,9 +3510,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603325]
+[608785]
 Name = ?????z??
-InternalName = Z
+InternalName = Z2
 Type1 = DARK
 BaseStats = 80,120,100,80,80,100
 GenderRate = Genderless
@@ -3548,9 +3548,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603241]
+[608667]
 Name = ?y????
-InternalName = Y
+InternalName = Y12
 Type1 = FLYING
 BaseStats = 60,60,50,60,70,50
 GenderRate = Genderless
@@ -3567,9 +3567,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603243]
+[608677]
 Name = ???c????
-InternalName = C
+InternalName = C8
 Type1 = GRASS
 Type2 = CUSTOM_TYPE_23_7
 BaseStats = 100,110,100,105,140,120
@@ -3607,9 +3607,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603250]
+[608712]
 Name = ?????y?ö??
-InternalName = YÖ
+InternalName = YÖ3
 Type1 = PSYCHIC
 Type2 = STEEL
 BaseStats = 80,120,100,80,105,90
@@ -3667,9 +3667,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603243]
+[608678]
 Name = ?c????
-InternalName = C
+InternalName = C9
 Type1 = GRASS
 Type2 = CUSTOM_TYPE_23_7
 BaseStats = 85,105,85,85,115,85
@@ -3687,9 +3687,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603245]
+[608686]
 Name = ???d??
-InternalName = D
+InternalName = D7
 Type1 = BUG
 Type2 = POISON
 BaseStats = 120,100,80,70,70,90
@@ -3707,9 +3707,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603254]
+[608731]
 Name = ?p????
-InternalName = P
+InternalName = P6
 Type1 = WATER
 Type2 = FIGHTING
 BaseStats = 80,90,80,60,75,70
@@ -3727,9 +3727,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603254]
+[608732]
 Name = ?????p????
-InternalName = P
+InternalName = P7
 Type1 = FIGHTING
 BaseStats = 100,125,110,110,70,95
 GenderRate = Genderless
@@ -3785,9 +3785,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608648]
 Name = ???(???S??
-InternalName = S
+InternalName = S29
 Type1 = DRAGON
 Type2 = FIGHTING
 BaseStats = 90,110,100,85,80,85
@@ -3805,9 +3805,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603273]
+[608757]
 Name = ?e????
-InternalName = E
+InternalName = E4
 Type1 = STEEL
 BaseStats = 72,88,75,65,60,75
 GenderRate = Genderless
@@ -3824,9 +3824,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603253]
+[608724]
 Name = ?9?)??
-InternalName = N9
+InternalName = N910
 Type1 = DARK
 Type2 = STEEL
 BaseStats = 105,125,105,90,75,100
@@ -3844,9 +3844,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603245]
+[608687]
 Name = ???????D??
-InternalName = D
+InternalName = D8
 Type1 = BUG
 BaseStats = 90,110,95,95,70,80
 GenderRate = Genderless
@@ -3863,9 +3863,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603245]
+[608688]
 Name = ???????D??
-InternalName = D
+InternalName = D9
 Type1 = BUG
 BaseStats = 110,140,120,105,90,110
 GenderRate = Genderless
@@ -3882,9 +3882,9 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
-[603310]
+[608778]
 Name = ?????)??X
-InternalName = X
+InternalName = X9
 Type1 = STEEL
 BaseStats = 100,140,120,100,90,120
 GenderRate = Genderless
@@ -3940,9 +3940,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603243]
+[608679]
 Name = ???c?(??
-InternalName = C
+InternalName = C10
 Type1 = DARK
 Type2 = FLYING
 BaseStats = 120,130,110,110,80,110
@@ -3979,9 +3979,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603273]
+[608758]
 Name = ???E?(??
-InternalName = E
+InternalName = E5
 Type1 = DRAGON
 Type2 = FIGHTING
 BaseStats = 110,130,110,95,100,90
@@ -3999,9 +3999,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608649]
 Name = ???????S??
-InternalName = S
+InternalName = S30
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 80,90,80,65,65,70
@@ -4019,9 +4019,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603330]
+[608787]
 Name = ?5?????S??
-InternalName = N5S
+InternalName = N5S2
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 105,130,125,80,80,95
@@ -4058,9 +4058,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603238]
+[608650]
 Name = ???s??
-InternalName = S
+InternalName = S31
 Type1 = BUG
 Type2 = STEEL
 BaseStats = 90,120,100,105,80,90
@@ -4156,9 +4156,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603250]
+[608713]
 Name = ???y?ö??
-InternalName = YÖ
+InternalName = YÖ4
 Type1 = PSYCHIC
 BaseStats = 80,100,90,85,130,100
 GenderRate = Genderless
@@ -4271,9 +4271,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603253]
+[608725]
 Name = ???9??????
-InternalName = N9
+InternalName = N911
 Type1 = STEEL
 BaseStats = 55,70,60,60,50,55
 GenderRate = Genderless
@@ -4349,9 +4349,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603253]
+[608726]
 Name = ???9??????
-InternalName = N9
+InternalName = N912
 Type1 = STEEL
 BaseStats = 55,70,60,60,50,55
 GenderRate = Genderless
@@ -4407,9 +4407,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603325]
+[608786]
 Name = ?Z??????
-InternalName = Z
+InternalName = Z3
 Type1 = FIGHTING
 Type2 = STEEL
 BaseStats = 85,115,100,80,75,85
@@ -4427,9 +4427,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603248]
+[608702]
 Name = ???t????
-InternalName = T
+InternalName = T9
 Type1 = PSYCHIC
 Type2 = DARK
 BaseStats = 100,105,105,100,150,120
@@ -4447,9 +4447,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603250]
+[608714]
 Name = ???y?ö??
-InternalName = YÖ
+InternalName = YÖ5
 Type1 = PSYCHIC
 BaseStats = 90,90,90,90,100,120
 GenderRate = Genderless
@@ -4524,9 +4524,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[603245]
+[608689]
 Name = ?????D??
-InternalName = D
+InternalName = D10
 Type1 = ICE
 Type2 = DARK
 BaseStats = 100,130,100,110,100,105
@@ -4544,9 +4544,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[603321]
+[608783]
 Name = ???I????
-InternalName = I
+InternalName = I3
 Type1 = FIRE
 Type2 = PSYCHIC
 BaseStats = 110,125,105,95,110,105
@@ -4564,9 +4564,9 @@ Compatibility = Undiscovered
 StepsToHatch = 7650
 Shape = Head
 
-[603241]
+[608668]
 Name = ?y????
-InternalName = Y
+InternalName = Y13
 Type1 = FLYING
 Type2 = FIGHTING
 BaseStats = 55,70,55,60,50,60
@@ -4604,9 +4604,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608651]
 Name = ???S??
-InternalName = S
+InternalName = S32
 Type1 = DRAGON
 BaseStats = 55,75,65,60,50,55
 GenderRate = Genderless
@@ -4643,9 +4643,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603238]
+[608652]
 Name = ?)?S??
-InternalName = S
+InternalName = S33
 Type1 = DRAGON
 Type2 = FIGHTING
 BaseStats = 110,145,130,110,100,125
@@ -4683,9 +4683,9 @@ StepsToHatch = 10200
 Shape = Head
 Moves = 0,X
 
-[603281]
+[608764]
 Name = ???t???S??
-InternalName = TS
+InternalName = TS3
 Type1 = DRAGON
 Type2 = FLYING
 BaseStats = 70,90,80,70,75,80
@@ -4703,9 +4703,9 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
-[603281]
+[608765]
 Name = ???t???S??
-InternalName = TS
+InternalName = TS4
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 120,145,135,100,100,120
@@ -4742,9 +4742,9 @@ Compatibility = Undiscovered
 StepsToHatch = 20400
 Shape = Head
 
-[603238]
+[608653]
 Name = ?????S????
-InternalName = S
+InternalName = S34
 Type1 = DRAGON
 BaseStats = 105,130,115,100,100,110
 GenderRate = Genderless
@@ -4780,9 +4780,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[603243]
+[608680]
 Name = ???c????
-InternalName = C
+InternalName = C11
 Type1 = DRAGON
 Type2 = STEEL
 BaseStats = 120,150,130,120,150,130
@@ -4800,9 +4800,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[603250]
+[608715]
 Name = ???????y?ö
-InternalName = YÖ
+InternalName = YÖ6
 Type1 = PSYCHIC
 Type2 = DARK
 BaseStats = 100,100,100,100,150,130
@@ -4859,9 +4859,9 @@ Compatibility = Undiscovered
 StepsToHatch = 30600
 Shape = Head
 
-[603241]
+[608669]
 Name = ?Y?)??????
-InternalName = Y
+InternalName = Y14
 Type1 = NORMAL
 BaseStats = 100,130,110,105,95,90
 GenderRate = Genderless
@@ -4878,9 +4878,9 @@ Compatibility = Undiscovered
 StepsToHatch = 6375
 Shape = Head
 
-[603238]
+[608654]
 Name = ?????S??
-InternalName = S
+InternalName = S35
 Type1 = STEEL
 Type2 = DRAGON
 BaseStats = 75,90,80,75,65,65
@@ -4899,9 +4899,9 @@ StepsToHatch = 255
 Shape = Head
 Moves = 0,X
 
-[603238]
+[608655]
 Name = ???S??
-InternalName = S
+InternalName = S36
 Type1 = STEEL
 Type2 = DRAGON
 BaseStats = 100,120,100,95,85,85
@@ -4958,9 +4958,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[603241]
+[608670]
 Name = ?Y?????:??
-InternalName = Y
+InternalName = Y15
 Type1 = DARK
 BaseStats = 105,135,115,95,100,115
 GenderRate = Genderless
@@ -5074,9 +5074,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[603238]
+[608656]
 Name = ???????S??
-InternalName = S
+InternalName = S37
 Type1 = STEEL
 Type2 = DRAGON
 BaseStats = 105,125,115,95,85,110
@@ -5114,9 +5114,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[603238]
+[608657]
 Name = ???S??
-InternalName = S
+InternalName = S38
 Type1 = ELECTRIC
 Type2 = DRAGON
 BaseStats = 110,100,90,100,130,120
@@ -5212,9 +5212,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[603311]
+[608780]
 Name = ?????l?e??
-InternalName = LE
+InternalName = LE3
 Type1 = DRAGON
 BaseStats = 65,70,65,60,50,55
 GenderRate = Genderless
@@ -5330,9 +5330,9 @@ Compatibility = Undiscovered
 StepsToHatch = 255
 Shape = Head
 
-[603281]
+[608766]
 Name = ?????t???S
-InternalName = TS
+InternalName = TS5
 Type1 = DARK
 Type2 = DRAGON
 BaseStats = 70,90,80,75,70,75

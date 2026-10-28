@@ -538,9 +538,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603525]
+[608837]
 Name = RAPIKNIGHT
-InternalName = RAPIKNIGHT
+InternalName = RAPIKNIGHT2
 Type1 = FIRE
 Type2 = STEEL
 BaseStats = 90,95,88,74,80,83
@@ -1474,9 +1474,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603572]
+[608838]
 Name = GIBTYKE
-InternalName = GIBTYKE
+InternalName = GIBTYKE2
 Type1 = WATER
 Type2 = DRAGON
 BaseStats = 53,50,48,50,55,95
@@ -1672,9 +1672,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603581]
+[608839]
 Name = DECITILE
-InternalName = DECITILE
+InternalName = DECITILE2
 Type1 = GRASS
 Type2 = FLYING
 BaseStats = 75,107,70,100,95,93
@@ -1730,9 +1730,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603584]
+[608840]
 Name = DELZIKEN
-InternalName = DELZIKEN
+InternalName = DELZIKEN2
 Type1 = FIRE
 Type2 = FIGHTING
 BaseStats = 78,120,71,92,100,85
@@ -1788,9 +1788,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[603587]
+[608841]
 Name = SWAPNINJA
-InternalName = SWAPNINJA
+InternalName = SWAPNINJA2
 Type1 = WATER
 Type2 = GROUND
 BaseStats = 87,110,80,90,85,80

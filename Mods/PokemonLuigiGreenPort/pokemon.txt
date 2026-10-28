@@ -547,9 +547,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[605148]
+[608879]
 Name = HISSY
-InternalName = HISSY
+InternalName = HISSY2
 Type1 = GROUND
 BaseStats = 55,45,50,40,40,40
 GenderRate = AlwaysMale
@@ -566,9 +566,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[605149]
+[608880]
 Name = HISSTOCRAT
-InternalName = HISSTOCRAT
+InternalName = HISSTOCRAT2
 Type1 = GROUND
 Type2 = DRAGON
 BaseStats = 90,80,90,75,75,85

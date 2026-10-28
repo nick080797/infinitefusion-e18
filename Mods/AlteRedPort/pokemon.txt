@@ -554,9 +554,9 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
-[601356]
+[608556]
 Name = NIDOPAWN♀
-InternalName = NIDOPAWN
+InternalName = NIDOPAWN2
 Type1 = NORMAL
 BaseStats = 51,37,67,35,35,55
 GenderRate = AlwaysFemale
