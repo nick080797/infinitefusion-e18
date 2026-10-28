@@ -1,0 +1,236 @@
+[603883]
+Name = METROID
+InternalName = METROID
+Type1 = BUG
+Type2 = DRAGON
+BaseStats = 58,56,56,46,47,56
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 64
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603884]
+Name = GAMMA MET
+InternalName = GAMMAMET
+Type1 = BUG
+Type2 = DRAGON
+BaseStats = 80,72,72,53,56,72
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603885]
+Name = OMEGA MET
+InternalName = OMEGAMET
+Type1 = BUG
+Type2 = DRAGON
+BaseStats = 100,95,92,75,78,85
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603886]
+Name = BIRDIE
+InternalName = BIRDIE
+Type1 = DARK
+BaseStats = 40,53,50,60,62,45
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603887]
+Name = MYSTERIURE
+InternalName = MYSTERIURE
+Type1 = DARK
+BaseStats = 53,70,65,77,80,60
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603888]
+Name = RIDLEY
+InternalName = RIDLEY
+Type1 = DARK
+Type2 = FLYING
+BaseStats = 80,90,80,95,120,70
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603889]
+Name = CORE X
+InternalName = COREX
+Type1 = POISON
+BaseStats = 150,20,85,70,25,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 143
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = COLORCHANGE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 75,GROWTH
+
+[603890]
+Name = BARRIER X
+InternalName = BARRIERX
+Type1 = POISON
+BaseStats = 220,30,120,85,35,120
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = COLORCHANGE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 93,TOXIC
+
+[603891]
+Name = DRAYGON
+InternalName = DRAYGON
+Type1 = WATER
+Type2 = DARK
+BaseStats = 85,90,120,120,75,90
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 215
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603892]
+Name = PHANTOOM
+InternalName = PHANTOOM
+Type1 = GHOST
+Type2 = PSYCHIC
+BaseStats = 90,60,85,90,140,115
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603893]
+Name = KRAID
+InternalName = KRAID
+Type1 = GRASS
+Type2 = GROUND
+BaseStats = 135,110,115,40,70,110
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 217
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603894]
+Name = M.BRAIN
+InternalName = MBRAIN
+Type1 = PSYCHIC
+BaseStats = 130,80,125,60,160,125
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head

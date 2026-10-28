@@ -1,0 +1,287 @@
+[CLASS_23, Sidney, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_23, Phoebe, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Roxanne, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Brawly, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Tate?Liza, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_55, Matt, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_55, Shelly, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_56, Tabitha, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_56, Courtney, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Wattson, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Flannery, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Norman, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Winona, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_24, Wallace, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_23, Glacia, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_23, Drake, 0]
+Pokemon = NAGURYU,5
+
+[CLASS_27, Vortex, 0]
+Pokemon = VIBLOVAX,10
+Pokemon = VIBLOVAX,10
+
+[CLASS_29, Vortex, 0]
+Pokemon = SWARY,10
+
+[CLASS_29, Vortex, 0]
+Pokemon = RACHZ,10
+Pokemon = GRISY,9
+Pokemon = SWARY,9
+
+[CLASS_24, Type Krawl, 0]
+Pokemon = GYREELY,20
+Pokemon = GYFORMA,22
+
+[CLASS_57, Joey, 0]
+Pokemon = KOMADOROS,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = RACHZ,9
+
+[CLASS_29, Vortex, 0]
+Pokemon = RACHZ,9
+Pokemon = SWARY,9
+
+[CLASS_29, Vortex, 0]
+Pokemon = GRISY,9
+Pokemon = SWARY,9
+
+[CLASS_29, Vortex, 0]
+Pokemon = SWATRAPX,12
+
+[CLASS_29, Vortex, 0]
+Pokemon = BLOVAZ,12
+Pokemon = SWATRAPX,12
+
+[CLASS_29, Vortex, 0]
+Pokemon = EELAY,11
+Pokemon = BLOVAZ,11
+Pokemon = SWATRAPX,12
+
+[CLASS_29, Vortex, 0]
+Pokemon = RACHZ,12
+Pokemon = BLOVAZ,11
+
+[CLASS_29, Vortex, 0]
+Pokemon = BLOVANTX,11
+Pokemon = SWATRAPX,12
+
+[CLASS_29, Vortex, 0]
+Pokemon = BLOVANTX,12
+Pokemon = SWATRAPX,11
+
+[CLASS_29, Vortex, 0]
+Pokemon = GREELAX,12
+Pokemon = BLOVAZ,11
+Pokemon = VIBLOVAX,12
+
+[CLASS_29, Vortex, 0]
+Pokemon = EELAY,11
+
+[CLASS_29, Vortex, 0]
+Pokemon = CACSWARX,13
+Pokemon = CREEY,13
+
+[CLASS_29, Vortex, 0]
+Pokemon = CACSWARX,14
+Pokemon = CACSWARX,13
+
+[CLASS_29, Vortex, 0]
+Pokemon = MULNOOTY,13
+Pokemon = BAGRAXX,14
+
+[CLASS_29, Vortex, 0]
+Pokemon = GREECHX,14
+Pokemon = CREEY,13
+
+[CLASS_29, Vortex, 0]
+Pokemon = CREEY,14
+Pokemon = MULNOOTY,13
+Pokemon = BAGRAXX,14
+
+[CLASS_29, Vortex, 0]
+Pokemon = CREEY,14
+
+[CLASS_29, Vortex, 0]
+Pokemon = CACSWARX,13
+
+[CLASS_29, Vortex, 0]
+Pokemon = GREELAX,11
+
+[CLASS_29, Vortex, 0]
+Pokemon = MULNOOTY,13
+Pokemon = CACSWARX,14
+
+[CLASS_29, Vortex, 0]
+Pokemon = GREECHX,14
+Pokemon = CACSWARX,13
+
+[CLASS_29, Vortex, 0]
+Pokemon = EELAY,13
+Pokemon = GREELAX,13
+Pokemon = BLOVANTX,12
+
+[CLASS_29, Vortex, 0]
+Pokemon = SWATWIGZ,15
+Pokemon = PETROVAX,14
+
+[CLASS_29, Vortex, 0]
+Pokemon = PETROVAX,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = VIBLOVAX,11
+
+[CLASS_29, Vortex, 0]
+Pokemon = VIBLOVAX,13
+Pokemon = BLOVAZ,13
+Pokemon = SWATRAPX,13
+
+[CLASS_29, Vortex, 0]
+Pokemon = SWATWIGZ,15
+Pokemon = GRISBONZ,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = SWATWIGZ,15
+Pokemon = PETROVAX,15
+Pokemon = GRISBONZ,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = GRISBONZ,14
+Pokemon = PETROVAX,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = PETROVAX,15
+Pokemon = SWATWIGZ,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = SWATWIGZ,15
+Pokemon = PETROVAX,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = GRISBONZ,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = PETROVAX,15
+Pokemon = GRISBONZ,15
+
+[CLASS_29, Vortex, 0]
+Pokemon = PSYZEPIZ,16
+Pokemon = PSYZEPIZ,17
+
+[CLASS_29, Vortex, 0]
+Pokemon = PSYZEPIZ,17
+
+[CLASS_29, Vortex, 0]
+Pokemon = PLABICX,16
+Pokemon = PSYZEPIZ,17
+
+[CLASS_29, Vortex, 0]
+Pokemon = METRACHY,17
+Pokemon = PLASOVAZ,17
+
+[CLASS_29, Vortex, 0]
+Pokemon = MUTEELAX,17
+Pokemon = PLASOVAZ,18
+
+[CLASS_29, Vortex, 0]
+Pokemon = METRACHY,18
+Pokemon = PLABICX,17
+
+[CLASS_29, Vortex, 0]
+Pokemon = MUTEELAX,17
+Pokemon = PLASOVAZ,18
+Pokemon = METRACHY,17
+
+[CLASS_29, Vortex, 0]
+Pokemon = MUTEELAX,18
+Pokemon = PSYZEPIZ,17
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+Pokemon = PLASOVAZ,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+Pokemon = METRACHY,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLABICX,18
+
+[CLASS_25, Simulation, 0]
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20
+Pokemon = PLABICX,20

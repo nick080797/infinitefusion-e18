@@ -1,0 +1,18 @@
+{
+  "name": "Unlock All Mystery Gifts",
+  "id": "UnlockAllMysteryGifts",
+  "version": "1.0.0",
+  "author": "nickohlmeier",
+  "description": [
+    "Makes every Mystery Gift ever distributed for Infinite Fusion redeemable again, not just the ones currently marked active on the official gift server.",
+    " ",
+    "The base game's Mystery Gift downloader ignores any gift the server has flagged 'enabled: false' - this is how past/expired event gifts (e.g. old Hoenn-release gifts) get retired over time.",
+    "This mod removes that check (region/version/trainer-ID gating still applies) so 'Search for public gifts' on the Continue/New Game screen offers all of them.",
+    "Purely additive - no existing files touched, no data structures changed."
+  ],
+  "tags": ["QoL", "Gifts"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

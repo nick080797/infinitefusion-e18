@@ -1,0 +1,18 @@
+[60177]
+Name = Custom 22
+InternalName = CUSTOM_TYPE_22_3
+[60178]
+Name = Custom 20
+InternalName = CUSTOM_TYPE_20_5
+[60179]
+Name = Custom 255
+InternalName = CUSTOM_TYPE_255_5
+[60180]
+Name = Custom 53
+InternalName = CUSTOM_TYPE_53_4
+[60181]
+Name = Custom 68
+InternalName = CUSTOM_TYPE_68_3
+[60182]
+Name = Custom 72
+InternalName = CUSTOM_TYPE_72_2

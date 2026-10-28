@@ -4,7 +4,7 @@ class OnlineWondertrade
     return if givenPokemon == nil
     queryBody = buildWondertradeQueryJson(givenPokemon)
     begin
-    response = HTTPLite.post_body(Settings::WONDERTRADE_BASE_URL + "/wondertrade", queryBody, "application/json")
+    response = http_call_gc_guard { HTTPLite.post_body(Settings::WONDERTRADE_BASE_URL + "/wondertrade", queryBody, "application/json") }
     if response[:status] == 200
       body = HTTPLite::JSON.parse(response[:body])
       doTrade(body)

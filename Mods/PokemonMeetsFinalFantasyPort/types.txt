@@ -1,0 +1,6 @@
+[60063]
+Name = Custom 108
+InternalName = CUSTOM_TYPE_108_2
+[60064]
+Name = Custom 255
+InternalName = CUSTOM_TYPE_255_3

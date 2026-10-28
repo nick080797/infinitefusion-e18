@@ -1,0 +1,8453 @@
+{
+ "name": "DigimonGrey",
+ "mod_name": "DigimonGreyPort",
+ "source_rom": "Digimon Grey [CHINA]-romsprid.gba",
+ "rom_meta": {
+  "title": "POKEMON FIRE",
+  "code": "BPRE",
+  "version": 0,
+  "base": "FireRed",
+  "size": 33554432,
+  "is_efrlg": true,
+  "is_fr10": true
+ },
+ "map_mode": "banked",
+ "map_id_base": 76622,
+ "tileset_id_base": 1303,
+ "flag_base": 76000,
+ "var_base": 76000,
+ "map_count": 425,
+ "tileset_pair_count": 59,
+ "game_key": "digimongrey",
+ "start_map_id": 76623,
+ "start_spawn": [
+  7,
+  4,
+  2
+ ],
+ "seed_dynamic_warp": null,
+ "map_names": {
+  "76623": "DigimonGrey 0-0",
+  "76624": "DigimonGrey 0-1",
+  "76625": "DigimonGrey 0-2",
+  "76626": "DigimonGrey 0-3",
+  "76627": "DigimonGrey 0-4",
+  "76628": "DigimonGrey 1-0",
+  "76629": "DigimonGrey 1-1",
+  "76630": "DigimonGrey 1-2",
+  "76631": "DigimonGrey 1-3",
+  "76632": "DigimonGrey 1-4",
+  "76633": "DigimonGrey 1-5",
+  "76634": "DigimonGrey 1-6",
+  "76635": "DigimonGrey 1-7",
+  "76636": "DigimonGrey 1-8",
+  "76637": "DigimonGrey 1-9",
+  "76638": "DigimonGrey 1-10",
+  "76639": "DigimonGrey 1-11",
+  "76640": "DigimonGrey 1-12",
+  "76641": "DigimonGrey 1-13",
+  "76642": "DigimonGrey 1-14",
+  "76643": "DigimonGrey 1-15",
+  "76644": "DigimonGrey 1-16",
+  "76645": "DigimonGrey 1-17",
+  "76646": "DigimonGrey 1-18",
+  "76647": "DigimonGrey 1-19",
+  "76648": "DigimonGrey 1-20",
+  "76649": "DigimonGrey 1-21",
+  "76650": "DigimonGrey 1-22",
+  "76651": "DigimonGrey 1-23",
+  "76652": "DigimonGrey 1-24",
+  "76653": "DigimonGrey 1-25",
+  "76654": "DigimonGrey 1-26",
+  "76655": "DigimonGrey 1-27",
+  "76656": "DigimonGrey 1-28",
+  "76657": "DigimonGrey 1-29",
+  "76658": "DigimonGrey 1-30",
+  "76659": "DigimonGrey 1-31",
+  "76660": "DigimonGrey 1-32",
+  "76661": "DigimonGrey 1-33",
+  "76662": "DigimonGrey 1-34",
+  "76663": "DigimonGrey 1-35",
+  "76664": "DigimonGrey 1-36",
+  "76665": "DigimonGrey 1-37",
+  "76666": "DigimonGrey 1-38",
+  "76667": "DigimonGrey 1-39",
+  "76668": "DigimonGrey 1-40",
+  "76669": "DigimonGrey 1-41",
+  "76670": "DigimonGrey 1-42",
+  "76671": "DigimonGrey 1-43",
+  "76672": "DigimonGrey 1-44",
+  "76673": "DigimonGrey 1-45",
+  "76674": "DigimonGrey 1-46",
+  "76675": "DigimonGrey 1-47",
+  "76676": "DigimonGrey 1-48",
+  "76677": "DigimonGrey 1-49",
+  "76678": "DigimonGrey 1-50",
+  "76679": "DigimonGrey 1-51",
+  "76680": "DigimonGrey 1-52",
+  "76681": "DigimonGrey 1-53",
+  "76682": "DigimonGrey 1-54",
+  "76683": "DigimonGrey 1-55",
+  "76684": "DigimonGrey 1-56",
+  "76685": "DigimonGrey 1-57",
+  "76686": "DigimonGrey 1-58",
+  "76687": "DigimonGrey 1-59",
+  "76688": "DigimonGrey 1-60",
+  "76689": "DigimonGrey 1-61",
+  "76690": "DigimonGrey 1-62",
+  "76691": "DigimonGrey 1-63",
+  "76692": "DigimonGrey 1-64",
+  "76693": "DigimonGrey 1-65",
+  "76694": "DigimonGrey 1-66",
+  "76695": "DigimonGrey 1-67",
+  "76696": "DigimonGrey 1-68",
+  "76697": "DigimonGrey 1-69",
+  "76698": "DigimonGrey 1-70",
+  "76699": "DigimonGrey 1-71",
+  "76700": "DigimonGrey 1-72",
+  "76701": "DigimonGrey 1-73",
+  "76702": "DigimonGrey 1-74",
+  "76703": "DigimonGrey 1-75",
+  "76704": "DigimonGrey 1-76",
+  "76705": "DigimonGrey 1-77",
+  "76706": "DigimonGrey 1-78",
+  "76707": "DigimonGrey 1-79",
+  "76708": "DigimonGrey 1-80",
+  "76709": "DigimonGrey 1-81",
+  "76710": "DigimonGrey 1-82",
+  "76711": "DigimonGrey 1-83",
+  "76712": "DigimonGrey 1-84",
+  "76713": "DigimonGrey 1-85",
+  "76714": "DigimonGrey 1-86",
+  "76715": "DigimonGrey 1-87",
+  "76716": "DigimonGrey 1-88",
+  "76717": "DigimonGrey 1-89",
+  "76718": "DigimonGrey 1-90",
+  "76719": "DigimonGrey 1-91",
+  "76720": "DigimonGrey 1-92",
+  "76721": "DigimonGrey 1-93",
+  "76722": "DigimonGrey 1-94",
+  "76723": "DigimonGrey 1-95",
+  "76724": "DigimonGrey 1-96",
+  "76725": "DigimonGrey 1-97",
+  "76726": "DigimonGrey 1-98",
+  "76727": "DigimonGrey 1-99",
+  "76728": "DigimonGrey 1-100",
+  "76729": "DigimonGrey 1-101",
+  "76730": "DigimonGrey 1-102",
+  "76731": "DigimonGrey 1-103",
+  "76732": "DigimonGrey 1-104",
+  "76733": "DigimonGrey 1-105",
+  "76734": "DigimonGrey 1-106",
+  "76735": "DigimonGrey 1-107",
+  "76736": "DigimonGrey 1-108",
+  "76737": "DigimonGrey 1-109",
+  "76738": "DigimonGrey 1-110",
+  "76739": "DigimonGrey 1-111",
+  "76740": "DigimonGrey 1-112",
+  "76741": "DigimonGrey 1-113",
+  "76742": "DigimonGrey 1-114",
+  "76743": "DigimonGrey 1-115",
+  "76744": "DigimonGrey 1-116",
+  "76745": "DigimonGrey 1-117",
+  "76746": "DigimonGrey 1-118",
+  "76747": "DigimonGrey 1-119",
+  "76748": "DigimonGrey 1-120",
+  "76749": "DigimonGrey 1-121",
+  "76750": "DigimonGrey 1-122",
+  "76751": "DigimonGrey 2-0",
+  "76752": "DigimonGrey 2-1",
+  "76753": "DigimonGrey 2-2",
+  "76754": "DigimonGrey 2-3",
+  "76755": "DigimonGrey 2-4",
+  "76756": "DigimonGrey 2-5",
+  "76757": "DigimonGrey 2-6",
+  "76758": "DigimonGrey 2-7",
+  "76759": "DigimonGrey 2-8",
+  "76760": "DigimonGrey 2-9",
+  "76761": "DigimonGrey 2-10",
+  "76762": "DigimonGrey 2-11",
+  "76763": "DigimonGrey 2-12",
+  "76764": "DigimonGrey 2-13",
+  "76765": "DigimonGrey 2-14",
+  "76766": "DigimonGrey 2-15",
+  "76767": "DigimonGrey 2-16",
+  "76768": "DigimonGrey 2-17",
+  "76769": "DigimonGrey 2-18",
+  "76770": "DigimonGrey 2-19",
+  "76771": "DigimonGrey 2-20",
+  "76772": "DigimonGrey 2-21",
+  "76773": "DigimonGrey 2-22",
+  "76774": "DigimonGrey 2-23",
+  "76775": "DigimonGrey 2-24",
+  "76776": "DigimonGrey 2-25",
+  "76777": "DigimonGrey 2-26",
+  "76778": "DigimonGrey 2-27",
+  "76779": "DigimonGrey 2-28",
+  "76780": "DigimonGrey 2-29",
+  "76781": "DigimonGrey 2-30",
+  "76782": "DigimonGrey 2-31",
+  "76783": "DigimonGrey 2-32",
+  "76784": "DigimonGrey 2-33",
+  "76785": "DigimonGrey 2-34",
+  "76786": "DigimonGrey 2-35",
+  "76787": "DigimonGrey 2-36",
+  "76788": "DigimonGrey 2-37",
+  "76789": "DigimonGrey 2-38",
+  "76790": "DigimonGrey 2-39",
+  "76791": "DigimonGrey 2-40",
+  "76792": "DigimonGrey 2-41",
+  "76793": "DigimonGrey 2-42",
+  "76794": "DigimonGrey 2-43",
+  "76795": "DigimonGrey 2-44",
+  "76796": "DigimonGrey 2-45",
+  "76797": "DigimonGrey 2-46",
+  "76798": "DigimonGrey 2-47",
+  "76799": "DigimonGrey 2-48",
+  "76800": "DigimonGrey 2-49",
+  "76801": "DigimonGrey 2-50",
+  "76802": "DigimonGrey 2-51",
+  "76803": "DigimonGrey 2-52",
+  "76804": "DigimonGrey 2-53",
+  "76805": "DigimonGrey 2-54",
+  "76806": "DigimonGrey 2-55",
+  "76807": "DigimonGrey 2-56",
+  "76808": "DigimonGrey 2-57",
+  "76809": "DigimonGrey 2-58",
+  "76810": "DigimonGrey 2-59",
+  "76811": "DigimonGrey 3-0",
+  "76812": "DigimonGrey 3-1",
+  "76813": "DigimonGrey 3-2",
+  "76814": "DigimonGrey 3-3",
+  "76815": "DigimonGrey 3-4",
+  "76816": "DigimonGrey 3-5",
+  "76817": "DigimonGrey 3-6",
+  "76818": "DigimonGrey 3-7",
+  "76819": "DigimonGrey 3-8",
+  "76820": "DigimonGrey 3-9",
+  "76821": "DigimonGrey 3-10",
+  "76822": "DigimonGrey 3-11",
+  "76823": "DigimonGrey 3-12",
+  "76824": "DigimonGrey 3-13",
+  "76825": "DigimonGrey 3-14",
+  "76826": "DigimonGrey 3-15",
+  "76827": "DigimonGrey 3-16",
+  "76828": "DigimonGrey 3-17",
+  "76829": "DigimonGrey 3-18",
+  "76830": "DigimonGrey 3-19",
+  "76831": "DigimonGrey 3-20",
+  "76832": "DigimonGrey 3-21",
+  "76833": "DigimonGrey 3-22",
+  "76834": "DigimonGrey 3-23",
+  "76835": "DigimonGrey 3-24",
+  "76836": "DigimonGrey 3-25",
+  "76837": "DigimonGrey 3-26",
+  "76838": "DigimonGrey 3-27",
+  "76839": "DigimonGrey 3-28",
+  "76840": "DigimonGrey 3-29",
+  "76841": "DigimonGrey 3-30",
+  "76842": "DigimonGrey 3-31",
+  "76843": "DigimonGrey 3-32",
+  "76844": "DigimonGrey 3-33",
+  "76845": "DigimonGrey 3-34",
+  "76846": "DigimonGrey 3-35",
+  "76847": "DigimonGrey 3-36",
+  "76848": "DigimonGrey 3-37",
+  "76849": "DigimonGrey 3-38",
+  "76850": "DigimonGrey 3-39",
+  "76851": "DigimonGrey 3-40",
+  "76852": "DigimonGrey 3-41",
+  "76853": "DigimonGrey 3-42",
+  "76854": "DigimonGrey 3-43",
+  "76855": "DigimonGrey 3-44",
+  "76856": "DigimonGrey 3-45",
+  "76857": "DigimonGrey 3-46",
+  "76858": "DigimonGrey 3-47",
+  "76859": "DigimonGrey 3-48",
+  "76860": "DigimonGrey 3-49",
+  "76861": "DigimonGrey 3-50",
+  "76862": "DigimonGrey 3-51",
+  "76863": "DigimonGrey 3-52",
+  "76864": "DigimonGrey 3-53",
+  "76865": "DigimonGrey 3-54",
+  "76866": "DigimonGrey 3-55",
+  "76867": "DigimonGrey 3-56",
+  "76868": "DigimonGrey 3-57",
+  "76869": "DigimonGrey 3-58",
+  "76870": "DigimonGrey 3-59",
+  "76871": "DigimonGrey 3-60",
+  "76872": "DigimonGrey 3-61",
+  "76873": "DigimonGrey 3-62",
+  "76874": "DigimonGrey 3-63",
+  "76875": "DigimonGrey 3-64",
+  "76876": "DigimonGrey 3-65",
+  "76877": "DigimonGrey 4-0",
+  "76878": "DigimonGrey 4-1",
+  "76879": "DigimonGrey 4-2",
+  "76880": "DigimonGrey 4-3",
+  "76881": "DigimonGrey 5-0",
+  "76882": "DigimonGrey 5-1",
+  "76883": "DigimonGrey 5-2",
+  "76884": "DigimonGrey 5-3",
+  "76885": "DigimonGrey 5-4",
+  "76886": "DigimonGrey 5-5",
+  "76887": "DigimonGrey 6-0",
+  "76888": "DigimonGrey 6-1",
+  "76889": "DigimonGrey 6-2",
+  "76890": "DigimonGrey 6-3",
+  "76891": "DigimonGrey 6-4",
+  "76892": "DigimonGrey 6-5",
+  "76893": "DigimonGrey 6-6",
+  "76894": "DigimonGrey 6-7",
+  "76895": "DigimonGrey 7-0",
+  "76896": "DigimonGrey 7-1",
+  "76897": "DigimonGrey 7-2",
+  "76898": "DigimonGrey 7-3",
+  "76899": "DigimonGrey 7-4",
+  "76900": "DigimonGrey 7-5",
+  "76901": "DigimonGrey 7-6",
+  "76902": "DigimonGrey 7-7",
+  "76903": "DigimonGrey 7-8",
+  "76904": "DigimonGrey 7-9",
+  "76905": "DigimonGrey 8-0",
+  "76906": "DigimonGrey 8-1",
+  "76907": "DigimonGrey 8-2",
+  "76908": "DigimonGrey 8-3",
+  "76909": "DigimonGrey 8-4",
+  "76910": "DigimonGrey 8-5",
+  "76911": "DigimonGrey 9-0",
+  "76912": "DigimonGrey 9-1",
+  "76913": "DigimonGrey 9-2",
+  "76914": "DigimonGrey 9-3",
+  "76915": "DigimonGrey 9-4",
+  "76916": "DigimonGrey 9-5",
+  "76917": "DigimonGrey 9-6",
+  "76918": "DigimonGrey 9-7",
+  "76919": "DigimonGrey 10-0",
+  "76920": "DigimonGrey 10-1",
+  "76921": "DigimonGrey 10-2",
+  "76922": "DigimonGrey 10-3",
+  "76923": "DigimonGrey 10-4",
+  "76924": "DigimonGrey 10-5",
+  "76925": "DigimonGrey 10-6",
+  "76926": "DigimonGrey 10-7",
+  "76927": "DigimonGrey 10-8",
+  "76928": "DigimonGrey 10-9",
+  "76929": "DigimonGrey 10-10",
+  "76930": "DigimonGrey 10-11",
+  "76931": "DigimonGrey 10-12",
+  "76932": "DigimonGrey 10-13",
+  "76933": "DigimonGrey 10-14",
+  "76934": "DigimonGrey 10-15",
+  "76935": "DigimonGrey 10-16",
+  "76936": "DigimonGrey 10-17",
+  "76937": "DigimonGrey 10-18",
+  "76938": "DigimonGrey 10-19",
+  "76939": "DigimonGrey 11-0",
+  "76940": "DigimonGrey 11-1",
+  "76941": "DigimonGrey 11-2",
+  "76942": "DigimonGrey 11-3",
+  "76943": "DigimonGrey 11-4",
+  "76944": "DigimonGrey 11-5",
+  "76945": "DigimonGrey 11-6",
+  "76946": "DigimonGrey 11-7",
+  "76947": "DigimonGrey 11-8",
+  "76948": "DigimonGrey 11-9",
+  "76949": "DigimonGrey 12-0",
+  "76950": "DigimonGrey 12-1",
+  "76951": "DigimonGrey 12-2",
+  "76952": "DigimonGrey 12-3",
+  "76953": "DigimonGrey 12-4",
+  "76954": "DigimonGrey 12-5",
+  "76955": "DigimonGrey 12-6",
+  "76956": "DigimonGrey 12-7",
+  "76957": "DigimonGrey 13-0",
+  "76958": "DigimonGrey 13-1",
+  "76959": "DigimonGrey 14-0",
+  "76960": "DigimonGrey 14-1",
+  "76961": "DigimonGrey 14-2",
+  "76962": "DigimonGrey 14-3",
+  "76963": "DigimonGrey 14-4",
+  "76964": "DigimonGrey 14-5",
+  "76965": "DigimonGrey 14-6",
+  "76966": "DigimonGrey 14-7",
+  "76967": "DigimonGrey 14-8",
+  "76968": "DigimonGrey 14-9",
+  "76969": "DigimonGrey 15-0",
+  "76970": "DigimonGrey 15-1",
+  "76971": "DigimonGrey 15-2",
+  "76972": "DigimonGrey 15-3",
+  "76973": "DigimonGrey 16-0",
+  "76974": "DigimonGrey 16-1",
+  "76975": "DigimonGrey 17-0",
+  "76976": "DigimonGrey 17-1",
+  "76977": "DigimonGrey 18-0",
+  "76978": "DigimonGrey 18-1",
+  "76979": "DigimonGrey 19-0",
+  "76980": "DigimonGrey 20-0",
+  "76981": "DigimonGrey 21-0",
+  "76982": "DigimonGrey 21-1",
+  "76983": "DigimonGrey 22-0",
+  "76984": "DigimonGrey 22-1",
+  "76985": "DigimonGrey 23-0",
+  "76986": "DigimonGrey 23-1",
+  "76987": "DigimonGrey 23-2",
+  "76988": "DigimonGrey 24-0",
+  "76989": "DigimonGrey 24-1",
+  "76990": "DigimonGrey 25-0",
+  "76991": "DigimonGrey 25-1",
+  "76992": "DigimonGrey 25-2",
+  "76993": "DigimonGrey 26-0",
+  "76994": "DigimonGrey 26-1",
+  "76995": "DigimonGrey 27-0",
+  "76996": "DigimonGrey 28-0",
+  "76997": "DigimonGrey 29-0",
+  "76998": "DigimonGrey 30-0",
+  "76999": "DigimonGrey 31-0",
+  "77000": "DigimonGrey 31-1",
+  "77001": "DigimonGrey 31-2",
+  "77002": "DigimonGrey 31-3",
+  "77003": "DigimonGrey 31-4",
+  "77004": "DigimonGrey 31-5",
+  "77005": "DigimonGrey 31-6",
+  "77006": "DigimonGrey 32-0",
+  "77007": "DigimonGrey 32-1",
+  "77008": "DigimonGrey 32-2",
+  "77009": "DigimonGrey 32-3",
+  "77010": "DigimonGrey 32-4",
+  "77011": "DigimonGrey 33-0",
+  "77012": "DigimonGrey 33-1",
+  "77013": "DigimonGrey 33-2",
+  "77014": "DigimonGrey 33-3",
+  "77015": "DigimonGrey 33-4",
+  "77016": "DigimonGrey 34-0",
+  "77017": "DigimonGrey 34-1",
+  "77018": "DigimonGrey 34-2",
+  "77019": "DigimonGrey 34-3",
+  "77020": "DigimonGrey 34-4",
+  "77021": "DigimonGrey 34-5",
+  "77022": "DigimonGrey 34-6",
+  "77023": "DigimonGrey 34-7",
+  "77024": "DigimonGrey 35-0",
+  "77025": "DigimonGrey 35-1",
+  "77026": "DigimonGrey 35-2",
+  "77027": "DigimonGrey 35-3",
+  "77028": "DigimonGrey 35-4",
+  "77029": "DigimonGrey 35-5",
+  "77030": "DigimonGrey 35-6",
+  "77031": "DigimonGrey 35-7",
+  "77032": "DigimonGrey 36-0",
+  "77033": "DigimonGrey 36-1",
+  "77034": "DigimonGrey 36-2",
+  "77035": "DigimonGrey 36-3",
+  "77036": "DigimonGrey 36-4",
+  "77037": "DigimonGrey 37-0",
+  "77038": "DigimonGrey 37-1",
+  "77039": "DigimonGrey 37-2",
+  "77040": "DigimonGrey 37-3",
+  "77041": "DigimonGrey 37-4",
+  "77042": "DigimonGrey 38-0",
+  "77043": "DigimonGrey 39-0",
+  "77044": "DigimonGrey 40-0",
+  "77045": "DigimonGrey 41-0",
+  "77046": "DigimonGrey 41-1",
+  "77047": "DigimonGrey 42-0"
+ },
+ "connections": [
+  [
+   76811,
+   "N",
+   0,
+   76830,
+   "S",
+   0
+  ],
+  [
+   76811,
+   "S",
+   0,
+   76850,
+   "N",
+   0
+  ],
+  [
+   76812,
+   "N",
+   12,
+   76831,
+   "S",
+   0
+  ],
+  [
+   76812,
+   "S",
+   12,
+   76830,
+   "N",
+   0
+  ],
+  [
+   76812,
+   "W",
+   10,
+   76852,
+   "E",
+   0
+  ],
+  [
+   76813,
+   "E",
+   10,
+   76832,
+   "W",
+   0
+  ],
+  [
+   76813,
+   "S",
+   12,
+   76831,
+   "N",
+   0
+  ],
+  [
+   76814,
+   "E",
+   10,
+   76838,
+   "W",
+   0
+  ],
+  [
+   76814,
+   "N",
+   12,
+   76854,
+   "S",
+   0
+  ],
+  [
+   76814,
+   "S",
+   0,
+   76834,
+   "N",
+   0
+  ],
+  [
+   76814,
+   "W",
+   10,
+   76833,
+   "E",
+   0
+  ],
+  [
+   76815,
+   "N",
+   0,
+   76839,
+   "S",
+   0
+  ],
+  [
+   76815,
+   "S",
+   0,
+   76841,
+   "N",
+   0
+  ],
+  [
+   76815,
+   "W",
+   0,
+   76837,
+   "E",
+   0
+  ],
+  [
+   76816,
+   "E",
+   10,
+   76840,
+   "W",
+   0
+  ],
+  [
+   76816,
+   "N",
+   12,
+   76835,
+   "S",
+   0
+  ],
+  [
+   76817,
+   "E",
+   10,
+   76836,
+   "W",
+   0
+  ],
+  [
+   76817,
+   "W",
+   10,
+   76845,
+   "E",
+   0
+  ],
+  [
+   76818,
+   "E",
+   10,
+   76844,
+   "W",
+   0
+  ],
+  [
+   76818,
+   "S",
+   12,
+   76848,
+   "N",
+   0
+  ],
+  [
+   76818,
+   "W",
+   10,
+   76847,
+   "E",
+   0
+  ],
+  [
+   76819,
+   "E",
+   0,
+   76849,
+   "W",
+   0
+  ],
+  [
+   76819,
+   "N",
+   0,
+   76851,
+   "S",
+   0
+  ],
+  [
+   76820,
+   "S",
+   0,
+   76853,
+   "N",
+   0
+  ],
+  [
+   76822,
+   "E",
+   10,
+   76837,
+   "W",
+   0
+  ],
+  [
+   76822,
+   "N",
+   0,
+   76834,
+   "S",
+   0
+  ],
+  [
+   76822,
+   "S",
+   12,
+   76835,
+   "N",
+   0
+  ],
+  [
+   76822,
+   "W",
+   10,
+   76836,
+   "E",
+   0
+  ],
+  [
+   76823,
+   "E",
+   0,
+   76856,
+   "W",
+   120
+  ],
+  [
+   76823,
+   "S",
+   0,
+   76857,
+   "N",
+   0
+  ],
+  [
+   76824,
+   "N",
+   24,
+   76858,
+   "S",
+   0
+  ],
+  [
+   76825,
+   "S",
+   0,
+   76860,
+   "N",
+   0
+  ],
+  [
+   76825,
+   "S",
+   0,
+   76861,
+   "N",
+   0
+  ],
+  [
+   76825,
+   "S",
+   0,
+   76862,
+   "N",
+   0
+  ],
+  [
+   76825,
+   "W",
+   0,
+   76859,
+   "E",
+   0
+  ],
+  [
+   76827,
+   "E",
+   0,
+   76867,
+   "W",
+   0
+  ],
+  [
+   76827,
+   "N",
+   0,
+   76866,
+   "S",
+   48
+  ],
+  [
+   76828,
+   "N",
+   0,
+   76873,
+   "S",
+   48
+  ],
+  [
+   76828,
+   "S",
+   0,
+   76874,
+   "N",
+   0
+  ],
+  [
+   76829,
+   "E",
+   0,
+   76871,
+   "W",
+   40
+  ],
+  [
+   76832,
+   "N",
+   60,
+   76833,
+   "S",
+   0
+  ],
+  [
+   76838,
+   "E",
+   0,
+   76839,
+   "W",
+   0
+  ],
+  [
+   76840,
+   "E",
+   0,
+   76841,
+   "W",
+   60
+  ],
+  [
+   76841,
+   "S",
+   0,
+   76842,
+   "N",
+   48
+  ],
+  [
+   76842,
+   "W",
+   0,
+   76843,
+   "E",
+   0
+  ],
+  [
+   76843,
+   "W",
+   40,
+   76844,
+   "E",
+   0
+  ],
+  [
+   76845,
+   "S",
+   0,
+   76846,
+   "N",
+   0
+  ],
+  [
+   76846,
+   "S",
+   0,
+   76847,
+   "N",
+   0
+  ],
+  [
+   76848,
+   "W",
+   40,
+   76849,
+   "E",
+   0
+  ],
+  [
+   76850,
+   "S",
+   0,
+   76851,
+   "N",
+   0
+  ],
+  [
+   76852,
+   "N",
+   0,
+   76853,
+   "S",
+   0
+  ],
+  [
+   76854,
+   "E",
+   0,
+   76855,
+   "W",
+   0
+  ],
+  [
+   76865,
+   "S",
+   0,
+   76866,
+   "N",
+   48
+  ],
+  [
+   76867,
+   "E",
+   20,
+   76868,
+   "W",
+   0
+  ],
+  [
+   76869,
+   "S",
+   0,
+   76870,
+   "N",
+   0
+  ],
+  [
+   76870,
+   "E",
+   0,
+   76871,
+   "W",
+   0
+  ],
+  [
+   76871,
+   "W",
+   80,
+   76872,
+   "E",
+   0
+  ],
+  [
+   76874,
+   "E",
+   20,
+   76875,
+   "W",
+   0
+  ],
+  [
+   76875,
+   "S",
+   0,
+   76876,
+   "N",
+   48
+  ]
+ ],
+ "mapid_of": {
+  "0.0": 76623,
+  "0.1": 76624,
+  "0.2": 76625,
+  "0.3": 76626,
+  "0.4": 76627,
+  "1.0": 76628,
+  "1.1": 76629,
+  "1.2": 76630,
+  "1.3": 76631,
+  "1.4": 76632,
+  "1.5": 76633,
+  "1.6": 76634,
+  "1.7": 76635,
+  "1.8": 76636,
+  "1.9": 76637,
+  "1.10": 76638,
+  "1.11": 76639,
+  "1.12": 76640,
+  "1.13": 76641,
+  "1.14": 76642,
+  "1.15": 76643,
+  "1.16": 76644,
+  "1.17": 76645,
+  "1.18": 76646,
+  "1.19": 76647,
+  "1.20": 76648,
+  "1.21": 76649,
+  "1.22": 76650,
+  "1.23": 76651,
+  "1.24": 76652,
+  "1.25": 76653,
+  "1.26": 76654,
+  "1.27": 76655,
+  "1.28": 76656,
+  "1.29": 76657,
+  "1.30": 76658,
+  "1.31": 76659,
+  "1.32": 76660,
+  "1.33": 76661,
+  "1.34": 76662,
+  "1.35": 76663,
+  "1.36": 76664,
+  "1.37": 76665,
+  "1.38": 76666,
+  "1.39": 76667,
+  "1.40": 76668,
+  "1.41": 76669,
+  "1.42": 76670,
+  "1.43": 76671,
+  "1.44": 76672,
+  "1.45": 76673,
+  "1.46": 76674,
+  "1.47": 76675,
+  "1.48": 76676,
+  "1.49": 76677,
+  "1.50": 76678,
+  "1.51": 76679,
+  "1.52": 76680,
+  "1.53": 76681,
+  "1.54": 76682,
+  "1.55": 76683,
+  "1.56": 76684,
+  "1.57": 76685,
+  "1.58": 76686,
+  "1.59": 76687,
+  "1.60": 76688,
+  "1.61": 76689,
+  "1.62": 76690,
+  "1.63": 76691,
+  "1.64": 76692,
+  "1.65": 76693,
+  "1.66": 76694,
+  "1.67": 76695,
+  "1.68": 76696,
+  "1.69": 76697,
+  "1.70": 76698,
+  "1.71": 76699,
+  "1.72": 76700,
+  "1.73": 76701,
+  "1.74": 76702,
+  "1.75": 76703,
+  "1.76": 76704,
+  "1.77": 76705,
+  "1.78": 76706,
+  "1.79": 76707,
+  "1.80": 76708,
+  "1.81": 76709,
+  "1.82": 76710,
+  "1.83": 76711,
+  "1.84": 76712,
+  "1.85": 76713,
+  "1.86": 76714,
+  "1.87": 76715,
+  "1.88": 76716,
+  "1.89": 76717,
+  "1.90": 76718,
+  "1.91": 76719,
+  "1.92": 76720,
+  "1.93": 76721,
+  "1.94": 76722,
+  "1.95": 76723,
+  "1.96": 76724,
+  "1.97": 76725,
+  "1.98": 76726,
+  "1.99": 76727,
+  "1.100": 76728,
+  "1.101": 76729,
+  "1.102": 76730,
+  "1.103": 76731,
+  "1.104": 76732,
+  "1.105": 76733,
+  "1.106": 76734,
+  "1.107": 76735,
+  "1.108": 76736,
+  "1.109": 76737,
+  "1.110": 76738,
+  "1.111": 76739,
+  "1.112": 76740,
+  "1.113": 76741,
+  "1.114": 76742,
+  "1.115": 76743,
+  "1.116": 76744,
+  "1.117": 76745,
+  "1.118": 76746,
+  "1.119": 76747,
+  "1.120": 76748,
+  "1.121": 76749,
+  "1.122": 76750,
+  "2.0": 76751,
+  "2.1": 76752,
+  "2.2": 76753,
+  "2.3": 76754,
+  "2.4": 76755,
+  "2.5": 76756,
+  "2.6": 76757,
+  "2.7": 76758,
+  "2.8": 76759,
+  "2.9": 76760,
+  "2.10": 76761,
+  "2.11": 76762,
+  "2.12": 76763,
+  "2.13": 76764,
+  "2.14": 76765,
+  "2.15": 76766,
+  "2.16": 76767,
+  "2.17": 76768,
+  "2.18": 76769,
+  "2.19": 76770,
+  "2.20": 76771,
+  "2.21": 76772,
+  "2.22": 76773,
+  "2.23": 76774,
+  "2.24": 76775,
+  "2.25": 76776,
+  "2.26": 76777,
+  "2.27": 76778,
+  "2.28": 76779,
+  "2.29": 76780,
+  "2.30": 76781,
+  "2.31": 76782,
+  "2.32": 76783,
+  "2.33": 76784,
+  "2.34": 76785,
+  "2.35": 76786,
+  "2.36": 76787,
+  "2.37": 76788,
+  "2.38": 76789,
+  "2.39": 76790,
+  "2.40": 76791,
+  "2.41": 76792,
+  "2.42": 76793,
+  "2.43": 76794,
+  "2.44": 76795,
+  "2.45": 76796,
+  "2.46": 76797,
+  "2.47": 76798,
+  "2.48": 76799,
+  "2.49": 76800,
+  "2.50": 76801,
+  "2.51": 76802,
+  "2.52": 76803,
+  "2.53": 76804,
+  "2.54": 76805,
+  "2.55": 76806,
+  "2.56": 76807,
+  "2.57": 76808,
+  "2.58": 76809,
+  "2.59": 76810,
+  "3.0": 76811,
+  "3.1": 76812,
+  "3.2": 76813,
+  "3.3": 76814,
+  "3.4": 76815,
+  "3.5": 76816,
+  "3.6": 76817,
+  "3.7": 76818,
+  "3.8": 76819,
+  "3.9": 76820,
+  "3.10": 76821,
+  "3.11": 76822,
+  "3.12": 76823,
+  "3.13": 76824,
+  "3.14": 76825,
+  "3.15": 76826,
+  "3.16": 76827,
+  "3.17": 76828,
+  "3.18": 76829,
+  "3.19": 76830,
+  "3.20": 76831,
+  "3.21": 76832,
+  "3.22": 76833,
+  "3.23": 76834,
+  "3.24": 76835,
+  "3.25": 76836,
+  "3.26": 76837,
+  "3.27": 76838,
+  "3.28": 76839,
+  "3.29": 76840,
+  "3.30": 76841,
+  "3.31": 76842,
+  "3.32": 76843,
+  "3.33": 76844,
+  "3.34": 76845,
+  "3.35": 76846,
+  "3.36": 76847,
+  "3.37": 76848,
+  "3.38": 76849,
+  "3.39": 76850,
+  "3.40": 76851,
+  "3.41": 76852,
+  "3.42": 76853,
+  "3.43": 76854,
+  "3.44": 76855,
+  "3.45": 76856,
+  "3.46": 76857,
+  "3.47": 76858,
+  "3.48": 76859,
+  "3.49": 76860,
+  "3.50": 76861,
+  "3.51": 76862,
+  "3.52": 76863,
+  "3.53": 76864,
+  "3.54": 76865,
+  "3.55": 76866,
+  "3.56": 76867,
+  "3.57": 76868,
+  "3.58": 76869,
+  "3.59": 76870,
+  "3.60": 76871,
+  "3.61": 76872,
+  "3.62": 76873,
+  "3.63": 76874,
+  "3.64": 76875,
+  "3.65": 76876,
+  "4.0": 76877,
+  "4.1": 76878,
+  "4.2": 76879,
+  "4.3": 76880,
+  "5.0": 76881,
+  "5.1": 76882,
+  "5.2": 76883,
+  "5.3": 76884,
+  "5.4": 76885,
+  "5.5": 76886,
+  "6.0": 76887,
+  "6.1": 76888,
+  "6.2": 76889,
+  "6.3": 76890,
+  "6.4": 76891,
+  "6.5": 76892,
+  "6.6": 76893,
+  "6.7": 76894,
+  "7.0": 76895,
+  "7.1": 76896,
+  "7.2": 76897,
+  "7.3": 76898,
+  "7.4": 76899,
+  "7.5": 76900,
+  "7.6": 76901,
+  "7.7": 76902,
+  "7.8": 76903,
+  "7.9": 76904,
+  "8.0": 76905,
+  "8.1": 76906,
+  "8.2": 76907,
+  "8.3": 76908,
+  "8.4": 76909,
+  "8.5": 76910,
+  "9.0": 76911,
+  "9.1": 76912,
+  "9.2": 76913,
+  "9.3": 76914,
+  "9.4": 76915,
+  "9.5": 76916,
+  "9.6": 76917,
+  "9.7": 76918,
+  "10.0": 76919,
+  "10.1": 76920,
+  "10.2": 76921,
+  "10.3": 76922,
+  "10.4": 76923,
+  "10.5": 76924,
+  "10.6": 76925,
+  "10.7": 76926,
+  "10.8": 76927,
+  "10.9": 76928,
+  "10.10": 76929,
+  "10.11": 76930,
+  "10.12": 76931,
+  "10.13": 76932,
+  "10.14": 76933,
+  "10.15": 76934,
+  "10.16": 76935,
+  "10.17": 76936,
+  "10.18": 76937,
+  "10.19": 76938,
+  "11.0": 76939,
+  "11.1": 76940,
+  "11.2": 76941,
+  "11.3": 76942,
+  "11.4": 76943,
+  "11.5": 76944,
+  "11.6": 76945,
+  "11.7": 76946,
+  "11.8": 76947,
+  "11.9": 76948,
+  "12.0": 76949,
+  "12.1": 76950,
+  "12.2": 76951,
+  "12.3": 76952,
+  "12.4": 76953,
+  "12.5": 76954,
+  "12.6": 76955,
+  "12.7": 76956,
+  "13.0": 76957,
+  "13.1": 76958,
+  "14.0": 76959,
+  "14.1": 76960,
+  "14.2": 76961,
+  "14.3": 76962,
+  "14.4": 76963,
+  "14.5": 76964,
+  "14.6": 76965,
+  "14.7": 76966,
+  "14.8": 76967,
+  "14.9": 76968,
+  "15.0": 76969,
+  "15.1": 76970,
+  "15.2": 76971,
+  "15.3": 76972,
+  "16.0": 76973,
+  "16.1": 76974,
+  "17.0": 76975,
+  "17.1": 76976,
+  "18.0": 76977,
+  "18.1": 76978,
+  "19.0": 76979,
+  "20.0": 76980,
+  "21.0": 76981,
+  "21.1": 76982,
+  "22.0": 76983,
+  "22.1": 76984,
+  "23.0": 76985,
+  "23.1": 76986,
+  "23.2": 76987,
+  "24.0": 76988,
+  "24.1": 76989,
+  "25.0": 76990,
+  "25.1": 76991,
+  "25.2": 76992,
+  "26.0": 76993,
+  "26.1": 76994,
+  "27.0": 76995,
+  "28.0": 76996,
+  "29.0": 76997,
+  "30.0": 76998,
+  "31.0": 76999,
+  "31.1": 77000,
+  "31.2": 77001,
+  "31.3": 77002,
+  "31.4": 77003,
+  "31.5": 77004,
+  "31.6": 77005,
+  "32.0": 77006,
+  "32.1": 77007,
+  "32.2": 77008,
+  "32.3": 77009,
+  "32.4": 77010,
+  "33.0": 77011,
+  "33.1": 77012,
+  "33.2": 77013,
+  "33.3": 77014,
+  "33.4": 77015,
+  "34.0": 77016,
+  "34.1": 77017,
+  "34.2": 77018,
+  "34.3": 77019,
+  "34.4": 77020,
+  "34.5": 77021,
+  "34.6": 77022,
+  "34.7": 77023,
+  "35.0": 77024,
+  "35.1": 77025,
+  "35.2": 77026,
+  "35.3": 77027,
+  "35.4": 77028,
+  "35.5": 77029,
+  "35.6": 77030,
+  "35.7": 77031,
+  "36.0": 77032,
+  "36.1": 77033,
+  "36.2": 77034,
+  "36.3": 77035,
+  "36.4": 77036,
+  "37.0": 77037,
+  "37.1": 77038,
+  "37.2": 77039,
+  "37.3": 77040,
+  "37.4": 77041,
+  "38.0": 77042,
+  "39.0": 77043,
+  "40.0": 77044,
+  "41.0": 77045,
+  "41.1": 77046,
+  "42.0": 77047
+ },
+ "tileset_ids": {
+  "0": 1304,
+  "1": 1305,
+  "2": 1306,
+  "3": 1307,
+  "4": 1308,
+  "5": 1309,
+  "6": 1310,
+  "7": 1311,
+  "8": 1312,
+  "9": 1313,
+  "10": 1314,
+  "11": 1315,
+  "12": 1316,
+  "13": 1317,
+  "14": 1318,
+  "15": 1319,
+  "16": 1320,
+  "17": 1321,
+  "18": 1322,
+  "19": 1323,
+  "20": 1324,
+  "21": 1325,
+  "22": 1326,
+  "23": 1327,
+  "24": 1328,
+  "25": 1329,
+  "26": 1330,
+  "27": 1331,
+  "28": 1332,
+  "29": 1333,
+  "30": 1334,
+  "31": 1335,
+  "32": 1336,
+  "33": 1337,
+  "34": 1338,
+  "35": 1339,
+  "36": 1340,
+  "37": 1341,
+  "38": 1342,
+  "39": 1343,
+  "40": 1344,
+  "41": 1345,
+  "42": 1346,
+  "43": 1347,
+  "44": 1348,
+  "45": 1349,
+  "46": 1350,
+  "47": 1351,
+  "48": 1352,
+  "49": 1353,
+  "50": 1354,
+  "51": 1355,
+  "52": 1356,
+  "53": 1357,
+  "54": 1358,
+  "55": 1359,
+  "56": 1360,
+  "57": 1361,
+  "58": 1362
+ },
+ "pair_gba_ptrs": {
+  "0": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c44"
+  },
+  "1": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d50dc"
+  },
+  "2": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4dc4"
+  },
+  "3": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4bfc"
+  },
+  "4": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b24"
+  },
+  "5": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4d94"
+  },
+  "6": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e84"
+  },
+  "7": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4ee4"
+  },
+  "8": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4e0c"
+  },
+  "9": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4ecc"
+  },
+  "10": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f2c"
+  },
+  "11": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b54"
+  },
+  "12": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f14"
+  },
+  "13": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4e54"
+  },
+  "14": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d50c4"
+  },
+  "15": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4e24"
+  },
+  "16": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b6c"
+  },
+  "17": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4efc"
+  },
+  "18": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e9c"
+  },
+  "19": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4fec"
+  },
+  "20": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d504c"
+  },
+  "21": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d5004"
+  },
+  "22": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d501c"
+  },
+  "23": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d5094"
+  },
+  "24": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d5034"
+  },
+  "25": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d507c"
+  },
+  "26": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d50ac"
+  },
+  "27": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4aac"
+  },
+  "28": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4ac4"
+  },
+  "29": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4adc"
+  },
+  "30": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4af4"
+  },
+  "31": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b0c"
+  },
+  "32": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b3c"
+  },
+  "33": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b84"
+  },
+  "34": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b9c"
+  },
+  "35": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d5064"
+  },
+  "36": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c74"
+  },
+  "37": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c8c"
+  },
+  "38": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4cbc"
+  },
+  "39": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f5c"
+  },
+  "40": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4bcc"
+  },
+  "41": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4be4"
+  },
+  "42": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c2c"
+  },
+  "43": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d04"
+  },
+  "44": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4fa4"
+  },
+  "45": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d1c"
+  },
+  "46": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c5c"
+  },
+  "47": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f74"
+  },
+  "48": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d34"
+  },
+  "49": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e6c"
+  },
+  "50": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f8c"
+  },
+  "51": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4cec"
+  },
+  "52": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d4c"
+  },
+  "53": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f44"
+  },
+  "54": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4ca4"
+  },
+  "55": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d7c"
+  },
+  "56": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d64"
+  },
+  "57": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4eb4"
+  },
+  "58": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e24"
+  }
+ },
+ "stats": {
+  "maps": 425,
+  "warps_emitted": 1338,
+  "warps_dropped": 0,
+  "cells": 235861,
+  "unrenderable_cells": 0,
+  "script_events": 2902,
+  "npc_events": 1660,
+  "coord_events": 228,
+  "sign_events": 514,
+  "map_scripts": 571,
+  "transpile_text_lines": 20235,
+  "transpile_warps": 108,
+  "transpile_branches": 15668,
+  "transpile_stubs": 36814,
+  "transpile_dropped_noops": 27972,
+  "transpile_truncated": 0,
+  "npc_sprites_decoded": 1614,
+  "bgm_songs_exported": 34,
+  "bgm_maps_assigned": 423,
+  "connections": 59
+ },
+ "data_layer": {
+  "rom": "Digimon Grey [CHINA]-romsprid.gba",
+  "warnings": [],
+  "species": {
+   "case_a_overlap": 3,
+   "case_b_registry": 166,
+   "case_c_new": 133,
+   "junk_skipped": 237
+  },
+  "moves": {
+   "reused": 0,
+   "new": 2
+  },
+  "abilities": {
+   "reused": 0,
+   "new": 38,
+   "no_effect_handler": 38
+  },
+  "items": {
+   "resolved": 0,
+   "unresolved": 5
+  },
+  "types": {
+   "new": 2
+  },
+  "encounters": {
+   "maps": 132,
+   "slots": 1416,
+   "maps_not_ported": 0
+  },
+  "trainers": {
+   "registered": 516,
+   "classes": 48,
+   "skipped": 226
+  },
+  "stat_conflicts": [
+   {
+    "species": "???????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     80,
+     90,
+     95,
+     70,
+     60,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?\u2026????S",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     45,
+     50,
+     45,
+     45,
+     35,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???s??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     65,
+     57,
+     53,
+     60,
+     40,
+     45
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???s??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     75,
+     85,
+     80,
+     70,
+     60,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?Y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     60,
+     75,
+     70,
+     60,
+     45,
+     50
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     70,
+     75,
+     70,
+     75,
+     90,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?Y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     40,
+     45,
+     40,
+     45,
+     35,
+     35
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?r????",
+    "internal_name": "R",
+    "registry_base_stats": [
+     65,
+     50,
+     55,
+     80,
+     90,
+     80
+    ],
+    "this_rom_base_stats": [
+     40,
+     45,
+     40,
+     45,
+     45,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???Y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     45
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?y??????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     65,
+     70,
+     50,
+     50,
+     50,
+     65
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?H????",
+    "internal_name": "H",
+    "registry_base_stats": [
+     60,
+     70,
+     80,
+     55,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     40,
+     50,
+     50,
+     45,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???D??",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     65,
+     70,
+     60,
+     60,
+     45,
+     50
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???c????",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     55,
+     60,
+     55,
+     50,
+     70,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?c????????",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     70,
+     75,
+     70,
+     75,
+     90,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?p????",
+    "internal_name": "P",
+    "registry_base_stats": [
+     43,
+     42,
+     40,
+     30,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     60,
+     75,
+     70,
+     55,
+     50,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?%?(?p????",
+    "internal_name": "P",
+    "registry_base_stats": [
+     43,
+     42,
+     40,
+     30,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     80,
+     75,
+     60,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???U??",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     50,
+     60,
+     55,
+     50,
+     70,
+     65
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???v??",
+    "internal_name": "V",
+    "registry_base_stats": [
+     85,
+     120,
+     100,
+     105,
+     75,
+     75
+    ],
+    "this_rom_base_stats": [
+     75,
+     50,
+     55,
+     40,
+     40,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????v??",
+    "internal_name": "V",
+    "registry_base_stats": [
+     85,
+     120,
+     100,
+     105,
+     75,
+     75
+    ],
+    "this_rom_base_stats": [
+     95,
+     65,
+     70,
+     55,
+     60,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???a??",
+    "internal_name": "A",
+    "registry_base_stats": [
+     70,
+     90,
+     90,
+     60,
+     60,
+     65
+    ],
+    "this_rom_base_stats": [
+     40,
+     40,
+     45,
+     40,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???a??",
+    "internal_name": "A",
+    "registry_base_stats": [
+     70,
+     90,
+     90,
+     60,
+     60,
+     65
+    ],
+    "this_rom_base_stats": [
+     50,
+     65,
+     70,
+     50,
+     55,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???U??",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     60,
+     90,
+     60,
+     70,
+     75,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???C??",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     60,
+     85,
+     70,
+     80,
+     75,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???r??",
+    "internal_name": "R",
+    "registry_base_stats": [
+     65,
+     50,
+     55,
+     80,
+     90,
+     80
+    ],
+    "this_rom_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???n??",
+    "internal_name": "N",
+    "registry_base_stats": [
+     55,
+     60,
+     55,
+     50,
+     65,
+     65
+    ],
+    "this_rom_base_stats": [
+     60,
+     50,
+     60,
+     50,
+     70,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?Y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     40,
+     55,
+     65,
+     50,
+     50,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     50,
+     70,
+     70,
+     50,
+     50,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     90,
+     60,
+     60,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     65,
+     50,
+     50,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???a????",
+    "internal_name": "A",
+    "registry_base_stats": [
+     70,
+     90,
+     90,
+     60,
+     60,
+     65
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     65,
+     50,
+     60,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?U????",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     60,
+     90,
+     70,
+     70,
+     75,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?C????",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     50,
+     50,
+     55,
+     55,
+     65,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???U??",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     65,
+     65,
+     80,
+     40,
+     85,
+     95
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???s??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     55,
+     55,
+     55,
+     65,
+     70,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???D??",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     60,
+     70,
+     65,
+     55,
+     45,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "V????",
+    "internal_name": "V",
+    "registry_base_stats": [
+     85,
+     120,
+     100,
+     105,
+     75,
+     75
+    ],
+    "this_rom_base_stats": [
+     42,
+     42,
+     40,
+     41,
+     35,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     60,
+     80,
+     60,
+     90,
+     90,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?S????",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???e?(??",
+    "internal_name": "E",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     35,
+     43,
+     42
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     50,
+     65,
+     55,
+     65
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???U??",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     95,
+     130,
+     110,
+     85,
+     120,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???U??",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     95,
+     100,
+     100,
+     120,
+     135,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     67,
+     88,
+     75,
+     90,
+     60,
+     65
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     95,
+     135,
+     95,
+     115,
+     80,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????9????",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     120,
+     120,
+     120,
+     120,
+     120,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?9????",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     90,
+     90,
+     90,
+     90,
+     90,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????D?p?p",
+    "internal_name": "DPP",
+    "registry_base_stats": [
+     55,
+     70,
+     55,
+     70,
+     55,
+     55
+    ],
+    "this_rom_base_stats": [
+     65,
+     90,
+     70,
+     90,
+     65,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     80,
+     120,
+     95,
+     105,
+     80,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "????V?S??",
+    "internal_name": "VS",
+    "registry_base_stats": [
+     50,
+     70,
+     60,
+     55,
+     50,
+     55
+    ],
+    "this_rom_base_stats": [
+     85,
+     125,
+     100,
+     135,
+     80,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?D????",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     35,
+     45,
+     40,
+     40,
+     35,
+     35
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?D???D??",
+    "internal_name": "DD",
+    "registry_base_stats": [
+     50,
+     52,
+     48,
+     55,
+     70,
+     70
+    ],
+    "this_rom_base_stats": [
+     60,
+     75,
+     65,
+     70,
+     45,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???U??????",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     95,
+     115,
+     100,
+     85,
+     70,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?H??????",
+    "internal_name": "H",
+    "registry_base_stats": [
+     60,
+     70,
+     80,
+     55,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     80,
+     90,
+     80,
+     75,
+     60,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?b?%??",
+    "internal_name": "B",
+    "registry_base_stats": [
+     60,
+     65,
+     50,
+     45,
+     40,
+     60
+    ],
+    "this_rom_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?d????",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     60,
+     90,
+     85,
+     80,
+     60,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???9??",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     65,
+     50,
+     65,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???9??",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     75,
+     90,
+     80,
+     65,
+     80,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???f??????",
+    "internal_name": "F",
+    "registry_base_stats": [
+     90,
+     130,
+     135,
+     80,
+     110,
+     85
+    ],
+    "this_rom_base_stats": [
+     100,
+     105,
+     110,
+     85,
+     130,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???f??????",
+    "internal_name": "F",
+    "registry_base_stats": [
+     90,
+     130,
+     135,
+     80,
+     110,
+     85
+    ],
+    "this_rom_base_stats": [
+     100,
+     105,
+     90,
+     95,
+     130,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????D???D",
+    "internal_name": "DD",
+    "registry_base_stats": [
+     50,
+     52,
+     48,
+     55,
+     70,
+     70
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     80,
+     85,
+     55,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     50,
+     75,
+     65,
+     60,
+     50,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?=?S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     70,
+     70,
+     80,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???f?\u2019????",
+    "internal_name": "F",
+    "registry_base_stats": [
+     90,
+     130,
+     135,
+     80,
+     110,
+     85
+    ],
+    "this_rom_base_stats": [
+     100,
+     130,
+     110,
+     85,
+     110,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???p??",
+    "internal_name": "P",
+    "registry_base_stats": [
+     43,
+     42,
+     40,
+     30,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     50,
+     75,
+     60,
+     65,
+     55,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     60,
+     50,
+     55,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?)?????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     80,
+     65,
+     70,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     75,
+     90,
+     85,
+     70,
+     60,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????D???D",
+    "internal_name": "DD",
+    "registry_base_stats": [
+     50,
+     52,
+     48,
+     55,
+     70,
+     70
+    ],
+    "this_rom_base_stats": [
+     95,
+     120,
+     100,
+     105,
+     95,
+     95
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???9??",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     90,
+     110,
+     90,
+     90,
+     70,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     65,
+     90,
+     80,
+     80,
+     70,
+     65
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???O?(??",
+    "internal_name": "O",
+    "registry_base_stats": [
+     80,
+     90,
+     65,
+     60,
+     65,
+     85
+    ],
+    "this_rom_base_stats": [
+     65,
+     80,
+     70,
+     70,
+     90,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???Y??????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     80,
+     80,
+     90,
+     60,
+     60,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???t??????",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     90,
+     110,
+     90,
+     80,
+     80,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????v??",
+    "internal_name": "V",
+    "registry_base_stats": [
+     85,
+     120,
+     100,
+     105,
+     75,
+     75
+    ],
+    "this_rom_base_stats": [
+     110,
+     90,
+     85,
+     80,
+     70,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???O?S??",
+    "internal_name": "OS",
+    "registry_base_stats": [
+     55,
+     65,
+     55,
+     55,
+     60,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     75,
+     75,
+     65,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????O?S??",
+    "internal_name": "OS",
+    "registry_base_stats": [
+     55,
+     65,
+     55,
+     55,
+     60,
+     55
+    ],
+    "this_rom_base_stats": [
+     85,
+     110,
+     95,
+     85,
+     80,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?\u00d6????",
+    "internal_name": "\u00d6",
+    "registry_base_stats": [
+     70,
+     80,
+     65,
+     75,
+     85,
+     70
+    ],
+    "this_rom_base_stats": [
+     90,
+     100,
+     90,
+     90,
+     110,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???t????",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     70,
+     80,
+     70,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     70,
+     70,
+     70,
+     70,
+     90,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???t??",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?m???S??",
+    "internal_name": "MS",
+    "registry_base_stats": [
+     90,
+     90,
+     85,
+     85,
+     110,
+     100
+    ],
+    "this_rom_base_stats": [
+     100,
+     120,
+     145,
+     100,
+     125,
+     145
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???\u00c4?S??",
+    "internal_name": "\u00c4S",
+    "registry_base_stats": [
+     55,
+     70,
+     65,
+     70,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     65,
+     55,
+     45,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     85,
+     70,
+     65,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     100,
+     135,
+     110,
+     90,
+     80,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?9????????",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     100,
+     150,
+     150,
+     150,
+     180,
+     180
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     55,
+     75,
+     60,
+     55,
+     50,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?o???S??",
+    "internal_name": "OS",
+    "registry_base_stats": [
+     55,
+     65,
+     55,
+     55,
+     60,
+     55
+    ],
+    "this_rom_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     60,
+     75,
+     60,
+     50,
+     55,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     95,
+     80,
+     65,
+     70,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????t??",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     88,
+     77,
+     65,
+     60,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????t??",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     90,
+     115,
+     100,
+     75,
+     70,
+     95
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?9????",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     80,
+     90,
+     85,
+     65,
+     60,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?x????",
+    "internal_name": "X",
+    "registry_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "this_rom_base_stats": [
+     105,
+     125,
+     110,
+     105,
+     80,
+     95
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????t??",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     50,
+     68,
+     57,
+     60,
+     50,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     60,
+     60,
+     50,
+     60,
+     70,
+     50
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???c????",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     100,
+     110,
+     100,
+     105,
+     140,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?c????X",
+    "internal_name": "CX",
+    "registry_base_stats": [
+     110,
+     125,
+     110,
+     105,
+     80,
+     105
+    ],
+    "this_rom_base_stats": [
+     100,
+     120,
+     100,
+     105,
+     140,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????y?\u00f6??",
+    "internal_name": "Y\u00d6",
+    "registry_base_stats": [
+     50,
+     65,
+     50,
+     60,
+     70,
+     55
+    ],
+    "this_rom_base_stats": [
+     80,
+     120,
+     100,
+     80,
+     105,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????\u00f6??",
+    "internal_name": "\u00d6",
+    "registry_base_stats": [
+     70,
+     80,
+     65,
+     75,
+     85,
+     70
+    ],
+    "this_rom_base_stats": [
+     90,
+     110,
+     90,
+     90,
+     115,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?c????",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     85,
+     105,
+     85,
+     85,
+     115,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???d??",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     120,
+     100,
+     80,
+     70,
+     70,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?p????",
+    "internal_name": "P",
+    "registry_base_stats": [
+     43,
+     42,
+     40,
+     30,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     80,
+     90,
+     80,
+     60,
+     75,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????p????",
+    "internal_name": "P",
+    "registry_base_stats": [
+     43,
+     42,
+     40,
+     30,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     100,
+     125,
+     110,
+     110,
+     70,
+     95
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???(???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     90,
+     110,
+     100,
+     85,
+     80,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?e????",
+    "internal_name": "E",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     35,
+     43,
+     42
+    ],
+    "this_rom_base_stats": [
+     72,
+     88,
+     75,
+     65,
+     60,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?9?)??",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     105,
+     125,
+     105,
+     90,
+     75,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????D??",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     90,
+     110,
+     95,
+     95,
+     70,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????D??",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     110,
+     140,
+     120,
+     105,
+     90,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????)??X",
+    "internal_name": "X",
+    "registry_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "this_rom_base_stats": [
+     100,
+     140,
+     120,
+     100,
+     90,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???(?0??",
+    "internal_name": "N0",
+    "registry_base_stats": [
+     52,
+     68,
+     50,
+     50,
+     50,
+     60
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     75,
+     80,
+     65,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????????O",
+    "internal_name": "O",
+    "registry_base_stats": [
+     80,
+     90,
+     65,
+     60,
+     65,
+     85
+    ],
+    "this_rom_base_stats": [
+     90,
+     100,
+     140,
+     80,
+     95,
+     140
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???c?(??",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     120,
+     130,
+     110,
+     110,
+     80,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?U????",
+    "internal_name": "U",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     45,
+     40
+    ],
+    "this_rom_base_stats": [
+     75,
+     75,
+     65,
+     65,
+     90,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???E?(??",
+    "internal_name": "E",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     35,
+     43,
+     42
+    ],
+    "this_rom_base_stats": [
+     110,
+     130,
+     110,
+     95,
+     100,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     80,
+     90,
+     80,
+     65,
+     65,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???s??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     90,
+     120,
+     100,
+     105,
+     80,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???y?\u00f6??",
+    "internal_name": "Y\u00d6",
+    "registry_base_stats": [
+     50,
+     65,
+     50,
+     60,
+     70,
+     55
+    ],
+    "this_rom_base_stats": [
+     80,
+     100,
+     90,
+     85,
+     130,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????D?p?p",
+    "internal_name": "DPP",
+    "registry_base_stats": [
+     55,
+     70,
+     55,
+     70,
+     55,
+     55
+    ],
+    "this_rom_base_stats": [
+     85,
+     115,
+     90,
+     100,
+     80,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?X????",
+    "internal_name": "X",
+    "registry_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "this_rom_base_stats": [
+     50,
+     70,
+     65,
+     50,
+     50,
+     65
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???5?S??",
+    "internal_name": "N5S",
+    "registry_base_stats": [
+     105,
+     130,
+     125,
+     80,
+     80,
+     95
+    ],
+    "this_rom_base_stats": [
+     110,
+     150,
+     125,
+     90,
+     90,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?\u2019?G????",
+    "internal_name": "G",
+    "registry_base_stats": [
+     48,
+     72,
+     48,
+     48,
+     72,
+     48
+    ],
+    "this_rom_base_stats": [
+     80,
+     90,
+     80,
+     70,
+     60,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???9??????",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     60,
+     60,
+     50,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?v???S??",
+    "internal_name": "VS",
+    "registry_base_stats": [
+     50,
+     70,
+     60,
+     55,
+     50,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     93,
+     75,
+     70,
+     70,
+     72
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?p?S?)??",
+    "internal_name": "PS",
+    "registry_base_stats": [
+     80,
+     88,
+     80,
+     82,
+     60,
+     60
+    ],
+    "this_rom_base_stats": [
+     100,
+     110,
+     105,
+     85,
+     70,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???9??????",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     60,
+     60,
+     50,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?K????",
+    "internal_name": "K",
+    "registry_base_stats": [
+     70,
+     90,
+     70,
+     70,
+     90,
+     70
+    ],
+    "this_rom_base_stats": [
+     70,
+     85,
+     70,
+     70,
+     70,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?Z??????",
+    "internal_name": "Z",
+    "registry_base_stats": [
+     80,
+     120,
+     100,
+     80,
+     80,
+     100
+    ],
+    "this_rom_base_stats": [
+     85,
+     115,
+     100,
+     80,
+     75,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???t????",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     100,
+     105,
+     105,
+     100,
+     150,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???y?\u00f6??",
+    "internal_name": "Y\u00d6",
+    "registry_base_stats": [
+     50,
+     65,
+     50,
+     60,
+     70,
+     55
+    ],
+    "this_rom_base_stats": [
+     90,
+     90,
+     90,
+     90,
+     100,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???z??",
+    "internal_name": "Z",
+    "registry_base_stats": [
+     80,
+     120,
+     100,
+     80,
+     80,
+     100
+    ],
+    "this_rom_base_stats": [
+     75,
+     75,
+     75,
+     60,
+     90,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???T??",
+    "internal_name": "T",
+    "registry_base_stats": [
+     55,
+     55,
+     55,
+     60,
+     65,
+     55
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     70,
+     80,
+     62,
+     78
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????D??",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     100,
+     130,
+     100,
+     110,
+     100,
+     105
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???I????",
+    "internal_name": "I",
+    "registry_base_stats": [
+     95,
+     120,
+     105,
+     110,
+     75,
+     95
+    ],
+    "this_rom_base_stats": [
+     110,
+     125,
+     105,
+     95,
+     110,
+     105
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?y????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     55,
+     70,
+     55,
+     60,
+     50,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     55,
+     75,
+     65,
+     60,
+     50,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?R???S??",
+    "internal_name": "RS",
+    "registry_base_stats": [
+     50,
+     70,
+     60,
+     70,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     75,
+     95,
+     80,
+     70,
+     65,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?)?S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     110,
+     145,
+     130,
+     110,
+     100,
+     125
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???t?D??",
+    "internal_name": "TD",
+    "registry_base_stats": [
+     60,
+     90,
+     95,
+     65,
+     60,
+     80
+    ],
+    "this_rom_base_stats": [
+     55,
+     75,
+     60,
+     60,
+     50,
+     60
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???t???S??",
+    "internal_name": "TS",
+    "registry_base_stats": [
+     80,
+     95,
+     60,
+     80,
+     60,
+     75
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     80,
+     70,
+     75,
+     80
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???t???S??",
+    "internal_name": "TS",
+    "registry_base_stats": [
+     80,
+     95,
+     60,
+     80,
+     60,
+     75
+    ],
+    "this_rom_base_stats": [
+     120,
+     145,
+     135,
+     100,
+     100,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????D??",
+    "internal_name": "D",
+    "registry_base_stats": [
+     30,
+     45,
+     35,
+     42,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     105,
+     130,
+     115,
+     110,
+     115,
+     105
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S????",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     105,
+     130,
+     115,
+     100,
+     100,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???c????",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     120,
+     150,
+     130,
+     120,
+     150,
+     130
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????y?\u00f6",
+    "internal_name": "Y\u00d6",
+    "registry_base_stats": [
+     50,
+     65,
+     50,
+     60,
+     70,
+     55
+    ],
+    "this_rom_base_stats": [
+     100,
+     100,
+     100,
+     100,
+     150,
+     130
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????y?\u00f6",
+    "internal_name": "Y\u00d6",
+    "registry_base_stats": [
+     50,
+     65,
+     50,
+     60,
+     70,
+     55
+    ],
+    "this_rom_base_stats": [
+     100,
+     130,
+     100,
+     100,
+     150,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?Y?)??????",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     100,
+     130,
+     110,
+     105,
+     95,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     75,
+     90,
+     80,
+     75,
+     65,
+     65
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     100,
+     120,
+     100,
+     95,
+     85,
+     85
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?I??????",
+    "internal_name": "I",
+    "registry_base_stats": [
+     95,
+     120,
+     105,
+     110,
+     75,
+     95
+    ],
+    "this_rom_base_stats": [
+     130,
+     155,
+     130,
+     110,
+     145,
+     130
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?Y?????:??",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     105,
+     135,
+     115,
+     95,
+     100,
+     115
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?A?)??",
+    "internal_name": "A",
+    "registry_base_stats": [
+     70,
+     90,
+     90,
+     60,
+     60,
+     65
+    ],
+    "this_rom_base_stats": [
+     105,
+     140,
+     110,
+     100,
+     100,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????H????",
+    "internal_name": "H",
+    "registry_base_stats": [
+     60,
+     70,
+     80,
+     55,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     100,
+     135,
+     115,
+     95,
+     95,
+     115
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???????S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     105,
+     125,
+     115,
+     95,
+     85,
+     110
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     110,
+     100,
+     90,
+     100,
+     130,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?C????",
+    "internal_name": "C",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     25,
+     25
+    ],
+    "this_rom_base_stats": [
+     100,
+     100,
+     100,
+     100,
+     130,
+     120
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???9??",
+    "internal_name": "N9",
+    "registry_base_stats": [
+     60,
+     70,
+     60,
+     65,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     130,
+     100,
+     100,
+     100,
+     120,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???S??",
+    "internal_name": "S",
+    "registry_base_stats": [
+     65,
+     70,
+     75,
+     60,
+     45,
+     55
+    ],
+    "this_rom_base_stats": [
+     150,
+     180,
+     130,
+     120,
+     150,
+     130
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???p????",
+    "internal_name": "P",
+    "registry_base_stats": [
+     43,
+     42,
+     40,
+     30,
+     35,
+     35
+    ],
+    "this_rom_base_stats": [
+     120,
+     125,
+     105,
+     100,
+     90,
+     100
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????l?e??",
+    "internal_name": "LE",
+    "registry_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "this_rom_base_stats": [
+     65,
+     70,
+     65,
+     60,
+     50,
+     55
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????l?e??",
+    "internal_name": "LE",
+    "registry_base_stats": [
+     40,
+     45,
+     40,
+     40,
+     40,
+     40
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     80,
+     80,
+     65,
+     70
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???H?S??",
+    "internal_name": "HS",
+    "registry_base_stats": [
+     70,
+     90,
+     75,
+     75,
+     65,
+     75
+    ],
+    "this_rom_base_stats": [
+     65,
+     85,
+     90,
+     70,
+     70,
+     90
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????t???S",
+    "internal_name": "TS",
+    "registry_base_stats": [
+     80,
+     95,
+     60,
+     80,
+     60,
+     75
+    ],
+    "this_rom_base_stats": [
+     70,
+     90,
+     80,
+     75,
+     70,
+     75
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????t???S",
+    "internal_name": "TS",
+    "registry_base_stats": [
+     80,
+     95,
+     60,
+     80,
+     60,
+     75
+    ],
+    "this_rom_base_stats": [
+     120,
+     150,
+     130,
+     100,
+     100,
+     130
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????S?9??",
+    "internal_name": "S9",
+    "registry_base_stats": [
+     160,
+     180,
+     150,
+     110,
+     150,
+     150
+    ],
+    "this_rom_base_stats": [
+     150,
+     180,
+     150,
+     130,
+     150,
+     150
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "???e??????",
+    "internal_name": "E",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     35,
+     43,
+     42
+    ],
+    "this_rom_base_stats": [
+     255,
+     255,
+     255,
+     180,
+     180,
+     180
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   },
+   {
+    "species": "?????y??",
+    "internal_name": "Y",
+    "registry_base_stats": [
+     80,
+     98,
+     80,
+     69,
+     68,
+     75
+    ],
+    "this_rom_base_stats": [
+     150,
+     150,
+     150,
+     150,
+     150,
+     150
+    ],
+    "registry_sources": [
+     "DigimonGreyPort"
+    ]
+   }
+  ],
+  "type_fallbacks": [],
+  "identity_matches": [],
+  "sprites_needed": 133,
+  "sprites_extracted": 133,
+  "evolutions": {
+   "resolved": 39,
+   "skipped_method": 132,
+   "skipped_species": 39,
+   "skipped_item": 5
+  },
+  "gaps": [
+   "trainers: trainerbattle opcodes now emit a real pbTrainerBattle call resolved via trainer_key (class, name, version); only double vs. single battle is inferred (tb_type==2), the other 9 GBA type bytes' extra semantics (e.g. tag partners, silhouette reveals) are not modeled",
+   "items: GBA item ids are resolved to Essentials InternalNames by reading each item's name straight out of the ROM's own item table (handles hack-renamed items, e.g. DBZ Team Training's 'Golden Caps.' for Master Ball) and matching it against vanilla + other mods' items.txt; additem/removeitem/pokemart use the real Essentials call for resolved ids -- items with no existing PBS match (genuinely new, hack-only items) have no stats/pocket/price/icon minting pipeline yet and fall back to a comment stub for just those ids (see items.unresolved count)",
+   "sprites: front battler art (spritesheets_base/{dex}.png) is extracted from the ROM's own pic+palette tables when both are structurally located (see sprites_extracted vs sprites_needed); icon sprites and the back-sprite table are not resolved -- icon-table candidates found by structural scan were indistinguishable/false-positive on the one ROM tried, and back-sprite art has no confirmed in-game consumer for a fused species -- ROM-hack originals also have no pokemondb.net source",
+   "abilities: a new ability (no name match to an existing PBS ability) gets a real PBS entry -- name + flavor description -- but no battle effect. Confirmed (ck32) this is a permanent Gen3 data-model limit, not an unbuilt feature: unlike moves' per-move effect byte or the evolution method field, vanilla Gen3 has no ability-effect table at all -- behavior is scattered ad-hoc engine checks, not decodable data -- so there's no ROM to extract this from on any hack, ever; see abilities.no_effect_handler count"
+  ],
+  "id_ranges": {
+   "species": [
+    60000,
+    603370
+   ],
+   "moves": [
+    60143,
+    60144
+   ],
+   "abilities": [
+    60014,
+    60051
+   ],
+   "trainertype_id_base": 10300000,
+   "trainer_id_base": 13300000
+  },
+  "species_sym": {
+   "2": "S",
+   "3": "S",
+   "4": "S",
+   "5": "YS",
+   "6": "PGS",
+   "9": "Y",
+   "12": "PS",
+   "13": "C",
+   "14": "S",
+   "15": "S",
+   "18": "BU",
+   "19": "D",
+   "24": "Y",
+   "26": "R",
+   "28": "H",
+   "30": "T",
+   "31": "Y",
+   "32": "U",
+   "33": "Y\u00d6",
+   "34": "MY\u00d6",
+   "35": "Y",
+   "36": "DP",
+   "37": "R",
+   "39": "Y",
+   "40": "N9",
+   "43": "P",
+   "44": "Y",
+   "45": "\u00d6",
+   "47": "\u00dc",
+   "48": "H",
+   "54": "DD",
+   "57": "D",
+   "58": "C",
+   "59": "C",
+   "63": "UNKNOWN850",
+   "64": "N3I",
+   "67": "P",
+   "68": "P",
+   "72": "N0",
+   "73": "O",
+   "75": "A",
+   "76": "F",
+   "77": "U",
+   "78": "UU",
+   "85": "V",
+   "87": "OP",
+   "88": "V",
+   "89": "V",
+   "90": "A",
+   "91": "A",
+   "93": "U",
+   "95": "RS",
+   "96": "CQ",
+   "97": "C",
+   "98": "SJ",
+   "99": "TD",
+   "102": "N",
+   "104": "R",
+   "105": "N",
+   "108": "SEX",
+   "109": "Y",
+   "111": "S",
+   "112": "S",
+   "113": "\u00c4",
+   "115": "S",
+   "116": "A",
+   "117": "U",
+   "119": "C",
+   "122": "U",
+   "125": "S",
+   "127": "D",
+   "129": "E",
+   "130": "OS",
+   "131": "O9",
+   "132": "K",
+   "133": "V",
+   "134": "RO",
+   "135": "S",
+   "136": "N4U",
+   "137": "S",
+   "138": "SD",
+   "139": "E",
+   "141": "UP",
+   "142": "TS",
+   "144": "U",
+   "145": "U",
+   "146": "VU",
+   "147": "\u00c4S",
+   "148": "S",
+   "149": "S",
+   "150": "N9",
+   "151": "N9",
+   "152": "DC",
+   "153": "DPP",
+   "154": "DPP",
+   "155": "VEX",
+   "156": "HS",
+   "157": "S",
+   "158": "VS",
+   "159": "YVS",
+   "160": "VS",
+   "161": "D",
+   "162": "DD",
+   "163": "N6",
+   "164": "\u00dcS",
+   "166": "U",
+   "167": "B",
+   "169": "H",
+   "171": "CS",
+   "175": "B",
+   "176": "D",
+   "178": "N9U",
+   "179": "N9",
+   "180": "N9",
+   "181": "F",
+   "184": "F",
+   "185": "DD",
+   "186": "S",
+   "187": "M",
+   "188": "S",
+   "189": "F",
+   "192": "N0S",
+   "196": "FDPP",
+   "197": "P",
+   "198": "AP",
+   "199": "FP",
+   "200": "J",
+   "201": "G",
+   "206": "S",
+   "207": "S",
+   "208": "S",
+   "209": "DD",
+   "210": "TDD",
+   "211": "N9",
+   "213": "S",
+   "214": "YD",
+   "215": "O",
+   "219": "Y",
+   "221": "T",
+   "222": "V",
+   "223": "OS",
+   "224": "OS",
+   "226": "PL",
+   "227": "\u00d6",
+   "228": "T",
+   "230": "VOS",
+   "231": "Y",
+   "232": "US",
+   "233": "CO",
+   "234": "MS",
+   "235": "XP",
+   "236": "X",
+   "238": "LE",
+   "239": "SN",
+   "240": "T",
+   "242": "UMY",
+   "244": "IE",
+   "245": "MS",
+   "246": "\u00c4S",
+   "247": "S",
+   "248": "S",
+   "250": "S9",
+   "251": "N9",
+   "277": "S",
+   "278": "S",
+   "279": "W6S",
+   "280": "OS",
+   "281": "DXS",
+   "282": "ZRS",
+   "284": "S",
+   "285": "S",
+   "286": "T",
+   "287": "T",
+   "288": "N9",
+   "289": "X",
+   "290": "LL",
+   "292": "N9\u00d6",
+   "293": "I",
+   "296": "CX",
+   "297": "Y9",
+   "298": "T",
+   "301": "ZZ",
+   "302": "Z",
+   "303": "Y\u00d6Z",
+   "304": "Y",
+   "306": "C",
+   "307": "CX",
+   "308": "Y\u00d6",
+   "310": "RP",
+   "311": "\u00d6",
+   "312": "C",
+   "317": "D",
+   "318": "P",
+   "319": "P",
+   "320": "W",
+   "321": "FS",
+   "322": "S",
+   "323": "E",
+   "324": "N9",
+   "326": "D",
+   "327": "D",
+   "329": "X",
+   "330": "N0",
+   "331": "O",
+   "334": "C",
+   "335": "U",
+   "336": "E",
+   "339": "S",
+   "340": "N5S",
+   "343": "FY1",
+   "347": "S",
+   "348": "SX",
+   "349": "DXDPP",
+   "350": "OY\u00d6",
+   "351": "NY\u00d6",
+   "352": "Y\u00d6",
+   "355": "DPP",
+   "357": "N8",
+   "358": "X",
+   "360": "N5S",
+   "361": "G",
+   "365": "N9",
+   "367": "VS",
+   "368": "N3S",
+   "369": "PS",
+   "371": "N9",
+   "374": "UNKNOWN850",
+   "375": "N3BM",
+   "377": "K",
+   "378": "Z",
+   "379": "T",
+   "380": "Y\u00d6",
+   "383": "Z",
+   "384": "F\u00c4",
+   "388": "T",
+   "389": "D",
+   "391": "I",
+   "392": "Y",
+   "394": "FQ",
+   "395": "S",
+   "396": "RS",
+   "397": "S",
+   "398": "TD",
+   "399": "TS",
+   "400": "TS",
+   "401": "D",
+   "402": "S",
+   "403": "UNKNOWN850",
+   "405": "NO",
+   "406": "C",
+   "407": "Y\u00d6",
+   "408": "Y\u00d6",
+   "410": "N5",
+   "411": "Y",
+   "440": "S",
+   "441": "S",
+   "442": "J5",
+   "443": "I",
+   "444": "Y",
+   "447": "A",
+   "449": "ES",
+   "450": "KH",
+   "451": "H",
+   "452": "N6H",
+   "453": "S",
+   "454": "N53",
+   "455": "S",
+   "457": "C",
+   "458": "N9",
+   "459": "S",
+   "460": "P",
+   "461": "LE",
+   "462": "LE",
+   "464": "HS",
+   "465": "HSX",
+   "466": "LS",
+   "467": "N3DPP",
+   "468": "TS",
+   "469": "TS",
+   "471": "N0XU",
+   "473": "BM",
+   "474": "DX",
+   "475": "S9",
+   "476": "N3X",
+   "477": "R3",
+   "478": "L",
+   "479": "N9S",
+   "480": "N9SBM",
+   "481": "X2",
+   "482": "X3",
+   "483": "X4",
+   "484": "X5",
+   "485": "X7",
+   "486": "N0W6S",
+   "490": "N9Y",
+   "491": "ME",
+   "492": "E",
+   "494": "Y",
+   "495": "FL",
+   "496": "TFL",
+   "497": "N5FL",
+   "498": "X7BM"
+  },
+  "trainer_key": {
+   "89": [
+    "CLASS_57",
+    "?en?",
+    0
+   ],
+   "91": [
+    "CLASS_57",
+    "?osh",
+    0
+   ],
+   "93": [
+    "CLASS_57",
+    "?oey",
+    0
+   ],
+   "94": [
+    "CLASS_57",
+    "?an?",
+    0
+   ],
+   "95": [
+    "CLASS_57",
+    "?had",
+    0
+   ],
+   "96": [
+    "CLASS_57",
+    "?yler",
+    0
+   ],
+   "98": [
+    "CLASS_57",
+    "?illon",
+    0
+   ],
+   "99": [
+    "CLASS_57",
+    "?asu",
+    0
+   ],
+   "100": [
+    "CLASS_57",
+    "?ave",
+    0
+   ],
+   "101": [
+    "CLASS_57",
+    "?en?",
+    0
+   ],
+   "102": [
+    "CLASS_58",
+    "?ick",
+    0
+   ],
+   "103": [
+    "CLASS_58",
+    "?oug",
+    0
+   ],
+   "104": [
+    "CLASS_58",
+    "?ammy",
+    0
+   ],
+   "105": [
+    "CLASS_58",
+    "?olton",
+    0
+   ],
+   "106": [
+    "CLASS_58",
+    "?reg",
+    0
+   ],
+   "107": [
+    "CLASS_58",
+    "?ames",
+    0
+   ],
+   "108": [
+    "CLASS_58",
+    "?ent",
+    0
+   ],
+   "109": [
+    "CLASS_58",
+    "?obby",
+    0
+   ],
+   "110": [
+    "CLASS_58",
+    "?ale",
+    0
+   ],
+   "111": [
+    "CLASS_58",
+    "?eigo",
+    0
+   ],
+   "114": [
+    "CLASS_58",
+    "?rent",
+    0
+   ],
+   "117": [
+    "CLASS_59",
+    "?ally",
+    0
+   ],
+   "120": [
+    "CLASS_59",
+    "?iriam",
+    0
+   ],
+   "121": [
+    "CLASS_59",
+    "?ris",
+    0
+   ],
+   "122": [
+    "CLASS_59",
+    "?eli",
+    0
+   ],
+   "123": [
+    "CLASS_59",
+    "?li\u00f6",
+    0
+   ],
+   "125": [
+    "CLASS_59",
+    "?aley",
+    0
+   ],
+   "126": [
+    "CLASS_59",
+    "?nn\u00f6",
+    0
+   ],
+   "127": [
+    "CLASS_59",
+    "?awn",
+    0
+   ],
+   "128": [
+    "CLASS_59",
+    "?aige",
+    0
+   ],
+   "130": [
+    "CLASS_59",
+    "?egan",
+    0
+   ],
+   "131": [
+    "CLASS_59",
+    "?ulia",
+    0
+   ],
+   "133": [
+    "CLASS_59",
+    "?isa",
+    0
+   ],
+   "134": [
+    "CLASS_60",
+    "?dmond",
+    0
+   ],
+   "135": [
+    "CLASS_60",
+    "?revor",
+    0
+   ],
+   "136": [
+    "CLASS_60",
+    "?eonard",
+    0
+   ],
+   "137": [
+    "CLASS_60",
+    "?uncan",
+    0
+   ],
+   "138": [
+    "CLASS_60",
+    "?uey",
+    0
+   ],
+   "139": [
+    "CLASS_60",
+    "?ylan",
+    0
+   ],
+   "140": [
+    "CLASS_60",
+    "?hillip",
+    0
+   ],
+   "142": [
+    "CLASS_61",
+    "?iam",
+    0
+   ],
+   "143": [
+    "CLASS_61",
+    "?hane",
+    0
+   ],
+   "144": [
+    "CLASS_61",
+    "?than",
+    0
+   ],
+   "146": [
+    "CLASS_61",
+    "?eff",
+    0
+   ],
+   "148": [
+    "CLASS_61",
+    "?hris",
+    0
+   ],
+   "149": [
+    "CLASS_61",
+    "?rew",
+    0
+   ],
+   "152": [
+    "CLASS_62",
+    "?sabelle",
+    0
+   ],
+   "153": [
+    "CLASS_62",
+    "?elsey",
+    0
+   ],
+   "154": [
+    "CLASS_62",
+    "?licia",
+    0
+   ],
+   "156": [
+    "CLASS_62",
+    "?eidi?",
+    0
+   ],
+   "157": [
+    "CLASS_62",
+    "?arol",
+    0
+   ],
+   "158": [
+    "CLASS_62",
+    "?ofia?",
+    0
+   ],
+   "159": [
+    "CLASS_62",
+    "?artha",
+    0
+   ],
+   "160": [
+    "CLASS_62",
+    "?ina",
+    0
+   ],
+   "161": [
+    "CLASS_62",
+    "?annah",
+    0
+   ],
+   "162": [
+    "CLASS_63",
+    "?ark",
+    0
+   ],
+   "164": [
+    "CLASS_63",
+    "?ooper",
+    0
+   ],
+   "166": [
+    "CLASS_63",
+    "?inston",
+    0
+   ],
+   "167": [
+    "CLASS_63",
+    "?awson",
+    0
+   ],
+   "171": [
+    "CLASS_64",
+    "?idan",
+    0
+   ],
+   "172": [
+    "CLASS_64",
+    "?lenn",
+    0
+   ],
+   "173": [
+    "CLASS_64",
+    "?eslie",
+    0
+   ],
+   "177": [
+    "CLASS_64",
+    "?rik",
+    0
+   ],
+   "178": [
+    "CLASS_64",
+    "?very",
+    0
+   ],
+   "179": [
+    "CLASS_64",
+    "?erek",
+    0
+   ],
+   "180": [
+    "CLASS_64",
+    "?ac?",
+    0
+   ],
+   "181": [
+    "CLASS_65",
+    "?arcos",
+    0
+   ],
+   "182": [
+    "CLASS_65",
+    "?ranklin",
+    0
+   ],
+   "183": [
+    "CLASS_65",
+    "?ob?",
+    0
+   ],
+   "184": [
+    "CLASS_65",
+    "?ayne",
+    0
+   ],
+   "186": [
+    "CLASS_65",
+    "?rice",
+    0
+   ],
+   "188": [
+    "CLASS_65",
+    "?rent",
+    0
+   ],
+   "191": [
+    "CLASS_65",
+    "?ric",
+    0
+   ],
+   "192": [
+    "CLASS_65",
+    "?enny",
+    0
+   ],
+   "193": [
+    "CLASS_65",
+    "?liver",
+    0
+   ],
+   "195": [
+    "CLASS_66",
+    "?ared",
+    0
+   ],
+   "196": [
+    "CLASS_66",
+    "?alik",
+    0
+   ],
+   "197": [
+    "CLASS_66",
+    "?rnest",
+    0
+   ],
+   "198": [
+    "CLASS_66",
+    "?lex",
+    0
+   ],
+   "199": [
+    "CLASS_66",
+    "?ao?",
+    0
+   ],
+   "202": [
+    "CLASS_66",
+    "?uben",
+    0
+   ],
+   "203": [
+    "CLASS_66",
+    "?illy",
+    0
+   ],
+   "205": [
+    "CLASS_66",
+    "?axon",
+    0
+   ],
+   "206": [
+    "CLASS_66",
+    "?illiam",
+    0
+   ],
+   "207": [
+    "CLASS_66",
+    "?ukas",
+    0
+   ],
+   "208": [
+    "CLASS_66",
+    "?saac",
+    0
+   ],
+   "209": [
+    "CLASS_66",
+    "?erald",
+    0
+   ],
+   "213": [
+    "CLASS_67",
+    "?uinn",
+    0
+   ],
+   "214": [
+    "CLASS_67",
+    "?amon",
+    0
+   ],
+   "216": [
+    "CLASS_67",
+    "?rnie",
+    0
+   ],
+   "218": [
+    "CLASS_67",
+    "?imon",
+    0
+   ],
+   "219": [
+    "CLASS_67",
+    "?ewis",
+    0
+   ],
+   "220": [
+    "CLASS_68",
+    "?aily",
+    0
+   ],
+   "221": [
+    "CLASS_68",
+    "?raxton",
+    0
+   ],
+   "222": [
+    "CLASS_68",
+    "?ernie",
+    0
+   ],
+   "223": [
+    "CLASS_69",
+    "?ale",
+    0
+   ],
+   "224": [
+    "CLASS_69",
+    "?arny",
+    0
+   ],
+   "225": [
+    "CLASS_69",
+    "?ed\u00dc",
+    0
+   ],
+   "226": [
+    "CLASS_69",
+    "?hip",
+    0
+   ],
+   "227": [
+    "CLASS_69",
+    "?ank",
+    0
+   ],
+   "228": [
+    "CLASS_69",
+    "?lliot",
+    0
+   ],
+   "229": [
+    "CLASS_69",
+    "?onald",
+    0
+   ],
+   "230": [
+    "CLASS_69",
+    "?laude",
+    0
+   ],
+   "231": [
+    "CLASS_69",
+    "?ade",
+    0
+   ],
+   "232": [
+    "CLASS_69",
+    "?olan",
+    0
+   ],
+   "233": [
+    "CLASS_69",
+    "?ndrew",
+    0
+   ],
+   "234": [
+    "CLASS_70",
+    "?uis",
+    0
+   ],
+   "235": [
+    "CLASS_70",
+    "?ichard",
+    0
+   ],
+   "236": [
+    "CLASS_70",
+    "?eece",
+    0
+   ],
+   "237": [
+    "CLASS_70",
+    "?atthew",
+    0
+   ],
+   "238": [
+    "CLASS_70",
+    "?ouglas",
+    0
+   ],
+   "239": [
+    "CLASS_70",
+    "?avid",
+    0
+   ],
+   "240": [
+    "CLASS_70",
+    "?ony",
+    0
+   ],
+   "241": [
+    "CLASS_70",
+    "?xle",
+    0
+   ],
+   "242": [
+    "CLASS_70",
+    "?arry",
+    0
+   ],
+   "243": [
+    "CLASS_70",
+    "?ean",
+    0
+   ],
+   "244": [
+    "CLASS_70",
+    "?arrin",
+    0
+   ],
+   "245": [
+    "CLASS_70",
+    "?pencer",
+    0
+   ],
+   "247": [
+    "CLASS_70",
+    "?erome",
+    0
+   ],
+   "248": [
+    "CLASS_70",
+    "?oland",
+    0
+   ],
+   "249": [
+    "CLASS_71",
+    "?oji",
+    0
+   ],
+   "250": [
+    "CLASS_71",
+    "?uke",
+    0
+   ],
+   "251": [
+    "CLASS_71",
+    "?amron",
+    0
+   ],
+   "252": [
+    "CLASS_71",
+    "?aul",
+    0
+   ],
+   "253": [
+    "CLASS_71",
+    "?saiah",
+    0
+   ],
+   "254": [
+    "CLASS_71",
+    "?eek",
+    0
+   ],
+   "255": [
+    "CLASS_71",
+    "?amal",
+    0
+   ],
+   "256": [
+    "CLASS_71",
+    "?orey",
+    0
+   ],
+   "257": [
+    "CLASS_71",
+    "?hase",
+    0
+   ],
+   "258": [
+    "CLASS_72",
+    "?ugo",
+    0
+   ],
+   "259": [
+    "CLASS_72",
+    "?asper",
+    0
+   ],
+   "261": [
+    "CLASS_72",
+    "?arian",
+    0
+   ],
+   "265": [
+    "CLASS_73",
+    "?ridget",
+    0
+   ],
+   "266": [
+    "CLASS_73",
+    "?amia",
+    0
+   ],
+   "267": [
+    "CLASS_73",
+    "?ori",
+    0
+   ],
+   "268": [
+    "CLASS_73",
+    "?ola",
+    0
+   ],
+   "269": [
+    "CLASS_73",
+    "?heila",
+    0
+   ],
+   "271": [
+    "CLASS_74",
+    "?ora",
+    0
+   ],
+   "272": [
+    "CLASS_74",
+    "?elissa",
+    0
+   ],
+   "273": [
+    "CLASS_73",
+    "?race",
+    0
+   ],
+   "274": [
+    "CLASS_73",
+    "?livia",
+    0
+   ],
+   "276": [
+    "CLASS_74",
+    "?nya",
+    0
+   ],
+   "277": [
+    "CLASS_74",
+    "?lice",
+    0
+   ],
+   "278": [
+    "CLASS_74",
+    "?onnie",
+    0
+   ],
+   "279": [
+    "CLASS_74",
+    "?hirley",
+    0
+   ],
+   "280": [
+    "CLASS_75",
+    "?ohan",
+    0
+   ],
+   "281": [
+    "CLASS_75",
+    "?yron",
+    0
+   ],
+   "282": [
+    "CLASS_75",
+    "?ameron",
+    0
+   ],
+   "283": [
+    "CLASS_75",
+    "?reston",
+    0
+   ],
+   "285": [
+    "CLASS_76",
+    "?uca",
+    0
+   ],
+   "286": [
+    "CLASS_77",
+    "?alton",
+    0
+   ],
+   "287": [
+    "CLASS_77",
+    "?elson",
+    0
+   ],
+   "288": [
+    "CLASS_77",
+    "?irk",
+    0
+   ],
+   "289": [
+    "CLASS_77",
+    "?hawn",
+    0
+   ],
+   "290": [
+    "CLASS_77",
+    "?regory",
+    0
+   ],
+   "291": [
+    "CLASS_77",
+    "?dward",
+    0
+   ],
+   "292": [
+    "CLASS_77",
+    "?ayden",
+    0
+   ],
+   "293": [
+    "CLASS_77",
+    "?ate",
+    0
+   ],
+   "294": [
+    "CLASS_78",
+    "?hil",
+    0
+   ],
+   "295": [
+    "CLASS_78",
+    "?dgar",
+    0
+   ],
+   "296": [
+    "CLASS_78",
+    "?ason",
+    0
+   ],
+   "297": [
+    "CLASS_78",
+    "?ole",
+    0
+   ],
+   "298": [
+    "CLASS_78",
+    "?incent",
+    0
+   ],
+   "299": [
+    "CLASS_78",
+    "?ohn",
+    0
+   ],
+   "301": [
+    "CLASS_79",
+    "?erry",
+    0
+   ],
+   "302": [
+    "CLASS_79",
+    "?obert",
+    0
+   ],
+   "304": [
+    "CLASS_79",
+    "?enny",
+    0
+   ],
+   "305": [
+    "CLASS_79",
+    "?dwin",
+    0
+   ],
+   "306": [
+    "CLASS_79",
+    "?hester",
+    0
+   ],
+   "309": [
+    "CLASS_79",
+    "?acob",
+    0
+   ],
+   "310": [
+    "CLASS_79",
+    "?oger",
+    0
+   ],
+   "314": [
+    "CLASS_79",
+    "?itch",
+    0
+   ],
+   "318": [
+    "CLASS_80",
+    "?ike",
+    0
+   ],
+   "319": [
+    "CLASS_80",
+    "?ideki",
+    0
+   ],
+   "320": [
+    "CLASS_80",
+    "?aron",
+    0
+   ],
+   "321": [
+    "CLASS_80",
+    "?itoshi",
+    0
+   ],
+   "322": [
+    "CLASS_80",
+    "?tsushi",
+    0
+   ],
+   "323": [
+    "CLASS_80",
+    "?iyo",
+    0
+   ],
+   "324": [
+    "CLASS_80",
+    "?akashi",
+    0
+   ],
+   "325": [
+    "CLASS_80",
+    "?aisuke",
+    0
+   ],
+   "332": [
+    "CLASS_81",
+    "????",
+    0
+   ],
+   "333": [
+    "CLASS_81",
+    "????",
+    0
+   ],
+   "334": [
+    "CLASS_81",
+    "????",
+    0
+   ],
+   "335": [
+    "CLASS_82",
+    "?ed?",
+    0
+   ],
+   "338": [
+    "CLASS_82",
+    "?ose",
+    0
+   ],
+   "340": [
+    "CLASS_82",
+    "?eau",
+    0
+   ],
+   "341": [
+    "CLASS_82",
+    "?aylor",
+    0
+   ],
+   "342": [
+    "CLASS_82",
+    "?oshua",
+    0
+   ],
+   "343": [
+    "CLASS_82",
+    "?arker",
+    0
+   ],
+   "344": [
+    "CLASS_82",
+    "?d??",
+    0
+   ],
+   "345": [
+    "CLASS_82",
+    "?ravis",
+    0
+   ],
+   "346": [
+    "CLASS_82",
+    "?raydon",
+    0
+   ],
+   "347": [
+    "CLASS_82",
+    "?van",
+    0
+   ],
+   "348": [
+    "CLASS_83",
+    "?iovanni",
+    0
+   ],
+   "349": [
+    "CLASS_83",
+    "?iovanni",
+    0
+   ],
+   "350": [
+    "CLASS_84",
+    "?iovanni",
+    0
+   ],
+   "351": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "352": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "354": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "355": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "356": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "358": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "360": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "361": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "362": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "363": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "364": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "365": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "366": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "367": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "368": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "369": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "370": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "371": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "372": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "374": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "375": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "376": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "377": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "378": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "379": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "380": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "381": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "382": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "383": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "384": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "385": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "386": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "387": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "388": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "390": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "391": [
+    "CLASS_85",
+    "?runt",
+    0
+   ],
+   "392": [
+    "CLASS_86",
+    "?amuel",
+    0
+   ],
+   "393": [
+    "CLASS_86",
+    "?eorge",
+    0
+   ],
+   "394": [
+    "CLASS_86",
+    "?olby",
+    0
+   ],
+   "395": [
+    "CLASS_86",
+    "?aul",
+    0
+   ],
+   "396": [
+    "CLASS_86",
+    "?olando",
+    0
+   ],
+   "397": [
+    "CLASS_86",
+    "?ilbert",
+    0
+   ],
+   "398": [
+    "CLASS_86",
+    "?wen",
+    0
+   ],
+   "399": [
+    "CLASS_86",
+    "?erke",
+    0
+   ],
+   "400": [
+    "CLASS_86",
+    "?uji",
+    0
+   ],
+   "401": [
+    "CLASS_86",
+    "????",
+    0
+   ],
+   "402": [
+    "CLASS_86",
+    "?\u00c4??",
+    0
+   ],
+   "403": [
+    "CLASS_86",
+    "?\u00d6??",
+    0
+   ],
+   "404": [
+    "CLASS_86",
+    "?q??",
+    0
+   ],
+   "405": [
+    "CLASS_86",
+    "??????",
+    0
+   ],
+   "406": [
+    "CLASS_86",
+    "???J??",
+    0
+   ],
+   "407": [
+    "CLASS_86",
+    "?????\u2026",
+    0
+   ],
+   "408": [
+    "CLASS_86",
+    "?h??",
+    0
+   ],
+   "409": [
+    "CLASS_86",
+    "?i?T",
+    0
+   ],
+   "410": [
+    "CLASS_87",
+    "????",
+    0
+   ],
+   "411": [
+    "CLASS_87",
+    "?Y??",
+    0
+   ],
+   "412": [
+    "CLASS_87",
+    "????",
+    0
+   ],
+   "413": [
+    "CLASS_87",
+    "??",
+    0
+   ],
+   "414": [
+    "CLASS_84",
+    "????",
+    0
+   ],
+   "415": [
+    "CLASS_84",
+    "???D",
+    0
+   ],
+   "416": [
+    "CLASS_84",
+    "???v??",
+    0
+   ],
+   "417": [
+    "CLASS_84",
+    "????",
+    0
+   ],
+   "418": [
+    "CLASS_84",
+    "????",
+    0
+   ],
+   "419": [
+    "CLASS_84",
+    "????",
+    0
+   ],
+   "420": [
+    "CLASS_84",
+    "???9",
+    0
+   ],
+   "421": [
+    "CLASS_88",
+    "???Z?e",
+    0
+   ],
+   "422": [
+    "CLASS_88",
+    "?v?(",
+    0
+   ],
+   "425": [
+    "CLASS_88",
+    "???O?e",
+    0
+   ],
+   "426": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "427": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "428": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "429": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "430": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "431": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "432": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "433": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "434": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "435": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "436": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "437": [
+    "CLASS_89",
+    "????",
+    0
+   ],
+   "438": [
+    "CLASS_90",
+    "????",
+    0
+   ],
+   "439": [
+    "CLASS_90",
+    "????",
+    0
+   ],
+   "440": [
+    "CLASS_90",
+    "????",
+    0
+   ],
+   "443": [
+    "CLASS_91",
+    "????",
+    0
+   ],
+   "445": [
+    "CLASS_91",
+    "?B??",
+    0
+   ],
+   "447": [
+    "CLASS_91",
+    "????",
+    0
+   ],
+   "453": [
+    "CLASS_91",
+    "???d??",
+    0
+   ],
+   "462": [
+    "CLASS_91",
+    "????",
+    0
+   ],
+   "463": [
+    "CLASS_91",
+    "?\u2018??",
+    0
+   ],
+   "464": [
+    "CLASS_91",
+    "????",
+    0
+   ],
+   "465": [
+    "CLASS_65",
+    "????",
+    0
+   ],
+   "466": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "467": [
+    "CLASS_62",
+    "???3",
+    0
+   ],
+   "468": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "469": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "470": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "471": [
+    "CLASS_61",
+    "???\u00f6",
+    0
+   ],
+   "472": [
+    "CLASS_62",
+    "??????",
+    0
+   ],
+   "473": [
+    "CLASS_62",
+    "???\u2019",
+    0
+   ],
+   "474": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "475": [
+    "CLASS_62",
+    "?v?I",
+    0
+   ],
+   "476": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "477": [
+    "CLASS_61",
+    "????",
+    0
+   ],
+   "478": [
+    "CLASS_62",
+    "?9????",
+    0
+   ],
+   "479": [
+    "CLASS_62",
+    "??????",
+    0
+   ],
+   "480": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "481": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "482": [
+    "CLASS_88",
+    "?\u00dc???(",
+    0
+   ],
+   "483": [
+    "CLASS_88",
+    "???e",
+    0
+   ],
+   "484": [
+    "CLASS_92",
+    "???D???\u2640?D",
+    0
+   ],
+   "485": [
+    "CLASS_93",
+    "???????B?f",
+    0
+   ],
+   "486": [
+    "CLASS_94",
+    "?????????8",
+    0
+   ],
+   "487": [
+    "CLASS_92",
+    "?m?e??????",
+    0
+   ],
+   "488": [
+    "CLASS_95",
+    "???9???\u00d7??",
+    0
+   ],
+   "489": [
+    "CLASS_94",
+    "?\u00d7???????U",
+    0
+   ],
+   "490": [
+    "CLASS_96",
+    "???????Y?\u201d",
+    0
+   ],
+   "491": [
+    "CLASS_96",
+    "?F???????l",
+    0
+   ],
+   "498": [
+    "CLASS_57",
+    "????",
+    0
+   ],
+   "499": [
+    "CLASS_57",
+    "????",
+    0
+   ],
+   "500": [
+    "CLASS_57",
+    "?l?)",
+    0
+   ],
+   "501": [
+    "CLASS_59",
+    "?\u2026??",
+    0
+   ],
+   "502": [
+    "CLASS_59",
+    "?\u2026??",
+    0
+   ],
+   "504": [
+    "CLASS_57",
+    "??? ",
+    0
+   ],
+   "505": [
+    "CLASS_57",
+    "??? ",
+    0
+   ],
+   "506": [
+    "CLASS_57",
+    "?l?)",
+    0
+   ],
+   "509": [
+    "CLASS_57",
+    "?l?)",
+    0
+   ],
+   "510": [
+    "CLASS_65",
+    "????",
+    0
+   ],
+   "516": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "517": [
+    "CLASS_75",
+    "??????",
+    0
+   ],
+   "519": [
+    "CLASS_100",
+    "????",
+    0
+   ],
+   "520": [
+    "CLASS_101",
+    "????",
+    0
+   ],
+   "522": [
+    "CLASS_102",
+    "????",
+    0
+   ],
+   "523": [
+    "CLASS_103",
+    "????",
+    0
+   ],
+   "524": [
+    "CLASS_104",
+    "?y??",
+    0
+   ],
+   "525": [
+    "CLASS_105",
+    "??????",
+    0
+   ],
+   "526": [
+    "CLASS_106",
+    "????",
+    0
+   ],
+   "527": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "529": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "533": [
+    "CLASS_92",
+    "???D???\u2640?D",
+    0
+   ],
+   "534": [
+    "CLASS_57",
+    "????",
+    0
+   ],
+   "535": [
+    "CLASS_66",
+    "?I??",
+    0
+   ],
+   "536": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "537": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "538": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "539": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "540": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "541": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "542": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "543": [
+    "CLASS_85",
+    "???f",
+    0
+   ],
+   "544": [
+    "CLASS_85",
+    "???f",
+    0
+   ],
+   "545": [
+    "CLASS_82",
+    "????",
+    0
+   ],
+   "546": [
+    "CLASS_74",
+    "???r",
+    0
+   ],
+   "547": [
+    "CLASS_74",
+    "??????",
+    0
+   ],
+   "548": [
+    "CLASS_74",
+    "????",
+    0
+   ],
+   "550": [
+    "CLASS_70",
+    "???)",
+    0
+   ],
+   "551": [
+    "CLASS_69",
+    "?l??",
+    0
+   ],
+   "553": [
+    "CLASS_80",
+    "?l??",
+    0
+   ],
+   "554": [
+    "CLASS_80",
+    "???O",
+    0
+   ],
+   "555": [
+    "CLASS_61",
+    "? ??",
+    0
+   ],
+   "557": [
+    "CLASS_95",
+    "???\u00dc?????)",
+    0
+   ],
+   "558": [
+    "CLASS_103",
+    "?F??",
+    0
+   ],
+   "559": [
+    "CLASS_100",
+    "?J?J??",
+    0
+   ],
+   "560": [
+    "CLASS_92",
+    "??????????",
+    0
+   ],
+   "561": [
+    "CLASS_74",
+    "???B??",
+    0
+   ],
+   "563": [
+    "CLASS_106",
+    "??????",
+    0
+   ],
+   "564": [
+    "CLASS_105",
+    "???",
+    0
+   ],
+   "565": [
+    "CLASS_57",
+    "?v??",
+    0
+   ],
+   "566": [
+    "CLASS_70",
+    "?t??",
+    0
+   ],
+   "567": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "568": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "569": [
+    "CLASS_85",
+    "???C",
+    0
+   ],
+   "570": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "571": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "573": [
+    "CLASS_69",
+    "????",
+    0
+   ],
+   "574": [
+    "CLASS_70",
+    "???l",
+    0
+   ],
+   "575": [
+    "CLASS_74",
+    "????",
+    0
+   ],
+   "576": [
+    "CLASS_96",
+    "?????????-",
+    0
+   ],
+   "577": [
+    "CLASS_103",
+    "???d",
+    0
+   ],
+   "578": [
+    "CLASS_70",
+    "????",
+    0
+   ],
+   "579": [
+    "CLASS_74",
+    "????",
+    0
+   ],
+   "580": [
+    "CLASS_92",
+    "??????????",
+    0
+   ],
+   "581": [
+    "CLASS_65",
+    "????",
+    0
+   ],
+   "582": [
+    "CLASS_104",
+    "?=??",
+    0
+   ],
+   "583": [
+    "CLASS_104",
+    "????",
+    0
+   ],
+   "584": [
+    "CLASS_65",
+    "????",
+    0
+   ],
+   "585": [
+    "CLASS_63",
+    "????",
+    0
+   ],
+   "586": [
+    "CLASS_75",
+    "???\u2640",
+    0
+   ],
+   "587": [
+    "CLASS_75",
+    "???",
+    0
+   ],
+   "588": [
+    "CLASS_103",
+    "??????",
+    0
+   ],
+   "590": [
+    "CLASS_77",
+    "????",
+    0
+   ],
+   "591": [
+    "CLASS_99",
+    "?????D",
+    0
+   ],
+   "592": [
+    "CLASS_99",
+    "????",
+    0
+   ],
+   "593": [
+    "CLASS_78",
+    "????",
+    0
+   ],
+   "594": [
+    "CLASS_63",
+    "????",
+    0
+   ],
+   "596": [
+    "CLASS_102",
+    "????",
+    0
+   ],
+   "597": [
+    "CLASS_102",
+    "? ??",
+    0
+   ],
+   "598": [
+    "CLASS_102",
+    "?t??",
+    0
+   ],
+   "599": [
+    "CLASS_86",
+    "????",
+    0
+   ],
+   "600": [
+    "CLASS_86",
+    "?\u00dc??",
+    0
+   ],
+   "603": [
+    "CLASS_104",
+    "????",
+    0
+   ],
+   "604": [
+    "CLASS_106",
+    "??????",
+    0
+   ],
+   "605": [
+    "CLASS_88",
+    "????",
+    0
+   ],
+   "606": [
+    "CLASS_105",
+    "????",
+    0
+   ],
+   "607": [
+    "CLASS_104",
+    "????",
+    0
+   ],
+   "608": [
+    "CLASS_75",
+    "????",
+    0
+   ],
+   "609": [
+    "CLASS_101",
+    "?)??",
+    0
+   ],
+   "610": [
+    "CLASS_101",
+    "????",
+    0
+   ],
+   "612": [
+    "CLASS_58",
+    "?B? ",
+    0
+   ],
+   "613": [
+    "CLASS_58",
+    "???x",
+    0
+   ],
+   "614": [
+    "CLASS_57",
+    "?\u00dc??",
+    0
+   ],
+   "616": [
+    "CLASS_59",
+    "????",
+    0
+   ],
+   "617": [
+    "CLASS_59",
+    "????",
+    0
+   ],
+   "618": [
+    "CLASS_61",
+    "?2??",
+    0
+   ],
+   "619": [
+    "CLASS_62",
+    "?Y??",
+    0
+   ],
+   "620": [
+    "CLASS_104",
+    "????",
+    0
+   ],
+   "621": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "622": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "623": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "624": [
+    "CLASS_61",
+    "????",
+    0
+   ],
+   "626": [
+    "CLASS_61",
+    "????",
+    0
+   ],
+   "629": [
+    "CLASS_61",
+    "?x??",
+    0
+   ],
+   "632": [
+    "CLASS_62",
+    "???5",
+    0
+   ],
+   "633": [
+    "CLASS_57",
+    "?J??",
+    0
+   ],
+   "634": [
+    "CLASS_57",
+    "?J??",
+    0
+   ],
+   "635": [
+    "CLASS_68",
+    "???T",
+    0
+   ],
+   "636": [
+    "CLASS_72",
+    "?v??",
+    0
+   ],
+   "637": [
+    "CLASS_61",
+    "????",
+    0
+   ],
+   "638": [
+    "CLASS_61",
+    "????",
+    0
+   ],
+   "639": [
+    "CLASS_61",
+    "????",
+    0
+   ],
+   "641": [
+    "CLASS_62",
+    "?????B",
+    0
+   ],
+   "642": [
+    "CLASS_62",
+    "?????B",
+    0
+   ],
+   "643": [
+    "CLASS_65",
+    "????",
+    0
+   ],
+   "644": [
+    "CLASS_63",
+    "????",
+    0
+   ],
+   "645": [
+    "CLASS_63",
+    "?Y?Q",
+    0
+   ],
+   "646": [
+    "CLASS_63",
+    "?Y?Q",
+    0
+   ],
+   "647": [
+    "CLASS_65",
+    "?v??",
+    0
+   ],
+   "648": [
+    "CLASS_59",
+    "????",
+    0
+   ],
+   "649": [
+    "CLASS_59",
+    "????",
+    0
+   ],
+   "650": [
+    "CLASS_64",
+    "????",
+    0
+   ],
+   "651": [
+    "CLASS_72",
+    "?\u00dc??",
+    0
+   ],
+   "652": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "653": [
+    "CLASS_69",
+    "???T",
+    0
+   ],
+   "655": [
+    "CLASS_73",
+    "????",
+    0
+   ],
+   "657": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "659": [
+    "CLASS_62",
+    "???3",
+    0
+   ],
+   "660": [
+    "CLASS_62",
+    "???3",
+    0
+   ],
+   "661": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "662": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "663": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "665": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "666": [
+    "CLASS_73",
+    "????",
+    0
+   ],
+   "667": [
+    "CLASS_79",
+    "?Y??",
+    0
+   ],
+   "668": [
+    "CLASS_79",
+    "?Y??",
+    0
+   ],
+   "669": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "670": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "671": [
+    "CLASS_62",
+    "????",
+    0
+   ],
+   "672": [
+    "CLASS_95",
+    "?????????v",
+    0
+   ],
+   "673": [
+    "CLASS_95",
+    "??????????",
+    0
+   ],
+   "674": [
+    "CLASS_95",
+    "??????????",
+    0
+   ],
+   "675": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "676": [
+    "CLASS_71",
+    "????",
+    0
+   ],
+   "677": [
+    "CLASS_66",
+    "????",
+    0
+   ],
+   "678": [
+    "CLASS_71",
+    "????",
+    0
+   ],
+   "679": [
+    "CLASS_71",
+    "?F??",
+    0
+   ],
+   "680": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "681": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "682": [
+    "CLASS_74",
+    "?U??",
+    0
+   ],
+   "683": [
+    "CLASS_70",
+    "???)",
+    0
+   ],
+   "684": [
+    "CLASS_62",
+    "??????",
+    0
+   ],
+   "685": [
+    "CLASS_62",
+    "??????",
+    0
+   ],
+   "686": [
+    "CLASS_69",
+    "????",
+    0
+   ],
+   "687": [
+    "CLASS_70",
+    "????",
+    0
+   ],
+   "688": [
+    "CLASS_96",
+    "?F???????l",
+    0
+   ],
+   "689": [
+    "CLASS_96",
+    "?F???????l",
+    0
+   ],
+   "691": [
+    "CLASS_99",
+    "?q??",
+    0
+   ],
+   "692": [
+    "CLASS_99",
+    "?q??",
+    0
+   ],
+   "693": [
+    "CLASS_99",
+    "????",
+    0
+   ],
+   "694": [
+    "CLASS_99",
+    "????",
+    0
+   ],
+   "695": [
+    "CLASS_80",
+    "?l??",
+    0
+   ],
+   "696": [
+    "CLASS_80",
+    "?l??",
+    0
+   ],
+   "698": [
+    "CLASS_80",
+    "???O",
+    0
+   ],
+   "700": [
+    "CLASS_95",
+    "???\u00dc?????)",
+    0
+   ],
+   "701": [
+    "CLASS_100",
+    "????",
+    0
+   ],
+   "703": [
+    "CLASS_106",
+    "??????",
+    0
+   ],
+   "704": [
+    "CLASS_57",
+    "?v??",
+    0
+   ],
+   "705": [
+    "CLASS_101",
+    "????",
+    0
+   ],
+   "706": [
+    "CLASS_94",
+    "?????????8",
+    0
+   ],
+   "708": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "709": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "710": [
+    "CLASS_79",
+    "????",
+    0
+   ],
+   "711": [
+    "CLASS_74",
+    "????",
+    0
+   ],
+   "712": [
+    "CLASS_75",
+    "??????",
+    0
+   ],
+   "713": [
+    "CLASS_70",
+    "????",
+    0
+   ],
+   "714": [
+    "CLASS_65",
+    "????",
+    0
+   ],
+   "715": [
+    "CLASS_104",
+    "????",
+    0
+   ],
+   "716": [
+    "CLASS_63",
+    "????",
+    0
+   ],
+   "718": [
+    "CLASS_75",
+    "???",
+    0
+   ],
+   "719": [
+    "CLASS_77",
+    "????",
+    0
+   ],
+   "720": [
+    "CLASS_102",
+    "???v",
+    0
+   ],
+   "721": [
+    "CLASS_102",
+    "????",
+    0
+   ],
+   "722": [
+    "CLASS_99",
+    "?????B",
+    0
+   ],
+   "723": [
+    "CLASS_78",
+    "????",
+    0
+   ],
+   "724": [
+    "CLASS_102",
+    "????",
+    0
+   ],
+   "725": [
+    "CLASS_102",
+    "?t??",
+    0
+   ],
+   "726": [
+    "CLASS_86",
+    "????",
+    0
+   ],
+   "727": [
+    "CLASS_86",
+    "?\u00dc??",
+    0
+   ],
+   "728": [
+    "CLASS_93",
+    "??????????",
+    0
+   ],
+   "729": [
+    "CLASS_58",
+    "????",
+    0
+   ],
+   "730": [
+    "CLASS_58",
+    "????",
+    0
+   ],
+   "731": [
+    "CLASS_58",
+    "????",
+    0
+   ],
+   "733": [
+    "CLASS_70",
+    "????",
+    0
+   ],
+   "734": [
+    "CLASS_74",
+    "????",
+    0
+   ],
+   "735": [
+    "CLASS_87",
+    "????",
+    0
+   ],
+   "736": [
+    "CLASS_87",
+    "?Y??",
+    0
+   ],
+   "737": [
+    "CLASS_87",
+    "????",
+    0
+   ],
+   "738": [
+    "CLASS_87",
+    "??",
+    0
+   ],
+   "739": [
+    "CLASS_90",
+    "????",
+    0
+   ],
+   "740": [
+    "CLASS_90",
+    "????",
+    0
+   ],
+   "741": [
+    "CLASS_90",
+    "????",
+    0
+   ],
+   "742": [
+    "CLASS_71",
+    "???Y",
+    0
+   ]
+  },
+  "item_sym": {}
+ }
+}

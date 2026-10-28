@@ -1,0 +1,2968 @@
+[603895]
+Name = DOON
+InternalName = DOON
+Type1 = GRASS
+Type2 = GROUND
+BaseStats = 45,70,65,40,45,45
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 64
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,HAIL
+
+[603896]
+Name = DOOM
+InternalName = DOOM
+Type1 = GRASS
+Type2 = GROUND
+BaseStats = 65,90,85,50,60,60
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,HAIL
+
+[603897]
+Name = DISASTRAN
+InternalName = DISASTRAN
+Type1 = GRASS
+Type2 = GROUND
+BaseStats = 80,100,90,80,85,85
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 180
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603898]
+Name = REX
+InternalName = REX
+Type1 = FIRE
+BaseStats = 50,50,40,50,60,60
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603899]
+Name = DYREX
+InternalName = DYREX
+Type1 = FIRE
+BaseStats = 58,64,58,70,80,80
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603900]
+Name = RYNOREX
+InternalName = RYNOREX
+Type1 = FIRE
+Type2 = FLYING
+BaseStats = 80,70,70,100,100,100
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603901]
+Name = GYUUN
+InternalName = GYUUN
+Type1 = WATER
+BaseStats = 60,40,50,70,50,40
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 66
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603902]
+Name = SPYDIA
+InternalName = SPYDIA
+Type1 = WATER
+BaseStats = 80,60,70,80,60,60
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 143
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603903]
+Name = SKYDIA
+InternalName = SKYDIA
+Type1 = FLYING
+Type2 = WATER
+BaseStats = 100,75,80,110,75,80
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 190
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603904]
+Name = PULCHELLA
+InternalName = PULCHELLA
+Type1 = BUG
+BaseStats = 50,50,40,45,35,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 53
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603905]
+Name = SPIDERRA
+InternalName = SPIDERRA
+Type1 = BUG
+BaseStats = 70,60,60,60,50,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 72
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603906]
+Name = BUTERRA
+InternalName = BUTERRA
+Type1 = BUG
+Type2 = FLYING
+BaseStats = 60,45,50,70,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 160
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603907]
+Name = DEMERUS
+InternalName = DEMERUS
+Type1 = BUG
+Type2 = POISON
+BaseStats = 40,35,30,50,20,20
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 52
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603908]
+Name = BULLDERUS
+InternalName = BULLDERUS
+Type1 = BUG
+Type2 = POISON
+BaseStats = 45,25,50,35,25,25
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 71
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603909]
+Name = DAMASCUS
+InternalName = DAMASCUS
+Type1 = BUG
+Type2 = POISON
+BaseStats = 65,80,40,75,45,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 159
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SWARM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603910]
+Name = COTTA
+InternalName = COTTA
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 40,45,40,56,35,35
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 55
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[603911]
+Name = COTTON
+InternalName = COTTON
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 63,60,55,71,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 113
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 75,GROWTH
+
+[603912]
+Name = WINGFUR
+InternalName = WINGFUR
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 83,80,75,91,70,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 172
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 75,GROWTH
+
+[603913]
+Name = ARDEA
+InternalName = ARDEA
+Type1 = NORMAL
+BaseStats = 30,56,35,72,25,35
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 57
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY,GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603914]
+Name = ARUDIAN
+InternalName = ARUDIAN
+Type1 = NORMAL
+BaseStats = 55,81,60,97,50,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 116
+EffortPoints = 0,0,0,0,0,0
+Rareness = 127
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603915]
+Name = PARROTTO
+InternalName = PARROTTO
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 40,60,30,70,31,31
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 58
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[603916]
+Name = FEAROTT
+InternalName = FEAROTT
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 65,90,65,100,61,61
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 162
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 75,GROWTH
+
+[603917]
+Name = PEWEE
+InternalName = PEWEE
+Type1 = FLYING
+Type2 = POISON
+BaseStats = 35,60,44,55,40,54
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 62
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE,SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 93,TOXIC
+
+[603918]
+Name = QUENBEE
+InternalName = QUENBEE
+Type1 = FLYING
+Type2 = POISON
+BaseStats = 60,85,69,80,65,79
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 147
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE,SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 93,TOXIC
+
+[603919]
+Name = BARRIARM
+InternalName = BARRIARM
+Type1 = ELECTRIC
+BaseStats = 35,55,30,90,50,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 82
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603920]
+Name = BASHOU
+InternalName = BASHOU
+Type1 = ELECTRIC
+BaseStats = 60,90,55,100,90,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 122
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603921]
+Name = SCRIPPA
+InternalName = SCRIPPA
+Type1 = GROUND
+BaseStats = 50,75,85,40,20,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 93
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[603922]
+Name = SPLASHER
+InternalName = SPLASHER
+Type1 = GROUND
+BaseStats = 75,100,110,65,45,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 163
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603923]
+Name = RUPICOLA♀
+InternalName = RUPICOLA
+Type1 = POISON
+BaseStats = 55,47,52,41,40,40
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 59
+EffortPoints = 0,0,0,0,0,0
+Rareness = 235
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603924]
+Name = FUNGUS
+InternalName = FUNGUS
+Type1 = POISON
+BaseStats = 70,62,67,56,55,55
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 117
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[603925]
+Name = FUNBLADE
+InternalName = FUNBLADE
+Type1 = POISON
+Type2 = GROUND
+BaseStats = 90,82,87,76,75,85
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 194
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603923]
+Name = RUPICOLA♂
+InternalName = RUPICOLA
+Type1 = POISON
+BaseStats = 46,57,40,50,40,40
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 60
+EffortPoints = 0,0,0,0,0,0
+Rareness = 235
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[603926]
+Name = GYMNOS
+InternalName = GYMNOS
+Type1 = POISON
+BaseStats = 61,72,57,65,55,55
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 118
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603927]
+Name = GYMBARON
+InternalName = GYMBARON
+Type1 = POISON
+Type2 = GROUND
+BaseStats = 81,92,77,85,85,75
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 195
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603928]
+Name = BICOLOUR
+InternalName = BICOLOUR
+Type1 = NORMAL
+BaseStats = 70,45,48,35,60,65
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 68
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603929]
+Name = BRICKER
+InternalName = BRICKER
+Type1 = NORMAL
+BaseStats = 95,70,73,60,85,90
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 129
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603930]
+Name = BEEBALM
+InternalName = BEEBALM
+Type1 = FIRE
+BaseStats = 38,41,40,65,50,65
+GenderRate = Female75Percent
+GrowthRate = Medium
+BaseEXP = 63
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[603931]
+Name = EASYDOG
+InternalName = EASYDOG
+Type1 = FIRE
+BaseStats = 73,76,75,100,81,100
+GenderRate = Female75Percent
+GrowthRate = Medium
+BaseEXP = 178
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[603932]
+Name = PUNICA
+InternalName = PUNICA
+Type1 = NORMAL
+BaseStats = 115,45,20,20,45,25
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 76
+EffortPoints = 0,0,0,0,0,0
+Rareness = 170
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[603933]
+Name = PUNISTO
+InternalName = PUNISTO
+Type1 = NORMAL
+BaseStats = 140,70,45,45,75,50
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 109
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603934]
+Name = FLAIRUS
+InternalName = FLAIRUS
+Type1 = POISON
+Type2 = FLYING
+BaseStats = 75,80,70,90,65,75
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 171
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603935]
+Name = SUGURI
+InternalName = SUGURI
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 45,50,55,30,75,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 78
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603936]
+Name = SUGULINE
+InternalName = SUGULINE
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 60,65,70,40,85,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 132
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603937]
+Name = SAIGULIGER
+InternalName = SAIGULIGER
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 75,80,85,50,100,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 184
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603938]
+Name = CABOT
+InternalName = CABOT
+Type1 = BUG
+Type2 = GRASS
+BaseStats = 35,70,55,25,45,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 70
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603939]
+Name = BARBO
+InternalName = BARBO
+Type1 = BUG
+Type2 = GRASS
+BaseStats = 60,95,80,30,60,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 128
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603940]
+Name = RABRICOL
+InternalName = RABRICOL
+Type1 = BUG
+Type2 = POISON
+BaseStats = 60,55,50,45,40,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603941]
+Name = RABICOOL
+InternalName = RABICOOL
+Type1 = BUG
+Type2 = POISON
+BaseStats = 70,65,60,90,90,75
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 138
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603942]
+Name = HERMIT
+InternalName = HERMIT
+Type1 = GROUND
+BaseStats = 10,55,25,95,35,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 81
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SANDVEIL,ARENATRAP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603943]
+Name = HERMITTAN
+InternalName = HERMITTAN
+Type1 = GROUND
+BaseStats = 35,80,50,120,50,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 153
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SANDVEIL,ARENATRAP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603944]
+Name = MINOR
+InternalName = MINOR
+Type1 = NORMAL
+BaseStats = 40,45,35,90,40,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 69
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603945]
+Name = MAJOR
+InternalName = MAJOR
+Type1 = NORMAL
+BaseStats = 65,70,60,115,65,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 148
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = LIMBER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603946]
+Name = BLOSSOM
+InternalName = BLOSSOM
+Type1 = WATER
+BaseStats = 50,52,48,55,65,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 80
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = DAMP,CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603947]
+Name = BLOOM
+InternalName = BLOOM
+Type1 = WATER
+BaseStats = 80,82,78,85,95,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 174
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = DAMP,CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603948]
+Name = CHAKOR
+InternalName = CHAKOR
+Type1 = FIGHTING
+BaseStats = 40,80,35,70,35,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 74
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603949]
+Name = CRACKOR
+InternalName = CRACKOR
+Type1 = FIGHTING
+BaseStats = 65,105,60,95,60,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 149
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603950]
+Name = GROWITCH
+InternalName = GROWITCH
+Type1 = FIRE
+BaseStats = 55,70,45,60,70,50
+GenderRate = Female25Percent
+GrowthRate = Slow
+BaseEXP = 91
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,KARATECHOP
+
+[603951]
+Name = ARCMAGI
+InternalName = ARCMAGI
+Type1 = FIRE
+BaseStats = 90,110,80,95,100,80
+GenderRate = Female25Percent
+GrowthRate = Slow
+BaseEXP = 213
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603952]
+Name = WILLCOCK
+InternalName = WILLCOCK
+Type1 = WATER
+BaseStats = 40,50,40,90,40,40
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 77
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603953]
+Name = WILDCOCK
+InternalName = WILDCOCK
+Type1 = WATER
+BaseStats = 65,65,65,90,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 131
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603954]
+Name = WERECOCK
+InternalName = WERECOCK
+Type1 = WATER
+Type2 = FIGHTING
+BaseStats = 90,85,95,70,70,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 185
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603955]
+Name = MENTALIS
+InternalName = MENTALIS
+Type1 = PSYCHIC
+BaseStats = 25,20,15,90,105,55
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 73
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SYNCHRONIZE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603956]
+Name = TIMENTAL
+InternalName = TIMENTAL
+Type1 = PSYCHIC
+BaseStats = 40,35,30,105,120,70
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 145
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SYNCHRONIZE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603957]
+Name = SACHEM
+InternalName = SACHEM
+Type1 = PSYCHIC
+BaseStats = 55,50,45,120,135,85
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 186
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SYNCHRONIZE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603958]
+Name = MISTASHI
+InternalName = MISTASHI
+Type1 = FIGHTING
+BaseStats = 70,80,50,35,35,35
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 88
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,KARATECHOP
+
+[603959]
+Name = GRENDIA
+InternalName = GRENDIA
+Type1 = FIGHTING
+BaseStats = 80,100,70,45,50,60
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603960]
+Name = ULTYRA
+InternalName = ULTYRA
+Type1 = FIRE
+Type2 = FLYING
+BaseStats = 105,90,90,120,125,120
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 193
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = GUTS,FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,KARATECHOP
+
+[603961]
+Name = ANPIPITTO
+InternalName = ANPIPITTO
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 50,75,35,40,70,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 84
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603962]
+Name = ANPARASCHU
+InternalName = ANPARASCHU
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 65,90,50,55,85,45
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 151
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603963]
+Name = BLURAIYA
+InternalName = BLURAIYA
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 80,105,65,70,100,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 191
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603964]
+Name = SPARSA
+InternalName = SPARSA
+Type1 = WATER
+Type2 = POISON
+BaseStats = 40,40,35,70,50,100
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 105
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY,LIQUIDOOZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603965]
+Name = PUNKERSA
+InternalName = PUNKERSA
+Type1 = WATER
+Type2 = POISON
+BaseStats = 80,70,65,100,80,120
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 205
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY,LIQUIDOOZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603966]
+Name = CERATOR
+InternalName = CERATOR
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 40,80,100,20,30,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 86
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603967]
+Name = SPARATOR
+InternalName = SPARATOR
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 55,95,115,35,45,45
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603968]
+Name = METALTOR
+InternalName = METALTOR
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 80,110,130,45,55,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 177
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603969]
+Name = ARUDION
+InternalName = ARUDION
+Type1 = FIRE
+BaseStats = 50,85,55,90,65,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 152
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603970]
+Name = ORNITHO
+InternalName = ORNITHO
+Type1 = FIRE
+BaseStats = 65,100,70,105,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 192
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603971]
+Name = ACRETTO
+InternalName = ACRETTO
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 90,65,65,15,40,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 99
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = OBLIVIOUS,OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603972]
+Name = ACRAPTOR
+InternalName = ACRAPTOR
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 95,75,110,30,100,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 164
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = OBLIVIOUS,OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603973]
+Name = WARATAH
+InternalName = WARATAH
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 25,35,70,45,95,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 89
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = MAGNETPULL,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603974]
+Name = ENTEIOU
+InternalName = ENTEIOU
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 50,60,95,70,120,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 161
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = MAGNETPULL,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603975]
+Name = SAGAMORE
+InternalName = SAGAMORE
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 52,65,55,60,58,62
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 94
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603976]
+Name = NEBULARIA
+InternalName = NEBULARIA
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 35,85,45,75,35,35
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 96
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603977]
+Name = ARANEBULA
+InternalName = ARANEBULA
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 60,110,70,100,60,60
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 158
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603978]
+Name = LIRIOPE
+InternalName = LIRIOPE
+Type1 = WATER
+BaseStats = 65,45,55,45,45,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603979]
+Name = LIRIMONARC
+InternalName = LIRIMONARC
+Type1 = WATER
+Type2 = ICE
+BaseStats = 90,70,80,70,70,95
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 176
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603980]
+Name = CRAVECTOR
+InternalName = CRAVECTOR
+Type1 = POISON
+BaseStats = 80,80,50,25,40,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 90
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = STENCH,STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603981]
+Name = METALCRAP
+InternalName = METALCRAP
+Type1 = POISON
+BaseStats = 105,105,75,50,65,100
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 157
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = STENCH,STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603982]
+Name = KAYA
+InternalName = KAYA
+Type1 = NORMAL
+BaseStats = 70,65,100,90,80,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 197
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603983]
+Name = GYMZYRUS
+InternalName = GYMZYRUS
+Type1 = WATER
+Type2 = ICE
+BaseStats = 50,95,180,70,85,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 203
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603923]
+Name = RUPICOLA♀♂
+InternalName = RUPICOLA
+Type1 = GHOST
+Type2 = POISON
+BaseStats = 30,35,30,80,100,35
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 95
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603984]
+Name = ANGIOS
+InternalName = ANGIOS
+Type1 = GHOST
+Type2 = POISON
+BaseStats = 45,50,45,95,115,55
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 126
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603985]
+Name = ANGIPOWER
+InternalName = ANGIPOWER
+Type1 = GHOST
+Type2 = POISON
+BaseStats = 60,65,60,90,130,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 190
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603986]
+Name = ANGIOROS
+InternalName = ANGIOROS
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 80,90,160,100,60,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 108
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603987]
+Name = ANGIGORGO
+InternalName = ANGIGORGO
+Type1 = PSYCHIC
+BaseStats = 60,80,45,80,43,90
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 102
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603988]
+Name = GUMI
+InternalName = GUMI
+Type1 = PSYCHIC
+BaseStats = 85,73,70,67,73,115
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603989]
+Name = SEIRAN
+InternalName = SEIRAN
+Type1 = WATER
+BaseStats = 30,105,90,50,25,25
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 115
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = HYPERCUTTER,SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603990]
+Name = SHARPHIN
+InternalName = SHARPHIN
+Type1 = WATER
+BaseStats = 55,130,115,75,50,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 206
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = HYPERCUTTER,SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603991]
+Name = GRANTI
+InternalName = GRANTI
+Type1 = ELECTRIC
+BaseStats = 40,30,50,100,55,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 103
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SOUNDPROOF,STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603992]
+Name = GRANDRILL
+InternalName = GRANDRILL
+Type1 = ELECTRIC
+BaseStats = 60,50,70,140,80,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SOUNDPROOF,STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603993]
+Name = SUPAGROUND
+InternalName = SUPAGROUND
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 60,40,80,40,60,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 98
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603994]
+Name = JUDISASTER
+InternalName = JUDISASTER
+Type1 = GROUND
+Type2 = GRASS
+BaseStats = 95,125,110,90,85,95
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 212
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603995]
+Name = TSUNONASU
+InternalName = TSUNONASU
+Type1 = GROUND
+BaseStats = 50,50,95,35,40,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 87
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,LIGHTNINGROD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603996]
+Name = GIGAGEARTH
+InternalName = GIGAGEARTH
+Type1 = GROUND
+BaseStats = 60,80,110,45,50,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 124
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,LIGHTNINGROD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603997]
+Name = STORM
+InternalName = STORM
+Type1 = FIGHTING
+BaseStats = 50,120,53,87,35,110
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 139
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = LIMBER
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603998]
+Name = GUST
+InternalName = GUST
+Type1 = FIGHTING
+BaseStats = 50,105,79,76,35,110
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 140
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603999]
+Name = FUFUMON
+InternalName = FUFUMON
+Type1 = POISON
+BaseStats = 40,65,95,35,60,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 114
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604000]
+Name = GYMZATAN
+InternalName = GYMZATAN
+Type1 = GROUND
+Type2 = ROCK
+BaseStats = 105,130,120,40,45,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 204
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = LIGHTNINGROD,ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604001]
+Name = PURPREA
+InternalName = PURPREA
+Type1 = NORMAL
+BaseStats = 250,5,5,50,35,105
+GenderRate = AlwaysFemale
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 30
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = NATURALCURE,SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[604002]
+Name = FLAREPREA
+InternalName = FLAREPREA
+Type1 = GRASS
+BaseStats = 65,55,115,60,100,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 166
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604003]
+Name = LEAPPEA
+InternalName = LEAPPEA
+Type1 = NORMAL
+BaseStats = 105,95,80,90,40,80
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604004]
+Name = NINSTARMON
+InternalName = NINSTARMON
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 60,75,85,115,100,85
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 207
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = ILLUMINATE,NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604005]
+Name = GONUM
+InternalName = GONUM
+Type1 = NORMAL
+Type2 = QMARKS
+BaseStats = 40,40,40,40,40,40
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 136
+EffortPoints = 0,0,0,0,0,0
+Rareness = 15
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = FORECAST
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[604006]
+Name = TERRANO
+InternalName = TERRANO
+Type1 = FIRE
+BaseStats = 100,95,90,100,115,100
+GenderRate = Female25Percent
+GrowthRate = Medium
+BaseEXP = 167
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[604007]
+Name = VAJIRAMON
+InternalName = VAJIRAMON
+Type1 = NORMAL
+BaseStats = 75,100,95,110,40,70
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 211
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604008]
+Name = BELZEBUMON
+InternalName = BELZEBUMON
+Type1 = ROCK
+Type2 = WATER
+BaseStats = 60,115,105,80,65,70
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 201
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SWIFTSWIM,BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[604009]
+Name = TS GEKOMON
+InternalName = TSGEKOMON
+Type1 = NORMAL
+BaseStats = 160,110,65,30,65,110
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = IMMUNITY,THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[604010]
+Name = G RAPIDMON
+InternalName = GRAPIDMON
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 90,90,85,100,125,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[604011]
+Name = A V-DRAMON
+InternalName = AVDRAMON
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 100,95,100,50,90,115
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 67
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[604012]
+Name = U V-DRAMON
+InternalName = UVDRAMON
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 110,110,100,100,110,110
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 144
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = ARENATRAP
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[604013]
+Name = IMPERIAL F
+InternalName = IMPERIALF
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 100,120,100,100,120,100
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[604014]
+Name = DIABLOS
+InternalName = DIABLOS
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 40,52,53,65,60,50
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604015]
+Name = DIABLO
+InternalName = DIABLO
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 73,64,58,80,80,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604016]
+Name = DIABOLIC
+InternalName = DIABOLIC
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 80,80,80,100,90,100
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604017]
+Name = ETOPIRIKA
+InternalName = ETOPIRIKA
+Type1 = WATER
+Type2 = NORMAL
+BaseStats = 35,46,34,20,35,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 57
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[604018]
+Name = SNAILPOO
+InternalName = SNAILPOO
+Type1 = WATER
+BaseStats = 85,76,64,90,45,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 116
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[604019]
+Name = FORRESTO
+InternalName = FORRESTO
+Type1 = WATER
+Type2 = GRASS
+BaseStats = 60,80,70,90,70,80
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 54
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OVERGROW,KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[604020]
+Name = FUNBOOST
+InternalName = FUNBOOST
+Type1 = BUG
+Type2 = FLYING
+BaseStats = 55,35,50,85,55,110
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWARM,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[604021]
+Name = ALPINA
+InternalName = ALPINA
+Type1 = GRASS
+Type2 = WATER
+BaseStats = 40,60,40,30,40,40
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 54
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SWARM,INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[604022]
+Name = ALFORRA
+InternalName = ALFORRA
+Type1 = GRASS
+BaseStats = 70,90,70,40,60,60
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWARM,INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[604023]
+Name = ALFLARA
+InternalName = ALFLARA
+Type1 = FIRE
+BaseStats = 90,60,60,60,60,60
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 204
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INNERFOCUS,BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[604024]
+Name = ALQUA
+InternalName = ALQUA
+Type1 = WATER
+BaseStats = 100,50,50,50,70,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 90
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB,ILLUMINATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604025]
+Name = OSHE
+InternalName = OSHE
+Type1 = ELECTRIC
+BaseStats = 20,40,15,60,35,35
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 42
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[604026]
+Name = FUNGWAR
+InternalName = FUNGWAR
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 55,40,85,40,80,105
+GenderRate = FemaleOneEighth
+GrowthRate = Fast
+BaseEXP = 114
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = HUSTLE,SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[604027]
+Name = KABUTRIMON
+InternalName = KABUTRIMON
+Type1 = ELECTRIC
+BaseStats = 90,75,75,55,115,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 194
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604028]
+Name = KNITTE
+InternalName = KNITTE
+Type1 = FIGHTING
+BaseStats = 95,100,85,120,100,100
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 184
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604029]
+Name = FASTERIA
+InternalName = FASTERIA
+Type1 = WATER
+Type2 = FLYING
+BaseStats = 120,90,100,120,90,80
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 35
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = TORRENT,AIRLOCK
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604030]
+Name = KANZOU
+InternalName = KANZOU
+Type1 = WATER
+BaseStats = 90,75,75,70,90,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 185
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604031]
+Name = ORPHANIMON
+InternalName = ORPHANIMON
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 95,85,85,35,65,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 137
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = DAMP,WATERABSORB
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604032]
+Name = H ANGEMON
+InternalName = HANGEMON
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 95,75,80,30,100,110
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 164
+EffortPoints = 0,0,0,0,0,0
+Rareness = 70
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = OBLIVIOUS,OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604033]
+Name = SUBMARMON
+InternalName = SUBMARMON
+Type1 = NORMAL
+BaseStats = 100,70,70,45,65,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SERENEGRACE,RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604034]
+Name = DOMSDAY
+InternalName = DOMSDAY
+Type1 = STEEL
+Type2 = GRASS
+BaseStats = 100,150,120,90,100,90
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[604035]
+Name = DARKSASTER
+InternalName = DARKSASTER
+Type1 = DARK
+BaseStats = 100,120,90,100,120,100
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 178
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604036]
+Name = HELLEROS
+InternalName = HELLEROS
+Type1 = DARK
+Type2 = FIRE
+BaseStats = 100,100,100,130,110,110
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 132
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = INNERFOCUS,KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604037]
+Name = MT GREYMON
+InternalName = MTGREYMON
+Type1 = STEEL
+Type2 = FLYING
+BaseStats = 65,80,140,70,40,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 168
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = KEENEYE,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[604038]
+Name = KAIKARU
+InternalName = KAIKARU
+Type1 = FIRE
+BaseStats = 45,60,40,45,70,50
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604039]
+Name = KOIKIRA
+InternalName = KOIKIRA
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 60,85,60,55,85,60
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604040]
+Name = SHADORIA
+InternalName = SHADORIA
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 80,120,70,80,110,70
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[604041]
+Name = MACULETTE
+InternalName = MACULETTE
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 40,55,30,85,30,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 59
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[604042]
+Name = ROCKELETTE
+InternalName = ROCKELETTE
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 60,85,60,125,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 162
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[604043]
+Name = FLASHTERRA
+InternalName = FLASHTERRA
+Type1 = FLYING
+Type2 = WATER
+BaseStats = 130,100,90,130,90,110
+GenderRate = AlwaysFemale
+GrowthRate = Fluctuating
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = AIRLOCK,TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head

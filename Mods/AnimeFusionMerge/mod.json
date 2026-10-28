@@ -1,0 +1,12 @@
+{
+  "name": "Anime Fusion Merge",
+  "id": "AnimeFusionMerge",
+  "version": "1.0.0",
+  "author": "nickohlmeier",
+  "description": ["Additively merges species, movesets, and moves from Dragon Ball Team Training, DBZ Infinite Fusion, and Animon into the dex, without touching the base game's PBS files."],
+  "tags": ["Content", "Species", "Moves"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["Bootstrap.rb", "GymBossPlacement.rb", "LegendaryEncounters.rb", "FusionMechanics.rb", "PotaraFusion.rb"]
+}

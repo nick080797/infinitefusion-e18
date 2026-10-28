@@ -1,0 +1,4 @@
+Time: 2026-09-27 02:48:50 -0500
+[0] Charmander species=:CHARMANDER
+  raw_item=nil class=NilClass
+  item_sym=nil

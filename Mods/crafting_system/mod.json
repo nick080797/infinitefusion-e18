@@ -1,0 +1,1 @@
+{"name":"Crafting System","id":"crafting_system","version":"1.0.0","author":"CharmingLoopy","description":"Adds a crafting system.","tags":["QoL","Content"],"dependencies":[],"incompatible":[],"settings":[],"scripts":["crafting_system.rb"],"icon":"icon.png"}

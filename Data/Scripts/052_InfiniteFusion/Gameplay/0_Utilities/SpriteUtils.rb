@@ -61,7 +61,8 @@ def pbLoadPokemonBitmapSpecies(pokemon, species, back = false, scale = POKEMONSP
     bitmapFileName = pbResolveBitmap(bitmapFileName)
   else
     #edited here
-    isFusion = species > NB_POKEMON
+    # GHOST/QOL: reserved-band standalone species aren't fusion-encoded.
+    isFusion = !is_reserved_standalone_dex?(species) && species > NB_POKEMON
     if isFusion
       poke1 = getBodyID(species)
       poke2 = getHeadID(species, poke1)
@@ -89,7 +90,8 @@ def pbPokemonBitmapFile(species)
   # Used by the Pokédex
   # Load normal bitmap
   #get body and head num
-  isFused = species > NB_POKEMON
+  # GHOST/QOL: reserved-band standalone species aren't fusion-encoded.
+  isFused = !is_reserved_standalone_dex?(species) && species > NB_POKEMON
   if isFused
     if species >= ZAPMOLCUNO_NB
       path = getSpecialSpriteName(species) + ".png"

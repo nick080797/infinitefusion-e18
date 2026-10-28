@@ -1,0 +1,60 @@
+[606151]
+Name = KOOPA
+InternalName = KOOPA
+Type1 = NORMAL
+BaseStats = 40,35,60,10,50,70
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 60
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SWIFTSWIM,BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[606152]
+Name = KOOPAs
+InternalName = KOOPAS
+Type1 = WATER
+Type2 = ROCK
+BaseStats = 60,50,50,20,40,25
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 71
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STURDY,SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[606153]
+Name = KOOPATROL
+InternalName = KOOPATROL
+Type1 = STEEL
+Type2 = GROUND
+BaseStats = 50,50,95,35,40,50
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 87
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROUGHSKIN,SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head

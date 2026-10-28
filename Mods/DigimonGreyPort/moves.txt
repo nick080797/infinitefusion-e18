@@ -1,0 +1,2 @@
+60143,O,?o????,000,50,FIGHTING,Physical,100,25,0,NearOther,0,,""
+60144,X,???X,000,40,NORMAL,Physical,100,35,0,NearOther,0,,""

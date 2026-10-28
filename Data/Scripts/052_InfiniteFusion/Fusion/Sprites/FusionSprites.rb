@@ -411,6 +411,32 @@ def get_random_alt_letter_for_unfused(dex_num, onlyMain = true)
   return letters_list.sample
 end
 
+def get_random_alt_letter_for_triple(dex_number, onlyMain = true)
+  spriteName = BattleSpriteLoader.new.get_triple_fusion_base_name(dex_number)
+
+  if $PokemonSystem.random_sprites
+    species = GameData::Species.get(dex_number)&.species
+    if $PokemonSystem
+      $PokemonSystem.sprites_blacklist = {} unless $PokemonSystem.sprites_blacklist
+      species_blacklist = $PokemonSystem.sprites_blacklist[species]
+    end
+    if species_blacklist
+      letters_list = list_all_sprites_letters(spriteName)
+                       .reject { |letter| species_blacklist.include?(letter) }
+    else
+      letters_list = list_main_sprites_letters(spriteName)
+    end
+  else
+    if onlyMain
+      letters_list = list_main_sprites_letters(spriteName)
+    else
+      letters_list = list_all_sprites_letters(spriteName)
+    end
+    letters_list << "" # add main sprite
+  end
+  return letters_list.sample
+end
+
 def get_species_spritename(species_symbol)
   species_data = GameData::Species.get(species_symbol)
   if species_data.is_fusion
@@ -418,7 +444,7 @@ def get_species_spritename(species_symbol)
     body_number = get_body_number_from_symbol(species_symbol)
     return "#{head_number}.#{body_number}"
   elsif species_data.is_triple_fusion
-    return "" # todo I guess
+    return BattleSpriteLoader.new.get_triple_fusion_base_name(species_data.id_number)
   else
     return "#{species_data.id_number}"
   end

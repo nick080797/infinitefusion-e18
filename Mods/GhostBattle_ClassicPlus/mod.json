@@ -1,0 +1,19 @@
+{
+  "name": "GhostBattle Classic+",
+  "id": "GhostBattle_ClassicPlus",
+  "version": "1.0.0",
+  "author": "t-Ghost-t",
+  "description": [
+    "GhostBattle_ClassicPlus overhauls the battle UI to make complex fights clear and easy to follow.",
+    " ",
+    "This mod includes:",
+    "- Active battler highlighting that brings your current Pokémon forward in triple and double battles.",
+    "- A refined 'Classic+' UI style with dynamic type icons and battle alerts.",
+    "- Custom boss battle scenes making bosses compatible with Classic."
+  ],
+  "tags": ["Visual", "Cosmetic"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

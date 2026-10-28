@@ -1,0 +1,194 @@
+[603677]
+Name = Amoongus
+InternalName = AMOONGUS
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 114,85,70,30,85,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 162
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EFFECTSPORE,REGENERATOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603678]
+Name = Fenneken
+InternalName = FENNEKEN
+Type1 = FIRE
+BaseStats = 40,45,40,60,62,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 61
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE,MAGICGUARD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603679]
+Name = Duoblade
+InternalName = DUOBLADE
+Type1 = STEEL
+Type2 = GHOST
+BaseStats = 59,110,150,35,45,49
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 157
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = NOGUARD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603680]
+Name = Aromatisee
+InternalName = AROMATISEE
+Type1 = CUSTOM_TYPE_23_8
+BaseStats = 101,72,72,29,99,89
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 162
+EffortPoints = 0,0,0,0,0,0
+Rareness = 140
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = HEALER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603681]
+Name = KangaskhaM
+InternalName = KANGASKHAM
+Type1 = NORMAL
+BaseStats = 105,156,100,100,75,100
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SCRAPPY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603682]
+Name = AerodactyM
+InternalName = AERODACTYM
+Type1 = ROCK
+Type2 = FLYING
+BaseStats = 80,135,85,150,70,95
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 202
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = TOUGHCLAWS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603683]
+Name = HeracrossM
+InternalName = HERACROSSM
+Type1 = BUG
+Type2 = FIGHTING
+BaseStats = 80,185,115,75,40,105
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SKILLLINK
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603684]
+Name = ManectricM
+InternalName = MANECTRICM
+Type1 = ELECTRIC
+BaseStats = 70,75,80,135,135,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 168
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603685]
+Name = Absol-M
+InternalName = ABSOLM
+Type1 = DARK
+BaseStats = 65,150,60,115,115,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 174
+EffortPoints = 0,0,0,0,0,0
+Rareness = 30
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = MAGICBOUNCE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603686]
+Name = Gallade-M
+InternalName = GALLADEM
+Type1 = PSYCHIC
+Type2 = FIGHTING
+BaseStats = 68,165,95,110,65,115
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head

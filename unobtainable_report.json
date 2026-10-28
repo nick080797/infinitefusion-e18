@@ -1,0 +1,1803 @@
+[
+ {
+  "internal": "ACE",
+  "name": "ACE",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ADAMANTINE",
+  "name": "ADAMANTINE",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ADULTGON",
+  "name": "ADULT GON",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "AKAME2",
+  "name": "AKAME 2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ALMOND",
+  "name": "Almond",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ANGILA",
+  "name": "Angila",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "APECUMBER",
+  "name": "Ape Cumber",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "SSJCUMBER",
+    "Item"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "APESHUGESH",
+  "name": "ApeShugesh",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "SHUGESH",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "APETORA",
+  "name": "Ape Tora",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "TORA",
+    "Item"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "APEYAMOSHI",
+  "name": "APEYamoshi",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "YAMOSHI",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "ARCHER",
+  "name": "ARCHER",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "AVATARAANG",
+  "name": "AVATARAANG",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BABIDI",
+  "name": "Babidi",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BASIL",
+  "name": "Basil",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BASILO",
+  "name": "Basil (O)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BBVEGETA",
+  "name": "BB Vegeta",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "BEYESULT",
+  "name": "B.EYES ULT",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BIDO",
+  "name": "Bido",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "BIOBROLY",
+  "name": "Bio Broly",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BORGOS",
+  "name": "Borgos",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BOTAMO",
+  "name": "Botamo",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BROCCO",
+  "name": "Brocco",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BROLY__DBZIF_682",
+  "name": "Broly (Form 2)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BUUHAN",
+  "name": "BuuHan",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "BUUTENKS",
+  "name": "BuuTenks",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "CACAO",
+  "name": "Cacao",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "CELL",
+  "name": "CELL",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "CELL2NDFORM",
+  "name": "Cell (2nd form)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "CELL3",
+  "name": "CELL 3",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "CELLPERFECT",
+  "name": "Cell (Perfect)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "CHIMERA",
+  "name": "CHIMERA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "CLEARHEART",
+  "name": "CLEARHEART",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "COMMESON",
+  "name": "Commeson",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "COPYMAN",
+  "name": "CopyMan",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "COPYVEGETA",
+  "name": "CopyVegeta",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "COMMESON",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "CRZAMASU",
+  "name": "CR Zamasu",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "MZAMASU",
+    "AttackGreater"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "CUMBER",
+  "name": "Cumber",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "CYMBAL",
+  "name": "Cymbal",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DAIZ",
+  "name": "Daiz",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DAMON",
+  "name": "Damon",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DARKGOGETA",
+  "name": "DarkGogeta",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DEMONSLAY",
+  "name": "DEMONSLAY",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DINO",
+  "name": "Dino",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DOORE",
+  "name": "Doore",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DOROTABO",
+  "name": "Dorotabo",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DPALADIN",
+  "name": "D. PALADIN",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DRAGONBALLMAN",
+  "name": "Dragonball Man",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DRGERO",
+  "name": "Dr. Gero",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DRWILO",
+  "name": "Dr. Wilo",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "DYSPO",
+  "name": "Dyspo",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "EBIFURYA",
+  "name": "Ebifurya",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "END",
+  "name": "E.N.D.",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ENJU",
+  "name": "ENJU",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ENTOMA",
+  "name": "ENTOMA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ENTOMA2",
+  "name": "ENTOMA 2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ETERNAL",
+  "name": "ETERNAL",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "EVCUMBER",
+  "name": "EV Cumber",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "APECUMBER",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "FASHA",
+  "name": "Fasha",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "FPHEARTS",
+  "name": "Fp Hearts",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "SPHEARTS",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "FPMORO",
+  "name": "FP Moro",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "MORO",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "FPPIKKON",
+  "name": "FP Pikkon",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "FRIEZA__DBZIF_669",
+  "name": "Frieza (Form 2)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GAMMA1",
+  "name": "Gamma 1",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GAMMA2",
+  "name": "Gamma 2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GAPEBABY",
+  "name": "G Ape Baby",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "BBVEGETA",
+    "Item"
+   ],
+   [
+    "SBVEGETA",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "GARLICJRSUPER",
+  "name": "Garlic Jr. (Super)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GAS",
+  "name": "Gas",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GETSUGA",
+  "name": "GETSUGA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GINYU",
+  "name": "Ginyu",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GLDAPETORA",
+  "name": "GLDApeTora",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "SSTORA",
+    "Item"
+   ],
+   [
+    "APETORA",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "GODGADREON",
+  "name": "Godgadreon",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GODITZ",
+  "name": "Goditz",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GODITZ2",
+  "name": "Goditz~2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GODSPEED",
+  "name": "GOD SPEED",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GOHANKID",
+  "name": "Gohan (Kid)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GOHANKS",
+  "name": "Gohanks",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GOKHAN",
+  "name": "Gokhan",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GOKHAN2",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "GOKHAN2",
+  "name": "Gokhan~2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GOKUXENO",
+  "name": "Goku Xeno",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GOKU__DBZIF_691",
+  "name": "Goku (Form 2)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GOKU__DBZIF_725",
+  "name": "Goku (Form 4)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GOMA",
+  "name": "Goma",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GRANOLA",
+  "name": "Granola",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "GTGOHAN",
+  "name": "GT Gohan",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTGOTEN",
+  "name": "GT Goten",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTGOTEN2",
+  "name": "GT Goten2",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTGOTEN",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "GTGOTENKS",
+  "name": "GT Gotenks",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTGOTENKS2",
+  "name": "GTGotenks2",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTGOTENKS",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTGOTENKS3",
+  "name": "GTGotenks3",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTGOTENKS2",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTGOTENKS4",
+  "name": "GTGotenks4",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTGOTENKS3",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "GTTRUNKS",
+  "name": "GT Trunks",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTTRUNKS2",
+  "name": "GT Trunks2",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTTRUNKS",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "GTVEGETA",
+  "name": "GT Vegeta",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTVEGETA2",
+  "name": "GT Vegeta2",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTVEGETA",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "GTVEGETA3",
+  "name": "GT Vegeta3",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTVEGETA2",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "GURENRAGAN",
+  "name": "GURENRAGAN",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "HAFURIYATO",
+  "name": "HAFURIYATO",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "HAKURYUU",
+  "name": "HAKURYUU",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "HEARTS",
+  "name": "Hearts",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "HISOKA",
+  "name": "HISOKA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "JIMIZU",
+  "name": "Jimizu",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "JIRAIYA",
+  "name": "JIRAIYA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "JORGE",
+  "name": "Jorge",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KAKUJA",
+  "name": "KAKUJA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KAL",
+  "name": "Kal",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KALLEN",
+  "name": "KALLEN",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KANEKI",
+  "name": "KANEKI",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KIDTRUNKS",
+  "name": "Kid Trunks",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "KING",
+  "name": "KING",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KINGVEGETA",
+  "name": "King Vegeta",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KISAME2",
+  "name": "KISAME 2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KISHIME",
+  "name": "Kishime",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KOGU",
+  "name": "Kogu",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "PAN",
+    "Item"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "KOGUFP",
+  "name": "Kogu FP",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "KOGU",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "KOROSENSEI",
+  "name": "KOROSENSEI",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "KURAMAMODE",
+  "name": "KURAMAMODE",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "LSDYSPO",
+  "name": "LS Dyspo",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "DYSPO",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "LUFFYGEAR2",
+  "name": "LUFFYGEAR2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "LUFFYGEAR4",
+  "name": "LUFFYGEAR4",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "LUUD",
+  "name": "Luud",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MAGETTA",
+  "name": "Magetta",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MAGICIAN",
+  "name": "Dark Magician Girl",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MAGICIAND",
+  "name": "Dark Magician Girl the Dragon Knight",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MAHITO2",
+  "name": "MAHITO2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MASH",
+  "name": "MASH",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MASTERROSHI",
+  "name": "Master Roshi",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "MASTERROSHIMAX",
+  "name": "Master Roshi(Max)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MBVEGETA",
+  "name": "MB Vegeta",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "BBVEGETA",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "MEDAMATCHA",
+  "name": "Medamatcha",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MEGARILDO",
+  "name": "Mega Rildo",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "RILDO",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "METACOOLER",
+  "name": "Meta Cooler",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MGREYMON",
+  "name": "M.GREYMON",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MIMOSA",
+  "name": "MIMOSA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MISOKATSUN",
+  "name": "Misokatsun",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MONSTERCARROT",
+  "name": "Monster Carrot",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MORO",
+  "name": "Moro",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "MRSATAN",
+  "name": "Mr Satan",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "MSSBGODITZ",
+  "name": "MSSBGoditz",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "NASNSNA",
+    "Item"
+   ],
+   [
+    "SSGGODTIZ",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "MTLRILDO",
+  "name": "Mtl Rildo",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "MEGARILDO",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "MXZAMASU",
+  "name": "MX Zamasu",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "MZAMASU",
+    "AtkDefEqual"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "MZAMASU",
+  "name": "M Zamasu",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "NARUTO",
+  "name": "NARUTO",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "NASNSNA",
+  "name": "nasnsna",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "NATSUFORCE",
+  "name": "NATSUFORCE",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "NEIZ",
+  "name": "Neiz",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "NEZUKO2",
+  "name": "NEZUKO2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "NGOTEN",
+  "name": "N Goten",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "NOELLEVALK",
+  "name": "NOELLEVALK",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "OCEANUSSHN",
+  "name": "OceanusShn",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "OLDKAI",
+  "name": "Old Kai",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ORDEAMAN",
+  "name": "Ordeaman",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "PAN",
+  "name": "Pan",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "PAUMPKIN",
+  "name": "Paumpkin",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "PILINA",
+  "name": "Pilina",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "PRNSNAKE",
+  "name": "PRN Snake",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "PURGATORY",
+  "name": "PURGATORY",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "RADITZ__DBZIF_630",
+  "name": "Raditz (Form 2)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "RAUNKS",
+  "name": "Raunks",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "RILDO",
+  "name": "Rildo",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "ROSHI",
+  "name": "Roshi",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ROSHIFP",
+  "name": "Roshi Fp",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "RYCON",
+  "name": "Rycon",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "RYUK",
+  "name": "RYUK",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SAONEL",
+  "name": "Saonel",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SAYAMAN",
+  "name": "Sayaman",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SBVEGETA",
+  "name": "SB Vegeta",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "MBVEGETA",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "SGOMA",
+  "name": "S Goma",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GOMA",
+    "Item"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SGYAMOSHI",
+  "name": "SG Yamoshi",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "YAMOSHI",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SHUGESH",
+  "name": "Shugesh",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "SIGMA",
+  "name": "Sigma",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SISHAMI",
+  "name": "Sishami",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SNAKEFORM",
+  "name": "Snake Form",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "PRNSNAKE",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SONIC",
+  "name": "Sonic",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SPGODITZ",
+  "name": "SP Goditz",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GODITZ",
+    "Level"
+   ],
+   [
+    "GODITZ2",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "SPHEARTS",
+  "name": "SP Hearts",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "HEARTS",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "SPIRITDIVE",
+  "name": "SPIRITDIVE",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SS2NGOTEN",
+  "name": "SS2 NGoten",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "SSNGOTEN",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SS2RANCH",
+  "name": "SS2 Ranch",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SS3GOHANKS",
+  "name": "SS3Gohanks",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GOHANKS",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SSBEGODITZ",
+  "name": "SSBEGoditz",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "MSSBGODITZ",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SSBGOHAN",
+  "name": "SSB Gohan",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SSGGODTIZ",
+  "name": "SSG Godtiz",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "SPGODITZ",
+    "Item"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "SSJCUMBER",
+  "name": "SSJ Cumber",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "CUMBER",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "SSJGTGOHAN",
+  "name": "SSJGTGohan",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GTGOHAN",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "SSJPAN",
+  "name": "SSJ Pan",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "PAN",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SSKTRUNKS",
+  "name": "SSK Trunks",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "KIDTRUNKS",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SSNGOTEN",
+  "name": "SS NGoten",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "NGOTEN",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "SSRAUNKS",
+  "name": "SS Raunks",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "RAUNKS",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SSTORA",
+  "name": "SS Tora",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "TORA",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "STARPLAT",
+  "name": "STAR PLAT",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SUIMORO",
+  "name": "SUI Moro",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "FPMORO",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "SUKUNA",
+  "name": "SUKUNA",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SUPERBOY",
+  "name": "Superboy",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "SUSANOO",
+  "name": "SUSANOO",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "TAGOMA",
+  "name": "Tagoma",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "TANJIRO",
+  "name": "TANJIRO",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "THEWORLD",
+  "name": "THE WORLD",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "THORFINN",
+  "name": "THORFINN",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "THORFINN2",
+  "name": "THORFINN2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "TORA",
+  "name": "Tora",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "TRUEAPUS",
+  "name": "TRUE APUS",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "TRUEBANKAI",
+  "name": "TRUEBANKAI",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "TRUEFORM",
+  "name": "TRUE FORM",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "TRUESYNC",
+  "name": "TRUE SYNC",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "TRUNKSFUTURE",
+  "name": "Trunks (Future)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ULTGOKHAN",
+  "name": "ULTGokhan",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "GOKHAN",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "UNKNOWN849",
+  "name": "?~2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "UNKNOWN850",
+  "name": "?~3",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "UNKNOWN851",
+  "name": "?~4",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "VEGETA__DBZIF_710",
+  "name": "Vegeta (Form 2)",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "VIDEL",
+  "name": "Videl",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "WENDYFORCE",
+  "name": "WENDYFORCE",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "XGTRUNKS",
+  "name": "XG Trunks",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "XTRUNKS3",
+    "Level"
+   ]
+  ],
+  "evolves_further": false
+ },
+ {
+  "internal": "XTRUNKS",
+  "name": "X Trunks",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "XTRUNKS2",
+  "name": "X Trunks2",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "XTRUNKS",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "XTRUNKS3",
+  "name": "X Trunks3",
+  "is_base_form": false,
+  "pre_evolutions": [
+   [
+    "XTRUNKS2",
+    "Level"
+   ]
+  ],
+  "evolves_further": true
+ },
+ {
+  "internal": "YAMOSHI",
+  "name": "Yamoshi",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "ZAMASU__DBZIF_591",
+  "name": "Zamasu",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": true
+ },
+ {
+  "internal": "ZEEUN",
+  "name": "Zeeun",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ },
+ {
+  "internal": "ZUKO2",
+  "name": "ZUKO 2",
+  "is_base_form": true,
+  "pre_evolutions": [],
+  "evolves_further": false
+ }
+]

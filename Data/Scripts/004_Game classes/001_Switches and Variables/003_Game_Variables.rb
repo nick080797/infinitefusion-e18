@@ -16,7 +16,7 @@ class Game_Variables
   #     variable_id : variable ID
   #-----------------------------------------------------------------------------
   def [](variable_id)
-    return @data[variable_id] if variable_id <= 5000 && !@data[variable_id].nil?
+    return @data[variable_id] if variable_id <= 1000000 && !@data[variable_id].nil?
     return 0
   end
   #-----------------------------------------------------------------------------
@@ -25,6 +25,9 @@ class Game_Variables
   #     value       : the variable's value
   #-----------------------------------------------------------------------------
   def []=(variable_id, value)
-    @data[variable_id] = value if variable_id <= 5000
+    # NOTE: cap raised from 5000 to 1000000 (2026-09-04) -- see matching note
+    # in Game_Switches; Mods/PIF2Port remaps ported variable ids by +50000
+    # (PIF2PortSettings::VARIABLE_OFFSET), which the old cap silently dropped.
+    @data[variable_id] = value if variable_id <= 1000000
   end
 end

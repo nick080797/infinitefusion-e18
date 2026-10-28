@@ -1,0 +1,4 @@
+60137,DARKEYES,Dark Eyes,00F,120,DARK,Special,90,5,0,NearOther,0,abe,""
+60138,LIGHTPUNCH,Light Punch,000,130,CUSTOM_TYPE_23_5,Physical,85,20,0,NearOther,0,abef,""
+60139,LIGHTKICK,Light Kick,000,100,CUSTOM_TYPE_23_5,Physical,90,8,0,NearOther,0,abef,""
+60140,LIGHTBEAM,Light Beam,0C2,150,CUSTOM_TYPE_23_5,Physical,90,5,0,NearOther,0,bef,""

@@ -57,7 +57,13 @@ class BattledTrainer
     @trainerName = trainerName
     original_trainer = pbLoadTrainer(@trainerType, @trainerName, trainerVersion)
     @currentTeam = loadOriginalTrainerTeam(trainerVersion, original_trainer)
-    @inventory = original_trainer.items || []
+    # pbLoadTrainer returns nil when no trainers.txt entry matches (trainerType,
+    # trainerName, trainerVersion) exactly -- true for the Hoenn rival, whose
+    # dynamic chosen name never matches any entry (trainers.txt only defines
+    # RIVAL1 for the Kanto rival "Blue"). loadOriginalTrainerTeam already
+    # tolerates this (returns nil, team gets overwritten by the caller); this
+    # just needed the same nil guard so construction doesn't crash before that.
+    @inventory = (original_trainer && original_trainer.items) || []
     @nb_rematches = 0
     @currentStatus = :IDLE
     @previous_status = :IDLE

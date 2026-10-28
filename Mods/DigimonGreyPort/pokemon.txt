@@ -1,0 +1,5813 @@
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 65,70,75,60,45,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???????S??
+InternalName = S
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 80,90,95,70,60,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ?…????S
+InternalName = S
+Type1 = DRAGON
+BaseStats = 45,50,45,45,35,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603239]
+Name = ?Y?????S??
+InternalName = YS
+Type1 = DRAGON
+BaseStats = 65,70,65,65,50,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603240]
+Name = ?P?g???S??
+InternalName = PGS
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 80,95,90,70,65,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ?Y??????
+InternalName = Y
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 80,98,80,69,68,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603242]
+Name = ?p?s??
+InternalName = PS
+Type1 = BUG
+Type2 = DRAGON
+BaseStats = 80,88,80,82,60,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 70
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = N6N
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603243]
+Name = ???c??
+InternalName = C
+Type1 = BUG
+Type2 = POISON
+BaseStats = 40,40,40,40,25,25
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 52
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = J
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603238]
+Name = ???s??
+InternalName = S
+Type1 = BUG
+Type2 = POISON
+BaseStats = 65,57,53,60,40,45
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603238]
+Name = ???s??
+InternalName = S
+Type1 = BUG
+Type2 = STEEL
+BaseStats = 75,85,80,70,60,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 159
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = J
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603244]
+Name = ???B?U??
+InternalName = BU
+Type1 = FIGHTING
+Type2 = FLYING
+BaseStats = 80,88,75,77,70,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = J,H
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603245]
+Name = ?D????
+InternalName = D
+Type1 = NORMAL
+BaseStats = 30,45,35,42,35,35
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 57
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = Z,B
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603241]
+Name = ?Y????
+InternalName = Y
+Type1 = GROUND
+BaseStats = 60,75,70,60,45,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 107
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603246]
+Name = ?r?%??
+InternalName = R
+Type1 = CUSTOM_TYPE_22
+BaseStats = 65,50,55,80,90,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 122
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = N7,DC
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603247]
+Name = ???H??
+InternalName = H
+Type1 = GROUND
+BaseStats = 60,70,80,55,45,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603248]
+Name = ???t??
+InternalName = T
+Type1 = PSYCHIC
+BaseStats = 55,55,55,60,65,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 117
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = D,Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ?y????
+InternalName = Y
+Type1 = PSYCHIC
+BaseStats = 70,75,70,75,90,80
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = H,Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603249]
+Name = ???U??
+InternalName = U
+Type1 = NORMAL
+BaseStats = 40,40,40,40,45,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 60
+EffortPoints = 0,0,0,0,0,0
+Rareness = 205
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603250]
+Name = ?y?ö??
+InternalName = YÖ
+Type1 = PSYCHIC
+BaseStats = 50,65,50,60,70,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 118
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603251]
+Name = ?m?y?ö??
+InternalName = MYÖ
+Type1 = PSYCHIC
+BaseStats = 70,85,65,75,90,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 155
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ?Y????
+InternalName = Y
+Type1 = NORMAL
+BaseStats = 40,45,40,45,35,35
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 53
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603252]
+Name = ?D?p????
+InternalName = DP
+Type1 = STEEL
+BaseStats = 60,70,65,60,45,50
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 109
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = H
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603246]
+Name = ?r????
+InternalName = R
+Type1 = PSYCHIC
+BaseStats = 40,45,40,45,45,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 53
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U,R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ???Y????
+InternalName = Y
+Type1 = NORMAL
+BaseStats = 40,40,40,40,45,45
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 56
+EffortPoints = 0,0,0,0,0,0
+Rareness = 170
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = B,H
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603253]
+Name = ?9????
+InternalName = N9
+Type1 = FIGHTING
+BaseStats = 60,70,60,65,50,50
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 109
+EffortPoints = 0,0,0,0,0,0
+Rareness = 110
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = N6N,H
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603254]
+Name = ???p??
+InternalName = P
+Type1 = GRASS
+BaseStats = 43,42,40,30,35,35
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 215
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ?y??????
+InternalName = Y
+Type1 = GRASS
+BaseStats = 65,70,50,50,50,65
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = L,R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603255]
+Name = ???ö??
+InternalName = Ö
+Type1 = GRASS
+Type2 = CUSTOM_TYPE_22
+BaseStats = 70,80,65,75,85,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = Q,R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603256]
+Name = ???ü??
+InternalName = Ü
+Type1 = GRASS
+BaseStats = 60,67,60,50,50,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = G
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603247]
+Name = ?H????
+InternalName = H
+Type1 = BUG
+BaseStats = 40,50,50,45,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = J
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603257]
+Name = ?D?D??
+InternalName = DD
+Type1 = WATER
+BaseStats = 50,52,48,55,70,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = S,P
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603245]
+Name = ???D??
+InternalName = D
+Type1 = FIGHTING
+BaseStats = 65,70,60,60,45,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603243]
+Name = ???c????
+InternalName = C
+Type1 = FIRE
+BaseStats = 55,60,55,50,70,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603243]
+Name = ?c????????
+InternalName = C
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 70,75,70,75,90,80
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603258]
+Name = ?3?I??
+InternalName = N3I
+Type1 = PSYCHIC
+Type2 = GROUND
+BaseStats = 50,60,50,70,65,50
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603254]
+Name = ?p????
+InternalName = P
+Type1 = FIGHTING
+BaseStats = 60,75,70,55,50,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 111
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = U,N3I6
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,O
+
+[603254]
+Name = ?%?(?p????
+InternalName = P
+Type1 = FIGHTING
+BaseStats = 70,90,80,75,60,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = U,N3I6
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603259]
+Name = ?0????
+InternalName = N0
+Type1 = WATER
+BaseStats = 52,68,50,50,50,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 105
+EffortPoints = 0,0,0,0,0,0
+Rareness = 130
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603260]
+Name = ?O????
+InternalName = O
+Type1 = WATER
+Type2 = DARK
+BaseStats = 80,90,65,60,65,85
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603261]
+Name = ???A??
+InternalName = A
+Type1 = GROUND
+Type2 = ROCK
+BaseStats = 70,90,90,60,60,65
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603262]
+Name = ???f??????
+InternalName = F
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 90,130,135,80,110,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603249]
+Name = ???U??
+InternalName = U
+Type1 = FIRE
+BaseStats = 50,60,55,50,70,65
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603263]
+Name = ???U???U??
+InternalName = UU
+Type1 = FIRE
+BaseStats = 65,72,70,60,88,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603264]
+Name = ?v????
+InternalName = V
+Type1 = STEEL
+Type2 = FLYING
+BaseStats = 85,120,100,105,75,75
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = N9
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603265]
+Name = ?O?p??
+InternalName = OP
+Type1 = WATER
+BaseStats = 50,70,70,50,50,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = G
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603264]
+Name = ???v??
+InternalName = V
+Type1 = POISON
+BaseStats = 75,50,55,40,40,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 130
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = Ä
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603264]
+Name = ???????v??
+InternalName = V
+Type1 = POISON
+BaseStats = 95,65,70,55,60,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 157
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = Ä
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603261]
+Name = ???a??
+InternalName = A
+Type1 = WATER
+BaseStats = 40,40,45,40,40,40
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = AH,RQ
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603261]
+Name = ???a??
+InternalName = A
+Type1 = WATER
+BaseStats = 50,65,70,50,55,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = AH,RQ
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603249]
+Name = ???U??
+InternalName = U
+Type1 = GHOST
+BaseStats = 60,90,60,70,75,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603266]
+Name = ?R?S??
+InternalName = RS
+Type1 = FLYING
+Type2 = DRAGON
+BaseStats = 50,70,60,70,50,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 108
+EffortPoints = 0,0,0,0,0,0
+Rareness = 115
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = N9
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603267]
+Name = ?C?Q??
+InternalName = CQ
+Type1 = PSYCHIC
+Type2 = FLYING
+BaseStats = 50,50,50,65,70,65
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 102
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = B
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603243]
+Name = ???C??
+InternalName = C
+Type1 = NORMAL
+Type2 = PSYCHIC
+BaseStats = 60,85,70,80,75,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = B
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603268]
+Name = ?S?j??
+InternalName = SJ
+Type1 = WATER
+BaseStats = 60,70,65,50,50,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 110
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N,AH
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603269]
+Name = ?…?t?D??
+InternalName = TD
+Type1 = WATER
+BaseStats = 60,90,95,65,60,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N,AH
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603270]
+Name = ?n?’??
+InternalName = N
+Type1 = GRASS
+BaseStats = 55,60,55,50,65,65
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 110
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = H
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603246]
+Name = ???r??
+InternalName = R
+Type1 = DARK
+BaseStats = 40,40,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603270]
+Name = ???n??
+InternalName = N
+Type1 = DARK
+Type2 = PSYCHIC
+BaseStats = 60,50,60,50,70,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = WP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603271]
+Name = ???S??EX
+InternalName = SEX
+Type1 = NORMAL
+Type2 = DRAGON
+BaseStats = 80,85,65,65,65,65
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ?Y????
+InternalName = Y
+Type1 = POISON
+BaseStats = 40,55,65,50,50,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = GROUND
+Type2 = DRAGON
+BaseStats = 50,70,70,50,50,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = N0,WP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ?????S??
+InternalName = S
+Type1 = GROUND
+Type2 = DRAGON
+BaseStats = 70,90,90,60,60,70
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = N0,WP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603272]
+Name = ?Ä????
+InternalName = Ä
+Type1 = PSYCHIC
+BaseStats = 70,60,60,60,90,85
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = H
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ???????S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 55,70,65,50,50,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603261]
+Name = ???a????
+InternalName = A
+Type1 = WATER
+BaseStats = 55,70,65,50,60,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RQ
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603249]
+Name = ?U????
+InternalName = U
+Type1 = WATER
+BaseStats = 60,90,70,70,75,85
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 155
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603243]
+Name = ?C????
+InternalName = C
+Type1 = WATER
+BaseStats = 50,50,55,55,65,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = I
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603249]
+Name = ???U??
+InternalName = U
+Type1 = STEEL
+Type2 = PSYCHIC
+BaseStats = 65,65,80,40,85,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = K
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603238]
+Name = ???s??
+InternalName = S
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 55,55,55,65,70,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = N9
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603245]
+Name = ???D??
+InternalName = D
+Type1 = BUG
+BaseStats = 60,70,65,55,45,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 110
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = N,J
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603273]
+Name = ???e??
+InternalName = E
+Type1 = WATER
+BaseStats = 40,40,40,35,43,42
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = S
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[603274]
+Name = ?O?S??
+InternalName = OS
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 55,65,55,55,60,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 110
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[603275]
+Name = ?O?9??
+InternalName = O9
+Type1 = WATER
+BaseStats = 52,68,50,60,55,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603276]
+Name = ???k??
+InternalName = K
+Type1 = NORMAL
+BaseStats = 70,90,70,70,90,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 160
+EffortPoints = 0,0,0,0,0,0
+Rareness = 77
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = N0,N6N
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603264]
+Name = V????
+InternalName = V
+Type1 = DRAGON
+BaseStats = 42,42,40,41,35,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 188
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603277]
+Name = ?R?O??
+InternalName = RO
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 70,70,60,90,90,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = S,P
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = ELECTRIC
+Type2 = DRAGON
+BaseStats = 60,80,60,90,90,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603278]
+Name = ?4?U??
+InternalName = N4U
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 60,90,80,65,85,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603238]
+Name = ?S????
+InternalName = S
+Type1 = DRAGON
+BaseStats = 40,40,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = U,N8
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603279]
+Name = ?s?D??
+InternalName = SD
+Type1 = ICE
+BaseStats = 40,43,40,40,40,42
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 199
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R,DC
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[603273]
+Name = ???e?(??
+InternalName = E
+Type1 = ICE
+Type2 = FIGHTING
+BaseStats = 55,70,50,65,55,65
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R,DC
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[603280]
+Name = ?U?p??
+InternalName = UP
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 55,60,60,60,70,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = I
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[603281]
+Name = ???t???S??
+InternalName = TS
+Type1 = DRAGON
+Type2 = GHOST
+BaseStats = 80,95,60,80,60,75
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603249]
+Name = ???U??
+InternalName = U
+Type1 = WATER
+Type2 = STEEL
+BaseStats = 95,130,110,85,120,110
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 215
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = S,P
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603249]
+Name = ???U??
+InternalName = U
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 95,100,100,120,135,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603282]
+Name = ?v?U??
+InternalName = VU
+Type1 = FLYING
+Type2 = STEEL
+BaseStats = 100,110,100,110,130,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 217
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = D,V
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603283]
+Name = ???Ä?S??
+InternalName = ÄS
+Type1 = DRAGON
+BaseStats = 55,70,65,70,50,50
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 115
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U,N8
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 67,88,75,90,60,65
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U,N8
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 95,135,95,115,80,85
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U,N6N
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603253]
+Name = ?????9????
+InternalName = N9
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 120,120,120,120,120,120
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 13
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = DC
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603253]
+Name = ?9????
+InternalName = N9
+Type1 = PSYCHIC
+BaseStats = 90,90,90,90,90,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = DC
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603284]
+Name = ?D?c??
+InternalName = DC
+Type1 = NORMAL
+BaseStats = 40,45,43,40,40,42
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 199
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = B,U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603285]
+Name = ?D?p?p??
+InternalName = DPP
+Type1 = FIRE
+BaseStats = 55,70,55,70,55,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = Ü,U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603285]
+Name = ?????D?p?p
+InternalName = DPP
+Type1 = FIGHTING
+BaseStats = 65,90,70,90,65,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603286]
+Name = V????EX
+InternalName = VEX
+Type1 = DRAGON
+BaseStats = 55,70,65,55,50,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603287]
+Name = ???H?S??
+InternalName = HS
+Type1 = DRAGON
+BaseStats = 70,90,75,75,65,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ?????S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 80,120,95,105,80,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603288]
+Name = V?S??
+InternalName = VS
+Type1 = DRAGON
+BaseStats = 50,70,60,55,50,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603289]
+Name = ?y??V?S??
+InternalName = YVS
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 65,90,75,85,60,65
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603288]
+Name = ????V?S??
+InternalName = VS
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 85,125,100,135,80,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603245]
+Name = ?D????
+InternalName = D
+Type1 = NORMAL
+BaseStats = 35,45,40,40,35,35
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 57
+EffortPoints = 0,0,0,0,0,0
+Rareness = 205
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603257]
+Name = ?D???D??
+InternalName = DD
+Type1 = NORMAL
+BaseStats = 60,75,65,70,45,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 110
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603290]
+Name = ?6????
+InternalName = N6
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 50,45,35,45,30,35
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 58
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = J
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603291]
+Name = ?Ü?’?s??
+InternalName = ÜS
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 70,70,50,65,45,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = J
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603249]
+Name = ???U??????
+InternalName = U
+Type1 = BUG
+BaseStats = 95,115,100,85,70,100
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603292]
+Name = ???B??
+InternalName = B
+Type1 = BUG
+Type2 = POISON
+BaseStats = 60,65,50,45,40,60
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603247]
+Name = ?H??????
+InternalName = H
+Type1 = DARK
+BaseStats = 80,90,80,75,60,75
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = N0,U
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603293]
+Name = ?C???S??
+InternalName = CS
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 90,95,100,80,105,95
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = N49
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603292]
+Name = ?b?%??
+InternalName = B
+Type1 = NORMAL
+BaseStats = 40,40,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = H,N6N
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603245]
+Name = ?d????
+InternalName = D
+Type1 = FIGHTING
+BaseStats = 60,90,85,80,60,80
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = H,N6N
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603294]
+Name = ???9?U??
+InternalName = N9U
+Type1 = FLYING
+Type2 = FIGHTING
+BaseStats = 95,115,95,100,85,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = J,N9
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603253]
+Name = ???9??
+InternalName = N9
+Type1 = ELECTRIC
+Type2 = FIGHTING
+BaseStats = 55,70,65,50,65,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 135
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603253]
+Name = ???9??
+InternalName = N9
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 75,90,80,65,80,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 157
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603262]
+Name = ???f??????
+InternalName = F
+Type1 = ELECTRIC
+Type2 = BUG
+BaseStats = 100,105,110,85,130,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603262]
+Name = ???f??????
+InternalName = F
+Type1 = WATER
+Type2 = FIGHTING
+BaseStats = 100,105,90,95,130,120
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = S,P
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603257]
+Name = ?????D???D
+InternalName = DD
+Type1 = STEEL
+Type2 = FIGHTING
+BaseStats = 70,90,80,85,55,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DARK
+Type2 = DRAGON
+BaseStats = 50,75,65,60,50,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 140
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603295]
+Name = ?m????
+InternalName = M
+Type1 = GRASS
+BaseStats = 50,70,55,55,65,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 145
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ?=?S??
+InternalName = S
+Type1 = GRASS
+Type2 = DRAGON
+BaseStats = 70,90,70,70,80,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603262]
+Name = ???f?’????
+InternalName = F
+Type1 = GRASS
+BaseStats = 100,130,110,85,110,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603296]
+Name = ?0?s??
+InternalName = N0S
+Type1 = GRASS
+BaseStats = 55,68,55,65,62,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = Ü
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603297]
+Name = ???f?D?p?p
+InternalName = FDPP
+Type1 = PSYCHIC
+Type2 = FIGHTING
+BaseStats = 90,135,105,105,115,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603254]
+Name = ???p??
+InternalName = P
+Type1 = DARK
+Type2 = FIGHTING
+BaseStats = 50,75,60,65,55,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = B,H
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603298]
+Name = ?A???p????
+InternalName = AP
+Type1 = DARK
+BaseStats = 65,90,75,80,70,75
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 157
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = B,H
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603299]
+Name = ???f?p????
+InternalName = FP
+Type1 = DARK
+BaseStats = 120,130,100,105,90,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = B,H
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603300]
+Name = ???j??
+InternalName = J
+Type1 = GHOST
+BaseStats = 55,60,55,55,70,65
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 145
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603301]
+Name = ???????g
+InternalName = G
+Type1 = PSYCHIC
+BaseStats = 48,72,48,48,72,48
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 61
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 55,70,60,50,55,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 140
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U,G
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ?)?????S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 70,90,80,65,70,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = U,G
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ?????S??
+InternalName = S
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 75,90,85,70,60,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = WP
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603257]
+Name = ?????D???D
+InternalName = DD
+Type1 = FIGHTING
+BaseStats = 95,120,100,105,95,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603302]
+Name = ???T?D???D
+InternalName = TDD
+Type1 = FIGHTING
+BaseStats = 120,150,130,140,110,130
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 15
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603253]
+Name = ???9??
+InternalName = N9
+Type1 = WATER
+Type2 = FIGHTING
+BaseStats = 90,110,90,90,70,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???????S??
+InternalName = S
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 65,90,80,80,70,65
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603303]
+Name = ?Y???D??
+InternalName = YD
+Type1 = BUG
+BaseStats = 70,90,80,75,60,70
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = N
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603260]
+Name = ???O?(??
+InternalName = O
+Type1 = DARK
+BaseStats = 65,80,70,70,90,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = U,H
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ???Y??????
+InternalName = Y
+Type1 = STEEL
+BaseStats = 80,80,90,60,60,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603248]
+Name = ???t??????
+InternalName = T
+Type1 = GHOST
+Type2 = GROUND
+BaseStats = 90,110,90,80,80,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = WP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603264]
+Name = ???????v??
+InternalName = V
+Type1 = POISON
+Type2 = FLYING
+BaseStats = 110,90,85,80,70,110
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603274]
+Name = ???O?S??
+InternalName = OS
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 70,90,75,75,65,75
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 158
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603274]
+Name = ?????O?S??
+InternalName = OS
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 85,110,95,85,80,85
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603304]
+Name = ?P?l??
+InternalName = PL
+Type1 = WATER
+BaseStats = 70,85,70,80,80,70
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 158
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = S
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603255]
+Name = ?Ö????
+InternalName = Ö
+Type1 = PSYCHIC
+Type2 = FLYING
+BaseStats = 90,100,90,90,110,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = J,V
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603248]
+Name = ???t????
+InternalName = T
+Type1 = DARK
+BaseStats = 70,90,70,80,70,70
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = U,B
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603305]
+Name = ?v???O?S??
+InternalName = VOS
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 110,145,130,105,120,115
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 237
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = D8
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603241]
+Name = ?y????
+InternalName = Y
+Type1 = PSYCHIC
+BaseStats = 70,70,70,70,90,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603306]
+Name = ?U?S??
+InternalName = US
+Type1 = PSYCHIC
+Type2 = DRAGON
+BaseStats = 85,100,85,85,110,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603307]
+Name = ?c?O????
+InternalName = CO
+Type1 = PSYCHIC
+BaseStats = 70,70,70,70,85,85
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = H,Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603308]
+Name = ?m?S??
+InternalName = MS
+Type1 = PSYCHIC
+Type2 = DRAGON
+BaseStats = 90,90,85,85,110,100
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603309]
+Name = ?????x?p??
+InternalName = XP
+Type1 = GROUND
+BaseStats = 90,110,90,95,70,85
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = U,N3I6
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603310]
+Name = ?x????
+InternalName = X
+Type1 = FIGHTING
+BaseStats = 40,45,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 51
+EffortPoints = 0,0,0,0,0,0
+Rareness = 185
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = H,N6N
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603311]
+Name = ?l?e??
+InternalName = LE
+Type1 = DRAGON
+BaseStats = 40,45,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 185
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603312]
+Name = ?S?N??
+InternalName = SN
+Type1 = DRAGON
+BaseStats = 40,45,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 56
+EffortPoints = 0,0,0,0,0,0
+Rareness = 185
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = H
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603248]
+Name = ???t??
+InternalName = T
+Type1 = DRAGON
+BaseStats = 40,45,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 57
+EffortPoints = 0,0,0,0,0,0
+Rareness = 185
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603313]
+Name = ?U?m?y????
+InternalName = UMY
+Type1 = PSYCHIC
+BaseStats = 100,90,90,90,110,100
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 205
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = Q,Y
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603314]
+Name = ???i???e??
+InternalName = IE
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 115,145,120,105,130,120
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 23
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603308]
+Name = ?m???S??
+InternalName = MS
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 100,120,145,100,125,145
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 23
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603283]
+Name = ???Ä?S??
+InternalName = ÄS
+Type1 = DRAGON
+BaseStats = 55,70,65,55,45,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 145
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U,N8
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+Type2 = GROUND
+BaseStats = 70,90,85,70,65,70
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = U,N8
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ?????S??
+InternalName = S
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 100,135,110,90,80,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603315]
+Name = ???s?9????
+InternalName = S9
+Type1 = DARK
+BaseStats = 160,180,150,110,150,150
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603253]
+Name = ?9????????
+InternalName = N9
+Type1 = DARK
+BaseStats = 100,150,150,150,180,180
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 15
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 40,45,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 55
+EffortPoints = 0,0,0,0,0,0
+Rareness = 195
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 55,75,60,55,50,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 101
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603316]
+Name = ?W?6?S??
+InternalName = W6S
+Type1 = DRAGON
+BaseStats = 70,90,80,80,60,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 155
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603274]
+Name = ?o???S??
+InternalName = OS
+Type1 = DRAGON
+BaseStats = 40,45,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 55
+EffortPoints = 0,0,0,0,0,0
+Rareness = 197
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603317]
+Name = ?d?X?S??
+InternalName = DXS
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 60,70,60,60,50,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 102
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603318]
+Name = ?Z???R?S??
+InternalName = ZRS
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 70,90,80,80,60,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 155
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ?????S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 60,75,60,50,55,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 103
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???????S??
+InternalName = S
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 70,95,80,65,70,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603248]
+Name = ?????t??
+InternalName = T
+Type1 = STEEL
+BaseStats = 70,88,77,65,60,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EB,RP
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603248]
+Name = ???????t??
+InternalName = T
+Type1 = STEEL
+BaseStats = 90,115,100,75,70,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EB,RP
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603253]
+Name = ?9????
+InternalName = N9
+Type1 = FIGHTING
+BaseStats = 80,90,85,65,60,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = H
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603310]
+Name = ?x????
+InternalName = X
+Type1 = FIGHTING
+BaseStats = 105,125,110,105,80,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = U,N6N
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603319]
+Name = ?L?L??
+InternalName = LL
+Type1 = QMARKS
+BaseStats = 40,45,40,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 54
+EffortPoints = 0,0,0,0,0,0
+Rareness = 205
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = Q
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603320]
+Name = ???9?ö????
+InternalName = N9Ö
+Type1 = QMARKS
+BaseStats = 75,90,80,70,60,75
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 161
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RP,Q
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603321]
+Name = ???…?I????
+InternalName = I
+Type1 = QMARKS
+BaseStats = 95,120,105,110,75,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RP,Q
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603322]
+Name = ?.?C?X??
+InternalName = CX
+Type1 = DARK
+BaseStats = 110,125,110,105,80,105
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603323]
+Name = ???y???9??
+InternalName = Y9
+Type1 = DARK
+Type2 = FLYING
+BaseStats = 130,150,135,135,110,120
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = N0
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603248]
+Name = ?????t??
+InternalName = T
+Type1 = DARK
+BaseStats = 50,68,57,60,50,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = Q
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603324]
+Name = ?z?z??
+InternalName = ZZ
+Type1 = NORMAL
+BaseStats = 70,85,80,70,65,70
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EQ
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603325]
+Name = ?????z??
+InternalName = Z
+Type1 = DARK
+BaseStats = 80,120,100,80,80,100
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = EQ
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603326]
+Name = ?y?ö?z??
+InternalName = YÖZ
+Type1 = PSYCHIC
+BaseStats = 80,80,100,80,120,100
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = H,EQ
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603241]
+Name = ?y????
+InternalName = Y
+Type1 = FLYING
+BaseStats = 60,60,50,60,70,50
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = N7,H
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603243]
+Name = ???c????
+InternalName = C
+Type1 = GRASS
+Type2 = CUSTOM_TYPE_23_7
+BaseStats = 100,110,100,105,140,120
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = Q,R
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603322]
+Name = ?c????X
+InternalName = CX
+Type1 = GRASS
+Type2 = CUSTOM_TYPE_23_7
+BaseStats = 100,120,100,105,140,110
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = Q,R
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603250]
+Name = ?????y?ö??
+InternalName = YÖ
+Type1 = PSYCHIC
+Type2 = STEEL
+BaseStats = 80,120,100,80,105,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 44
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = N0,H
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603327]
+Name = ?R?p??
+InternalName = RP
+Type1 = GROUND
+Type2 = FLYING
+BaseStats = 85,110,90,105,70,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = N9
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603255]
+Name = ???????ö??
+InternalName = Ö
+Type1 = GRASS
+Type2 = FIGHTING
+BaseStats = 90,110,90,90,115,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603243]
+Name = ?c????
+InternalName = C
+Type1 = GRASS
+Type2 = CUSTOM_TYPE_23_7
+BaseStats = 85,105,85,85,115,85
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 128
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603245]
+Name = ???d??
+InternalName = D
+Type1 = BUG
+Type2 = POISON
+BaseStats = 120,100,80,70,70,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603254]
+Name = ?p????
+InternalName = P
+Type1 = WATER
+Type2 = FIGHTING
+BaseStats = 80,90,80,60,75,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RQ,G
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603254]
+Name = ?????p????
+InternalName = P
+Type1 = FIGHTING
+BaseStats = 100,125,110,110,70,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = U,N3I6
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603328]
+Name = ???w??
+InternalName = W
+Type1 = ROCK
+BaseStats = 40,40,45,40,40,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 205
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = R,N4
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603329]
+Name = ???f???S??
+InternalName = FS
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 90,115,100,95,130,120
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???(???S??
+InternalName = S
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 90,110,100,85,80,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603273]
+Name = ?e????
+InternalName = E
+Type1 = STEEL
+BaseStats = 72,88,75,65,60,75
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EB,RP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603253]
+Name = ?9?)??
+InternalName = N9
+Type1 = DARK
+Type2 = STEEL
+BaseStats = 105,125,105,90,75,100
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603245]
+Name = ???????D??
+InternalName = D
+Type1 = BUG
+BaseStats = 90,110,95,95,70,80
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603245]
+Name = ???????D??
+InternalName = D
+Type1 = BUG
+BaseStats = 110,140,120,105,90,110
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603310]
+Name = ?????)??X
+InternalName = X
+Type1 = STEEL
+BaseStats = 100,140,120,100,90,120
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 223
+EffortPoints = 0,0,0,0,0,0
+Rareness = 10
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603259]
+Name = ???(?0??
+InternalName = N0
+Type1 = DARK
+Type2 = FIGHTING
+BaseStats = 70,90,75,80,65,75
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603260]
+Name = ?????????O
+InternalName = O
+Type1 = DARK
+BaseStats = 90,100,140,80,95,140
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = G,N1
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603243]
+Name = ???c?(??
+InternalName = C
+Type1 = DARK
+Type2 = FLYING
+BaseStats = 120,130,110,110,80,110
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603249]
+Name = ?U????
+InternalName = U
+Type1 = PSYCHIC
+BaseStats = 75,75,65,65,90,80
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603273]
+Name = ???E?(??
+InternalName = E
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 110,130,110,95,100,90
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???????S??
+InternalName = S
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 80,90,80,65,65,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 70
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U,N0
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603330]
+Name = ?5?????S??
+InternalName = N5S
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 105,130,125,80,80,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = D8
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603331]
+Name = ???f?Y?1??
+InternalName = FY1
+Type1 = ICE
+BaseStats = 95,120,120,90,110,105
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = ZQ
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603238]
+Name = ???s??
+InternalName = S
+Type1 = BUG
+Type2 = STEEL
+BaseStats = 90,120,100,105,80,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = J
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603332]
+Name = ???(???SX
+InternalName = SX
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 100,140,120,90,100,100
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603333]
+Name = ?d?X?D?p?p
+InternalName = DXDPP
+Type1 = STEEL
+BaseStats = 100,140,120,105,90,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = D8
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603334]
+Name = ?O?y?ö??
+InternalName = OYÖ
+Type1 = PSYCHIC
+Type2 = CUSTOM_TYPE_23_7
+BaseStats = 70,70,75,70,105,130
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = Q,Y
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[603335]
+Name = ?N?y?ö??
+InternalName = NYÖ
+Type1 = PSYCHIC
+BaseStats = 90,80,80,80,110,100
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = H
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603250]
+Name = ???y?ö??
+InternalName = YÖ
+Type1 = PSYCHIC
+BaseStats = 80,100,90,85,130,100
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = G,N0
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603285]
+Name = ?????D?p?p
+InternalName = DPP
+Type1 = STEEL
+BaseStats = 85,115,90,100,80,80
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = D8
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603336]
+Name = ?????8??
+InternalName = N8
+Type1 = PSYCHIC
+BaseStats = 100,95,95,95,130,120
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = D,DC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603310]
+Name = ?X????
+InternalName = X
+Type1 = FIGHTING
+BaseStats = 50,70,65,50,50,65
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 122
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603330]
+Name = ???5?S??
+InternalName = N5S
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 110,150,125,90,90,110
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = EB,D8
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603301]
+Name = ?’?G????
+InternalName = G
+Type1 = GHOST
+BaseStats = 80,90,80,70,60,70
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = Q
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603253]
+Name = ???9??????
+InternalName = N9
+Type1 = STEEL
+BaseStats = 55,70,60,60,50,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[603288]
+Name = ?v???S??
+InternalName = VS
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 70,93,75,70,70,72
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = EB,U
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603337]
+Name = ?3???S??
+InternalName = N3S
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 100,115,100,80,80,90
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = EB,D8
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603242]
+Name = ?p?S?)??
+InternalName = PS
+Type1 = DRAGON
+BaseStats = 100,110,105,85,70,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603253]
+Name = ???9??????
+InternalName = N9
+Type1 = STEEL
+BaseStats = 55,70,60,60,50,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603338]
+Name = ???3??BM
+InternalName = N3BM
+Type1 = DARK
+Type2 = FIGHTING
+BaseStats = 120,150,120,140,120,120
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603276]
+Name = ?K????
+InternalName = K
+Type1 = GHOST
+BaseStats = 70,85,70,70,70,70
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = B
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603325]
+Name = ?Z??????
+InternalName = Z
+Type1 = FIGHTING
+Type2 = STEEL
+BaseStats = 85,115,100,80,75,85
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = R,WP
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603248]
+Name = ???t????
+InternalName = T
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 100,105,105,100,150,120
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603250]
+Name = ???y?ö??
+InternalName = YÖ
+Type1 = PSYCHIC
+BaseStats = 90,90,90,90,100,120
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = H,Y
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603325]
+Name = ???z??
+InternalName = Z
+Type1 = STEEL
+BaseStats = 75,75,75,60,90,75
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 152
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EB
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603339]
+Name = ???f?Ä????
+InternalName = FÄ
+Type1 = STEEL
+BaseStats = 95,100,110,90,120,125
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 205
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EB
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[603248]
+Name = ???T??
+InternalName = T
+Type1 = ICE
+Type2 = DARK
+BaseStats = 70,90,70,80,62,78
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 151
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = R,DC
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[603245]
+Name = ?????D??
+InternalName = D
+Type1 = ICE
+Type2 = DARK
+BaseStats = 100,130,100,110,100,105
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 201
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = ZQ,DC
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[603321]
+Name = ???I????
+InternalName = I
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 110,125,105,95,110,105
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = G,I
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[603241]
+Name = ?y????
+InternalName = Y
+Type1 = FLYING
+Type2 = FIGHTING
+BaseStats = 55,70,55,60,50,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 108
+EffortPoints = 0,0,0,0,0,0
+Rareness = 135
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = Q,V
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603340]
+Name = ???f?q????
+InternalName = FQ
+Type1 = FLYING
+Type2 = FIGHTING
+BaseStats = 100,120,100,110,95,105
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 198
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = Q,V
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 55,75,65,60,50,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 109
+EffortPoints = 0,0,0,0,0,0
+Rareness = 145
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603266]
+Name = ?R???S??
+InternalName = RS
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 75,95,80,70,65,75
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 85
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603238]
+Name = ?)?S??
+InternalName = S
+Type1 = DRAGON
+Type2 = FIGHTING
+BaseStats = 110,145,130,110,100,125
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = N3I6
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603269]
+Name = ???t?D??
+InternalName = TD
+Type1 = DRAGON
+BaseStats = 55,75,60,60,50,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 103
+EffortPoints = 0,0,0,0,0,0
+Rareness = 113
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+Moves = 0,X
+
+[603281]
+Name = ???t???S??
+InternalName = TS
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 70,90,80,70,75,80
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 153
+EffortPoints = 0,0,0,0,0,0
+Rareness = 83
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603281]
+Name = ???t???S??
+InternalName = TS
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 120,145,135,100,100,120
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 43
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = N8
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[603245]
+Name = ?????D??
+InternalName = D
+Type1 = FIGHTING
+BaseStats = 105,130,115,110,115,105
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 217
+EffortPoints = 0,0,0,0,0,0
+Rareness = 33
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603238]
+Name = ?????S????
+InternalName = S
+Type1 = DRAGON
+BaseStats = 105,130,115,100,100,110
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 43
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[603341]
+Name = ?n???????O
+InternalName = NO
+Type1 = DARK
+BaseStats = 120,150,150,110,120,150
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603243]
+Name = ???c????
+InternalName = C
+Type1 = DRAGON
+Type2 = STEEL
+BaseStats = 120,150,130,120,150,130
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603250]
+Name = ???????y?ö
+InternalName = YÖ
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 100,100,100,100,150,130
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 251
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 90
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = H,N1
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603250]
+Name = ???????y?ö
+InternalName = YÖ
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 100,130,100,100,150,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 251
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 90
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603342]
+Name = ???5??
+InternalName = N5
+Type1 = QMARKS
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[603241]
+Name = ?Y?)??????
+InternalName = Y
+Type1 = NORMAL
+BaseStats = 100,130,110,105,95,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = U,N0
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[603238]
+Name = ?????S??
+InternalName = S
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 75,90,80,75,65,65
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N0,U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+Moves = 0,X
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 100,120,100,95,85,85
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N0,U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603343]
+Name = ?j?5??
+InternalName = J5
+Type1 = STEEL
+Type2 = FIGHTING
+BaseStats = 105,130,115,105,105,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603321]
+Name = ?I??????
+InternalName = I
+Type1 = WATER
+BaseStats = 130,155,130,110,145,130
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = S
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603241]
+Name = ?Y?????:??
+InternalName = Y
+Type1 = DARK
+BaseStats = 105,135,115,95,100,115
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603261]
+Name = ?A?)??
+InternalName = A
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 105,140,110,100,100,100
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603344]
+Name = ???e???S??
+InternalName = ES
+Type1 = NORMAL
+BaseStats = 100,130,120,105,90,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603345]
+Name = ?K???H????
+InternalName = KH
+Type1 = POISON
+Type2 = DARK
+BaseStats = 90,125,100,75,85,100
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N0,G
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603247]
+Name = ?????H????
+InternalName = H
+Type1 = DARK
+BaseStats = 100,135,115,95,95,115
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603346]
+Name = ???6?H????
+InternalName = N6H
+Type1 = DARK
+BaseStats = 100,135,110,110,90,110
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = O,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603238]
+Name = ???????S??
+InternalName = S
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 105,125,115,95,85,110
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603347]
+Name = ???5???3??
+InternalName = N53
+Type1 = FIGHTING
+Type2 = DARK
+BaseStats = 105,135,110,110,90,110
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = ELECTRIC
+Type2 = DRAGON
+BaseStats = 110,100,90,100,130,120
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603243]
+Name = ?C????
+InternalName = C
+Type1 = FLYING
+Type2 = FIRE
+BaseStats = 100,100,100,100,130,120
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603253]
+Name = ???9??
+InternalName = N9
+Type1 = GRASS
+Type2 = ICE
+BaseStats = 130,100,100,100,120,100
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = R
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603238]
+Name = ???S??
+InternalName = S
+Type1 = DRAGON
+BaseStats = 150,180,130,120,150,130
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N8,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603254]
+Name = ???p????
+InternalName = P
+Type1 = DARK
+BaseStats = 120,125,105,100,90,100
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N0,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603311]
+Name = ?????l?e??
+InternalName = LE
+Type1 = DRAGON
+BaseStats = 65,70,65,60,50,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 112
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603311]
+Name = ?????l?e??
+InternalName = LE
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 70,90,80,80,65,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603287]
+Name = ???H?S??
+InternalName = HS
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 65,85,90,70,70,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603348]
+Name = ???H?S??X
+InternalName = HSX
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 90,95,130,80,80,130
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603349]
+Name = ?l?????S??
+InternalName = LS
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 110,150,130,100,100,110
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603350]
+Name = ?3???D?p?p
+InternalName = N3DPP
+Type1 = STEEL
+BaseStats = 120,150,120,110,100,100
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,D8
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603281]
+Name = ?????t???S
+InternalName = TS
+Type1 = DARK
+Type2 = DRAGON
+BaseStats = 70,90,80,75,70,75
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N0
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603281]
+Name = ?????t???S
+InternalName = TS
+Type1 = DARK
+Type2 = DRAGON
+BaseStats = 120,150,130,100,100,130
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603351]
+Name = ???0?x?U??
+InternalName = N0XU
+Type1 = FIGHTING
+BaseStats = 80,100,80,80,70,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 160
+EffortPoints = 0,0,0,0,0,0
+Rareness = 70
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603352]
+Name = ?????!??BM
+InternalName = BM
+Type1 = FIGHTING
+BaseStats = 160,210,160,150,180,160
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = H,U
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603353]
+Name = ?????D??X
+InternalName = DX
+Type1 = FIGHTING
+BaseStats = 150,180,150,130,180,150
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603315]
+Name = ?????S?9??
+InternalName = S9
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 150,180,150,130,150,150
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603354]
+Name = ???3??X
+InternalName = N3X
+Type1 = NORMAL
+BaseStats = 130,160,140,130,120,130
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603355]
+Name = ?R?????3??
+InternalName = R3
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 155,180,150,135,150,150
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603356]
+Name = ???????L??
+InternalName = L
+Type1 = NORMAL
+BaseStats = 150,180,150,130,180,150
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603357]
+Name = ???9???S??
+InternalName = N9S
+Type1 = DRAGON
+Type2 = PSYCHIC
+BaseStats = 100,120,100,100,130,100
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603358]
+Name = ???9???SBM
+InternalName = N9SBM
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 150,160,150,130,180,150
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603359]
+Name = ??????X2
+InternalName = X2
+Type1 = NORMAL
+BaseStats = 50,70,60,50,60,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,H
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603360]
+Name = ??????X3
+InternalName = X3
+Type1 = NORMAL
+BaseStats = 70,90,80,70,70,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,H
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603361]
+Name = ??????X4
+InternalName = X4
+Type1 = NORMAL
+BaseStats = 90,120,110,90,80,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 180
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,H
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603362]
+Name = ??????X5
+InternalName = X5
+Type1 = NORMAL
+BaseStats = 100,140,120,100,100,110
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 20
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,H
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603363]
+Name = ??????X7
+InternalName = X7
+Type1 = NORMAL
+BaseStats = 130,180,150,130,130,150
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603364]
+Name = ?.?0?W?6?S
+InternalName = N0W6S
+Type1 = DRAGON
+BaseStats = 90,130,120,120,90,90
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603365]
+Name = ?9?y??
+InternalName = N9Y
+Type1 = FIGHTING
+BaseStats = 90,100,90,80,80,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 70
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,H
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603366]
+Name = ?m?e??????
+InternalName = ME
+Type1 = PSYCHIC
+BaseStats = 255,180,180,180,255,255
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = Y,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603273]
+Name = ???e??????
+InternalName = E
+Type1 = DARK
+Type2 = DRAGON
+BaseStats = 255,255,255,180,180,180
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = U,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603241]
+Name = ?????y??
+InternalName = Y
+Type1 = QMARKS
+BaseStats = 150,150,150,150,150,150
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603367]
+Name = ?F?l??
+InternalName = FL
+Type1 = QMARKS
+BaseStats = 130,130,130,100,130,130
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 40
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603368]
+Name = ?T???F?l??
+InternalName = TFL
+Type1 = QMARKS
+BaseStats = 180,150,180,100,150,180
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 15
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603369]
+Name = ?5???F?l??
+InternalName = N5FL
+Type1 = QMARKS
+BaseStats = 255,200,150,150,200,150
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[603370]
+Name = ??????X7BM
+InternalName = X7BM
+Type1 = QMARKS
+BaseStats = 240,240,160,160,240,160
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = Y,N1
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head

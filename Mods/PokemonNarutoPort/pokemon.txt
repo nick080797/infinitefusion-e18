@@ -1,0 +1,4888 @@
+[608302]
+Name = DEIDARA1
+InternalName = DEIDARA1
+Type1 = FIRE
+BaseStats = 39,52,43,65,60,50
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608303]
+Name = DEIDARA2
+InternalName = DEIDARA2
+Type1 = FIRE
+BaseStats = 58,64,58,80,80,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608304]
+Name = DEIDARA3
+InternalName = DEIDARA3
+Type1 = FIRE
+Type2 = GHOST
+BaseStats = 78,84,78,100,109,85
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608305]
+Name = MOTHIN
+InternalName = MOTHIN
+Type1 = BUG
+Type2 = FLYING
+BaseStats = 60,45,50,70,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 160
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608306]
+Name = NARUTO-2
+InternalName = NARUTO2
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 63,60,55,71,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 113
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608307]
+Name = NARUTO-3
+InternalName = NARUTO3
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 83,180,75,91,70,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 172
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608308]
+Name = DEEPA
+InternalName = DEEPA
+Type1 = NORMAL
+Type2 = DARK
+BaseStats = 30,56,35,72,25,35
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 57
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY,GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608309]
+Name = DEEPA-2
+InternalName = DEEPA2
+Type1 = STEEL
+Type2 = DARK
+BaseStats = 55,81,60,97,50,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 116
+EffortPoints = 0,0,0,0,0,0
+Rareness = 127
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608310]
+Name = ZABUZA-2
+InternalName = ZABUZA2
+Type1 = NORMAL
+Type2 = FIGHTING
+BaseStats = 60,85,69,80,65,79
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 147
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE,SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608311]
+Name = MINATO-2
+InternalName = MINATO2
+Type1 = ELECTRIC
+BaseStats = 35,55,30,90,50,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 82
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608312]
+Name = MINATO-3
+InternalName = MINATO3
+Type1 = ELECTRIC
+Type2 = FIRE
+BaseStats = 60,90,55,100,90,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 122
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608313]
+Name = AODA
+InternalName = AODA
+Type1 = POISON
+Type2 = BUG
+BaseStats = 50,75,85,40,20,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 93
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608314]
+Name = MANDA
+InternalName = MANDA
+Type1 = POISON
+Type2 = DARK
+BaseStats = 75,100,110,65,45,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 163
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608315]
+Name = JIGEN
+InternalName = JIGEN
+Type1 = DARK
+BaseStats = 90,82,87,76,75,85
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 194
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608316]
+Name = SARADA-2
+InternalName = SARADA2
+Type1 = FIGHTING
+BaseStats = 61,72,57,65,55,55
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 118
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608317]
+Name = DELTA
+InternalName = DELTA
+Type1 = FIGHTING
+Type2 = STEEL
+BaseStats = 81,92,77,85,85,75
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 195
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608318]
+Name = HIMAWARI
+InternalName = HIMAWARI
+Type1 = NORMAL
+BaseStats = 70,45,48,35,60,65
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 68
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608319]
+Name = H Y B
+InternalName = HYB
+Type1 = NORMAL
+BaseStats = 95,70,73,60,85,90
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 129
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608320]
+Name = YONBY
+InternalName = YONBY
+Type1 = FIRE
+BaseStats = 73,76,75,100,81,100
+GenderRate = Female75Percent
+GrowthRate = Medium
+BaseEXP = 178
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608321]
+Name = HINATA-2
+InternalName = HINATA2
+Type1 = NORMAL
+BaseStats = 115,45,20,20,45,25
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 76
+EffortPoints = 0,0,0,0,0,0
+Rareness = 170
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608322]
+Name = HINATA-3
+InternalName = HINATA3
+Type1 = NORMAL
+BaseStats = 140,70,45,45,75,50
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 109
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608323]
+Name = OBITO-N
+InternalName = OBITON
+Type1 = PSYCHIC
+Type2 = NORMAL
+BaseStats = 40,45,35,55,30,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 54
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608324]
+Name = ZETSU-1
+InternalName = ZETSU1
+Type1 = GRASS
+Type2 = BUG
+BaseStats = 45,50,55,30,75,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 78
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608325]
+Name = ZETSU-2
+InternalName = ZETSU2
+Type1 = GRASS
+Type2 = BUG
+BaseStats = 60,65,70,40,85,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 132
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608326]
+Name = ZETSU-3
+InternalName = ZETSU3
+Type1 = GRASS
+Type2 = BUG
+BaseStats = 75,80,85,50,100,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 184
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608327]
+Name = VICTOR
+InternalName = VICTOR
+Type1 = NORMAL
+Type2 = GROUND
+BaseStats = 60,55,50,45,40,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608328]
+Name = AMADOO
+InternalName = AMADOO
+Type1 = NORMAL
+BaseStats = 70,65,60,90,90,75
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 138
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608329]
+Name = SANSHOUO
+InternalName = SANSHOUO
+Type1 = GROUND
+BaseStats = 35,80,50,120,50,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 153
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SANDVEIL,STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608330]
+Name = B-EROJUTSU
+InternalName = BEROJUTSU
+Type1 = NORMAL
+BaseStats = 40,45,35,90,40,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 69
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608331]
+Name = N-EROJUTSU
+InternalName = NEROJUTSU
+Type1 = NORMAL
+BaseStats = 65,70,60,115,65,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 148
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = LIMBER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608332]
+Name = ARAYA
+InternalName = ARAYA
+Type1 = NORMAL
+BaseStats = 40,80,35,70,35,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 74
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608333]
+Name = YODO
+InternalName = YODO
+Type1 = NORMAL
+BaseStats = 65,105,60,95,60,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 149
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608334]
+Name = FUGAKU
+InternalName = FUGAKU
+Type1 = FIRE
+Type2 = NORMAL
+BaseStats = 90,110,80,95,100,80
+GenderRate = Female25Percent
+GrowthRate = Slow
+BaseEXP = 213
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608335]
+Name = GAMASHUSI
+InternalName = GAMASHUSI
+Type1 = WATER
+Type2 = POISON
+BaseStats = 65,65,65,90,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 131
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608336]
+Name = GAMAKEN
+InternalName = GAMAKEN
+Type1 = WATER
+Type2 = POISON
+BaseStats = 90,85,95,70,70,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 185
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608337]
+Name = OMOI
+InternalName = OMOI
+Type1 = PSYCHIC
+BaseStats = 25,20,15,90,105,55
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 73
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SYNCHRONIZE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608338]
+Name = SAMUI
+InternalName = SAMUI
+Type1 = PSYCHIC
+BaseStats = 40,35,30,105,120,70
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 145
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SYNCHRONIZE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608339]
+Name = DARUI
+InternalName = DARUI
+Type1 = PSYCHIC
+BaseStats = 55,50,45,120,135,85
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 186
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SYNCHRONIZE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608340]
+Name = SAKURA-2
+InternalName = SAKURA2
+Type1 = FIGHTING
+BaseStats = 80,100,70,45,50,60
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608341]
+Name = SAKURA-3
+InternalName = SAKURA3
+Type1 = FIGHTING
+BaseStats = 90,130,80,55,65,85
+GenderRate = Female25Percent
+GrowthRate = Parabolic
+BaseEXP = 193
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608342]
+Name = TSUNADE-2
+InternalName = TSUNADE2
+Type1 = WATER
+Type2 = FIGHTING
+BaseStats = 80,170,65,100,80,120
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 205
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY,LIQUIDOOZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608343]
+Name = NARUTO-B
+InternalName = NARUTOB
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 40,80,100,20,30,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 86
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608344]
+Name = NARUTO-R6
+InternalName = NARUTOR6
+Type1 = STEEL
+Type2 = FIRE
+BaseStats = 55,95,115,35,45,45
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608345]
+Name = NARUTO-A6
+InternalName = NARUTOA6
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 80,210,130,45,55,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 177
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608346]
+Name = KOJI
+InternalName = KOJI
+Type1 = FIRE
+Type2 = GROUND
+BaseStats = 65,100,70,105,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 192
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608347]
+Name = BORUTO-A
+InternalName = BORUTOA
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 50,60,95,70,120,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 161
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = MAGNETPULL,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608348]
+Name = KITSUNE
+InternalName = KITSUNE
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 52,65,55,60,58,62
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 94
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE,INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608349]
+Name = TEMARI-2
+InternalName = TEMARI2
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 60,110,70,100,60,60
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 158
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608350]
+Name = CHOJURO
+InternalName = CHOJURO
+Type1 = ICE
+Type2 = STEEL
+BaseStats = 65,45,55,45,45,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608351]
+Name = CHOJURO-2
+InternalName = CHOJURO2
+Type1 = ICE
+Type2 = STEEL
+BaseStats = 90,70,80,70,70,95
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 176
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608352]
+Name = KIDOMARU-2
+InternalName = KIDOMARU2
+Type1 = POISON
+Type2 = DARK
+BaseStats = 105,105,75,50,65,100
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 157
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = STENCH,STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608353]
+Name = ADA
+InternalName = ADA
+Type1 = ICE
+BaseStats = 30,65,100,40,45,25
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 97
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608354]
+Name = CODE
+InternalName = CODE
+Type1 = ICE
+BaseStats = 50,95,180,70,85,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 203
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608355]
+Name = MITO
+InternalName = MITO
+Type1 = GHOST
+Type2 = FIRE
+BaseStats = 45,50,45,95,115,55
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 126
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608356]
+Name = AMA BOILER
+InternalName = AMABOILER
+Type1 = DARK
+Type2 = FIRE
+BaseStats = 60,65,60,110,130,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 190
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608357]
+Name = SARUTOBI
+InternalName = SARUTOBI
+Type1 = ROCK
+BaseStats = 35,45,160,70,30,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 108
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608358]
+Name = ISSHIKI
+InternalName = ISSHIKI
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 85,200,70,67,73,115
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608359]
+Name = KONOHAMAR
+InternalName = KONOHAMAR
+Type1 = NORMAL
+Type2 = WATER
+BaseStats = 55,130,115,75,50,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 206
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = HYPERCUTTER,SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608360]
+Name = RAIKAGE
+InternalName = RAIKAGE
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 40,30,50,100,55,55
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 103
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SOUNDPROOF,STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608361]
+Name = RAIKAGE-2
+InternalName = RAIKAGE2
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 60,50,70,140,80,80
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SOUNDPROOF,STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608362]
+Name = GARO
+InternalName = GARO
+Type1 = STEEL
+Type2 = NORMAL
+BaseStats = 60,40,80,40,60,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 98
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608363]
+Name = BORO
+InternalName = BORO
+Type1 = NORMAL
+Type2 = FIGHTING
+BaseStats = 95,95,85,55,125,65
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 212
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608364]
+Name = CHIYO
+InternalName = CHIYO
+Type1 = FIGHTING
+BaseStats = 50,120,53,87,35,110
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 139
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = LIMBER
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608365]
+Name = JININ
+InternalName = JININ
+Type1 = NORMAL
+Type2 = FIGHTING
+BaseStats = 150,200,79,76,35,110
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 140
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608366]
+Name = 4 COLAS
+InternalName = N4COLAS
+Type1 = PSYCHIC
+Type2 = FIRE
+BaseStats = 90,55,75,30,60,75
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 127
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = OWNTEMPO,OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608367]
+Name = SAMBY
+InternalName = SAMBY
+Type1 = WATER
+Type2 = GHOST
+BaseStats = 65,90,120,60,85,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 173
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608368]
+Name = SHIN-NI?O
+InternalName = SHINNIO
+Type1 = PSYCHIC
+Type2 = STEEL
+BaseStats = 80,85,95,25,30,30
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 135
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = LIGHTNINGROD,ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608369]
+Name = SHIN
+InternalName = SHIN
+Type1 = PSYCHIC
+Type2 = STEEL
+BaseStats = 105,130,120,40,45,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 204
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = LIGHTNINGROD,ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608370]
+Name = INU-4
+InternalName = INU4
+Type1 = NORMAL
+BaseStats = 250,5,5,50,35,105
+GenderRate = AlwaysFemale
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 30
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = NATURALCURE,SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608371]
+Name = SHEE
+InternalName = SHEE
+Type1 = GRASS
+Type2 = NORMAL
+BaseStats = 65,155,115,60,100,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 166
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608372]
+Name = JINPACHI
+InternalName = JINPACHI
+Type1 = NORMAL
+BaseStats = 105,95,80,90,40,80
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608373]
+Name = HIDAN-R
+InternalName = HIDANR
+Type1 = PSYCHIC
+BaseStats = 55,65,95,85,95,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 155
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608374]
+Name = AMEYURI
+InternalName = AMEYURI
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 45,67,60,63,35,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 111
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWIFTSWIM,WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608375]
+Name = FUGUKI
+InternalName = FUGUKI
+Type1 = WATER
+BaseStats = 80,92,65,68,65,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 170
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWIFTSWIM,WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608376]
+Name = KINKAKU
+InternalName = KINKAKU
+Type1 = WATER
+Type2 = ROCK
+BaseStats = 30,45,55,85,70,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 106
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ILLUMINATE,NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608377]
+Name = GINKAKU
+InternalName = GINKAKU
+Type1 = WATER
+Type2 = ROCK
+BaseStats = 60,75,85,115,100,85
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 207
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = ILLUMINATE,NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608378]
+Name = M-N-B
+InternalName = MNB
+Type1 = QMARKS
+BaseStats = 165,150,35,95,115,95
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 137
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608379]
+Name = MECHA-K
+InternalName = MECHAK
+Type1 = FIRE
+BaseStats = 65,95,57,93,100,85
+GenderRate = Female25Percent
+GrowthRate = Medium
+BaseEXP = 167
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608380]
+Name = HYUGA
+InternalName = HYUGA
+Type1 = NORMAL
+BaseStats = 75,100,95,110,40,70
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 211
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608381]
+Name = INU-5
+InternalName = INU5
+Type1 = WATER
+BaseStats = 20,10,55,80,15,20
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 20
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[608382]
+Name = HEBIS
+InternalName = HEBIS
+Type1 = DRAGON
+Type2 = NORMAL
+BaseStats = 100,125,79,81,60,100
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 214
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = ROUGHSKIN
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[608383]
+Name = TORTUGA
+InternalName = TORTUGA
+Type1 = WATER
+Type2 = NORMAL
+BaseStats = 130,65,60,65,110,95
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 196
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608384]
+Name = SASUKE-CH
+InternalName = SASUKECH
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 65,65,60,130,110,95
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 197
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = VOLTABSORB
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608385]
+Name = KATASUKE
+InternalName = KATASUKE
+Type1 = FIRE
+Type2 = STEEL
+BaseStats = 65,130,60,65,95,110
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 198
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608386]
+Name = BORUTO-K
+InternalName = BORUTOK
+Type1 = FLYING
+Type2 = FIGHTING
+BaseStats = 30,80,90,55,55,45
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 119
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SWIFTSWIM,BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608387]
+Name = BORUTO-K2
+InternalName = BORUTOK2
+Type1 = FLYING
+Type2 = FIGHTING
+BaseStats = 60,115,105,80,65,70
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 201
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SWIFTSWIM,BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608388]
+Name = GENMA
+InternalName = GENMA
+Type1 = FLYING
+Type2 = NORMAL
+BaseStats = 80,105,65,130,60,75
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 202
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = ROCKHEAD,PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608389]
+Name = BUEY
+InternalName = BUEY
+Type1 = NORMAL
+BaseStats = 160,110,65,30,65,110
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = IMMUNITY,THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608390]
+Name = KAKUZU-2
+InternalName = KAKUZU2
+Type1 = FIGHTING
+Type2 = NORMAL
+BaseStats = 61,84,65,70,70,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 144
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608391]
+Name = KAKUZU-3
+InternalName = KAKUZU3
+Type1 = FIGHTING
+Type2 = NORMAL
+BaseStats = 91,134,95,80,100,100
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608392]
+Name = SASUKE-6C
+InternalName = SASUKE6C
+Type1 = NORMAL
+BaseStats = 106,110,90,130,154,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608393]
+Name = GAI
+InternalName = GAI
+Type1 = FIGHTING
+Type2 = FIRE
+BaseStats = 39,52,43,65,60,50
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608394]
+Name = GAI-2
+InternalName = GAI2
+Type1 = FIGHTING
+Type2 = FIRE
+BaseStats = 58,64,58,80,80,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608395]
+Name = GAI-3
+InternalName = GAI3
+Type1 = FIGHTING
+Type2 = FIRE
+BaseStats = 78,84,78,100,109,85
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608396]
+Name = GARAGA
+InternalName = GARAGA
+Type1 = POISON
+BaseStats = 55,35,50,85,55,110
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWARM,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608397]
+Name = SAKUMO
+InternalName = SAKUMO
+Type1 = GHOST
+BaseStats = 70,90,70,40,60,60
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWARM,INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608398]
+Name = INU-6
+InternalName = INU6
+Type1 = NORMAL
+BaseStats = 75,38,38,67,56,56
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 90
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = VOLTABSORB,ILLUMINATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608399]
+Name = INU-7
+InternalName = INU7
+Type1 = NORMAL
+BaseStats = 125,58,58,67,76,76
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 156
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = VOLTABSORB,ILLUMINATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608400]
+Name = AKITA
+InternalName = AKITA
+Type1 = NORMAL
+BaseStats = 55,40,85,40,80,105
+GenderRate = FemaleOneEighth
+GrowthRate = Fast
+BaseEXP = 114
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = HUSTLE,SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608401]
+Name = HANABI
+InternalName = HANABI
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 40,50,45,70,70,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 73
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SYNCHRONIZE,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608402]
+Name = HANABI-2
+InternalName = HANABI2
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 65,75,70,95,95,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 171
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SYNCHRONIZE,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608403]
+Name = KUSHINA
+InternalName = KUSHINA
+Type1 = FIGHTING
+Type2 = GHOST
+BaseStats = 75,80,85,50,90,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 184
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608404]
+Name = KIN
+InternalName = KIN
+Type1 = NORMAL
+BaseStats = 70,20,50,40,20,50
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 58
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = THICKFAT,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608405]
+Name = ZAKU
+InternalName = ZAKU
+Type1 = NORMAL
+BaseStats = 100,50,80,50,50,80
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 153
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = THICKFAT,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608406]
+Name = JIGOKUDO
+InternalName = JIGOKUDO
+Type1 = GHOST
+BaseStats = 90,75,75,70,90,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 185
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608407]
+Name = SHINO-2
+InternalName = SHINO2
+Type1 = BUG
+BaseStats = 55,45,50,80,45,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 136
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608408]
+Name = SHINO-3
+InternalName = SHINO3
+Type1 = BUG
+BaseStats = 75,55,70,110,55,85
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 176
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608409]
+Name = RINOCERONT
+InternalName = RINOCERONT
+Type1 = NORMAL
+BaseStats = 55,70,55,85,40,55
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 94
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY,PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608410]
+Name = MOEGI
+InternalName = MOEGI
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 30,30,30,30,30,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 52
+EffortPoints = 0,0,0,0,0,0
+Rareness = 235
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608411]
+Name = MOEGI-2
+InternalName = MOEGI2
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 75,75,55,30,105,85
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608412]
+Name = EBISU
+InternalName = EBISU
+Type1 = BUG
+Type2 = FLYING
+BaseStats = 65,65,45,95,75,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 147
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SPEEDBOOST,COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608413]
+Name = ORICORIO-C
+InternalName = ORICORIOC
+Type1 = PSYCHIC
+Type2 = FLYING
+BaseStats = 65,65,60,110,130,95
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 197
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SYNCHRONIZE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608414]
+Name = ORICORIO-D
+InternalName = ORICORIOD
+Type1 = GHOST
+Type2 = FLYING
+BaseStats = 95,65,110,65,60,130
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 197
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SYNCHRONIZE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608415]
+Name = TSUME
+InternalName = TSUME
+Type1 = DARK
+Type2 = GROUND
+BaseStats = 60,85,42,91,85,42
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 107
+EffortPoints = 0,0,0,0,0,0
+Rareness = 30
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608416]
+Name = SUMIRE
+InternalName = SUMIRE
+Type1 = GHOST
+Type2 = NORMAL
+BaseStats = 60,60,60,85,85,85
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 147
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608417]
+Name = SHIKADAI
+InternalName = SHIKADAI
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 190,33,58,33,33,58
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 177
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608418]
+Name = INOYIN
+InternalName = INOYIN
+Type1 = PSYCHIC
+BaseStats = 70,80,65,85,90,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 149
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INNERFOCUS,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608419]
+Name = SALAMANDRA
+InternalName = SALAMANDRA
+Type1 = GROUND
+Type2 = WATER
+BaseStats = 100,70,70,45,65,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SERENEGRACE,RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608420]
+Name = AVE GIGANT
+InternalName = AVEGIGANT
+Type1 = GROUND
+Type2 = FLYING
+BaseStats = 65,75,105,85,35,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 108
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = HYPERCUTTER,SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608421]
+Name = CAMALEON
+InternalName = CAMALEON
+Type1 = WATER
+Type2 = POISON
+BaseStats = 65,95,75,85,55,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = POISONPOINT,SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608422]
+Name = SHINIGAMI
+InternalName = SHINIGAMI
+Type1 = DARK
+Type2 = GHOST
+BaseStats = 20,10,230,5,10,230
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 80
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608423]
+Name = KAMATARI
+InternalName = KAMATARI
+Type1 = GRASS
+Type2 = FIGHTING
+BaseStats = 80,125,75,85,40,95
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SWARM,GUTS
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608424]
+Name = SHINKI
+InternalName = SHINKI
+Type1 = DARK
+Type2 = STEEL
+BaseStats = 55,95,55,115,35,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 132
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INNERFOCUS,KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608425]
+Name = YUGITO
+InternalName = YUGITO
+Type1 = FIRE
+Type2 = POISON
+BaseStats = 40,40,40,20,70,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 78
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MAGMAARMOR,FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608426]
+Name = NIBY
+InternalName = NIBY
+Type1 = FIRE
+BaseStats = 50,50,120,30,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MAGMAARMOR,FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608427]
+Name = AO-1
+InternalName = AO1
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 50,50,40,50,30,30
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 78
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608428]
+Name = AO-2
+InternalName = AO2
+Type1 = STEEL
+Type2 = GROUND
+BaseStats = 100,100,80,50,60,60
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 160
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608429]
+Name = CHOCHO
+InternalName = CHOCHO
+Type1 = WATER
+Type2 = FIGHTING
+BaseStats = 55,55,85,35,65,85
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 113
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = HUSTLE,NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608430]
+Name = METAL
+InternalName = METAL
+Type1 = FIGHTING
+Type2 = STEEL
+BaseStats = 65,80,140,70,40,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 168
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = KEENEYE,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608431]
+Name = CANCERBERO
+InternalName = CANCERBERO
+Type1 = DARK
+BaseStats = 45,60,30,65,80,50
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 114
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = EARLYBIRD,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608432]
+Name = IWABE
+InternalName = IWABE
+Type1 = NORMAL
+Type2 = GROUND
+BaseStats = 75,90,50,95,110,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 204
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = EARLYBIRD,FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608433]
+Name = KATSUYU
+InternalName = KATSUYU
+Type1 = WATER
+BaseStats = 75,95,95,85,95,95
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 207
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608434]
+Name = MIFUNE
+InternalName = MIFUNE
+Type1 = ROCK
+Type2 = STEEL
+BaseStats = 90,60,60,40,40,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 124
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608435]
+Name = HANZO
+InternalName = HANZO
+Type1 = POISON
+Type2 = STEEL
+BaseStats = 90,120,120,50,60,60
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 189
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608436]
+Name = KURIRARE
+InternalName = KURIRARE
+Type1 = NORMAL
+BaseStats = 73,95,62,85,85,65
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608437]
+Name = IBIKI
+InternalName = IBIKI
+Type1 = FIGHTING
+BaseStats = 50,95,95,70,35,110
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 138
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608438]
+Name = HOZUKI
+InternalName = HOZUKI
+Type1 = ICE
+Type2 = WATER
+BaseStats = 45,30,15,65,85,65
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 87
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608439]
+Name = KAZEKAGE-M
+InternalName = KAZEKAGEM
+Type1 = GROUND
+Type2 = STEEL
+BaseStats = 45,63,37,95,65,55
+GenderRate = Female25Percent
+GrowthRate = Medium
+BaseEXP = 106
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608440]
+Name = BAKU
+InternalName = BAKU
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 95,80,105,100,40,70
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608441]
+Name = N Y B
+InternalName = NYB
+Type1 = GROUND
+Type2 = FIGHTING
+BaseStats = 90,185,75,115,115,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = DROUGHT
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608442]
+Name = M-KYOGRE
+InternalName = MKYOGRE
+Type1 = WATER
+BaseStats = 100,75,115,85,90,115
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 215
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608443]
+Name = N-BARYON
+InternalName = NBARYON
+Type1 = QMARKS
+BaseStats = 100,250,110,61,95,100
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608444]
+Name = SUSANOO-K
+InternalName = SUSANOOK
+Type1 = DRAGON
+Type2 = DARK
+BaseStats = 106,90,130,110,90,154
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608445]
+Name = URASHIKI-2
+InternalName = URASHIKI2
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 106,130,90,90,110,154
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608446]
+Name = M-GRENINJA
+InternalName = MGRENINJA
+Type1 = WATER
+Type2 = DARK
+BaseStats = 50,200,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608447]
+Name = GAARA-2
+InternalName = GAARA2
+Type1 = GROUND
+Type2 = ROCK
+BaseStats = 50,65,45,95,85,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608448]
+Name = GAARA-3
+InternalName = GAARA3
+Type1 = GROUND
+Type2 = ROCK
+BaseStats = 70,85,65,120,105,85
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608449]
+Name = SASUKE-2
+InternalName = SASUKE2
+Type1 = FIRE
+BaseStats = 60,85,60,55,85,60
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608450]
+Name = SASUKE-3
+InternalName = SASUKE3
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 80,120,70,80,110,70
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608451]
+Name = INO-2
+InternalName = INO2
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 70,85,70,50,60,70
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 143
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608452]
+Name = INO-3
+InternalName = INO3
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 100,110,90,60,85,90
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608453]
+Name = KAWAKI
+InternalName = KAWAKI
+Type1 = DARK
+BaseStats = 35,55,35,35,30,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 55
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608454]
+Name = KAWAKI-A
+InternalName = KAWAKIA
+Type1 = DARK
+BaseStats = 70,90,70,70,60,60
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 128
+EffortPoints = 0,0,0,0,0,0
+Rareness = 127
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608455]
+Name = NEJI-2
+InternalName = NEJI2
+Type1 = NORMAL
+Type2 = FIGHTING
+BaseStats = 78,70,61,100,50,61
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 128
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608456]
+Name = INU-1
+InternalName = INU1
+Type1 = NORMAL
+BaseStats = 45,45,35,20,20,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 54
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608457]
+Name = INU-2
+InternalName = INU2
+Type1 = NORMAL
+BaseStats = 50,35,55,15,25,25
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 71
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608458]
+Name = INU-3
+InternalName = INU3
+Type1 = NORMAL
+Type2 = FIGHTING
+BaseStats = 60,70,50,65,90,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 161
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SWARM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608459]
+Name = OROCHI
+InternalName = OROCHI
+Type1 = GRASS
+BaseStats = 60,50,70,65,50,90
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 160
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608460]
+Name = KABUTO-2
+InternalName = KABUTO2
+Type1 = GROUND
+Type2 = DARK
+BaseStats = 60,50,50,50,60,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SWIFTSWIM,RAINDISH
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608461]
+Name = KABUTO-3
+InternalName = KABUTO3
+Type1 = GROUND
+Type2 = DARK
+BaseStats = 80,70,70,70,90,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 181
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SWIFTSWIM,RAINDISH
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608462]
+Name = LEE
+InternalName = LEE
+Type1 = FIGHTING
+Type2 = GRASS
+BaseStats = 40,40,50,30,30,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 74
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CHLOROPHYLL,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608463]
+Name = LEE-2
+InternalName = LEE2
+Type1 = FIGHTING
+Type2 = GRASS
+BaseStats = 70,70,40,60,60,40
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CHLOROPHYLL,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608464]
+Name = LEE-A
+InternalName = LEEA
+Type1 = FIGHTING
+Type2 = GRASS
+BaseStats = 90,100,60,80,90,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 181
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CHLOROPHYLL,EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608465]
+Name = DANZOU-2
+InternalName = DANZOU2
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 61,90,45,160,50,50
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 155
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608466]
+Name = NANABY
+InternalName = NANABY
+Type1 = BUG
+Type2 = FLYING
+BaseStats = 60,85,60,125,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 162
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608467]
+Name = GOBY
+InternalName = GOBY
+Type1 = DRAGON
+Type2 = NORMAL
+BaseStats = 60,130,80,70,60,60
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608468]
+Name = PAKUN
+InternalName = PAKUN
+Type1 = NORMAL
+BaseStats = 60,60,60,60,60,60
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 85
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608469]
+Name = KISAME-T
+InternalName = KISAMET
+Type1 = WATER
+Type2 = FLYING
+BaseStats = 60,50,100,65,85,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 164
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608470]
+Name = ROCOBY
+InternalName = ROCOBY
+Type1 = BUG
+Type2 = PSYCHIC
+BaseStats = 170,90,45,60,90,45
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 206
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERVEIL,OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608471]
+Name = SAKON
+InternalName = SAKON
+Type1 = GROUND
+Type2 = STEEL
+BaseStats = 50,45,45,50,35,35
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608472]
+Name = SAKON-2
+InternalName = SAKON2
+Type1 = GROUND
+Type2 = STEEL
+BaseStats = 70,65,65,70,55,55
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 138
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608473]
+Name = RIN
+InternalName = RIN
+Type1 = PSYCHIC
+BaseStats = 60,90,70,40,60,120
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 132
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608474]
+Name = GAARA-N
+InternalName = GAARAN
+Type1 = GROUND
+BaseStats = 40,40,55,55,40,70
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 58
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608475]
+Name = ICHIBY
+InternalName = ICHIBY
+Type1 = PSYCHIC
+Type2 = GROUND
+BaseStats = 60,70,105,75,70,120
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 189
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608476]
+Name = CHOZA
+InternalName = CHOZA
+Type1 = ROCK
+Type2 = STEEL
+BaseStats = 30,45,135,30,45,90
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 108
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY,MAGNETPULL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608477]
+Name = NARUTO-BM
+InternalName = NARUTOBM
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 70,85,140,20,85,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 161
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = WHITESMOKE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608478]
+Name = KILLER BEE
+InternalName = KILLERBEE
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 50,48,43,60,46,41
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 92
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608479]
+Name = HACHIBY
+InternalName = HACHIBY
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 110,78,73,60,76,71
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 158
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608480]
+Name = MIZUKAGE
+InternalName = MIZUKAGE
+Type1 = WATER
+BaseStats = 43,30,55,97,40,65
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 110
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608481]
+Name = KAKASHI-N
+InternalName = KAKASHIN
+Type1 = NORMAL
+Type2 = PSYCHIC
+BaseStats = 43,80,65,35,50,35
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 111
+EffortPoints = 0,0,0,0,0,0
+Rareness = 205
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = HYPERCUTTER,SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608482]
+Name = GAMAKICHI
+InternalName = GAMAKICHI
+Type1 = WATER
+BaseStats = 20,15,20,80,10,55
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 61
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608483]
+Name = OYABIN
+InternalName = OYABIN
+Type1 = WATER
+BaseStats = 95,60,79,81,100,125
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 213
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608484]
+Name = TENTEN-1
+InternalName = TENTEN1
+Type1 = STEEL
+BaseStats = 45,90,20,65,65,20
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 88
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608485]
+Name = TENTEN-2
+InternalName = TENTEN2
+Type1 = STEEL
+BaseStats = 70,120,40,95,95,40
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608486]
+Name = PAIN-1
+InternalName = PAIN1
+Type1 = NORMAL
+Type2 = STEEL
+BaseStats = 45,100,45,10,45,45
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 73
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = HYPERCUTTER,ARENATRAP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608487]
+Name = NAGATO-2
+InternalName = NAGATO2
+Type1 = DARK
+Type2 = FIGHTING
+BaseStats = 80,100,80,100,80,80
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 197
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608488]
+Name = KIBA-2
+InternalName = KIBA2
+Type1 = FIGHTING
+BaseStats = 144,120,60,50,40,60
+GenderRate = Female25Percent
+GrowthRate = Fluctuating
+BaseEXP = 184
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = THICKFAT,GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608489]
+Name = KAGUYA-2
+InternalName = KAGUYA2
+Type1 = PSYCHIC
+Type2 = STEEL
+BaseStats = 70,75,60,105,105,60
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 168
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC,LIGHTNINGROD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608490]
+Name = GEDO MAZO
+InternalName = GEDOMAZO
+Type1 = DARK
+Type2 = GHOST
+BaseStats = 60,60,40,35,65,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 88
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608491]
+Name = YUUBY
+InternalName = YUUBY
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 70,100,70,40,105,75
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MAGMAARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608492]
+Name = CHOJI
+InternalName = CHOJI
+Type1 = NORMAL
+BaseStats = 70,40,50,25,55,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608493]
+Name = CHOJI-2
+InternalName = CHOJI2
+Type1 = NORMAL
+Type2 = ICE
+BaseStats = 90,60,70,45,75,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 128
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608494]
+Name = CHOJI-A
+InternalName = CHOJIA
+Type1 = NORMAL
+Type2 = ICE
+BaseStats = 110,80,90,65,95,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 192
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608495]
+Name = KONAN-2
+InternalName = KONAN2
+Type1 = GRASS
+BaseStats = 70,115,60,55,115,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 177
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608496]
+Name = KIMIMARO
+InternalName = KIMIMARO
+Type1 = ICE
+Type2 = STEEL
+BaseStats = 50,50,50,50,50,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 74
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608497]
+Name = KIMIMARO-2
+InternalName = KIMIMARO2
+Type1 = ICE
+Type2 = STEEL
+BaseStats = 80,80,80,80,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 187
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608498]
+Name = GUREN
+InternalName = GUREN
+Type1 = ICE
+Type2 = ROCK
+BaseStats = 50,20,40,20,20,40
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 33
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = THICKFAT,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608499]
+Name = SUSANOO-S
+InternalName = SUSANOOS
+Type1 = PSYCHIC
+BaseStats = 60,25,35,60,70,80
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 89
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = THICKFAT,OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608500]
+Name = SUSANOO-S2
+InternalName = SUSANOOS2
+Type1 = PSYCHIC
+BaseStats = 80,45,65,80,90,110
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 164
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = THICKFAT,OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608501]
+Name = PAIN-2
+InternalName = PAIN2
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 60,40,50,95,75,85
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 120
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = MINUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608502]
+Name = MITSUKI-SM
+InternalName = MITSUKISM
+Type1 = FIGHTING
+Type2 = BUG
+BaseStats = 60,60,75,80,60,75
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 153
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608503]
+Name = 6 COLAS
+InternalName = N6COLAS
+Type1 = NORMAL
+Type2 = ROCK
+BaseStats = 45,40,60,50,40,75
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 74
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608504]
+Name = KYUBI
+InternalName = KYUBI
+Type1 = FIRE
+Type2 = GROUND
+BaseStats = 75,70,90,80,70,105
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 188
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608505]
+Name = INOICHI
+InternalName = INOICHI
+Type1 = PSYCHIC
+BaseStats = 95,23,48,23,23,48
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 44
+EffortPoints = 0,0,0,0,0,0
+Rareness = 125
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608506]
+Name = SHISHUI
+InternalName = SHISHUI
+Type1 = GHOST
+Type2 = GROUND
+BaseStats = 20,40,90,25,30,90
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 97
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608507]
+Name = SUSANOO-V
+InternalName = SUSANOOV
+Type1 = GHOST
+Type2 = GROUND
+BaseStats = 40,70,130,25,60,130
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 179
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608508]
+Name = BIWA
+InternalName = BIWA
+Type1 = BUG
+BaseStats = 50,60,45,65,100,80
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 152
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = NATURALCURE,POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608509]
+Name = SHIKAMARU2
+InternalName = SHIKAMARU2
+Type1 = NORMAL
+Type2 = DARK
+BaseStats = 80,80,80,90,55,55
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 126
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608510]
+Name = SHIKAMARU3
+InternalName = SHIKAMARU3
+Type1 = NORMAL
+Type2 = DARK
+BaseStats = 150,160,100,100,95,65
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608511]
+Name = HASHIRAMA2
+InternalName = HASHIRAMA2
+Type1 = FIGHTING
+Type2 = GRASS
+BaseStats = 100,73,83,55,73,83
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 168
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = LIQUIDOOZE,STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608512]
+Name = PAIN-3
+InternalName = PAIN3
+Type1 = GRASS
+BaseStats = 99,68,83,51,72,87
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 169
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608513]
+Name = SASORI-2
+InternalName = SASORI2
+Type1 = STEEL
+BaseStats = 84,71,43,48,71,43
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 126
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SOUNDPROOF
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608514]
+Name = SASORI-3
+InternalName = SASORI3
+Type1 = STEEL
+BaseStats = 104,91,63,68,91,63
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 184
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SOUNDPROOF
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608515]
+Name = DOSU
+InternalName = DOSU
+Type1 = WATER
+BaseStats = 35,64,85,32,74,55
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608516]
+Name = SHIMA-GERO
+InternalName = SHIMAGERO
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 55,104,105,52,94,75
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 178
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608517]
+Name = ANKO
+InternalName = ANKO
+Type1 = WATER
+Type2 = POISON
+BaseStats = 55,84,105,52,114,75
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 178
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608518]
+Name = SHIKAKU
+InternalName = SHIKAKU
+Type1 = DARK
+Type2 = FIGHTING
+BaseStats = 65,130,60,75,75,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 174
+EffortPoints = 0,0,0,0,0,0
+Rareness = 30
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608519]
+Name = TONERI
+InternalName = TONERI
+Type1 = GHOST
+BaseStats = 44,75,35,45,63,33
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 97
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608520]
+Name = TONERI-2
+InternalName = TONERI2
+Type1 = GHOST
+BaseStats = 64,115,65,65,83,63
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 179
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608521]
+Name = PAIN-4
+InternalName = PAIN4
+Type1 = BUG
+Type2 = STEEL
+BaseStats = 73,100,60,65,100,60
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608522]
+Name = PAIN-5
+InternalName = PAIN5
+Type1 = STEEL
+Type2 = FIGHTING
+BaseStats = 73,115,60,90,60,60
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = IMMUNITY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608523]
+Name = PAIN-6
+InternalName = PAIN6
+Type1 = WATER
+BaseStats = 100,90,130,55,45,65
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 198
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = SWIFTSWIM,ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608524]
+Name = ITACHI-2
+InternalName = ITACHI2
+Type1 = STEEL
+Type2 = GHOST
+BaseStats = 60,90,140,40,50,50
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 152
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY,ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608525]
+Name = ITACHI-3
+InternalName = ITACHI3
+Type1 = STEEL
+BaseStats = 70,110,180,50,60,60
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 205
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY,ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608526]
+Name = KURO ZETSU
+InternalName = KUROZETSU
+Type1 = DARK
+Type2 = BUG
+BaseStats = 70,70,70,70,70,70
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 145
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = FORECAST
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608527]
+Name = TAYUYA-2
+InternalName = TAYUYA2
+Type1 = GRASS
+BaseStats = 65,73,55,85,47,75
+GenderRate = AlwaysMale
+GrowthRate = Erratic
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = ILLUMINATE,SWARM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608528]
+Name = TAYUYA-1
+InternalName = TAYUYA1
+Type1 = GRASS
+BaseStats = 65,47,55,85,73,75
+GenderRate = AlwaysFemale
+GrowthRate = Fluctuating
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608529]
+Name = JIROBO-2
+InternalName = JIROBO2
+Type1 = ROCK
+Type2 = BUG
+BaseStats = 86,81,97,43,81,107
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 201
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SUCTIONCUPS
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608530]
+Name = JUGO-2
+InternalName = JUGO2
+Type1 = ROCK
+BaseStats = 75,125,100,45,70,80
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608531]
+Name = TOBI-M
+InternalName = TOBIM
+Type1 = PSYCHIC
+BaseStats = 28,25,25,40,45,35
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 70
+EffortPoints = 0,0,0,0,0,0
+Rareness = 235
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SYNCHRONIZE,TRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608532]
+Name = TOBI-2
+InternalName = TOBI2
+Type1 = PSYCHIC
+BaseStats = 38,35,35,50,65,55
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 140
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SYNCHRONIZE,TRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608533]
+Name = OBITO-6C
+InternalName = OBITO6C
+Type1 = PSYCHIC
+BaseStats = 68,65,65,80,125,115
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SYNCHRONIZE,TRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608534]
+Name = MADARA-2
+InternalName = MADARA2
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 65,95,100,50,60,50
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 144
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608535]
+Name = MADARA-6C
+InternalName = MADARA6C
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 95,135,80,100,110,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608536]
+Name = MOMOSHIKI
+InternalName = MOMOSHIKI
+Type1 = FIGHTING
+Type2 = FLYING
+BaseStats = 40,55,80,30,35,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 103
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608537]
+Name = MOMOSHIKI2
+InternalName = MOMOSHIKI2
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 60,75,100,50,55,80
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 153
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608538]
+Name = MOMOSHIKI3
+InternalName = MOMOSHIKI3
+Type1 = FIGHTING
+Type2 = DRAGON
+BaseStats = 180,135,130,70,95,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608539]
+Name = NARUTO-TG
+InternalName = NARUTOTG
+Type1 = ROCK
+Type2 = FIGHTING
+BaseStats = 100,200,200,50,50,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 217
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608540]
+Name = KINSHIKI
+InternalName = KINSHIKI
+Type1 = DRAGON
+Type2 = ICE
+BaseStats = 80,50,100,50,100,200
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608541]
+Name = ASURA
+InternalName = ASURA
+Type1 = GRASS
+Type2 = STEEL
+BaseStats = 80,75,150,50,75,150
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 215
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608542]
+Name = INDRA
+InternalName = INDRA
+Type1 = ELECTRIC
+Type2 = FIRE
+BaseStats = 100,100,90,90,150,140
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 5
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERABSORB
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608543]
+Name = M-SUSANOO
+InternalName = MSUSANOO
+Type1 = PSYCHIC
+Type2 = ELECTRIC
+BaseStats = 105,150,90,95,150,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = AIRLOCK
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608544]
+Name = KAMI-SENIN
+InternalName = KAMISENIN
+Type1 = BUG
+Type2 = STEEL
+BaseStats = 100,200,90,110,110,130
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 211
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 90
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608545]
+Name = URASHIKI
+InternalName = URASHIKI
+Type1 = PSYCHIC
+BaseStats = 80,90,80,110,130,110
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 211
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 90
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608546]
+Name = SUSANOO-MA
+InternalName = SUSANOOMA
+Type1 = STEEL
+Type2 = NORMAL
+BaseStats = 100,100,200,100,100,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 215
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608547]
+Name = S-KURAMA
+InternalName = SKURAMA
+Type1 = DARK
+Type2 = DRAGON
+BaseStats = 200,200,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 215
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608548]
+Name = HAGOROMO
+InternalName = HAGOROMO
+Type1 = PSYCHIC
+BaseStats = 200,200,70,65,95,80
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 147
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608549]
+Name = MANOTAZO
+InternalName = MANOTAZO
+Type1 = CUSTOM_TYPE_22_4
+Type2 = CUSTOM_TYPE_20_6
+BaseStats = 73,2,45,8,73,14
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 30
+EffortPoints = 0,0,0,0,0,0
+Rareness = 77
+Happiness = 235
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 19380
+Shape = Head
+
+[608550]
+Name = GOLPE K
+InternalName = GOLPEK
+Type1 = CUSTOM_TYPE_73_4
+Type2 = PSYCHIC
+BaseStats = 45,2,73,2,45,8
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 20
+EffortPoints = 0,0,0,0,0,0
+Rareness = 22
+Happiness = 89
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = CACOPHONY
+Compatibility = Undiscovered
+StepsToHatch = 14790
+Shape = Head

@@ -1,0 +1,12 @@
+{
+  "name": "Infinite Fusion 2 Port",
+  "id": "PIF2Port",
+  "version": "0.1.0",
+  "author": "nickohlmeier",
+  "description": ["Near-1:1 port of Pokemon Infinite Fusion 2's real maps into the Multiverse Hub. Loads PIF2's actual Marshal-serialized .rxdata map data directly (same RGSS1/RPG Maker XP engine fork as the host), remapping switch/variable/map/tileset ids into a reserved block so they can't collide with the host's own live ids. Reuses MultiverseHub's existing PC 'Change Game' menu, warp system, and map-isolation hooks rather than duplicating them. Pilot scope: one real map (Littleroot Town) as an isolated warp destination, not yet connected to its real neighboring maps."],
+  "tags": ["Content", "Maps", "PC"],
+  "dependencies": ["MultiverseHub"],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

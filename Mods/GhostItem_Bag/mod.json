@@ -1,0 +1,31 @@
+{
+    "name": "GhostItem Bag",
+    "id": "GhostItem_Bag",
+    "version": "1.0.0",
+    "author": "t-Ghost-t",
+    "description": [
+        "GhostBag reorganizes the inventory into sane, easy to find categories.",
+        " ",
+        "You may encounter a stutter on first bag open, then zero latency for remainder of play session.",
+        " ",
+        "Pockets:",
+        "- 0. A hidden pocket that hides TM/HM and Mail.",
+        "- 1. Medicine: HP/PP recovery, Revives, and medicinal consumables.",
+        "- 2. Status & Battle: Stat-boosters (X-Items), status cures, and combat triggers.",
+        "- 3. Capture & Mutate: Pokéballs, Evolution Stones, and DNA Splicers for fusions.",
+        "- 4. Held Items: Equippable gear, Mega Stones, and type-boosting items.",
+        "- 5. Enhancers: EXP Candies, Stat vitamins (Protein/Iron), and Ability/Nature modifiers.",
+        "- 6. Field Utility: Overworld tools like Repels, Lures, and Escape Ropes.",
+        "- 7. Treasures: Sellable valuables like Nuggets, Fossils, and rare antiques.",
+        "- 8. Key Items: Unchanged."
+    ],
+    "tags": [
+        "QoL"
+    ],
+    "dependencies": [],
+    "incompatible": [],
+    "settings": [],
+    "scripts": [
+        "main.rb"
+    ]
+}

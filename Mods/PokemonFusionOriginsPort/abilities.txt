@@ -1,0 +1,3 @@
+60057,MEGALAUNCH,Mega Launch,"Added by PokemonFusionOriginsPort."
+60058,SPELLVEIL,Spell Veil,"Added by PokemonFusionOriginsPort."
+60059,FUSIONPOWER,Fusion Power,"Added by PokemonFusionOriginsPort."

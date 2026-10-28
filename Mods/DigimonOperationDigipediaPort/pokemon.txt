@@ -1,0 +1,138 @@
+[607769]
+Name = STRKDRAMON
+InternalName = STRKDRAMON
+Type1 = DARK
+Type2 = DRAGON
+BaseStats = 80,80,60,55,80,65
+GenderRate = Female75Percent
+GrowthRate = Medium
+BaseEXP = 63
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = PRESSURE,INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607770]
+Name = PLIMDRAMON
+InternalName = PLIMDRAMON
+Type1 = DRAGON
+Type2 = GHOST
+BaseStats = 130,130,120,95,100,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 240
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,HAIL
+
+[607771]
+Name = DEMDEVIMON
+InternalName = DEMDEVIMON
+Type1 = DARK
+Type2 = POISON
+BaseStats = 55,55,50,65,50,40
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = POISONPOINT,INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607772]
+Name = MONCHROMON
+InternalName = MONCHROMON
+Type1 = ROCK
+BaseStats = 75,90,105,30,55,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[607773]
+Name = DTYRANAMON
+InternalName = DTYRANAMON
+Type1 = WATER
+BaseStats = 55,65,95,85,95,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 155
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607774]
+Name = TYRANNAMON
+InternalName = TYRANNAMON
+Type1 = WATER
+BaseStats = 45,67,60,63,35,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 111
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWIFTSWIM,WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607775]
+Name = MAGANGEMON
+InternalName = MAGANGEMON
+Type1 = FLYING
+Type2 = GHOST
+BaseStats = 130,120,110,120,130,110
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 204
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = WONDERGUARD,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 18,FOCUSPUNCH

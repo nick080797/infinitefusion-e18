@@ -1,0 +1,6 @@
+[60011]
+Name = Custom 22
+InternalName = CUSTOM_TYPE_22
+[60012]
+Name = Custom 23
+InternalName = CUSTOM_TYPE_23_7

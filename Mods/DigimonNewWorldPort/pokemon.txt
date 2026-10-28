@@ -1,0 +1,444 @@
+[603371]
+Name = Zurumon
+InternalName = ZURUMON
+Type1 = POISON
+BaseStats = 25,20,25,25,30,25
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY,LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603372]
+Name = Choromon
+InternalName = CHOROMON
+Type1 = BUG
+BaseStats = 45,30,35,45,20,20
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 53
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[603373]
+Name = Jyarimon
+InternalName = JYARIMON
+Type1 = FIRE
+Type2 = FLYING
+BaseStats = 60,45,50,70,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 160
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[603374]
+Name = Piwitmon
+InternalName = PIWITMON
+Type1 = NORMAL
+Type2 = FIRE
+BaseStats = 25,25,25,25,25,25
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[603375]
+Name = Hamon
+InternalName = HAMON
+Type1 = GRASS
+BaseStats = 25,25,25,25,25,25
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[603376]
+Name = Tunomon
+InternalName = TUNOMON
+Type1 = NORMAL
+BaseStats = 40,50,40,40,40,30
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 127
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY,GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 93,TOXIC
+
+[603377]
+Name = Mochimon
+InternalName = MOCHIMON
+Type1 = POISON
+BaseStats = 60,85,69,80,65,79
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 147
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE,SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603378]
+Name = Crackmon
+InternalName = CRACKMON
+Type1 = FIRE
+BaseStats = 40,35,35,40,50,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY,BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 255,SPITUP
+
+[603379]
+Name = V-mon
+InternalName = VMON
+Type1 = FIGHTING
+BaseStats = 40,80,60,40,30,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[603380]
+Name = Shakomon
+InternalName = SHAKOMON
+Type1 = WATER
+BaseStats = 60,40,75,10,40,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 255,SPITUP
+
+[603381]
+Name = Ganimon
+InternalName = GANIMON
+Type1 = WATER
+Type2 = STEEL
+BaseStats = 62,68,70,40,30,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 255,SPITUP,255,SPITUP
+
+[603382]
+Name = Mushmon
+InternalName = MUSHMON
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 50,50,60,50,50,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 3,KARATECHOP,255,SPITUP,255,SPITUP,255,SPITUP,255,SPITUP
+
+[603383]
+Name = Goburimon
+InternalName = GOBURIMON
+Type1 = DARK
+BaseStats = 55,75,55,35,45,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STENCH
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 10,HAIL,255,SPITUP,255,SPITUP
+
+[603384]
+Name = Agumon B.
+InternalName = AGUMONB
+Type1 = FIRE
+BaseStats = 70,70,50,30,60,50
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 255,SPITUP,255,SPITUP,255,SPITUP,255,SPITUP,255,SPITUP
+
+[603385]
+Name = M.Betamon
+InternalName = MBETAMON
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 50,40,40,50,80,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = STATIC,TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 255,SPITUP,255,SPITUP,255,SPITUP,255,SPITUP
+
+[603386]
+Name = Gabumon B.
+InternalName = GABUMONB
+Type1 = FIRE
+BaseStats = 65,65,50,35,65,50
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 255,SPITUP,255,SPITUP
+
+[603387]
+Name = Tukaimon
+InternalName = TUKAIMON
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 60,50,50,20,70,40
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 255,SPITUP,255,SPITUP,255,SPITUP,255,SPITUP
+
+[603388]
+Name = Ceratomon
+InternalName = CERATOMON
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 60,80,45,50,70,45
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 255,SPITUP,255,SPITUP
+
+[603389]
+Name = Aramon
+InternalName = ARAMON
+Type1 = FIRE
+Type2 = GROUND
+BaseStats = 50,70,45,70,70,45
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 2,HAIL
+
+[603390]
+Name = Larmon
+InternalName = LARMON
+Type1 = FIRE
+BaseStats = 60,70,50,60,90,50
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = FLASHFIRE,BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 255,SPITUP,255,SPITUP
+
+[603391]
+Name = Erismon
+InternalName = ERISMON
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 35,45,160,70,30,45
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 108
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+Moves = 2,HAIL
+
+[603392]
+Name = Larmon A.
+InternalName = LARMONA
+Type1 = FIRE
+BaseStats = 60,90,60,60,90,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = FLASHFIRE,BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head

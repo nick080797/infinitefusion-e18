@@ -1,0 +1,8 @@
+60714,DARKLOVE,Dark Love,013,100,DARK,Special,100,20,100,NearOther,0,bef,""
+60715,DEATHLURE,Death Lure,00A,100,PSYCHIC,Special,100,20,100,NearOther,0,bef,""
+60716,BERENJENA,Berenjena,0C0,60,DARK,Special,80,20,0,NearOther,0,abef,""
+60717,TDESTROYER,T-Destroyer,000,1,DARK,Special,80,50,0,NearOther,0,,""
+60718,CRYSTALR,Crystal-R,00C,130,ICE,Special,100,30,100,NearOther,0,abefj,""
+60719,GRADUS,Gradus,017,110,DARK,Special,100,30,70,NearOther,0,bef,""
+60720,RHAPSODY,Rhapsody,044,180,PSYCHIC,Special,100,35,100,NearOther,0,bef,""
+60721,DEADALIVE,Dead Alive,0DD,140,NORMAL,Physical,100,30,0,NearOther,0,bef,""

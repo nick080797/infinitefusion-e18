@@ -11,7 +11,13 @@ class PokemonStorageScreen
     poke_body = @storage[box, index]
     poke_head = heldpoke
     if heldpoke
-      if dexNum(heldpoke.species) > NB_POKEMON
+      # AnimeFusionMerge: dexNum(...) > NB_POKEMON alone can't tell "already
+      # fused" apart from "one of our DBZ-block species" (both are >727) -
+      # blocks_fusion? does, and falls back to the plain check when the mod
+      # isn't loaded. See Mods/AnimeFusionMerge/FusionMechanics.rb.
+      blocked = defined?(AnimeFusionMerge) ? AnimeFusionMerge.blocks_fusion?(heldpoke.species) :
+                                              dexNum(heldpoke.species) > NB_POKEMON
+      if blocked
         pbDisplay(_INTL("{1} is already fused!", heldpoke.name))
         return
       end
@@ -103,7 +109,9 @@ class PokemonStorageScreen
           pbDisplay(_INTL("No Pokémon selected!"))
           return
         else
-          if dexNum(pokemon.species) > NB_POKEMON
+          blocked = defined?(AnimeFusionMerge) ? AnimeFusionMerge.blocks_fusion?(pokemon.species) :
+                                                  dexNum(pokemon.species) > NB_POKEMON
+          if blocked
             pbDisplay(_INTL("This Pokémon is already fused!"))
             return
           end
@@ -145,7 +153,9 @@ class PokemonStorageScreen
         end
       when 1 # swap
         if pokemon
-          if dexNum(pokemon.species) <= NB_POKEMON
+          blocked = defined?(AnimeFusionMerge) ? AnimeFusionMerge.blocks_fusion?(pokemon.species) :
+                                                  dexNum(pokemon.species) > NB_POKEMON
+          if !blocked
             pbSwap(selected)
           else
             pbDisplay(_INTL("This Pokémon is already fused!"))

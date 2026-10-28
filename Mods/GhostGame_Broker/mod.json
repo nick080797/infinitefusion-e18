@@ -1,0 +1,19 @@
+{
+  "name": "GhostGame Broker",
+  "id": "GhostGame_Broker",
+  "version": "1.0.0",
+  "author": "t-Ghost-t",
+  "description": [
+    "GhostBroker adds a fully simulated stock market to the game, allowing you to fund your journey through investments.",
+    " ",
+    "This mod adds:",
+    "- 10 unique simulated companies with volatile price trends and dividends.",
+    "- A real-time market dashboard accessible from any in-game PC.",
+    "- Progression that unlocks as you earn more badges, starting at 2 badges."
+  ],
+  "tags": ["Gameplay", "Content"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

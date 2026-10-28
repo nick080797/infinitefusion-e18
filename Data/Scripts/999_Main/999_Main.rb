@@ -170,7 +170,26 @@ def mainFunctionDebug
     showLoadingScreen
     MessageTypes.loadMessageFile("Data/messages.dat") if safeExists?("Data/messages.dat")
     PluginManager.runPlugins
-    Compiler.main
+    $DEBUG = true
+    # Let opted-in mods pre-register PBS-compile-time dependencies (e.g. an
+    # item referenced by a "MegaStone = ..." key in pokemonforms.txt) before
+    # compile_all's enum validation runs. Only mods that ship a precompile.rb
+    # are affected; every other mod's boot order (Dir["./Mods/*.rb"], below)
+    # is unchanged.
+    Dir["./Mods/*/precompile.rb"].each do |file|
+      begin
+        load File.expand_path(file)
+      rescue Exception => e
+        File.open("PBS/_recompile_log.txt", "ab") { |f| f.write("[precompile] #{file}: #{e.class}: #{e.message}\r\n") } rescue nil
+      end
+    end
+    begin
+      Compiler.compile_all(true) { |msg| File.open("PBS/_recompile_log.txt", "ab") { |f| f.write("#{msg}\r\n") } }
+      File.open("PBS/_recompile_log.txt", "ab") { |f| f.write("RECOMPILE OK\r\n") }
+    rescue Exception => e
+      File.open("PBS/_recompile_log.txt", "ab") { |f| f.write("RECOMPILE FAILED: #{e.class}: #{e.message}\r\n#{e.backtrace.join("\r\n")}\r\n") }
+    end
+    GameData.load_all
     Game.initialize
     Game.set_up_system
     Graphics.update
@@ -183,6 +202,7 @@ def mainFunctionDebug
       echo "failed to sort custom battlers"
     end
     MessageConfig.pbResetSystemFontName
+    Dir["./Mods/*.rb"].each {|file| load File.expand_path(file) }
     $scene = pbCallTitle
     $scene.main until $scene.nil?
     Graphics.transition(20)

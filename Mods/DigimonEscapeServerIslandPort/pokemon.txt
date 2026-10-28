@@ -1,0 +1,1637 @@
+[602657]
+Name = DmiDevimon
+InternalName = DMIDEVIMON
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 45,31,56,80,31,57
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = IMMUNITY
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602658]
+Name = Solarmon
+InternalName = SOLARMON
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 35,35,80,35,35,80
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602659]
+Name = Crysalimon
+InternalName = CRYSALIMON
+Type1 = FIGHTING
+Type2 = FLYING
+BaseStats = 58,57,110,58,57,110
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602660]
+Name = Guardromon
+InternalName = GUARDROMON
+Type1 = ELECTRIC
+Type2 = GHOST
+BaseStats = 60,60,150,60,60,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602661]
+Name = NOTKabutom
+InternalName = NOTKABUTOM
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 70,65,60,90,90,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602662]
+Name = Kokatrimon
+InternalName = KOKATRIMON
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 76,76,76,70,76,76
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602663]
+Name = Repdramon
+InternalName = REPDRAMON
+Type1 = FIGHTING
+Type2 = GHOST
+BaseStats = 50,75,100,50,100,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602664]
+Name = Sorcermon
+InternalName = SORCERMON
+Type1 = ELECTRIC
+Type2 = ICE
+BaseStats = 40,40,30,40,150,150
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602665]
+Name = NOTTogemon
+InternalName = NOTTOGEMON
+Type1 = GRASS
+Type2 = FLYING
+BaseStats = 80,85,85,30,85,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = ROUGHSKIN
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602666]
+Name = Veggiemon
+InternalName = VEGGIEMON
+Type1 = FIGHTING
+Type2 = FLYING
+BaseStats = 66,66,66,66,120,66
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602667]
+Name = BlkRapdmon
+InternalName = BLKRAPDMON
+Type1 = FIGHTING
+Type2 = GHOST
+BaseStats = 240,40,10,255,15,40
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602668]
+Name = BlkWrGrlmn
+InternalName = BLKWRGRLMN
+Type1 = FIGHTING
+Type2 = ROCK
+BaseStats = 130,100,100,70,100,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602669]
+Name = BlkWrGrrmn
+InternalName = BLKWRGRRMN
+Type1 = FIGHTING
+Type2 = ICE
+BaseStats = 30,225,30,255,30,30
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = IMMUNITY
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602670]
+Name = Chimeramon
+InternalName = CHIMERAMON
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 200,200,200,1,200,200
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602671]
+Name = Cybrdramon
+InternalName = CYBRDRAMON
+Type1 = FIGHTING
+Type2 = ROCK
+BaseStats = 90,90,105,120,105,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602672]
+Name = Delumon
+InternalName = DELUMON
+Type1 = GRASS
+Type2 = FLYING
+BaseStats = 210,85,85,50,85,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602673]
+Name = Digitamamn
+InternalName = DIGITAMAMN
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 200,6,200,8,6,180
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602674]
+Name = Gigadramon
+InternalName = GIGADRAMON
+Type1 = FIGHTING
+Type2 = ROCK
+BaseStats = 90,110,90,110,110,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602675]
+Name = NOTLadyDev
+InternalName = NOTLADYDEV
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 110,110,110,90,110,110
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602676]
+Name = NOTLilamon
+InternalName = NOTLILAMON
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 100,100,100,90,120,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = IMMUNITY
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602677]
+Name = NOTLillymo
+InternalName = NOTLILLYMO
+Type1 = GRASS
+Type2 = FLYING
+BaseStats = 35,35,60,210,200,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602678]
+Name = MgnAngemon
+InternalName = MGNANGEMON
+Type1 = GRASS
+Type2 = GROUND
+BaseStats = 230,75,75,70,75,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602679]
+Name = MchSeadrmn
+InternalName = MCHSEADRMN
+Type1 = GRASS
+Type2 = DARK
+BaseStats = 22,22,250,31,20,255
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602680]
+Name = MtlGreymon
+InternalName = MTLGREYMON
+Type1 = GRASS
+Type2 = ROCK
+BaseStats = 35,200,200,95,35,35
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602681]
+Name = MtlMamemon
+InternalName = MTLMAMEMON
+Type1 = FIGHTING
+Type2 = DARK
+BaseStats = 250,25,250,25,25,25
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602682]
+Name = Meteormon
+InternalName = METEORMON
+Type1 = ELECTRIC
+Type2 = PSYCHIC
+BaseStats = 45,45,255,90,120,45
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602683]
+Name = SklGreymon
+InternalName = SKLGREYMON
+Type1 = FIGHTING
+Type2 = FLYING
+BaseStats = 90,110,110,125,110,110
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602684]
+Name = SprKbutomn
+InternalName = SPRKBUTOMN
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 60,40,80,40,60,45
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602685]
+Name = SprStarmon
+InternalName = SPRSTARMON
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 45,45,45,45,210,210
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602686]
+Name = WarGrowlmn
+InternalName = WARGROWLMN
+Type1 = GRASS
+Type2 = ROCK
+BaseStats = 125,90,115,75,90,105
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602687]
+Name = WereGrrmon
+InternalName = WEREGRRMON
+Type1 = GRASS
+Type2 = ICE
+BaseStats = 65,75,80,225,75,80
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602688]
+Name = BnchoLeomn
+InternalName = BNCHOLEOMN
+Type1 = ELECTRIC
+Type2 = ICE
+BaseStats = 75,200,200,75,100,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602689]
+Name = BlkImprmon
+InternalName = BLKIMPRMON
+Type1 = FIGHTING
+Type2 = DARK
+BaseStats = 130,130,130,130,130,130
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602690]
+Name = BlkMgGrgmn
+InternalName = BLKMGGRGMN
+Type1 = FIGHTING
+Type2 = DARK
+BaseStats = 60,190,195,80,40,185
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602691]
+Name = BlkWrGrymn
+InternalName = BLKWRGRYMN
+Type1 = FIGHTING
+Type2 = ROCK
+BaseStats = 80,205,100,80,185,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602692]
+Name = Cannondrmn
+InternalName = CANNONDRMN
+Type1 = ELECTRIC
+Type2 = GHOST
+BaseStats = 170,180,90,40,180,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602693]
+Name = ChsGllntmn
+InternalName = CHSGLLNTMN
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 90,120,120,180,120,120
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602694]
+Name = CherubmonA
+InternalName = CHERUBMONA
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 160,165,80,100,165,80
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602695]
+Name = CherubmonV
+InternalName = CHERUBMONV
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 160,165,80,100,165,80
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = HUSTLE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602696]
+Name = Daemon
+InternalName = DAEMON
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 255,130,65,100,130,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602697]
+Name = Diablomon
+InternalName = DIABLOMON
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 175,100,100,175,100,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602698]
+Name = Ebonwumon
+InternalName = EBONWUMON
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 250,35,200,30,35,200
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602699]
+Name = Gllntmn CM
+InternalName = GLLNTMNCM
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 180,180,180,200,130,180
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602700]
+Name = GgaSeadrmn
+InternalName = GGASEADRMN
+Type1 = ELECTRIC
+Type2 = ICE
+BaseStats = 120,140,150,75,110,155
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602701]
+Name = GrnKwagamn
+InternalName = GRNKWAGAMN
+Type1 = ELECTRIC
+Type2 = GHOST
+BaseStats = 85,100,130,200,115,120
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602702]
+Name = GranLocomn
+InternalName = GRANLOCOMN
+Type1 = ELECTRIC
+Type2 = GHOST
+BaseStats = 205,50,210,200,40,45
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602703]
+Name = GrdAngemon
+InternalName = GRDANGEMON
+Type1 = ELECTRIC
+Type2 = GROUND
+BaseStats = 55,165,165,35,165,165
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602704]
+Name = HrcsKbtmon
+InternalName = HRCSKBTMON
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 75,135,135,135,135,135
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602705]
+Name = HiAndromon
+InternalName = HIANDROMON
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 90,70,215,95,210,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602706]
+Name = Imprmon DM
+InternalName = IMPRMONDM
+Type1 = FIGHTING
+Type2 = ROCK
+BaseStats = 125,125,125,125,125,125
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602707]
+Name = Kuzuhamon
+InternalName = KUZUHAMON
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 90,140,125,135,135,125
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602708]
+Name = Mchndramon
+InternalName = MCHNDRAMON
+Type1 = FIGHTING
+Type2 = GHOST
+BaseStats = 70,160,155,60,155,150
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602709]
+Name = MrineAngmn
+InternalName = MRINEANGMN
+Type1 = ROCK
+Type2 = WATER
+BaseStats = 210,20,50,210,205,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602710]
+Name = XXXGargomn
+InternalName = XXXGARGOMN
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 60,195,185,80,40,190
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602711]
+Name = MtlEtemon
+InternalName = MTLETEMON
+Type1 = FIGHTING
+Type2 = GHOST
+BaseStats = 250,20,210,35,20,215
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602712]
+Name = MtlGrrmon
+InternalName = MTLGRRMON
+Type1 = GRASS
+Type2 = ICE
+BaseStats = 85,90,90,255,90,90
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602713]
+Name = MtlSeadrmn
+InternalName = MTLSEADRMN
+Type1 = GRASS
+Type2 = DARK
+BaseStats = 90,185,195,100,95,85
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602714]
+Name = Phoenixmon
+InternalName = PHOENIXMON
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 135,133,95,120,131,136
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602715]
+Name = PrncMamemn
+InternalName = PRNCMAMEMN
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 105,160,105,110,170,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = HUSTLE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602716]
+Name = SaberLeomn
+InternalName = SABERLEOMN
+Type1 = ELECTRIC
+Type2 = DARK
+BaseStats = 111,145,112,107,155,120
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = HUSTLE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602717]
+Name = Valkyriemn
+InternalName = VALKYRIEMN
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 95,60,95,255,50,175
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602718]
+Name = Valldurmon
+InternalName = VALLDURMON
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 100,100,100,250,100,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602719]
+Name = VnmMyotsmn
+InternalName = VNMMYOTSMN
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 255,100,100,95,100,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602720]
+Name = Imprmon FM
+InternalName = IMPRMONFM
+Type1 = ELECTRIC
+Type2 = ICE
+BaseStats = 100,250,250,100,100,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602721]
+Name = Imprmon PM
+InternalName = IMPRMONPM
+Type1 = GRASS
+Type2 = GROUND
+BaseStats = 130,130,255,130,130,255
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602722]
+Name = MalMyotsmn
+InternalName = MALMYOTSMN
+Type1 = FIGHTING
+Type2 = PSYCHIC
+BaseStats = 255,200,200,200,200,200
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602723]
+Name = Omnimon MM
+InternalName = OMNIMONMM
+Type1 = ELECTRIC
+Type2 = ICE
+BaseStats = 255,255,255,1,255,255
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602724]
+Name = MgaGargomn
+InternalName = MGAGARGOMN
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 60,195,185,80,40,190
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602725]
+Name = LadyDevimn
+InternalName = LADYDEVIMN
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 110,110,110,90,110,110
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602726]
+Name = Kabutomon
+InternalName = KABUTOMON
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 70,65,60,90,90,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602727]
+Name = SistermonB
+InternalName = SISTERMONB
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 95,41,41,41,41,41
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 41
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602728]
+Name = SistermonC
+InternalName = SISTERMONC
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 41,95,41,41,41,41
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602729]
+Name = SistermonN
+InternalName = SISTERMONN
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 41,41,41,95,41,41
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602730]
+Name = SstrmonB A
+InternalName = SSTRMONBA
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 100,62,62,100,62,62
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602731]
+Name = SstrmonC A
+InternalName = SSTRMONCA
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 62,100,62,62,100,62
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602732]
+Name = SstrmonN A
+InternalName = SSTRMONNA
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 62,62,100,62,62,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602733]
+Name = Milleniumn
+InternalName = MILLENIUMN
+Type1 = FIGHTING
+Type2 = DARK
+BaseStats = 255,255,255,255,255,255
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 255
+Shape = Head
+
+[602734]
+Name = Wise Bu
+InternalName = WISEBU
+Type1 = CUSTOM_TYPE_224
+Type2 = FLYING
+BaseStats = 224,2,8,10,255,255
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 20
+EffortPoints = 0,0,0,0,0,0
+Rareness = 68
+Happiness = 224
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 65025
+Shape = Head
+
+[602735]
+Name = bble
+InternalName = BBLE
+Type1 = CUSTOM_TYPE_255
+BaseStats = 255,255,224,2,150,20
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 2
+EffortPoints = 0,0,0,0,0,0
+Rareness = 224
+Happiness = 255
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[602736]
+Name = ubble
+InternalName = UBBLE
+Type1 = CUSTOM_TYPE_108
+Type2 = CUSTOM_TYPE_20
+BaseStats = 69,20,255,255,224,2
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 21
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 510
+Shape = Head
+
+[602737]
+Name = sh Bubble
+InternalName = SHBUBBLE
+Type1 = CUSTOM_TYPE_224
+Type2 = FLYING
+BaseStats = 224,2,109,20,255,255
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 20
+EffortPoints = 0,0,0,0,0,0
+Rareness = 152
+Happiness = 224
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 65025
+Shape = Head
+
+[602738]
+Name = ush Bubble
+InternalName = USHBUBBLE
+Type1 = CUSTOM_TYPE_255
+BaseStats = 255,255,224,2,110,20
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 2
+EffortPoints = 0,0,0,0,0,0
+Rareness = 224
+Happiness = 255
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head

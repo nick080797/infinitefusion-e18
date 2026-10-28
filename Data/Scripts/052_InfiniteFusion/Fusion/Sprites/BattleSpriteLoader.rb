@@ -55,7 +55,10 @@ class BattleSpriteLoader
   end
 
   def load_from_dex_number(dex_number)
-    if dex_number > NB_POKEMON
+    # GHOST/QOL: dex numbers in the 600000-699999 reserved band are
+    # standalone added species, not fusion-encoded - see
+    # is_reserved_standalone_dex? in FusionUtils.rb.
+    if !is_reserved_standalone_dex?(dex_number) && dex_number > NB_POKEMON
       if dex_number > ZAPMOLCUNO_NB #Triple Fusion
         return load_triple_fusion_sprite(dex_number)
       else
@@ -160,8 +163,13 @@ class BattleSpriteLoader
 
     #Always loaded from local individual sprites
   def load_triple_fusion_sprite(dex_number)
-    sprite_path = getSpecialSpriteName(dex_number)
-    return AnimatedBitmap.new(sprite_path)
+    substitution_id = dex_number
+    pif_sprite = $PokemonSystem.alt_sprite_substitutions[substitution_id] if $PokemonGlobal
+    if !pif_sprite || $PokemonSystem.random_sprites
+      pif_sprite = select_new_pif_triple_sprite(dex_number)
+      $PokemonSystem.alt_sprite_substitutions[substitution_id] = pif_sprite if $PokemonGlobal && !$PokemonSystem.random_sprites
+    end
+    return AnimatedBitmap.new(pif_sprite.local_path)
   end
 
   def get_sprite_extractor_instance(type)
@@ -201,9 +209,16 @@ class BattleSpriteLoader
 
 
   def select_new_pif_triple_sprite(dex_number)
-    sprite= PIFSprite.new(:TRIPLE, dex_number, nil, "")
-    sprite.local_path = getSpecialSpriteName(dex_number)
-    echoln sprite.local_path
+    spritename = get_triple_fusion_base_name(dex_number)
+    random_alt = get_random_alt_letter_for_triple(dex_number, true)
+    random_alt = "" if !random_alt
+    if $PokemonTemp.forced_alt_sprites && $PokemonTemp.forced_alt_sprites.include?(spritename)
+      random_alt = $PokemonTemp.forced_alt_sprites[spritename]
+    end
+    sprite = PIFSprite.new(:TRIPLE, dex_number, nil, random_alt)
+    candidate_path = "Graphics/Battlers/special/#{spritename}#{random_alt}"
+    candidate_path = "Graphics/Battlers/special/#{spritename}" unless pbResolveBitmap(candidate_path)
+    sprite.local_path = candidate_path
     return sprite
   end
 
@@ -238,88 +253,93 @@ class BattleSpriteLoader
   end
 
   #todo refactor by using get_triple_fusion_components()
-  def getSpecialSpriteName(dexNum)
-    base_path = "Graphics/Battlers/special/"
-    echoln dexNum
-    echoln Settings::ZAPMOLCUNO_NB + 31
+  # Bare combo/placeholder name for a triple-fusion dex number, with no path
+  # prefix and no alt letter - the thing that both getSpecialSpriteName and
+  # the alt-letter selection code (get_random_alt_letter_for_triple) need as
+  # a common base to build on.
+  def get_triple_fusion_base_name(dexNum)
     case dexNum
     when Settings::ZAPMOLCUNO_NB
-      return sprintf(base_path + "144.145.146")
+      return "144.145.146"
     when Settings::ZAPMOLCUNO_NB + 1
-      return sprintf(base_path + "144.145.146")
+      return "144.145.146"
     when Settings::ZAPMOLCUNO_NB + 2
-      return sprintf(base_path + "243.244.245")
+      return "243.244.245"
     when Settings::ZAPMOLCUNO_NB + 3
-      return sprintf(base_path +"340.341.342")
+      return "340.341.342"
     when Settings::ZAPMOLCUNO_NB + 4
-      return sprintf(base_path +"343.344.345")
+      return "343.344.345"
     when Settings::ZAPMOLCUNO_NB + 5
-      return sprintf(base_path +"349.350.351")
+      return "349.350.351"
     when Settings::ZAPMOLCUNO_NB + 6
-      return sprintf(base_path +"151.251.381")
+      return "151.251.381"
     when Settings::ZAPMOLCUNO_NB + 11
-      return sprintf(base_path +"150.348.380")
+      return "150.348.380"
       #starters
     when Settings::ZAPMOLCUNO_NB + 7
-      return sprintf(base_path +"3.6.9")
+      return "3.6.9"
     when Settings::ZAPMOLCUNO_NB + 8
-      return sprintf(base_path +"154.157.160")
+      return "154.157.160"
     when Settings::ZAPMOLCUNO_NB + 9
-      return sprintf(base_path +"278.281.284")
+      return "278.281.284"
     when Settings::ZAPMOLCUNO_NB + 10
-      return sprintf(base_path +"318.321.324")
+      return "318.321.324"
       #starters prevos
     when Settings::ZAPMOLCUNO_NB + 12
-      return sprintf(base_path +"1.4.7")
+      return "1.4.7"
     when Settings::ZAPMOLCUNO_NB + 13
-      return sprintf(base_path +"2.5.8")
+      return "2.5.8"
     when Settings::ZAPMOLCUNO_NB + 14
-      return sprintf(base_path +"152.155.158")
+      return "152.155.158"
     when Settings::ZAPMOLCUNO_NB + 15
-      return sprintf(base_path +"153.156.159")
+      return "153.156.159"
     when Settings::ZAPMOLCUNO_NB + 16
-      return sprintf(base_path +"276.279.282")
+      return "276.279.282"
     when Settings::ZAPMOLCUNO_NB + 17
-      return sprintf(base_path +"277.280.283")
+      return "277.280.283"
     when Settings::ZAPMOLCUNO_NB + 18
-      return sprintf(base_path +"316.319.322")
+      return "316.319.322"
     when Settings::ZAPMOLCUNO_NB + 19
-      return sprintf(base_path +"317.320.323")
+      return "317.320.323"
     when Settings::ZAPMOLCUNO_NB + 20 #birdBoss Left
-      return sprintf(base_path +"invisible")
+      return "invisible"
     when Settings::ZAPMOLCUNO_NB + 21 #birdBoss middle
-      return sprintf(base_path + "BIRDBOSS")
+      return "BIRDBOSS"
     when Settings::ZAPMOLCUNO_NB + 22 #birdBoss right
-      return sprintf(base_path +"invisible")
+      return "invisible"
     when Settings::ZAPMOLCUNO_NB + 23 #sinnohboss left
-      return sprintf(base_path +"invisible")
+      return "invisible"
     when Settings::ZAPMOLCUNO_NB + 24 #sinnohboss middle
-      return sprintf(base_path +"343.344.345")
+      return "343.344.345"
     when Settings::ZAPMOLCUNO_NB + 25 #sinnohboss right
-      return sprintf(base_path +"invisible")
+      return "invisible"
     when Settings::ZAPMOLCUNO_NB + 25 #cardboard
-      return sprintf(base_path +"invisible")
+      return "invisible"
     when Settings::ZAPMOLCUNO_NB + 26 #cardboard
-      return sprintf(base_path + "cardboard")
+      return "cardboard"
     when Settings::ZAPMOLCUNO_NB + 27 #Triple regi
-      return sprintf(base_path + "447.448.449")
+      return "447.448.449"
       #Triple Kalos 1
     when Settings::ZAPMOLCUNO_NB + 28
-      return sprintf(base_path + "479.482.485")
+      return "479.482.485"
     when Settings::ZAPMOLCUNO_NB + 29
-      return sprintf(base_path + "480.483.486")
+      return "480.483.486"
     when Settings::ZAPMOLCUNO_NB + 30
-      return sprintf(base_path + "481.484.487")
+      return "481.484.487"
     when Settings::ZAPMOLCUNO_NB + 31 #TELEMAUV
-      return sprintf(base_path + "000")
+      return "000"
     when Settings::ZAPMOLCUNO_NB + 32 #Minior/Solrock/Lunatone (meteor)
-      return sprintf(base_path + "498.544.545")
+      return "498.544.545"
     when Settings::ZAPMOLCUNO_NB + 33 #Minior/Solrock/Lunatone (core)
-      return sprintf(base_path + "499.544.545")
+      return "499.544.545"
     when Settings::ZAPMOLCUNO_NB + 34 #Stunfisk, bruxish, luvdisc
-      return sprintf(base_path + "420.469.501")
+      return "420.469.501"
     else
-      return sprintf(base_path + "000")
+      return "000"
     end
+  end
+
+  def getSpecialSpriteName(dexNum)
+    return "Graphics/Battlers/special/" + get_triple_fusion_base_name(dexNum)
   end
 end

@@ -1,0 +1,33 @@
+20000,WATERDATA,Water Data,Water Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20001,THUNDERDATA,Thunder Data,Thunder Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20002,WOODDATA,Wood Data,Wood Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20003,METALDATA,Metal Data,Metal Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20004,WINDDATA,Wind Data,Wind Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20005,EARTHDATA,Earth Data,Earth Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20006,LIGHTDATA,Light Data,Light Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20007,DARKDATA,Dark Data,Dark Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20008,ICEDATA,Ice Data,Ice Data,1,3000,"Elemental data remnant of Spirits or Armors.",0,0,0
+20009,BLACKDIGITRON,BlackDigitron,BlackDigitron,1,2000,"A mysterious secretion that changes evolution into a darker colored.",0,0,0
+20010,ORGANICDATA,Organic Data,Organic Data,1,2200,"A blueprint for a Organic Perfect chimera.",0,0,0
+20011,CRACKEDPOT,Cracked Pot,Cracked Pot,1,1600,"A cracked teapot that makes certain Pok mon evolve.",0,0,0
+20012,CHIPPEDPOT,Chipped Pot,Chipped Pot,1,38000,"A chipped teapot that makes certain Pok mon evolve.",0,0,0
+20013,UNHOLYHEART,Unholy Heart,Unholy Heart,1,3000,"A Heart drowned by bad feelings in Water Data.",0,0,0
+20014,GENBUCORE,Genbu Core,Genbu Core,1,10000,"A Digicore with remaining data of Xuanwumon.",0,0,0
+20015,STARSWORD,Star Sword,Star Sword,1,1500,"A Sword made of a bunch of Pickmons and a Starmon.",0,0,0
+20016,SUZAKUCORE,Suzaku Core,Suzaku Core,1,10000,"A Digicore with remaining data of Zhuqiaomon.",0,0,0
+20017,GAKUREN,Gakuren,Gakuren,1,4000,"Loved by a certain Digimon. Imbued with BANCHOU energy.",0,0,0
+20018,LUNARSCALE,Lunar Scale,Lunar Scale,1,3000,"A mysterious scale with data from Dianamon.",0,0,0
+20019,PERMAJOGRESS,Perma Jogress,Perma Jogress,1,14464,"Data that lets you fuse without a partner forever.",0,0,0
+20020,SACHET,Sachet,Sachet,1,4000,"A sachet filled with ashes and an evil aura data.",0,0,0
+20021,BLASTOISINITE,Blastoisinite,Blastoisinite,1,100,"This stone enables Blastoise to Mega Evolve in battle.",0,0,0
+20022,CUTEPLUSH,Cute Plush,Cute Plush,1,2000,"A plush filled with light energy. It may evolve some Digimon.",0,0,0
+20023,BOOSTERENERGY,BoosterEnergy,BoosterEnergy,1,100,"Encapsuled energy ups Pok mon with certain Abilities.",0,0,0
+20024,MIRRORHERB,Mirror Herb,Mirror Herb,1,30000,"Mirrors an enemy’s stat increases but only once.",0,0,0
+20025,SCROLLOFWATRS,ScrollOfWatrs,ScrollOfWatrs,1,100,"A peculiar scroll with secrets of the water path.",0,0,0
+20026,TERAORB,Tera Orb,Tera Orb,1,100,"Energy charges can be used to cause Terastallization.",0,0,0
+20027,DRACONICCORE,DraconicCore,DraconicCore,1,8000,"A Digicore with data from the 4 Great Dragons.",0,0,0
+20028,AWDATA,AW Data,AW Data,1,10000,"Strange data that came from another Game World.",0,0,0
+20029,UNRMKBLTEACUP,UnrmkblTeacup,UnrmkblTeacup,1,1600,"A cracked teacup that makes certain Pok mon evolve.",0,0,0
+20030,MSTRPCETEACUP,MstrpceTeacup,MstrpceTeacup,1,38000,"A chipped teacup that makes certain Pok mon evolve.",0,0,0
+20031,CORNRSTNEMASK,CornrstneMask,CornrstneMask,1,100,"Allows Ogerpon to wield the Rock- type in battle.",0,0,0
+20032,STLLRTERASHRD,StllrTeraShrd,StllrTeraShrd,1,100,"These shards may form when a Tera Digimon faints.",0,0,0

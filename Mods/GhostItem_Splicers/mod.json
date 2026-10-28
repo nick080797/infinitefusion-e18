@@ -1,0 +1,19 @@
+{
+  "name": "GhostItem Splicers",
+  "id": "GhostItem_Splicers",
+  "version": "1.0.0",
+  "author": "t-Ghost-t",
+  "description": [
+    "Introduces experimental fusion technology for trainers who want to push their Pokémon's potential.",
+    " ",
+    "This mod adds:",
+    "- The 'Splice Boy Advance to the Kuray Shop,' a handheld UI for performing fusions anywhere.",
+    "- Advanced splicers that allow inheriting BOTH parent abilities or getting 'Impossible' IVs.",
+    "- Earn batteries for the SBA by defeating bosses and gym leaders, or purchase in the Kuray Shop."
+  ],
+  "tags": ["Gameplay", "Fusion", "Content"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

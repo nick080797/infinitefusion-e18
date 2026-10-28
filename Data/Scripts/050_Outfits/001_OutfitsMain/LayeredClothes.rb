@@ -235,14 +235,20 @@ def generateNPCClothedBitmapStatic(trainerAppearance,action = "walk")
   #Clothes
   clothes_color_shift = trainerAppearance.clothes_color || 0
   clothesBitmap = AnimatedBitmap.new(outfitFilename, clothes_color_shift).bitmap if pbResolveBitmap(outfitFilename)
-  baseBitmap.blt(0, 0, clothesBitmap, clothesBitmap.rect)
+  # clothesBitmap/hairBitmap can be nil (e.g. hair not yet chosen -- resolves
+  # to a garbage path before real character-selection has run). blt-ing
+  # unconditionally raised NoMethodError on nil.rect, which the bare rescue
+  # around callers of this method silently swallowed -- aborting before
+  # `return baseBitmap` and discarding even the layers that DID blit
+  # successfully, leaving just the bare base sprite. Guard each blt instead.
+  baseBitmap.blt(0, 0, clothesBitmap, clothesBitmap.rect) if clothesBitmap
   #clothesBitmap.dispose
 
 
   #Hair
   hair_color_shift = trainerAppearance.hair_color || 0
   hairBitmap = AnimatedBitmap.new(hairFilename, hair_color_shift).bitmap if pbResolveBitmap(hairFilename)
-  baseBitmap.blt(0, 0, hairBitmap, hairBitmap.rect)
+  baseBitmap.blt(0, 0, hairBitmap, hairBitmap.rect) if hairBitmap
 
   #Hat
   hat_color_shift = trainerAppearance.hat_color || 0

@@ -1,0 +1,434 @@
+[607972]
+Name = REPILIKU
+InternalName = REPILIKU
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 60,62,63,60,80,80
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607973]
+Name = VALOR SORA
+InternalName = VALORSORA
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 58,64,58,80,80,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607974]
+Name = FINAL SORA
+InternalName = FINALSORA
+Type1 = FIRE
+Type2 = STEEL
+BaseStats = 78,84,78,100,109,85
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607975]
+Name = KAIRI
+InternalName = KAIRI
+Type1 = WATER
+Type2 = QMARKS
+BaseStats = 44,48,65,43,50,64
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 66
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607976]
+Name = RE:KAIRI
+InternalName = REKAIRI
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 59,63,80,58,65,80
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 143
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607977]
+Name = PRINCESS K
+InternalName = PRINCESSK
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 79,83,100,78,85,105
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607978]
+Name = King Mikey
+InternalName = KINGMIKEY
+Type1 = FIGHTING
+Type2 = WATER
+BaseStats = 90,100,90,90,125,85
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 217
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[607979]
+Name = Yozora
+InternalName = YOZORA
+Type1 = PSYCHIC
+Type2 = FIRE
+BaseStats = 106,110,90,130,154,90
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607980]
+Name = Vanitas
+InternalName = VANITAS
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 100,100,100,100,100,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 64
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SYNCHRONIZE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607981]
+Name = Sir Goofy
+InternalName = SIRGOOFY
+Type1 = GROUND
+Type2 = FIGHTING
+BaseStats = 90,85,75,115,115,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[607982]
+Name = Goofy
+InternalName = GOOFY
+Type1 = GROUND
+Type2 = FIGHTING
+BaseStats = 115,115,85,100,90,75
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 217
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[607983]
+Name = Donald
+InternalName = DONALD
+Type1 = WATER
+BaseStats = 100,75,115,85,90,115
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 215
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[607984]
+Name = Sir Donald
+InternalName = SIRDONALD
+Type1 = ICE
+Type2 = FLYING
+BaseStats = 106,90,130,110,90,154
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607985]
+Name = FINAL RIKU
+InternalName = FINALRIKU
+Type1 = FIRE
+Type2 = FLYING
+BaseStats = 106,130,90,90,110,154
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 220
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607986]
+Name = Anti Sora
+InternalName = ANTISORA
+Type1 = GHOST
+Type2 = STEEL
+BaseStats = 100,100,100,100,100,100
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 64
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607973]
+Name = VALOR SORA
+InternalName = VALORSORA
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607974]
+Name = FINAL SORA
+InternalName = FINALSORA
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607986]
+Name = ANTI SORA
+InternalName = ANTISORA
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[607987]
+Name = Goblin Pu
+InternalName = GOBLINPU
+Type1 = CUSTOM_TYPE_22_3
+Type2 = CUSTOM_TYPE_20_5
+BaseStats = 73,2,45,8,73,14
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 30
+EffortPoints = 0,0,0,0,0,0
+Rareness = 77
+Happiness = 235
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 19380
+Shape = Head
+
+[607988]
+Name = ce
+InternalName = CE
+Type1 = CUSTOM_TYPE_255_5
+BaseStats = 255,255,255,255,255,255
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 255
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDSTREAM,DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 65025
+Shape = Head
+
+[607989]
+Name = ecast
+InternalName = ECAST
+Type1 = CUSTOM_TYPE_53_4
+Type2 = CUSTOM_TYPE_68_3
+BaseStats = 108,26,99,40,184,54
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 82
+EffortPoints = 0,0,0,0,0,0
+Rareness = 163
+Happiness = 45
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = EHHEH,DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 510
+Shape = Head
+
+[607990]
+Name = Combo
+InternalName = COMBO
+Type1 = DARK
+Type2 = CUSTOM_TYPE_72_2
+BaseStats = 99,40,184,54,53,68
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 88
+EffortPoints = 0,0,0,0,0,0
+Rareness = 163
+Happiness = 39
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 510
+Shape = Head

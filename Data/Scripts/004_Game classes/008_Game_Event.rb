@@ -99,7 +99,19 @@ class Game_Event < Game_Character
 
   def switchIsOn?(id)
     switchname = $data_system.switches[id]
-    return false if !switchname
+    # NOTE (2026-09-04): fall back to $game_switches directly instead of
+    # forcing OFF when a switch has no name in $data_system.switches. That
+    # array is sized to the host's own original editor switch count and was
+    # never extended for Mods/PIF2Port's remapped switch ids (+50000) -- so
+    # every remapped switch is unnamed here even though it's a perfectly
+    # real, correctly-set entry in $game_switches. The old `return false if
+    # !switchname` silently treated every one of those as permanently OFF no
+    # matter what was actually written to it, which is why event pages gated
+    # on a remapped switch (e.g. PIF2's truck-exit doors) never activated
+    # even after the real cutscene set the switch true. command_111
+    # (conditional branch, 004_Interpreter_Commands.rb) already falls back
+    # this same way and was never affected by this bug.
+    return $game_switches[id] if !switchname
     if switchname[/^s\:/]
       #echoln caller
       return eval($~.post_match)

@@ -150,7 +150,7 @@ class PokemonEncounters
         min_steps_needed *= 4 / 3.0
       else   # Ignore ability effects if an item effect applies
         case first_pkmn.ability_id
-        when :STENCH, :WHITESMOKE, :QUICKFEET
+        when :STENCH, :WHITESMOKE, :QUICKFEET, :TERROR   # TERROR: AnimeFusionMerge, "Helps repel fighters"
           encounter_chance /= 2
           min_steps_needed *= 2
         when :SNOWCLOAK
@@ -166,7 +166,7 @@ class PokemonEncounters
         when :SWARM
           encounter_chance *= 1.5
           min_steps_needed /= 2
-        when :ILLUMINATE, :ARENATRAP, :NOGUARD
+        when :ILLUMINATE, :ARENATRAP, :NOGUARD, :AURA   # AURA: AnimeFusionMerge, "Encounter rate increases"
           encounter_chance *= 2
           min_steps_needed /= 2
         end

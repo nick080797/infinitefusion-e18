@@ -1,0 +1,14 @@
+{
+  "name": "Trainer Rank System",
+  "id": "TrainerRankSystem",
+  "version": "1.0.0",
+  "author": "Player",
+  "description": "Player-side meta-progression: earn points from catching, fusing, and winning trainer battles; rank up (gated on both badges and points) to unlock a higher money cap, bigger trainer-battle prize money, auto-heal after wins, and a rank title on the Trainer Card.",
+  "tags": ["Gameplay", "Economy", "UI"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": [
+    "001_Main.rb"
+  ]
+}

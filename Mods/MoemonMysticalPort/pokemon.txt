@@ -1,0 +1,237 @@
+[608290]
+Name = PIDGEOTT
+InternalName = PIDGEOTT
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 63,60,55,71,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 113
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608291]
+Name = FARFETCH
+InternalName = FARFETCH
+Type1 = FLYING
+Type2 = NORMAL
+BaseStats = 50,50,77,91,95,77
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 45
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608292]
+Name = RHYORN
+InternalName = RHYORN
+Type1 = GROUND
+Type2 = STEEL
+BaseStats = 30,30,42,70,30,42
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 120
+EffortPoints = 0,0,0,0,0,0
+Rareness = 135
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608293]
+Name = ROBOMEWTWO
+InternalName = ROBOMEWTWO
+Type1 = PSYCHIC
+Type2 = STEEL
+BaseStats = 110,114,94,134,158,94
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608294]
+Name = WURPLE
+InternalName = WURPLE
+Type1 = BUG
+BaseStats = 45,45,35,20,20,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 54
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608295]
+Name = INGULL
+InternalName = INGULL
+Type1 = WATER
+Type2 = FLYING
+BaseStats = 40,30,30,85,55,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 64
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608296]
+Name = Bofeton
+InternalName = BOFETON
+Type1 = CUSTOM_TYPE_53_5
+Type2 = CUSTOM_TYPE_68_4
+BaseStats = 108,26,99,40,184,54
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 82
+EffortPoints = 0,0,0,0,0,0
+Rareness = 163
+Happiness = 45
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = N8,DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 510
+Shape = Head
+
+[608297]
+Name = Dia de pag
+InternalName = DIADEPAG
+Type1 = CUSTOM_TYPE_130_2
+Type2 = CUSTOM_TYPE_90_2
+BaseStats = 229,50,182,62,240,74
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 106
+EffortPoints = 0,0,0,0,0,0
+Rareness = 56
+Happiness = 145
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 510
+Shape = Head
+
+[608298]
+Name = nte
+InternalName = NTE
+Type1 = CUSTOM_TYPE_255_6
+BaseStats = 226,64,247,80,153,94
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 2
+EffortPoints = 0,0,0,0,0,0
+Rareness = 35
+Happiness = 103
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608299]
+Name = te
+InternalName = TE
+Type1 = CUSTOM_TYPE_84_3
+Type2 = FLYING
+BaseStats = 117,112,255,255,45,2
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 12
+EffortPoints = 0,0,0,0,0,0
+Rareness = 39
+Happiness = 85
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = O
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608300]
+Name = ornado
+InternalName = ORNADO
+Type1 = CUSTOM_TYPE_98_3
+Type2 = FLYING
+BaseStats = 39,2,84,2,85,2
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 163
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = PUREPOWER
+Compatibility = Undiscovered
+StepsToHatch = 8670
+Shape = Head
+
+[608301]
+Name = Ataque ala
+InternalName = ATAQUEALA
+Type1 = CUSTOM_TYPE_111
+Type2 = FLYING
+BaseStats = 255,255,10,2,28,2
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 12
+EffortPoints = 0,0,0,0,0,0
+Rareness = 111
+Happiness = 154
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = Y
+Compatibility = Undiscovered
+StepsToHatch = 16830
+Shape = Head

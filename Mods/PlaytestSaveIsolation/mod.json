@@ -1,0 +1,14 @@
+{
+  "name": "Playtest Save Isolation",
+  "id": "PlaytestSaveIsolation",
+  "version": "0.1.0",
+  "author": "gba_world playtest project",
+  "description": [
+    "Inert unless the GBAWORLD_PLAYTEST_SAVEDIR environment variable is set at launch. When set, redirects SaveData::SAVE_DIR to that folder so QA playthroughs of gba_world-ported games never read or write the player's real save files under %APPDATA%/infinitefusion."
+  ],
+  "tags": ["Technical"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

@@ -221,6 +221,11 @@ class PokemonIconSprite < SpriteWrapper
   def useRegularIcon(species)
     dexNum = getDexNumberForSpecies(species)
     return true if dexNum <= Settings::NB_POKEMON
+    # GHOST/QOL: reserved-band standalone species aren't fusion-encoded -
+    # getBodyID/getHeadID math below would produce a bogus, possibly
+    # out-of-range species id for them. Always take the regular-icon path
+    # (which has its own safe fallback) instead of the fusion-icon composer.
+    return true if is_reserved_standalone_dex?(dexNum)
     return false if $game_variables == nil
     return true if $game_variables[VAR_FUSION_ICON_STYLE] != 0
     bitmapFileName = sprintf("Graphics/Icons/icon%03d", dexNum)

@@ -1,0 +1,1192 @@
+[606661]
+Name = Grottle
+InternalName = GROTTLE
+Type1 = WATER
+Type2 = ROCK
+BaseStats = 75,89,85,36,55,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 235
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606662]
+Name = Gorochu
+InternalName = GOROCHU
+Type1 = ELECTRIC
+Type2 = FIRE
+BaseStats = 90,90,70,130,120,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606663]
+Name = LycanrocMD
+InternalName = LYCANROCMD
+Type1 = GRASS
+Type2 = WATER
+BaseStats = 85,115,70,100,115,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = OVERGROW,TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606664]
+Name = LycanrocMN
+InternalName = LYCANROCMN
+Type1 = WATER
+Type2 = FIRE
+BaseStats = 85,115,70,100,115,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = TORRENT,BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606665]
+Name = PorygonX
+InternalName = PORYGONX
+Type1 = PSYCHIC
+Type2 = ELECTRIC
+BaseStats = 100,95,100,100,145,100
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = TRACE,SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[606666]
+Name = Ganki
+InternalName = GANKI
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 40,60,30,80,60,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 90
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = VOLTABSORB
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[606667]
+Name = Gazuma
+InternalName = GAZUMA
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 80,100,70,90,120,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = VOLTABSORB
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[606668]
+Name = Cellpin
+InternalName = CELLPIN
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 30,30,30,60,60,60
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TRACE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[606669]
+Name = Celloon
+InternalName = CELLOON
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 60,60,130,50,65,130
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 35
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606670]
+Name = Voltash
+InternalName = VOLTASH
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 80,40,75,100,135,75
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TRACE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[606671]
+Name = Jibanyan
+InternalName = JIBANYAN
+Type1 = FIGHTING
+BaseStats = 80,125,50,95,125,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = CUTECHARM,SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[606672]
+Name = Hovernyan
+InternalName = HOVERNYAN
+Type1 = FIGHTING
+Type2 = FLYING
+BaseStats = 80,125,60,95,125,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CUTECHARM,ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[606673]
+Name = Robonyan
+InternalName = ROBONYAN
+Type1 = FIGHTING
+Type2 = STEEL
+BaseStats = 80,125,100,80,125,40
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = CUTECHARM,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[606674]
+Name = Goldenyan
+InternalName = GOLDENYAN
+Type1 = FIGHTING
+Type2 = ELECTRIC
+BaseStats = 80,125,90,60,125,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = CUTECHARM,LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606675]
+Name = Corvknight
+InternalName = CORVKNIGHT
+Type1 = STEEL
+Type2 = GHOST
+BaseStats = 98,100,105,70,53,85
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY,MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[606676]
+Name = xxxxxx
+InternalName = XXXXXX
+Type1 = STEEL
+Type2 = ELECTRIC
+BaseStats = 92,170,115,128,80,145
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY,VOLTABSORB
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[606677]
+Name = Z-Bayleef
+InternalName = ZBAYLEEF
+Type1 = GRASS
+BaseStats = 60,62,80,60,63,80
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606678]
+Name = ZMeganium
+InternalName = ZMEGANIUM
+Type1 = GRASS
+BaseStats = 80,82,100,80,83,100
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606679]
+Name = zCYNDAQUIL
+InternalName = ZCYNDAQUIL
+Type1 = FIRE
+BaseStats = 39,52,43,65,60,50
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606680]
+Name = zQUILAVA
+InternalName = ZQUILAVA
+Type1 = FIRE
+BaseStats = 58,64,58,80,80,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606681]
+Name = zTYPHLOSIN
+InternalName = ZTYPHLOSIN
+Type1 = FIRE
+BaseStats = 78,84,78,100,109,85
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606682]
+Name = zTOTODILE
+InternalName = ZTOTODILE
+Type1 = WATER
+BaseStats = 50,65,64,43,44,48
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 66
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606683]
+Name = zCROCONAW
+InternalName = ZCROCONAW
+Type1 = WATER
+BaseStats = 65,80,80,58,59,63
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 143
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606684]
+Name = zFERALIGAT
+InternalName = ZFERALIGAT
+Type1 = WATER
+BaseStats = 85,105,100,78,79,83
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606685]
+Name = zCROBAT
+InternalName = ZCROBAT
+Type1 = POISON
+Type2 = FLYING
+BaseStats = 85,90,80,130,70,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 204
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+Moves = 18,FOCUSPUNCH
+
+[606686]
+Name = zPICHU
+InternalName = ZPICHU
+Type1 = ELECTRIC
+BaseStats = 20,40,15,60,35,35
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 42
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[606687]
+Name = zCLEFFA
+InternalName = ZCLEFFA
+Type1 = NORMAL
+BaseStats = 50,25,28,15,45,55
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 37
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[606688]
+Name = zSUNKERN
+InternalName = ZSUNKERN
+Type1 = GRASS
+BaseStats = 30,30,30,30,30,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 52
+EffortPoints = 0,0,0,0,0,0
+Rareness = 235
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606689]
+Name = zSUNFLORA
+InternalName = ZSUNFLORA
+Type1 = GRASS
+BaseStats = 75,75,55,30,105,85
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606690]
+Name = zSTEELIX
+InternalName = ZSTEELIX
+Type1 = STEEL
+Type2 = GROUND
+BaseStats = 75,85,200,30,55,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 196
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = ROCKHEAD,STURDY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[606691]
+Name = zSCIZOR
+InternalName = ZSCIZOR
+Type1 = BUG
+Type2 = STEEL
+BaseStats = 70,130,100,65,55,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWARM
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[606692]
+Name = zSLUGMA
+InternalName = ZSLUGMA
+Type1 = FIRE
+BaseStats = 40,40,40,20,70,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 78
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MAGMAARMOR,FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606693]
+Name = zMAGCARGO
+InternalName = ZMAGCARGO
+Type1 = FIRE
+Type2 = ROCK
+BaseStats = 50,50,120,30,80,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 154
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MAGMAARMOR,FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606694]
+Name = zREMORAID
+InternalName = ZREMORAID
+Type1 = WATER
+BaseStats = 35,65,35,65,65,35
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 78
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = HUSTLE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606695]
+Name = zOCTILLERY
+InternalName = ZOCTILLERY
+Type1 = WATER
+BaseStats = 75,105,75,45,105,75
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 164
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SUCTIONCUPS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606696]
+Name = zPORYGON2
+InternalName = ZPORYGON2
+Type1 = NORMAL
+BaseStats = 85,80,90,60,105,95
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 180
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = TRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606697]
+Name = zELEKID
+InternalName = ZELEKID
+Type1 = ELECTRIC
+BaseStats = 45,63,37,95,65,55
+GenderRate = Female25Percent
+GrowthRate = Medium
+BaseEXP = 106
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[606698]
+Name = zMAGBY
+InternalName = ZMAGBY
+Type1 = FIRE
+BaseStats = 45,75,37,83,70,55
+GenderRate = Female25Percent
+GrowthRate = Medium
+BaseEXP = 117
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[606699]
+Name = zTREECKO
+InternalName = ZTREECKO
+Type1 = GRASS
+BaseStats = 40,45,35,70,65,55
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606700]
+Name = zGROVYLE
+InternalName = ZGROVYLE
+Type1 = GRASS
+BaseStats = 50,65,45,95,85,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 141
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606701]
+Name = zSCEPTILE
+InternalName = ZSCEPTILE
+Type1 = GRASS
+BaseStats = 70,85,65,120,105,85
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606702]
+Name = zTORCHIC
+InternalName = ZTORCHIC
+Type1 = FIRE
+BaseStats = 45,60,40,45,70,50
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606703]
+Name = zCOMBUSKEN
+InternalName = ZCOMBUSKEN
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 60,85,60,55,85,60
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606704]
+Name = zBLAZIKEN
+InternalName = ZBLAZIKEN
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 80,120,70,80,110,70
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 209
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606705]
+Name = zMudkip
+InternalName = ZMUDKIP
+Type1 = WATER
+BaseStats = 50,70,50,40,50,50
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 65
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606706]
+Name = zMARSHTOMP
+InternalName = ZMARSHTOMP
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 70,85,70,50,60,70
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 143
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606707]
+Name = zSWAMPERT
+InternalName = ZSWAMPERT
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 100,110,90,60,85,90
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 210
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606708]
+Name = zZIGZAGOON
+InternalName = ZZIGZAGOON
+Type1 = NORMAL
+BaseStats = 38,30,41,60,30,41
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 60
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[606709]
+Name = zLINOONE
+InternalName = ZLINOONE
+Type1 = NORMAL
+BaseStats = 78,70,61,100,50,61
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 128
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[606710]
+Name = zFEEBAS
+InternalName = ZFEEBAS
+Type1 = WATER
+BaseStats = 20,15,20,80,10,55
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 61
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606711]
+Name = zMILOTIC
+InternalName = ZMILOTIC
+Type1 = WATER
+BaseStats = 95,60,79,81,100,125
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 213
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[606712]
+Name = zSWABLU
+InternalName = ZSWABLU
+Type1 = NORMAL
+Type2 = FLYING
+BaseStats = 45,40,60,50,40,75
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 74
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 81,PETALDANCE
+
+[606713]
+Name = zALTARIA
+InternalName = ZALTARIA
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 75,70,90,80,70,105
+GenderRate = Female50Percent
+GrowthRate = Erratic
+BaseEXP = 188
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+Moves = 81,PETALDANCE
+
+[606714]
+Name = Hades
+InternalName = HADES
+Type1 = ELECTRIC
+Type2 = FIRE
+BaseStats = 120,120,100,160,150,130
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[606715]
+Name = Gaea
+InternalName = GAEA
+Type1 = ICE
+Type2 = FIGHTING
+BaseStats = 255,140,95,60,140,120
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 201
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[606716]
+Name = Zeus
+InternalName = ZEUS
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 110,70,105,150,165,105
+GenderRate = Genderless
+GrowthRate = Erratic
+BaseEXP = 119
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[606717]
+Name = zBAGON
+InternalName = ZBAGON
+Type1 = DRAGON
+BaseStats = 45,75,60,50,40,30
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 89
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[606718]
+Name = zSHELGON
+InternalName = ZSHELGON
+Type1 = DRAGON
+BaseStats = 65,95,100,50,60,50
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 144
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[606719]
+Name = zSALAMENCE
+InternalName = ZSALAMENCE
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 95,135,80,100,110,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[606720]
+Name = Poseidon
+InternalName = POSEIDON
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 108,145,108,130,145,115
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 217
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[606721]
+Name = Ares
+InternalName = ARES
+Type1 = FIRE
+Type2 = GROUND
+BaseStats = 200,115,113,110,130,130
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head

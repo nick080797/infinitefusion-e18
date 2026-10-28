@@ -1,0 +1,1 @@
+60596,SMELLINGSALT_2,SmellingSalt,000,70,NORMAL,Physical,100,10,0,NearOther,0,,""

@@ -1,0 +1,20 @@
+{
+  "name": "GhostNPC Buddy",
+  "id": "GhostNPC_Buddy",
+  "version": "1.0.1",
+  "author": "t-Ghost-t",
+  "description": [
+    "GhostBuddy adds a follower system where your Pokémon feel like real companions.",
+    " ",
+    "This mod includes:",
+    "- Smooth overworld map transitions with minimal visual jitter or glitches.",
+    "- An auto-color matching tool to ensure your pet's hue perfectly fits its sprite.",
+    "- Reactive AI that lets your pets roam around when you're resting.",
+    "- Compatability with GhostBase_PlayerHousing and GhostBase_Factory."
+  ],
+  "tags": ["Visual", "Cosmetic"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

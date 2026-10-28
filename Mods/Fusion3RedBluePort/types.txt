@@ -1,0 +1,72 @@
+[60013]
+Name = Custom 22
+InternalName = CUSTOM_TYPE_22_2
+[60014]
+Name = Custom 20
+InternalName = CUSTOM_TYPE_20_2
+[60015]
+Name = Custom 73
+InternalName = CUSTOM_TYPE_73
+[60016]
+Name = Custom 99
+InternalName = CUSTOM_TYPE_99
+[60017]
+Name = Custom 38
+InternalName = CUSTOM_TYPE_38
+[60018]
+Name = Custom 53
+InternalName = CUSTOM_TYPE_53
+[60019]
+Name = Custom 68
+InternalName = CUSTOM_TYPE_68
+[60020]
+Name = Custom 72
+InternalName = CUSTOM_TYPE_72
+[60021]
+Name = Custom 130
+InternalName = CUSTOM_TYPE_130
+[60022]
+Name = Custom 80
+InternalName = CUSTOM_TYPE_80
+[60023]
+Name = Custom 90
+InternalName = CUSTOM_TYPE_90
+[60024]
+Name = Custom 240
+InternalName = CUSTOM_TYPE_240
+[60025]
+Name = Custom 84
+InternalName = CUSTOM_TYPE_84
+[60026]
+Name = Custom 79
+InternalName = CUSTOM_TYPE_79
+[60027]
+Name = Custom 30
+InternalName = CUSTOM_TYPE_30
+[60028]
+Name = Custom 31
+InternalName = CUSTOM_TYPE_31
+[60029]
+Name = Custom 18
+InternalName = CUSTOM_TYPE_18
+[60030]
+Name = Custom 41
+InternalName = CUSTOM_TYPE_41
+[60031]
+Name = Custom 69
+InternalName = CUSTOM_TYPE_69
+[60032]
+Name = Custom 97
+InternalName = CUSTOM_TYPE_97
+[60033]
+Name = Custom 96
+InternalName = CUSTOM_TYPE_96
+[60034]
+Name = Custom 98
+InternalName = CUSTOM_TYPE_98
+[60035]
+Name = Custom 255
+InternalName = CUSTOM_TYPE_255_2
+[60036]
+Name = Custom 43
+InternalName = CUSTOM_TYPE_43

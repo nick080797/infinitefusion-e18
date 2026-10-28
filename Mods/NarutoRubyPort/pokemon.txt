@@ -1,0 +1,98 @@
+[608551]
+Name = HOOPA ADT
+InternalName = HOOPAADT
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 85,73,70,67,73,115
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 165
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608552]
+Name = M-LUNALA
+InternalName = MLUNALA
+Type1 = PSYCHIC
+Type2 = GHOST
+BaseStats = 165,150,35,95,115,95
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 137
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608553]
+Name = ORICORIO-A
+InternalName = ORICORIOA
+Type1 = FIRE
+Type2 = FLYING
+BaseStats = 65,130,60,65,95,110
+GenderRate = FemaleOneEighth
+GrowthRate = Medium
+BaseEXP = 198
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608554]
+Name = F-WISHIWAS
+InternalName = FWISHIWAS
+Type1 = WATER
+BaseStats = 90,75,75,70,90,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 185
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = WATERABSORB,DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608555]
+Name = M-GROUDON
+InternalName = MGROUDON
+Type1 = GROUND
+Type2 = FIRE
+BaseStats = 90,85,75,115,115,100
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 216
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = DROUGHT
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head

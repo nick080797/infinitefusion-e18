@@ -599,6 +599,7 @@ class Messages
   end
 
   def loadMessageFile(filename)
+    previous_messages = @messages
     begin
       raw = File.open(filename, "rb") { |f| f.read }
       begin
@@ -607,12 +608,18 @@ class Messages
         @messages = Marshal.load(raw)  # fallback for old unencrypted file
       end
       if !@messages.is_a?(Array)
-        @messages = nil
         raise "Corrupted data"
       end
       return @messages
     rescue
-      @messages = nil
+      # Keep whatever messages were already loaded (e.g. from the compiled
+      # default-language Data/messages.dat) rather than wiping them out --
+      # e.g. Settings::LANGUAGES lists "Data/english.dat" for English but
+      # that file is never actually shipped/generated, so this reload is
+      # expected to fail for the default language; losing @messages here
+      # would silently break getFromHash/getFromMapHash text lookups (they
+      # have no fallback to @@messagesFallback the way MessageTypes.get does).
+      @messages = previous_messages
       return nil
     end
   end

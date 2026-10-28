@@ -44,7 +44,12 @@ class Game_CommonEvent
   #-----------------------------------------------------------------------------
   def switchIsOn?(id)
     switchName = $data_system.switches[id]
-    return false if !switchName
+    # NOTE (2026-09-04): same fallback fix as Game_Event#switchIsOn? -- see
+    # that comment (008_Game_Event.rb) for the full explanation. Without
+    # this, a common event whose page condition gates on a remapped
+    # (Mods/PIF2Port, +50000) switch id would never activate even once that
+    # switch is genuinely set true.
+    return $game_switches[id] if !switchName
     if switchName[/^s\:/]
       return eval($~.post_match)
     else

@@ -1,0 +1,14 @@
+{
+  "name": "Gameplay Tweaks",
+  "id": "GameplayTweaks",
+  "version": "1.0.0",
+  "author": "Player",
+  "description": "Unlimited $1 Rare Candy at the first Poke Mart (before your first badge), blocks fusing two Pokemon when no custom fusion art exists for that combo, and a Global Trade Station PC option that trades a deposited party Pokemon for a random level 1 Pokemon (25% shiny odds).",
+  "tags": ["Gameplay", "Economy", "UI"],
+  "dependencies": ["KantoReloaded"],
+  "incompatible": [],
+  "settings": [],
+  "scripts": [
+    "001_Main.rb"
+  ]
+}

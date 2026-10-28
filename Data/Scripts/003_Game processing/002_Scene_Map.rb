@@ -258,6 +258,11 @@ class Scene_Map
         end
       elsif Input.press?(Input::F9)
         $game_temp.debug_calling = true if $DEBUG
+      elsif Input.trigger?(Input::F8)
+        if $DEBUG
+          pbAddPokemon(:SAIBAMEN, 5)
+          pbMessage(_INTL("Gave SAIBAMEN by symbol (bypassing numeric ID bug)."))
+        end
       end
     end
     unless $game_player.moving?

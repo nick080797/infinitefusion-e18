@@ -135,7 +135,7 @@ class RemotePokeBattle_AI < PokeBattle_AI
   def fetch_sprite_from_web(url, destinationPath = nil)
     return false unless downloadAllowed?()
     begin
-      response = HTTPLite.get(url)
+      response = http_call_gc_guard { HTTPLite.get(url) }
       if response[:status] == 200
         if destinationPath
           File.open(destinationPath, "wb") { |f| f.write(response[:body]) }

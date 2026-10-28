@@ -1,0 +1,1 @@
+60623,BRIGHTWIND,Bright Wind,0EB,0,CUSTOM_TYPE_23_12,Status,95,5,0,NearOther,-6,ce,""

@@ -1,0 +1,8 @@
+9300023,CLASS_23,Trainer Class 23,30,,,,Mixed,,
+9300024,CLASS_24,Trainer Class 24,30,,,,Mixed,,
+9300025,CLASS_25,Trainer Class 25,30,,,,Mixed,,
+9300027,CLASS_27,Trainer Class 27,30,,,,Mixed,,
+9300029,CLASS_29,Trainer Class 29,30,,,,Mixed,,
+9300055,CLASS_55,Trainer Class 55,30,,,,Mixed,,
+9300056,CLASS_56,Trainer Class 56,30,,,,Mixed,,
+9300057,CLASS_57,Trainer Class 57,30,,,,Mixed,,

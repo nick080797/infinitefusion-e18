@@ -1,0 +1,1 @@
+{"name":"Alpha Encounters","id":"alpha_encounters","version":"1.0.0","author":"CharmingLoopy","description":"Adds catchable alpha pokemon.","tags":["Difficulty","Gameplay","Content"],"dependencies":[],"incompatible":[],"settings":[],"scripts":["BattleFramework.rb","Hordes.rb","AlphaItems.rb","Raids.rb"],"icon":"icon.png"}

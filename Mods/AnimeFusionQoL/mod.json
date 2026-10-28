@@ -1,0 +1,27 @@
+{
+  "name": "Anime Fusion QoL",
+  "id": "AnimeFusionQoL",
+  "version": "1.0.0",
+  "author": "nickohlmeier",
+  "description": ["Quality-of-life pack: on-screen encounter odds, 5% minimum wild encounter chance, optional hiding of already-caught species from encounters, 1-coin item buy prices, max IVs/EVs on catch, and an evolution-requirements popup in the Pokedex."],
+  "tags": ["QoL"],
+  "dependencies": ["AnimeFusionMerge"],
+  "incompatible": [],
+  "settings": [
+    {
+      "key": "show_encounter_hud",
+      "label": "Encounter HUD",
+      "description": "Show encounterable species and odds on screen while walking around.",
+      "type": "toggle",
+      "default": true
+    },
+    {
+      "key": "disable_caught_encounters",
+      "label": "Hide Caught Species",
+      "description": "Stop already-caught species from appearing as wild encounters.",
+      "type": "toggle",
+      "default": false
+    }
+  ],
+  "scripts": ["Bootstrap.rb"]
+}

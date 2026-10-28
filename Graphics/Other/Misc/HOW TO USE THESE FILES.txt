@@ -1,0 +1,10 @@
+WARNING: A lot of the files in this Misc folder are VERY OLD, have the WRONG NAME, WRONG SIZE, etc. They may not work at all.
+
+HOW TO ADD THESE FILES TO YOUR GAME
+
+1. Navigate to the corresponding folder in your game's Graphics folder where the file you want to replace is.
+2. add "_backup" to the file name of the original file.
+3. Copy and paste the sprite pack's file into the game folder.
+4. make sure the new file has the SAME FILE NAME that the corresponding file in your game's folder had (before renaming it). remove any "by username", make sure the capitalization is the same, and make sure theres no exta periods, spaces, etc in the file name.
+
+If the above steps don't work, or if the in-game results don't look as they should, simply delete the new file and remove the "_backup" from the old file's name.

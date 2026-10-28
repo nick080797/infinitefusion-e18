@@ -57,7 +57,7 @@ end
 
 def getPokemon(dexNum)
   if dexNum.is_a?(Integer)
-    if dexNum > NB_POKEMON
+    if !is_reserved_standalone_dex?(dexNum) && dexNum > NB_POKEMON
       body_id = getBodyID(dexNum)
       head_id = getHeadID(dexNum, body_id)
       pokemon_id = getFusedPokemonIdFromDexNum(body_id, head_id)

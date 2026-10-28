@@ -1,0 +1,12 @@
+[60005]
+Name = Custom 224
+InternalName = CUSTOM_TYPE_224
+[60006]
+Name = Custom 255
+InternalName = CUSTOM_TYPE_255
+[60007]
+Name = Custom 108
+InternalName = CUSTOM_TYPE_108
+[60008]
+Name = Custom 20
+InternalName = CUSTOM_TYPE_20

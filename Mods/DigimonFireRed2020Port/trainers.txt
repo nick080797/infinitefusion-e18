@@ -1,0 +1,3693 @@
+[CLASS_23, Sidney, 0]
+Pokemon = YAAMON,5
+
+[CLASS_23, Phoebe, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Roxanne, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Brawly, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Tate?Liza, 0]
+Pokemon = YAAMON,5
+
+[CLASS_78, Wally, 0]
+Pokemon = ZUBAMON,13
+Pokemon = BLUCOMON,13
+
+[CLASS_78, Ruby, 0]
+Pokemon = SOLARMON,13
+Pokemon = CORONAMON,13
+
+[CLASS_78, Sapphire, 0]
+Pokemon = SALAMON,13
+Pokemon = LUNAMON,13
+
+[CLASS_24, Flaneary, 0]
+Pokemon = VORVOMON,17
+Pokemon = AGUMONS,17
+Pokemon = AGUMON,18
+Pokemon = SHOUTMON,19
+
+[CLASS_24, Norman, 0]
+Pokemon = VEEMON,18
+Pokemon = TERRIERMON,19
+Pokemon = DORULUMON,19
+Pokemon = GAOGAMON,20
+
+[CLASS_78, Wally, 0]
+Pokemon = DOLPHMON,18
+Pokemon = DRIMOGEMON,19
+Pokemon = BLUCOMON,20
+Pokemon = ZUBAMON,21
+
+[CLASS_78, Ruby, 0]
+Pokemon = FLIZARDMON,18
+Pokemon = ICEMON,19
+Pokemon = MONODRAMON,20
+Pokemon = CORONAMON,21
+
+[CLASS_78, Sapphire, 0]
+Pokemon = RENAMON,18
+Pokemon = SISTERMONB,19
+Pokemon = GATOMON,20
+Pokemon = LEKISMON,21
+
+[CLASS_22, Maxwell, 0]
+Pokemon = PONCHOMON,24
+Pokemon = MANTARAYMN,25
+Pokemon = CHAMELEMON,24
+Pokemon = SHURIMON,25
+Pokemon = DIGMON,26
+Pokemon = SUBMARIMON,27
+
+[CLASS_78, David, 0]
+Pokemon = BOARMON,24
+Pokemon = BAROMON,25
+Pokemon = ALLOMON,24
+Pokemon = SHADRAMON,25
+Pokemon = RAIDRAMON,26
+Pokemon = FLAMEDRAMN,27
+
+[CLASS_22, Sagitarus, 0]
+Pokemon = PEGASUSMON,46
+Pokemon = NEFERTIMON,46
+Pokemon = KABUKIMON,48
+Pokemon = HALSEMON,48
+Pokemon = RAPIDMONA,50
+Pokemon = MAGNAMON,50
+
+[CLASS_24, Roxanne, 0]
+Pokemon = BABONGAMON,30
+Pokemon = FILMON,30
+Pokemon = GRUMBLEMON,31
+Pokemon = METEORMON,32
+
+[CLASS_24, Brawly, 0]
+Pokemon = BURAIMON,30
+Pokemon = TOGEMON,30
+Pokemon = OGREMON,31
+Pokemon = GRAPLEOMON,32
+
+[CLASS_78, Wally, 0]
+Pokemon = ZUBAEGERMN,38
+Pokemon = WHAMON,37
+Pokemon = GIROMON,38
+Pokemon = SHOUTMONAB,39
+Pokemon = ARGOMONU,40
+Pokemon = CPALEDRAMN,40
+
+[CLASS_78, Ruby, 0]
+Pokemon = FLIZARDMON,38
+Pokemon = METEORMON,37
+Pokemon = AEGIOMON,38
+Pokemon = GESOMON,39
+Pokemon = CYBERDRAMN,40
+Pokemon = FLAREMON,40
+
+[CLASS_78, Sapphire, 0]
+Pokemon = BAOHUCKMON,38
+Pokemon = SISTERMONB,37
+Pokemon = GATOMON,38
+Pokemon = REPTILDRMN,39
+Pokemon = SSTARMON,40
+Pokemon = CRESCEMON,40
+
+[CLASS_28, Asbel, 0]
+Pokemon = ROSEMON,58
+Pokemon = RAVEMON,58
+Pokemon = SGREYMON,60
+Pokemon = MIGAOGAMON,60
+
+[CLASS_28, Rita, 0]
+Pokemon = CANGEMON,58
+Pokemon = VALKYRIMON,58
+Pokemon = IDRAMONDM,60
+Pokemon = IDRAMONFM,60
+
+[CLASS_78, Taiki, 0]
+Pokemon = ABALISTAMN,58
+Pokemon = JDORULUMON,59
+Pokemon = RSPARROWMN,60
+Pokemon = STGSTARMON,59
+Pokemon = BEELZEMNXR,61
+Pokemon = OSHOUTMON,62
+
+[CLASS_23, Sidney, 0]
+Pokemon = MERVAMON,68
+Pokemon = DUKEMON,69
+Pokemon = VMYOTISMON,70
+Pokemon = BOLTMON,69
+Pokemon = LEVIAMON,68
+Pokemon = MERUKIMON,72
+
+[CLASS_24, Eriko, 0]
+Pokemon = TVESPAMON,67
+Pokemon = RAIJINMON,68
+Pokemon = EOSMONM,69
+Pokemon = JUPITERMON,68
+Pokemon = HIANDROMON,69
+Pokemon = HKABUTERMN,68
+
+[CLASS_78, Wally, 0]
+Pokemon = NEPTUNEMON,77
+Pokemon = SANGEMON,79
+Pokemon = OSHOUTMONB,81
+Pokemon = ARGOMONM,80
+Pokemon = DURANDAMON,82
+Pokemon = HEXEBLUMON,83
+
+[CLASS_78, Ruby, 0]
+Pokemon = BGOLEMON,77
+Pokemon = JUPITERMON,79
+Pokemon = LEVIAMON,81
+Pokemon = JUSTIMON,80
+Pokemon = DORBICKMON,82
+Pokemon = APOLLOMON,83
+
+[CLASS_78, Sapphire, 0]
+Pokemon = SISTERMNBA,77
+Pokemon = GAIOUMON,79
+Pokemon = OPHANIMON,81
+Pokemon = GANKOOMON,80
+Pokemon = JESMON,82
+Pokemon = DIANAMON,83
+
+[CLASS_24, Winona, 0]
+Pokemon = GRYPHONMON,80
+Pokemon = VALKYRIMON,82
+Pokemon = CERESMON,84
+Pokemon = RAVEMON,81
+Pokemon = RSPARROWMN,83
+Pokemon = ORNISMON,85
+
+[CLASS_24, Tate?Liza, 0]
+Pokemon = EBEMON,80
+Pokemon = LUCEMONLM,82
+Pokemon = LOTUSMON,84
+Pokemon = BABAMON,81
+Pokemon = SAKUYAMON,83
+Pokemon = DYNASMONX,85
+
+[CLASS_24, Wallace, 0]
+Pokemon = SUIJINMON,80
+Pokemon = SURFIMON,82
+Pokemon = LEVIAMON,84
+Pokemon = REGALECSMN,81
+Pokemon = MEANGEMON,83
+Pokemon = PLESIOMONX,85
+
+[CLASS_2, Aquiles, 0]
+Pokemon = MGARURUMON,75
+Pokemon = CGARURUMON,76
+Pokemon = MGGARURUMN,77
+Pokemon = BMGARURUMN,76
+Pokemon = GABUMONBOF,75
+Pokemon = AGARURUMON,78
+
+[CLASS_47, Magno, 0]
+Pokemon = WARGREYMON,75
+Pokemon = BWGREYMON,76
+Pokemon = EGREYMON,77
+Pokemon = BLTZGREYMN,76
+Pokemon = AGUMONBOC,75
+Pokemon = VCTGREYMON,78
+
+[CLASS_23, Glacia, 0]
+Pokemon = VIKEMON,70
+Pokemon = PLESIOMON,72
+Pokemon = MGARURUMON,71
+Pokemon = SKLMAMOTMN,73
+Pokemon = HEXEBLUMON,75
+Pokemon = AMTHERIUMN,74
+
+[CLASS_23, Phoebe, 0]
+Pokemon = CHERUBIMON,88
+Pokemon = SISTERMNBA,89
+Pokemon = ROSEMONBM,90
+Pokemon = CHRONOMNHM,89
+Pokemon = VENUSMON,88
+Pokemon = OPHANIMONC,91
+
+[CLASS_23, Drake, 0]
+Pokemon = SPINOMON,88
+Pokemon = DINOREXMON,89
+Pokemon = DUKEMONCM,90
+Pokemon = GHOULMON,89
+Pokemon = MACHINDRMN,88
+Pokemon = UVEEDRAMNX,91
+
+[CLASS_78, Wally, 0]
+Pokemon = NEPTUNEMON,88
+Pokemon = ARGOMONM,89
+Pokemon = DURANDAMON,88
+Pokemon = DUFTMON,90
+Pokemon = HEXEBLUMON,89
+Pokemon = SHOUTMNDXB,91
+
+[CLASS_78, Ruby, 0]
+Pokemon = BGOLEMON,88
+Pokemon = LEVIAMON,89
+Pokemon = DORBICKMON,88
+Pokemon = APOLLOMON,90
+Pokemon = FUJINMON,89
+Pokemon = JUPITRMNWM,91
+
+[CLASS_78, Sapphire, 0]
+Pokemon = SISTERMNBA,88
+Pokemon = GAIOUMON,88
+Pokemon = DIANAMON,89
+Pokemon = GANKOOMON,89
+Pokemon = JESMONX,90
+Pokemon = OPHANIMONX,91
+
+[CLASS_24, Brock, 0]
+Pokemon = BREAKDRAMN,100
+Pokemon = BLASTMON,100
+Pokemon = RASENMON,100
+Pokemon = BGOLEMON,100
+Pokemon = EBONWUMON,100
+Pokemon = AVOLCAMON,100
+
+[CLASS_24, Misty, 0]
+Pokemon = CSEADRAMON,100
+Pokemon = GSEADRAMON,100
+Pokemon = AMERMAIMON,100
+Pokemon = LEVIAMONX,100
+Pokemon = PLESIOMONX,100
+Pokemon = AEGISDRAMN,100
+
+[CLASS_24, Lt. Surge, 0]
+Pokemon = EOSMONM,100
+Pokemon = AKABUTERMN,100
+Pokemon = HKABUTRMNX,100
+Pokemon = TVESPAMON,100
+Pokemon = RAIJINMON,100
+Pokemon = JUPITRMNWM,100
+
+[CLASS_24, Erika, 0]
+Pokemon = ARGOMONM,100
+Pokemon = LOTUSMON,100
+Pokemon = CERESMONM,100
+Pokemon = ATROIAMON,100
+Pokemon = ROSEMONBM,100
+Pokemon = RAFFLESIMN,100
+
+[CLASS_24, Koga, 0]
+Pokemon = ZAMIELMON,100
+Pokemon = RAVEMONBM,100
+Pokemon = DTSUWARMON,100
+Pokemon = DKNIGHTMNX,100
+Pokemon = CPIEDMON,100
+Pokemon = ASPHINXMON,100
+
+[CLASS_24, Sabrina, 0]
+Pokemon = ORNISMON,100
+Pokemon = KUZUHAMON,100
+Pokemon = OPHANIMONX,100
+Pokemon = CHERUBIMNX,100
+Pokemon = EBEMONX,100
+Pokemon = DYNASMONX,100
+
+[CLASS_24, Blaine, 0]
+Pokemon = VCTGREYMON,100
+Pokemon = AGREYMON,100
+Pokemon = APOLLOMONW,100
+Pokemon = WARGREYMNX,100
+Pokemon = SGREYMONBM,100
+Pokemon = SGREYMONRM,100
+
+[CLASS_24, Giovanni, 0]
+Pokemon = ARMAGEDOMN,100
+Pokemon = BELPHEMONX,100
+Pokemon = ZMILENIUMN,100
+Pokemon = RAIDENMON,100
+Pokemon = OMNIMONAB,100
+Pokemon = OGUDOMON,100
+
+[CLASS_30, Steven, 0]
+Pokemon = GNOVAMON,100
+Pokemon = IDRAMONPM,100
+Pokemon = AZULONGMON,100
+Pokemon = SUSANOOMON,100
+Pokemon = JESMONGX,100
+Pokemon = OMNIMONMM,100
+
+[CLASS_78, Wally, 0]
+Pokemon = CRUSADRMNX,100
+Pokemon = PMAMEMONX,100
+Pokemon = DUFTMONLM,100
+Pokemon = SHOUTMNDXB,100
+Pokemon = MAGNAMONX,100
+Pokemon = CRANIUMONX,100
+
+[CLASS_78, Ruby, 0]
+Pokemon = LEVIAMONX,100
+Pokemon = GNOVAMON,100
+Pokemon = FUJINMON,100
+Pokemon = JUPITRMNWM,100
+Pokemon = LUCEMONX,100
+Pokemon = OSHOUTMONX,100
+
+[CLASS_78, Sapphire, 0]
+Pokemon = GANKOOMONX,100
+Pokemon = OPHANIMONX,100
+Pokemon = AIRISMON,100
+Pokemon = ALPHAMONOM,100
+Pokemon = GNOVAMON,100
+Pokemon = JESMONX,100
+
+[CLASS_55, Matt, 0]
+Pokemon = YAAMON,5
+
+[CLASS_55, Shelly, 0]
+Pokemon = YAAMON,5
+
+[CLASS_56, Tabitha, 0]
+Pokemon = YAAMON,5
+
+[CLASS_56, Courtney, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Wattson, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Flannery, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Norman, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Winona, 0]
+Pokemon = YAAMON,5
+
+[CLASS_24, Wallace, 0]
+Pokemon = YAAMON,5
+
+[CLASS_23, Glacia, 0]
+Pokemon = YAAMON,5
+
+[CLASS_23, Drake, 0]
+Pokemon = YAAMON,5
+
+[CLASS_57, Ben, 0]
+Pokemon = GABUMON,13
+Pokemon = HYOKOMON,16
+
+[CLASS_57, Calvin, 0]
+Pokemon = HERISSMON,16
+
+[CLASS_57, Josh, 0]
+Pokemon = AGUMON,14
+Pokemon = GABUMON,15
+Pokemon = UNIMON,18
+
+[CLASS_57, Timmy, 0]
+Pokemon = GARGOMON,18
+Pokemon = LEOMON,21
+
+[CLASS_57, Joey, 0]
+Pokemon = GORIMON,20
+Pokemon = GLADIMON,23
+
+[CLASS_57, Dan, 0]
+Pokemon = GAOGAMON,24
+
+[CLASS_57, Chad, 0]
+Pokemon = PECKMON,22
+Pokemon = AIRDRAMON,24
+
+[CLASS_57, Tyler, 0]
+Pokemon = COREDRAMNG,31
+
+[CLASS_57, Eddie, 0]
+Pokemon = GARURUMON,29
+
+[CLASS_57, Dillon, 0]
+Pokemon = FILMON,28
+Pokemon = BURAIMON,29
+
+[CLASS_57, Yasu, 0]
+Pokemon = GREYMON,28
+Pokemon = SABIRDRAMN,29
+Pokemon = EXVEEMON,30
+
+[CLASS_57, Dave, 0]
+Pokemon = STRIKEDRMN,28
+Pokemon = COREDRAMNB,29
+
+[CLASS_57, Ben, 0]
+Pokemon = DMERAMON,17
+Pokemon = YAAMON,17
+
+[CLASS_58, Rick, 0]
+Pokemon = MOTIMON,7
+Pokemon = DOKUNEMON,8
+
+[CLASS_58, Doug, 0]
+Pokemon = MINOMON,7
+Pokemon = WORMMON,8
+Pokemon = KUNEMON,8
+
+[CLASS_58, Sammy, 0]
+Pokemon = FANBEEMON,11
+
+[CLASS_58, Colton, 0]
+Pokemon = TENTOMON,13
+Pokemon = FANBEEMON,14
+Pokemon = KOKUWAMON,16
+
+[CLASS_58, Greg, 0]
+Pokemon = FLYMON,14
+Pokemon = DOKUGUMON,14
+Pokemon = WORMMON,15
+Pokemon = KOKUWAMON,16
+
+[CLASS_58, James, 0]
+Pokemon = TENTOMON,14
+Pokemon = STINGMON,17
+
+[CLASS_58, Kent, 0]
+Pokemon = DOKUGUMON,14
+Pokemon = KOKUWAMON,16
+
+[CLASS_58, Robby, 0]
+Pokemon = FANBEEMON,14
+Pokemon = TENTOMON,15
+Pokemon = WORMMON,16
+
+[CLASS_58, Cale, 0]
+Pokemon = STINGMON,17
+Pokemon = BEETLEMON,18
+Pokemon = KABUTERIMN,20
+Pokemon = FANBEEMON,19
+
+[CLASS_58, Keigo, 0]
+Pokemon = STINGMON,25
+Pokemon = SHADRAMON,26
+Pokemon = OKUWAMON,27
+
+[CLASS_58, Elijah, 0]
+Pokemon = ARUKENIMON,28
+
+[CLASS_58, Brent, 0]
+Pokemon = STINGMON,35
+Pokemon = ARUKENIMON,36
+
+[CLASS_58, Conner, 0]
+Pokemon = SHADRAMON,35
+Pokemon = OKUWAMON,35
+Pokemon = KOKUWAMON,36
+
+[CLASS_59, Janice, 0]
+Pokemon = PALMON,12
+Pokemon = SALAMON,15
+
+[CLASS_59, Sally, 0]
+Pokemon = LALAMON,14
+Pokemon = SISTERMONB,16
+
+[CLASS_59, Robin, 0]
+Pokemon = ALRAUMON,17
+
+[CLASS_59, Crissy, 0]
+Pokemon = ROSEMON,66
+Pokemon = LOTUSMON,66
+Pokemon = OPHANIMON,66
+
+[CLASS_59, Miriam, 0]
+Pokemon = TSUKAIMON,15
+Pokemon = VEGIMON,17
+
+[CLASS_59, Iris, 0]
+Pokemon = CUTEMON,17
+
+[CLASS_59, Reli, 0]
+Pokemon = BIRDRAMON,19
+Pokemon = KYUBIMON,21
+
+[CLASS_59, Ali, 0]
+Pokemon = TOGEMON,18
+Pokemon = KAZEMON,19
+Pokemon = GATOMON,21
+
+[CLASS_59, Haley, 0]
+Pokemon = FRIGIMON,21
+Pokemon = MEICOOMON,22
+Pokemon = LEKISMON,24
+
+[CLASS_59, Ann, 0]
+Pokemon = LEKISMON,29
+Pokemon = TOGEMON,30
+
+[CLASS_59, Dawn, 0]
+Pokemon = SISTERMONN,32
+Pokemon = RANAMON,33
+
+[CLASS_59, Paige, 0]
+Pokemon = HIMONITRMN,40
+Pokemon = GRADEMON,41
+
+[CLASS_59, Andrea, 0]
+Pokemon = ETYRANOMON,40
+Pokemon = ANGEWOMON,41
+Pokemon = BLOSSOMON,40
+
+[CLASS_59, Megan, 0]
+Pokemon = CUTEMON,38
+Pokemon = LUMINAMON,39
+Pokemon = KGARURUMON,40
+Pokemon = PAILDRAMON,40
+Pokemon = TYILINMON,40
+
+[CLASS_59, Julia, 0]
+Pokemon = MAMEMON,39
+Pokemon = DERAMON,40
+
+[CLASS_59, Kay, 0]
+Pokemon = BLOSSOMON,41
+Pokemon = ANGEWOMON,42
+
+[CLASS_59, Lisa, 0]
+Pokemon = PIXIMON,43
+Pokemon = PONCHOMON,43
+
+[CLASS_60, Edmond, 0]
+Pokemon = DOLPHMON,31
+Pokemon = HOOKMON,32
+
+[CLASS_60, Trevor, 0]
+Pokemon = SUBMARIMON,31
+Pokemon = EBIRDRAMON,32
+
+[CLASS_60, Leonard, 0]
+Pokemon = DRAGOMON,31
+
+[CLASS_60, Duncan, 0]
+Pokemon = COELAMON,29
+Pokemon = GWAPPAMON,30
+Pokemon = TYLOMON,31
+
+[CLASS_60, Huey, 0]
+Pokemon = GESOMON,30
+Pokemon = DIVERMON,31
+
+[CLASS_60, Dylan, 0]
+Pokemon = GEKOMON,29
+Pokemon = IKKAKUMON,30
+Pokemon = OCTOMON,31
+
+[CLASS_60, Phillip, 0]
+Pokemon = SCORPIOMON,32
+
+[CLASS_60, Dwayne, 0]
+Pokemon = RANAMON,34
+Pokemon = ZUDOMON,35
+
+[CLASS_61, Liam, 0]
+Pokemon = GOTSUMON,12
+Pokemon = ARMADILOMN,13
+
+[CLASS_61, Shane, 0]
+Pokemon = APEMON,21
+Pokemon = OGREMON,23
+
+[CLASS_61, Ethan, 0]
+Pokemon = GROWLMON,23
+
+[CLASS_61, Ricky, 0]
+Pokemon = DORUGAMON,28
+
+[CLASS_61, Jeff, 0]
+Pokemon = DRIMOGEMON,26
+Pokemon = STARMON,28
+
+[CLASS_61, Chris, 0]
+Pokemon = GARURUMON,35
+Pokemon = BKCHESSMON,36
+
+[CLASS_61, Drew, 0]
+Pokemon = APEMON,35
+Pokemon = MATYRANOMN,36
+Pokemon = MUSYAMON,35
+Pokemon = PUMPKINMON,36
+
+[CLASS_62, Diana, 0]
+Pokemon = EBIRDRAMON,25
+
+[CLASS_62, Nancy, 0]
+Pokemon = HALSEMON,25
+Pokemon = REPPAMON,27
+
+[CLASS_62, Isabelle, 0]
+Pokemon = KYUBIMON,25
+Pokemon = SUNFLOWMON,26
+Pokemon = AKATORIMON,27
+
+[CLASS_62, Kelsey, 0]
+Pokemon = HUDIEMON,21
+Pokemon = REDVEGIMON,23
+
+[CLASS_62, Alicia, 0]
+Pokemon = BLKGATOMON,34
+Pokemon = DERAMON,35
+Pokemon = HUDIEMON,35
+Pokemon = SHUTUMON,35
+
+[CLASS_62, Caitlin, 0]
+Pokemon = LUMINAMON,38
+
+[CLASS_62, Heidi, 0]
+Pokemon = KYUBIMON,36
+Pokemon = LEKISMON,37
+
+[CLASS_62, Carol, 0]
+Pokemon = LILAMON,39
+Pokemon = LILYMON,39
+
+[CLASS_62, Sofia, 0]
+Pokemon = CHAKKAIMON,37
+Pokemon = BRACHIMON,37
+Pokemon = PIXIMON,38
+
+[CLASS_62, Martha, 0]
+Pokemon = DAIPENMON,37
+Pokemon = GARUDAMON,38
+
+[CLASS_62, Tina, 0]
+Pokemon = TYILINMON,42
+Pokemon = LUMINAMON,43
+
+[CLASS_62, Hannah, 0]
+Pokemon = WANYAMON,24
+Pokemon = VEEMON,24
+Pokemon = DMERAMON,24
+Pokemon = KYAROMON,24
+Pokemon = VEEMON,24
+
+[CLASS_63, Mark, 0]
+Pokemon = GANKOOMON,70
+Pokemon = JESMON,70
+
+[CLASS_63, Herman, 0]
+Pokemon = BWGROWLMON,40
+Pokemon = ANTYLAMON,39
+
+[CLASS_63, Cooper, 0]
+Pokemon = RCHESSMON,38
+Pokemon = BCHESSMON,38
+Pokemon = EOSMONC,38
+
+[CLASS_63, Steve, 0]
+Pokemon = DELTAMON,37
+Pokemon = KIWIMON,38
+
+[CLASS_63, Winston, 0]
+Pokemon = SSTARMON,38
+
+[CLASS_63, Dawson, 0]
+Pokemon = MACHINDRMN,87
+Pokemon = PNUMEMON,88
+Pokemon = AWISEMON,89
+
+[CLASS_63, Ashton, 0]
+Pokemon = ASTAMON,37
+Pokemon = DATAMON,37
+
+[CLASS_64, Jovan, 0]
+Pokemon = CHUUMON,14
+Pokemon = SUKAMON,16
+
+[CLASS_64, Miguel, 0]
+Pokemon = LUNAMON,15
+Pokemon = CORONAMON,17
+Pokemon = IMPMON,19
+
+[CLASS_64, Aidan, 0]
+Pokemon = MTYRANOMON,40
+    Moves = SONICBOOM
+Pokemon = PAILDRAMON,41
+    Moves = SLUDGE,STEELWING,WINGATTACK
+Pokemon = SHAKKOUMON,41
+    Moves = SONICBOOM,METALCLAW
+Pokemon = GIROMON,40
+    Moves = SONICBOOM,METALCLAW,HEADBUTT
+
+[CLASS_64, Glenn, 0]
+Pokemon = ANDROMON,40
+Pokemon = MEGADRAMON,39
+Pokemon = BKNUMEMON,38
+
+[CLASS_64, Leslie, 0]
+Pokemon = ANDROMON,42
+    Moves = SLUDGE,THUNDERPUNCH,DIZZYPUNCH,LOCKON
+
+[CLASS_64, Erik, 0]
+Pokemon = DARKDRAMON,71
+Pokemon = MGARGOMON,72
+Pokemon = CANONDRAMN,73
+
+[CLASS_64, Avery, 0]
+Pokemon = MACHINDRMN,71
+Pokemon = SKNIGHTMON,72
+Pokemon = UBRACHIMON,72
+Pokemon = BMGARGOMON,73
+
+[CLASS_64, Derek, 0]
+Pokemon = QCHESSMON,74
+
+[CLASS_64, Zac, 0]
+Pokemon = ARMORMON,72
+Pokemon = HIANDROMON,73
+
+[CLASS_65, Marcos, 0]
+Pokemon = GOTSUMON,15
+Pokemon = HERISSMON,16
+Pokemon = ICEMON,18
+
+[CLASS_65, Franklin, 0]
+Pokemon = ANKYLOMON,19
+Pokemon = BNANIMON,22
+
+[CLASS_65, Nob, 0]
+Pokemon = TUSKMON,19
+Pokemon = MECANORIMN,21
+Pokemon = DAMEMON,22
+Pokemon = ICEMON,23
+
+[CLASS_65, Wayne, 0]
+Pokemon = GRUMBLEMON,24
+
+[CLASS_65, Alan, 0]
+Pokemon = SCORPIOMON,36
+    Moves = MAGNITUDE,IRONDEFENSE,BODYSLAM,WATERPULSE
+Pokemon = LEOMON,36
+    Moves = HARDEN,ICEPUNCH,FIREPUNCH
+
+[CLASS_65, Brice, 0]
+Pokemon = COREDRAMNG,36
+Pokemon = DORULUMON,35
+Pokemon = MGREYMONXR,36
+
+[CLASS_65, Clark, 0]
+Pokemon = GIGASMON,38
+    Moves = MAGNITUDE,ROCKBLAST,SPIKES
+Pokemon = SHAWJAMON,40
+    Moves = HARDEN,RAINDANCE
+
+[CLASS_65, Trent, 0]
+Pokemon = MATYRANOMN,39
+Pokemon = STIFFILMON,40
+
+[CLASS_65, Dudley, 0]
+Pokemon = VOLCAMON,38
+    Moves = MAGNITUDE,SHADOWPUNCH,SING
+Pokemon = STRIKEDRMN,38
+    Moves = MAGNITUDE,THUNDERPUNCH,BULKUP,DRAGONBREATH
+Pokemon = DTYRANOMON,38
+    Moves = MAGNITUDE
+
+[CLASS_65, Allen, 0]
+Pokemon = VOLCAMON,39
+    Moves = MAGNITUDE,SHADOWPUNCH,SING
+
+[CLASS_65, Eric, 0]
+Pokemon = MAMMOTHMON,38
+Pokemon = MAMEMON,38
+
+[CLASS_65, Lenny, 0]
+Pokemon = KNIGHTMON,36
+Pokemon = CERBERUMON,36
+Pokemon = DIGITAMAMN,37
+Pokemon = PANDAMON,37
+
+[CLASS_65, Oliver, 0]
+Pokemon = MINOTARUMN,37
+Pokemon = MONOCROMON,37
+Pokemon = HYOUGAMON,38
+
+[CLASS_65, Lucas, 0]
+Pokemon = SEALSDRAMN,37
+    Moves = MAGNITUDE,FIREPUNCH,THUNDERPUNCH,FAINTATTACK
+Pokemon = FIRAMON,38
+    Moves = MAGNITUDE,DRAGONBREATH,BRICKBREAK
+
+[CLASS_66, Jared, 0]
+Pokemon = MAMMOTHMON,48
+    Moves = SMOKESCREEN,YAWN,SLACKOFF
+Pokemon = VOLCAMON,49
+    Moves = SMOKESCREEN,IRONDEFENSE,FIREPUNCH,ICEPUNCH
+Pokemon = DAXEMON,50
+    Moves = SMOKESCREEN,SLASH
+
+[CLASS_66, Malik, 0]
+Pokemon = SKLGREYMON,50
+    Moves = SMOKESCREEN,BRICKBREAK,CURSE
+Pokemon = MAMMOTHMON,50
+    Moves = SCREECH,SLACKOFF,ROCKSLIDE
+
+[CLASS_66, Ernest, 0]
+Pokemon = BLKAGUMON,48
+    Moves = SMOKESCREEN,BITE,DRAGONRAGE
+Pokemon = DTYRANOMON,49
+    Moves = SMOKESCREEN,FIREPUNCH,DRAGONCLAW
+Pokemon = BLKGREYMON,49
+    Moves = SMOKESCREEN,CRUSHCLAW
+Pokemon = SKLGREYMON,50
+    Moves = SMOKESCREEN,BRICKBREAK,CURSE
+Pokemon = BMGREYMON,50
+    Moves = MINIMIZE
+
+[CLASS_66, Alex, 0]
+Pokemon = ZUDOMON,49
+    Moves = SMOKESCREEN,ROCKSLIDE,STOCKPILE,SPITUP
+Pokemon = MKABUTERMN,50
+    Moves = SCREECH,STOCKPILE,SPITUP
+Pokemon = DINOBEEMON,51
+    Moves = SMOKESCREEN,AMNESIA,GIGADRAIN
+
+[CLASS_66, Lao, 0]
+Pokemon = BWGARURUMN,48
+    Moves = SCREECH,ROCKSLIDE
+Pokemon = MADLEOMON,49
+    Moves = SMOKESCREEN,ICEPUNCH,BULKUP
+
+[CLASS_66, Hideo, 0]
+Pokemon = TEKKAMON,50
+
+[CLASS_66, Ruben, 0]
+Pokemon = BMGREYMON,48
+    Moves = SMOKESCREEN
+Pokemon = ALLOMON,49
+    Moves = SMOKESCREEN,DRAGONDANCE,DRAGONCLAW,CRUNCH
+Pokemon = MGREYMONXR,50
+    Moves = SMOKESCREEN,BRICKBREAK,SUBMISSION
+
+[CLASS_66, Billy, 0]
+Pokemon = PVOLCAMON,52
+
+[CLASS_66, Nikolas, 0]
+Pokemon = CHERRYMON,50
+    Moves = SPARK,SPORE,GIGADRAIN
+Pokemon = CYBRDRMNXR,51
+    Moves = SPARK,THUNDERPUNCH,SHADOWPUNCH
+
+[CLASS_66, Jaxon, 0]
+Pokemon = CERBERMNWM,50
+    Moves = SLUDGE,FIREPUNCH,ICEPUNCH,THUNDERPUNCH
+Pokemon = DIGITAMAMN,52
+    Moves = SCREECH,CURSE,ROCKSLIDE,PAINSPLIT
+
+[CLASS_66, William, 0]
+Pokemon = MTYRANOMON,50
+    Moves = SMOKESCREEN,SUBMISSION,IRONDEFENSE,CRUSHCLAW
+Pokemon = MATYRANOMN,51
+    Moves = SMOKESCREEN,REVENGE
+Pokemon = KIKKAKUMON,51
+    Moves = SMOKESCREEN,THUNDERPUNCH,ICEPUNCH,SKYUPPERCUT
+Pokemon = ARRESTDRMN,52
+    Moves = SMOKESCREEN,FIREPUNCH,THUNDERPUNCH
+Pokemon = DECKERDRMN,53
+    Moves = SMOKESCREEN,TAKEDOWN,IRONDEFENSE
+
+[CLASS_66, Lukas, 0]
+Pokemon = ANDROMON,48
+    Moves = SMOKESCREEN,SWIFT,KNOCKOFF
+Pokemon = MKABUTERMN,49
+    Moves = SMOKESCREEN,STOCKPILE,SPITUP
+Pokemon = MADLEOMON,49
+    Moves = SCREECH,ICEPUNCH,BULKUP
+Pokemon = PARROTMON,50
+    Moves = SMOKESCREEN,BODYSLAM,FAINTATTACK,STEELWING
+
+[CLASS_66, Isaac, 0]
+Pokemon = FLAREMON,49
+    Moves = SCREECH,BRICKBREAK,FIREPUNCH
+Pokemon = MEPHISMON,50
+    Moves = SCREECH,ICEPUNCH,THUNDERPUNCH,TAUNT
+Pokemon = VOLCAMON,50
+    Moves = SMOKESCREEN,FIREPUNCH,ICEPUNCH
+
+[CLASS_66, Gerald, 0]
+Pokemon = BWGARURUMN,50
+    Moves = SMOKESCREEN,ROCKSLIDE,CROSSCHOP
+Pokemon = BMGREYMON,50
+    Moves = SCREECH
+
+[CLASS_67, Quinn, 0]
+Pokemon = GRANDRACMN,70
+Pokemon = MURMUKUSMN,71
+Pokemon = CALLISMON,70
+
+[CLASS_67, Ramon, 0]
+Pokemon = BOLTMON,73
+
+[CLASS_67, Dusty, 0]
+Pokemon = PIEDMON,72
+Pokemon = GULFMON,73
+
+[CLASS_67, Arnie, 0]
+Pokemon = GHOULMON,69
+Pokemon = BMGARGOMON,70
+
+[CLASS_67, Simon, 0]
+Pokemon = BEELZEMNXR,70
+
+[CLASS_67, Lewis, 0]
+Pokemon = TVESPAMON,69
+Pokemon = BLASTMON,70
+
+[CLASS_68, Baily, 0]
+Pokemon = GUARDROMON,35
+Pokemon = MONITORMON,36
+
+[CLASS_68, Braxton, 0]
+Pokemon = ANDROMON,30
+
+[CLASS_68, Bernie, 0]
+Pokemon = MECANORIMN,27
+Pokemon = GUARDROMON,28
+Pokemon = BALISTAMON,29
+
+[CLASS_69, Dale, 0]
+Pokemon = TOBIUMON,31
+Pokemon = GESOMON,32
+Pokemon = SEADRAMON,33
+
+[CLASS_69, Barny, 0]
+Pokemon = GWAPPAMON,30
+Pokemon = TYLOMON,31
+Pokemon = SUBMARIMON,32
+
+[CLASS_69, Ned, 0]
+Pokemon = SGEKOMON,47
+Pokemon = ZUDOMON,48
+Pokemon = CHOOKMON,49
+
+[CLASS_69, Chip, 0]
+Pokemon = CALAMARAMN,47
+Pokemon = MANTARAYMN,49
+
+[CLASS_69, Hank, 0]
+Pokemon = WHAMON,50
+
+[CLASS_69, Elliot, 0]
+Pokemon = DRAGOMON,47
+Pokemon = DIVERMON,48
+Pokemon = SUBMARIMON,48
+Pokemon = MANTARAYMN,49
+
+[CLASS_69, Ronald, 0]
+Pokemon = IKKAKUMON,78
+Pokemon = ZUDOMON,78
+Pokemon = PLESIOMON,79
+Pokemon = PLESIOMONX,79
+
+[CLASS_69, Claude, 0]
+Pokemon = SWIMMON,80
+Pokemon = NEPTUNEMON,79
+
+[CLASS_69, Wade, 0]
+Pokemon = SUBMARIMON,78
+Pokemon = BETAMON,78
+Pokemon = SEADRAMON,78
+Pokemon = MSEADRAMON,78
+Pokemon = MESEADRAMN,79
+Pokemon = GSEADRAMON,79
+
+[CLASS_69, Nolan, 0]
+Pokemon = LEVIAMON,78
+Pokemon = NEPTUNEMON,79
+
+[CLASS_69, Andrew, 0]
+Pokemon = ZUDOMON,49
+Pokemon = SHAWJAMON,50
+
+[CLASS_70, Luis, 0]
+Pokemon = GWAPPAMON,22
+Pokemon = SEADRAMON,24
+
+[CLASS_70, Richard, 0]
+Pokemon = WHAMON,66
+Pokemon = NEPTUNEMON,67
+
+[CLASS_70, Reece, 0]
+Pokemon = PUKUMON,66
+Pokemon = PLESIOMON,66
+Pokemon = SUBMARIMON,67
+
+[CLASS_70, Matthew, 0]
+Pokemon = JGAMEMON,67
+Pokemon = PLESIOMON,67
+
+[CLASS_70, Douglas, 0]
+Pokemon = MEDEVIMON,66
+Pokemon = MANTARAYMN,67
+Pokemon = DIVERMON,67
+Pokemon = GUZOKUMON,67
+
+[CLASS_70, David, 0]
+Pokemon = ZUDOMON,67
+Pokemon = SHAWJAMON,66
+Pokemon = MPIRANIMON,67
+
+[CLASS_70, Tony, 0]
+Pokemon = CALAMARAMN,67
+Pokemon = PIRANIMON,67
+
+[CLASS_70, Axle, 0]
+Pokemon = SWIMMON,65
+Pokemon = DOLPHMON,66
+Pokemon = TYLOMON,66
+Pokemon = WHAMON,67
+Pokemon = DIVERMON,67
+
+[CLASS_70, Barry, 0]
+Pokemon = SHAWJAMON,67
+Pokemon = JGAMEMON,68
+
+[CLASS_70, Dean, 0]
+Pokemon = PUKUMON,70
+
+[CLASS_70, Darrin, 0]
+Pokemon = SANGOMON,67
+Pokemon = TOBIUMON,68
+Pokemon = PIRANIMON,68
+Pokemon = MPIRANIMON,69
+
+[CLASS_70, Spencer, 0]
+Pokemon = MPIRANIMON,78
+Pokemon = MKIMERAMON,79
+
+[CLASS_70, Jack, 0]
+Pokemon = PLESIOMONX,80
+
+[CLASS_70, Jerome, 0]
+Pokemon = SUBMARIMON,78
+Pokemon = PLESIOMON,79
+
+[CLASS_70, Roland, 0]
+Pokemon = MEDEVIMON,78
+Pokemon = GESOMON,78
+Pokemon = LEVIAMON,79
+
+[CLASS_71, Koji, 0]
+Pokemon = ANDROMON,48
+Pokemon = ZUDOMON,49
+Pokemon = TRICERAMON,50
+
+[CLASS_71, Luke, 0]
+Pokemon = MEPHISMON,48
+Pokemon = MATADORMON,49
+
+[CLASS_71, Camron, 0]
+Pokemon = RAPIDMON,50
+Pokemon = SMERAMON,51
+
+[CLASS_71, Raul, 0]
+Pokemon = GKUWAGAMON,51
+Pokemon = CYBERDRAMN,51
+
+[CLASS_71, Isaiah, 0]
+Pokemon = GRAPLEOMON,50
+Pokemon = GARGABEMON,51
+
+[CLASS_71, Zeek, 0]
+Pokemon = ARMORMON,52
+
+[CLASS_71, Jamal, 0]
+Pokemon = MAMMOTHMON,49
+Pokemon = SKLGREYMON,50
+Pokemon = SKLSATAMON,50
+Pokemon = MUMMYMON,51
+
+[CLASS_71, Corey, 0]
+Pokemon = ANDROMON,51
+Pokemon = SHAWJAMON,52
+
+[CLASS_71, Chase, 0]
+Pokemon = SWIMMON,31
+Pokemon = SWIMMON,31
+Pokemon = SYAKOMON,31
+
+[CLASS_72, Hugo, 0]
+Pokemon = YASYAMON,28
+Pokemon = RAREMON,29
+
+[CLASS_72, Jasper, 0]
+Pokemon = MEICOOMON,28
+Pokemon = LOWEMON,29
+
+[CLASS_72, Dirk, 0]
+Pokemon = SANGLOUPMN,28
+Pokemon = MUSYAMON,29
+
+[CLASS_72, Darian, 0]
+Pokemon = KUMAMON,28
+Pokemon = MERAMON,29
+
+[CLASS_72, Stan, 0]
+Pokemon = MKABUTERMN,41
+Pokemon = GARGABEMON,42
+Pokemon = ASURAMON,41
+
+[CLASS_72, Rich, 0]
+Pokemon = CHERRYMON,39
+Pokemon = SINDURAMON,40
+
+[CLASS_73, Bridget, 0]
+Pokemon = MGANGEMON,41
+Pokemon = PIXIMON,42
+Pokemon = CHERRYMON,41
+Pokemon = LILYMON,42
+
+[CLASS_73, Tamia, 0]
+Pokemon = LILAMON,43
+Pokemon = PETALDRAMN,42
+
+[CLASS_73, Lori, 0]
+Pokemon = BLOSSOMON,44
+
+[CLASS_73, Lola, 0]
+Pokemon = BLOSSOMON,48
+Pokemon = PIXIMON,49
+Pokemon = SILPHYMON,50
+
+[CLASS_73, Sheila, 0]
+Pokemon = CRESCEMON,49
+Pokemon = RAPIDMON,50
+
+[CLASS_74, Tiffany, 0]
+Pokemon = MEANGEMON,69
+
+[CLASS_74, Nora, 0]
+Pokemon = GUZOKUMON,67
+Pokemon = MEANGEMON,68
+Pokemon = REGALECSMN,69
+
+[CLASS_74, Melissa, 0]
+Pokemon = SUBMARIMON,68
+Pokemon = MPIRANIMON,69
+
+[CLASS_73, Grace, 0]
+Pokemon = LDEVIMON,50
+Pokemon = ANGEWOMON,50
+
+[CLASS_73, Olivia, 0]
+Pokemon = MEICRAKMON,50
+Pokemon = MEICRKMNVM,50
+
+[CLASS_73, Lauren, 0]
+Pokemon = ALRAUMON,33
+Pokemon = CANDLEMON,33
+Pokemon = ALRAUMON,33
+
+[CLASS_74, Anya, 0]
+Pokemon = SUBMARIMON,67
+Pokemon = SCORPIOMON,68
+Pokemon = SURFIMON,68
+Pokemon = MEANGEMON,67
+Pokemon = MKIMERAMON,69
+
+[CLASS_74, Alice, 0]
+Pokemon = PLESIOMON,67
+Pokemon = MANTARAYMN,68
+
+[CLASS_74, Connie, 0]
+Pokemon = MEANGEMON,67
+Pokemon = BRACHIMON,67
+Pokemon = DIANAMON,68
+
+[CLASS_74, Shirley, 0]
+Pokemon = LEKISMON,67
+Pokemon = CRESCEMON,68
+Pokemon = DIANAMON,69
+
+[CLASS_75, Johan, 0]
+Pokemon = TAOMON,62
+Pokemon = VADEMON,63
+Pokemon = PARASIMON,64
+Pokemon = MISTYMON,64
+
+[CLASS_75, Tyron, 0]
+Pokemon = TAOMON,64
+Pokemon = VADEMON,65
+
+[CLASS_75, Cameron, 0]
+Pokemon = TAOMON,62
+Pokemon = LOTUSMON,63
+Pokemon = PARASIMON,63
+
+[CLASS_75, Preston, 0]
+Pokemon = PARASIMON,65
+
+[CLASS_76, Randall, 0]
+Pokemon = MUSHROOMON,20
+Pokemon = DOKUNEMON,20
+Pokemon = MUSHROOMON,20
+
+[CLASS_76, Luca, 0]
+Pokemon = BWGARURUMN,48
+Pokemon = MADLEOMON,49
+
+[CLASS_77, Dalton, 0]
+Pokemon = PUMPKINMON,57
+Pokemon = PIEDMON,58
+
+[CLASS_77, Nelson, 0]
+Pokemon = BARBAMON,85
+Pokemon = CHERUBIMON,86
+Pokemon = PMAMEMON,87
+Pokemon = CRANIUMMON,88
+
+[CLASS_77, Kirk, 0]
+Pokemon = PARASIMON,54
+Pokemon = ANUBISMON,55
+Pokemon = TSUWARMON,54
+Pokemon = DIGITAMAMN,55
+
+[CLASS_77, Shawn, 0]
+Pokemon = RAPIDMON,55
+Pokemon = PUMPKINMON,56
+
+[CLASS_77, Gregory, 0]
+Pokemon = KINGETEMON,89
+    Moves = PSYCHIC,DARKEYES,LIGHTPUNCH
+
+[CLASS_77, Edward, 0]
+Pokemon = PMAMEMONX,96
+    Moves = SWIFT,THUNDER,PSYCHOBOOST
+Pokemon = MAGNADRMNX,97
+    Moves = SWIFT,OUTRAGE,SKULLBASH
+Pokemon = JESMON,97
+    Moves = SWIFT,SUPERPOWER,METEORMASH,OUTRAGE
+Pokemon = MIGAOGMNBM,97
+    Moves = PSYCHIC,DOUBLEEDGE,SKULLBASH,LIGHTPUNCH
+
+[CLASS_77, Kayden, 0]
+Pokemon = CROWMON,56
+
+[CLASS_77, Nate, 0]
+Pokemon = PHANTOMON,55
+Pokemon = CHERRYMON,55
+
+[CLASS_78, Phil, 0]
+Pokemon = GRAPLEOMON,55
+Pokemon = PANDAMON,56
+
+[CLASS_78, Edgar, 0]
+Pokemon = DINOBEEMON,55
+Pokemon = ZUDOMON,55
+Pokemon = SHAWJAMON,55
+
+[CLASS_78, Jason, 0]
+Pokemon = MEGIDRAMON,82
+
+[CLASS_78, Cole, 0]
+Pokemon = IDRAMONDM,80
+Pokemon = UBRACHIMON,80
+
+[CLASS_78, Vincent, 0]
+Pokemon = IDRAMONFM,87
+Pokemon = BEELSTRMNX,88
+
+[CLASS_78, John, 0]
+Pokemon = BLKGUILMON,42
+Pokemon = RENAMON,42
+Pokemon = CHAPMON,42
+Pokemon = BLUCOMON,42
+
+[CLASS_79, Sebastian, 0]
+Pokemon = WINGDRAMON,50
+Pokemon = TYILINMON,50
+
+[CLASS_79, Perry, 0]
+Pokemon = PARROTMON,47
+Pokemon = CROWMON,47
+Pokemon = MBIDRAMON,48
+Pokemon = SPARROWMON,49
+Pokemon = SIRENMON,50
+
+[CLASS_79, Robert, 0]
+Pokemon = CROWMON,47
+Pokemon = GARUDAMON,48
+Pokemon = DERAMON,48
+Pokemon = HALSEMON,50
+
+[CLASS_79, Donald, 0]
+Pokemon = EAGLEMON,51
+
+[CLASS_79, Benny, 0]
+Pokemon = BUTENMON,50
+Pokemon = THUNDRBRMN,50
+
+[CLASS_79, Edwin, 0]
+Pokemon = SABIRDRAMN,50
+Pokemon = BIRDRAMON,50
+Pokemon = GARUDAMON,51
+Pokemon = KARATENMON,51
+
+[CLASS_79, Chester, 0]
+Pokemon = THUNDRBRMN,50
+Pokemon = HALSEMON,51
+Pokemon = ALLOMON,51
+
+[CLASS_79, Wilton, 0]
+Pokemon = SILPHYMON,51
+Pokemon = GARUDAMON,52
+
+[CLASS_79, Ramiro, 0]
+Pokemon = WINGDRAMON,52
+
+[CLASS_79, Jacob, 0]
+Pokemon = SIRENMON,50
+Pokemon = GRYPHONMON,51
+Pokemon = SINDURAMON,50
+Pokemon = SHUTUMON,51
+
+[CLASS_79, Roger, 0]
+Pokemon = EAGLEMON,67
+Pokemon = PHOENIXMON,68
+Pokemon = RAVEMON,69
+
+[CLASS_79, Reed, 0]
+Pokemon = PINAMON,39
+Pokemon = PINAMON,39
+Pokemon = WANYAMON,39
+Pokemon = PINAMON,39
+
+[CLASS_79, Keith, 0]
+Pokemon = FLORAMON,39
+Pokemon = BUDMON,39
+
+[CLASS_79, Carter, 0]
+Pokemon = BIYOMON,48
+Pokemon = BIRDRAMON,49
+Pokemon = GARUDAMON,50
+
+[CLASS_79, Mitch, 0]
+Pokemon = POROMON,47
+Pokemon = HAWKMON,48
+Pokemon = AQUILAMON,49
+Pokemon = SILPHYMON,50
+
+[CLASS_79, Beck, 0]
+Pokemon = KARATENMON,49
+Pokemon = PEGASUSMON,50
+
+[CLASS_79, Marlon, 0]
+Pokemon = KIWIMON,49
+Pokemon = SINDURAMON,50
+Pokemon = DERAMON,50
+
+[CLASS_80, Koichi, 0]
+Pokemon = BMAMEMON,62
+Pokemon = BLILYMON,62
+Pokemon = BGOLEMON,63
+Pokemon = BSTINGMON,63
+Pokemon = BLEOMON,64
+
+[CLASS_80, Mike, 0]
+Pokemon = MGAOGAMON,59
+Pokemon = SHAWJAMON,60
+Pokemon = ZANBAMON,61
+
+[CLASS_80, Hideki, 0]
+Pokemon = KARATENMON,59
+Pokemon = MERVAMON,61
+
+[CLASS_80, Aaron, 0]
+Pokemon = MIGAOGAMON,62
+
+[CLASS_80, Hitoshi, 0]
+Pokemon = GRAPLEOMON,58
+Pokemon = WGARURUMON,58
+Pokemon = CGARURUMON,60
+
+[CLASS_80, Atsushi, 0]
+Pokemon = IDRAMONFM,81
+Pokemon = RASENMON,82
+
+[CLASS_80, Kiyo, 0]
+Pokemon = BGOLEMON,82
+
+[CLASS_80, Takashi, 0]
+Pokemon = GRAPLEOMON,81
+Pokemon = BLEOMON,82
+Pokemon = MARSMON,83
+
+[CLASS_80, Daisuke, 0]
+Pokemon = BLEOMON,86
+Pokemon = BSTINGMON,87
+Pokemon = JUSTIMONX,88
+
+[CLASS_81, TERRY, 0]
+Pokemon = KOROMON,5
+
+[CLASS_81, TERRY, 0]
+Pokemon = GIGIMON,5
+
+[CLASS_81, TERRY, 0]
+Pokemon = DEMIVEEMON,5
+
+[CLASS_81, TERRY, 0]
+Pokemon = BEARMON,9
+    Moves = TACKLE,QUICKATTACK,GROWL
+Pokemon = AGUMON,9
+    Moves = SCRATCH,EMBER,GROWL,SMOKESCREEN
+
+[CLASS_81, TERRY, 0]
+Pokemon = LABRAMON,9
+    Moves = TACKLE,SANDATTACK,QUICKATTACK
+Pokemon = GUILMON,9
+    Moves = TACKLE,EMBER,GROWL,SMOKESCREEN
+
+[CLASS_81, TERRY, 0]
+Pokemon = KUDAMON,9
+    Moves = TELEPORT,CONFUSION,WRAP
+Pokemon = VEEMON,9
+    Moves = POUND,PURSUIT,QUICKATTACK,GROWL
+
+[CLASS_81, TERRY, 0]
+Pokemon = GRIZZLYMON,17
+    Moves = HEADBUTT,ROCKTOMB,BITE,QUICKATTACK
+Pokemon = DRACOMON,17
+    Moves = FLAMEWHEEL,SCRATCH,BITE,SMOKESCREEN
+Pokemon = BETAMON,19
+    Moves = WATERGUN,THUNDERSHOCK,THUNDERWAVE,BITE
+Pokemon = GREYMON,21
+    Moves = HORNATTACK,FLAMEWHEEL,BITE,TWISTER
+
+[CLASS_81, TERRY, 0]
+Pokemon = DOBERMON,17
+    Moves = QUICKATTACK,BITE,HOWL,DOUBLEKICK
+Pokemon = FALCOMON,17
+    Moves = FEATHERDANCE,AERIALACE,QUICKATTACK,SANDATTACK
+Pokemon = ICEDEVIMON,19
+    Moves = ICYWIND,AIRCUTTER,BITE,AGILITY
+Pokemon = GUILMON,21
+    Moves = FLAMEWHEEL,TWISTER,BITE,ROCKTOMB
+
+[CLASS_81, TERRY, 0]
+Pokemon = KUDAMON,17
+    Moves = PSYBEAM,REFLECT,LIGHTSCREEN
+Pokemon = WENDIGOMON,17
+    Moves = HEADBUTT,TEETERDANCE,BITE,PSYBEAM
+Pokemon = DORUMON,19
+    Moves = QUICKATTACK,EMBER,BITE,TWISTER
+Pokemon = VEEDRAMON,21
+    Moves = COMETPUNCH,FAKEOUT,ASTONISH,TWISTER
+
+[CLASS_82, Ted, 0]
+Pokemon = CANONDRAMN,70
+Pokemon = ZEEKGREYMN,71
+
+[CLASS_82, Connor, 0]
+Pokemon = VADEMON,56
+    Moves = SCREECH,MIRRORCOAT,SHADOWBALL,PSYCHIC
+Pokemon = DATAMON,57
+    Moves = SMOKESCREEN,IRONDEFENSE,SELFDESTRUCT,LOCKON
+Pokemon = ANDROMON,56
+    Moves = SMOKESCREEN,AMNESIA,TAKEDOWN
+Pokemon = MEGADRAMON,57
+    Moves = SMOKESCREEN,DRAGONCLAW
+
+[CLASS_82, Jerry, 0]
+Pokemon = VADEMON,56
+Pokemon = DATAMON,57
+Pokemon = VADEMON,57
+
+[CLASS_82, Jose, 0]
+Pokemon = VERMILIMON,57
+    Moves = SPARK,FLAMETHROWER,DRAGONCLAW
+Pokemon = TEKKAMON,58
+    Moves = SMOKESCREEN,EXPLOSION
+
+[CLASS_82, Rodney, 0]
+Pokemon = HIANDROMON,60
+
+[CLASS_82, Beau, 0]
+Pokemon = BWGROWLMON,56
+    Moves = SPARK,FLAMETHROWER,SUBMISSION
+Pokemon = BMGREYMON,57
+    Moves = SMOKESCREEN,IRONDEFENSE,DRAGONCLAW
+Pokemon = BWGARURUMN,57
+    Moves = SMOKESCREEN,CROSSCHOP,SKYUPPERCUT,TAKEDOWN
+Pokemon = VADEMON,57
+    Moves = SPARK,MIRRORCOAT,SHADOWBALL,PSYCHIC
+
+[CLASS_82, Taylor, 0]
+Pokemon = ARGOMONU,57
+    Moves = SPARK,ROCKSLIDE
+Pokemon = MINOTARUMN,57
+    Moves = SMOKESCREEN,ROCKSLIDE
+Pokemon = MATADORMON,58
+    Moves = THUNDERWAVE,SKYUPPERCUT,CURSE
+Pokemon = PARASIMON,58
+    Moves = THUNDERWAVE,MISTBALL,EXTRASENSORY
+Pokemon = SEPIROTMON,58
+    Moves = SMOKESCREEN,EXTRASENSORY,SHADOWBALL
+
+[CLASS_82, Joshua, 0]
+Pokemon = DATAMON,59
+Pokemon = ANUBISMON,60
+
+[CLASS_82, Parker, 0]
+Pokemon = ANDROMON,60
+Pokemon = MEGADRAMON,60
+
+[CLASS_82, Ed, 0]
+Pokemon = CHERRYMON,59
+    Moves = SPARK,SIGNALBEAM
+Pokemon = BRACHIMON,60
+    Moves = SMOKESCREEN,BODYSLAM,ROCKSLIDE
+Pokemon = SHAKKOUMON,60
+    Moves = SPARK,RECOVER
+
+[CLASS_82, Travis, 0]
+Pokemon = VADEMON,60
+Pokemon = DATAMON,61
+
+[CLASS_82, Braydon, 0]
+Pokemon = RTYRANOMON,69
+Pokemon = ABALISTAMN,70
+Pokemon = HIANDROMON,71
+
+[CLASS_82, Ivan, 0]
+Pokemon = DARKDRAMON,70
+Pokemon = BREAKDRAMN,71
+
+[CLASS_83, Giovanni, 0]
+Pokemon = INFERMON,46
+Pokemon = ARKADIMONU,47
+Pokemon = LUCEMONFM,47
+Pokemon = SKLGREYMON,46
+Pokemon = BWGARURUMN,48
+Pokemon = KIMERAMON,50
+
+[CLASS_83, Giovanni, 0]
+Pokemon = DIABLOMON,62
+Pokemon = MERUKIMON,63
+Pokemon = MACHINDRMN,64
+Pokemon = DDORUGORMN,64
+Pokemon = ARKADIMONM,65
+Pokemon = MILLENIUMN,66
+
+[CLASS_84, Giovanni, 0]
+Pokemon = CHRONOMNDM,84
+    Moves = FIREBLAST,NIGHTMARE
+Pokemon = ARMAGEDOMN,85
+    Moves = DREAMEATER,DARKEYES
+Pokemon = CAOSDRAMON,86
+    Moves = SUPERPOWER,IRONTAIL,DOUBLEEDGE
+Pokemon = EOSMONM,86
+    Moves = MIRRORCOAT,FUTURESIGHT,THUNDER
+Pokemon = BAGRAMON,87
+    Moves = NIGHTMARE,SUPERPOWER,PERISHSONG
+Pokemon = ZMILENIUMN,88
+    Moves = SUPERPOWER,NIGHTMARE
+
+[CLASS_85, Grunt, 0]
+Pokemon = GUARDROMON,16
+Pokemon = FUGAMON,18
+
+[CLASS_85, Grunt, 0]
+Pokemon = DDEVIMON,14
+Pokemon = CANDLEMON,15
+Pokemon = ELECMONV,17
+
+[CLASS_85, Grunt, 0]
+Pokemon = BTOYAGUMON,15
+Pokemon = GAZIMON,17
+
+[CLASS_85, Grunt, 0]
+Pokemon = BPCHESSMON,16
+Pokemon = GOBLIMON,18
+
+[CLASS_85, Grunt, 0]
+Pokemon = MECANORIMN,25
+Pokemon = EOSMONC,27
+
+[CLASS_85, Grunt, 0]
+Pokemon = DEVIMON,21
+Pokemon = DUSKMON,23
+
+[CLASS_85, Grunt, 0]
+Pokemon = CYBERDRAMN,43
+Pokemon = TEKKAMON,44
+
+[CLASS_85, Grunt, 0]
+Pokemon = BWGROWLMON,43
+Pokemon = ARUKENIMON,45
+
+[CLASS_85, Grunt, 0]
+Pokemon = BAROMON,44
+Pokemon = GARGABEMON,45
+
+[CLASS_85, Grunt, 0]
+Pokemon = VADEMON,44
+    Moves = MINIMIZE,LUSTERPURGE,COSMICPOWER,EXTRASENSORY
+Pokemon = DIGITAMAMN,45
+    Moves = SMOG,DRAGONBREATH,TAKEDOWN
+Pokemon = CERBERUMON,45
+    Moves = SMOG,ROAR
+
+[CLASS_85, Grunt, 0]
+Pokemon = LDEVIMON,44
+Pokemon = BWGROWLMON,45
+Pokemon = MINOTARUMN,44
+Pokemon = MEPHISMON,45
+
+[CLASS_85, Grunt, 0]
+Pokemon = DATAMON,45
+    Moves = MINIMIZE,AMNESIA,SIGNALBEAM
+Pokemon = LDEVIMON,46
+    Moves = SLUDGE,SWEETKISS,CRUSHCLAW,SUBMISSION
+
+[CLASS_85, Grunt, 0]
+Pokemon = MYOTISMON,44
+    Moves = BITE,LUSTERPURGE
+Pokemon = VADEMON,44
+    Moves = SMOG,LUSTERPURGE,COSMICPOWER,EXTRASENSORY
+Pokemon = RCHESSMON,45
+    Moves = SLUDGE,SPIKECANNON,IRONDEFENSE,ROCKSLIDE
+Pokemon = ARUKENIMON,45
+    Moves = BITE,MISTBALL
+Pokemon = DAXEMON,45
+    Moves = HYPERFANG,METALCLAW,SLASH
+
+[CLASS_85, Grunt, 0]
+Pokemon = ETEMON,45
+Pokemon = NEODEVIMON,45
+Pokemon = MYOTISMON,45
+
+[CLASS_85, Grunt, 0]
+Pokemon = ARUKENIMON,46
+Pokemon = MUMMYMON,46
+
+[CLASS_85, Grunt, 0]
+Pokemon = ARGOMONU,46
+Pokemon = OKUWAMON,46
+Pokemon = PARASIMON,48
+
+[CLASS_85, Grunt, 0]
+Pokemon = CHERRYMON,46
+Pokemon = PHANTOMON,46
+Pokemon = GKUWAGAMON,48
+
+[CLASS_85, Grunt, 0]
+Pokemon = MEICRKMNVM,46
+Pokemon = HIANDROMON,48
+
+[CLASS_85, Grunt, 0]
+Pokemon = PARASIMON,48
+Pokemon = NEODEVIMON,47
+Pokemon = VELGEMON,48
+
+[CLASS_85, Grunt, 0]
+Pokemon = ETEMON,47
+Pokemon = GIGASMON,49
+
+[CLASS_85, Grunt, 0]
+Pokemon = LDEVIMON,47
+Pokemon = JLOWEMON,48
+Pokemon = VAJRAMON,49
+Pokemon = SKNIGHTMON,50
+
+[CLASS_85, Grunt, 0]
+Pokemon = LABRAMON,26
+Pokemon = BLKAGUMON,26
+
+[CLASS_85, Grunt, 0]
+Pokemon = MYOTISMON,58
+Pokemon = RTYRANOMON,59
+
+[CLASS_85, Grunt, 0]
+Pokemon = LDEVIMON,55
+Pokemon = KARATENMON,56
+Pokemon = DINOBEEMON,55
+Pokemon = MSEADRAMON,55
+Pokemon = GHOULMON,56
+
+[CLASS_85, Grunt, 0]
+Pokemon = NEODEVIMON,57
+Pokemon = ANTYLAMON,56
+Pokemon = BOLTMON,58
+
+[CLASS_85, Grunt, 0]
+Pokemon = CERBERMNWM,57
+Pokemon = BKNUMEMON,59
+
+[CLASS_85, Grunt, 0]
+Pokemon = TEKKAMON,57
+Pokemon = GIROMON,56
+Pokemon = HIANDROMON,58
+
+[CLASS_85, Grunt, 0]
+Pokemon = DEVITAMAMN,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = MURMUKUSMN,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = DRAGOMON,58
+Pokemon = PHANTOMON,58
+
+[CLASS_85, Grunt, 0]
+Pokemon = CANONBEMON,57
+Pokemon = ARKADIMONC,58
+Pokemon = JLOWEMON,59
+
+[CLASS_85, Grunt, 0]
+Pokemon = CYBERDRAMN,58
+    Moves = DARKEYES,BLAZEKICK
+Pokemon = CYBRDRMNXR,58
+    Moves = GLARE,DRAGONCLAW,CRUNCH
+Pokemon = PANJYAMON,59
+    Moves = SMOKESCREEN,JUMPKICK
+Pokemon = PARASIMON,60
+    Moves = WINGATTACK,EXTRASENSORY,SLUDGEBOMB
+
+[CLASS_85, Grunt, 0]
+Pokemon = ASTAMON,59
+Pokemon = MADLEOMNFM,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = SHOUTMONAB,59
+Pokemon = MEICRKMNVM,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = GIGASMON,57
+Pokemon = DDGREYMON,57
+Pokemon = GOGMAMON,57
+Pokemon = KIKKAKUMON,58
+
+[CLASS_85, Grunt, 0]
+Pokemon = BMGREYMON,58
+Pokemon = MUMMYMON,59
+Pokemon = RHIHIMON,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = MINOTARUMN,60
+Pokemon = MEGADRAMON,59
+Pokemon = CALLISMON,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = BGGREYMON,59
+Pokemon = CERBERUMON,58
+Pokemon = GULFMON,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = METEMON,61
+
+[CLASS_85, Grunt, 0]
+Pokemon = SMERAMON,59
+Pokemon = BOLTMON,60
+Pokemon = SGEKOMON,59
+Pokemon = SKLMAMOTMN,60
+Pokemon = CYBRDRMNXR,60
+
+[CLASS_85, Grunt, 0]
+Pokemon = PHARAOHMON,60
+Pokemon = GRANDRACMN,60
+Pokemon = GKUWAGAMON,61
+
+[CLASS_86, Samuel, 0]
+Pokemon = JUSTIMON,81
+    Moves = SLASH,LIGHTKICK,SWORDSDANCE
+Pokemon = DDORUGORMN,82
+    Moves = SLASH,DREAMEATER,OUTRAGE
+Pokemon = OSHOUTMON,82
+    Moves = TAKEDOWN,LIGHTKICK,OUTRAGE
+Pokemon = LUCEMONFM,81
+    Moves = FURYATTACK,SHADOWBALL,NIGHTMARE
+Pokemon = RAPIDMONAX,83
+    Moves = THRASH,MOONLIGHT,SUPERPOWER,LIGHTPUNCH
+
+[CLASS_86, George, 0]
+Pokemon = CGARURUMON,85
+    Moves = EGGBOMB,LIGHTKICK
+Pokemon = JESMON,86
+    Moves = FURYSWIPES,SUPERPOWER,METEORMASH
+Pokemon = DURANDAMON,86
+    Moves = SPIKECANNON,METEORMASH,SUPERPOWER
+Pokemon = HEXEBLUMON,87
+    Moves = SPARK,BLIZZARD,METEORMASH,OUTRAGE
+Pokemon = TKABUTERMN,88
+    Moves = FLAMEWHEEL,EARTHQUAKE,VOLTTACKLE
+
+[CLASS_86, Colby, 0]
+Pokemon = DUKEMON,84
+    Moves = GUILLOTINE,METEORMASH,SWORDSDANCE,FIREBLAST
+Pokemon = RAIJINMON,85
+    Moves = BODYSLAM,THUNDERPUNCH,LIGHTPUNCH,SUPERPOWER
+Pokemon = SPINOMON,86
+    Moves = BARRIER,SKULLBASH
+Pokemon = SLEIPMON,87
+    Moves = WATERGUN,COSMICPOWER,DREAMEATER,BLIZZARD
+Pokemon = GODDRAMONX,88
+    Moves = WATERGUN,FIREBLAST,LIGHTPUNCH
+
+[CLASS_86, Paul, 0]
+Pokemon = BPCHESSMON,42
+    Moves = HEADBUTT,CONFUSION,WATERGUN,DISABLE
+Pokemon = KAMEMON,42
+    Moves = AURORABEAM,CLAMP,SUPERSONIC,LEER
+Pokemon = MUCHOMON,42
+    Moves = GUILLOTINE,STOMP,MUDSHOT,BUBBLE
+Pokemon = VORVOMON,42
+    Moves = BUBBLEBEAM,SWIFT,RECOVER,RAPIDSPIN
+Pokemon = HAWKMON,42
+    Moves = CONFUSION,SCRATCH,SCREECH,DISABLE
+
+[CLASS_86, Rolando, 0]
+Pokemon = CRUSADERMN,84
+    Moves = SUPERFANG,DREAMEATER,METEORMASH
+Pokemon = MGARURUMON,85
+    Moves = RAZORLEAF,CRUNCH,EXTREMESPEED,IRONTAIL
+Pokemon = HKABUTERMN,85
+    Moves = WATERGUN,CRUNCH
+Pokemon = DINOREXMON,86
+    Moves = FLAMETHROWER,IRONTAIL,CRUNCH
+Pokemon = ORNISMON,87
+    Moves = FLAMETHROWER,NIGHTMARE,FUTURESIGHT
+
+[CLASS_86, Gilbert, 0]
+Pokemon = PINAMON,42
+    Moves = WINGATTACK,FEATHERDANCE,WHIRLWIND,QUICKATTACK
+Pokemon = BUDMON,42
+    Moves = DRILLPECK,MIRRORMOVE,PURSUIT,LEER
+Pokemon = WORMMON,42
+    Moves = PAYDAY,FAINTATTACK,SCREECH,BITE
+Pokemon = SGOBLIMON,42
+    Moves = SLAM,DISABLE,WRAP,SUPERSONIC
+Pokemon = BLUCOMON,42
+    Moves = HORNATTACK,DARKEYES,SWAGGER,TAILWHIP
+
+[CLASS_86, Owen, 0]
+Pokemon = ARKADIMONB,42
+    Moves = SCRATCH,POISONSTING,DOUBLEKICK,BITE
+Pokemon = DORIMON,42
+    Moves = HORNATTACK,POISONSTING,DOUBLEKICK,LEER
+Pokemon = KAPURIMON,42
+    Moves = SUPERFANG,PURSUIT,DARKEYES,QUICKATTACK
+Pokemon = HOPMON,42
+    Moves = FURYSWIPES,SWIFT,SLASH,POISONSTING
+Pokemon = BLKGUILMON,42
+    Moves = ROCKBLAST,DARKEYES,STOMP,TAILWHIP
+
+[CLASS_86, Berke, 0]
+Pokemon = GOBLIMON,42
+    Moves = TAKEDOWN,AURORABEAM,ICYWIND,GROWL
+Pokemon = TSUKAIMON,42
+    Moves = ROCKBLAST,MAGNITUDE,ROCKTHROW,MUDSPORT
+Pokemon = MUCHOMON,42
+    Moves = GUILLOTINE,STOMP,MUDSHOT,BUBBLE
+Pokemon = KUDAMON,42
+    Moves = SLAM,SANDSTORM,DRAGONBREATH,ROCKTHROW
+Pokemon = KERAMON,42
+    Moves = SPIKECANNON,AURORABEAM,SUPERSONIC,PROTECT
+
+[CLASS_86, Yuji, 0]
+Pokemon = SERAPHIMON,80
+    Moves = SLASH,PSYCHIC,AEROBLAST
+Pokemon = OPHANIMNFM,81
+    Moves = ROCKBLAST,SHADOWBALL,PERISHSONG
+Pokemon = JGAMEMON,82
+    Moves = DRAGONBREATH,IRONDEFENSE,BLIZZARD,WATERSPOUT
+Pokemon = TVESPAMON,82
+    Moves = ROCKBLAST,SHADOWBALL,THUNDER
+Pokemon = SMAMMTHMNX,83
+    Moves = BONEMERANG,ICEBEAM,CURSE
+
+[CLASS_86, Warren, 0]
+Pokemon = ARGOMONM,81
+    Moves = BONEMERANG,DREAMEATER,SUPERPOWER
+Pokemon = OURYUMON,82
+    Moves = BONEMERANG,DYNAMICPUNCH,SUPERPOWER
+Pokemon = CDUKEMON,82
+    Moves = TAKEDOWN,DRAGONDANCE
+Pokemon = DORUGORAMN,82
+    Moves = FURYSWIPES,OUTRAGE
+Pokemon = MAGNAMONX,83
+    Moves = BODYSLAM,DYNAMICPUNCH,CALMMIND,LIGHTKICK
+
+[CLASS_86, Mary, 0]
+Pokemon = KGARURUMON,41
+    Moves = WRAP
+Pokemon = ARGOMONU,41
+    Moves = POISONPOWDER,INGRAIN,THUNDERPUNCH,SHADOWPUNCH
+Pokemon = SSTARMON,42
+    Moves = VINEWHIP,REFLECT,LIGHTSCREEN
+Pokemon = LILYMON,42
+    Moves = ABSORB,LEECHSEED,MEGADRAIN
+Pokemon = LILAMON,43
+    Moves = RAZORLEAF,MAGICALLEAF,SHOCKWAVE
+
+[CLASS_86, Caroline, 0]
+Pokemon = DYNASMON,85
+    Moves = RAZORLEAF,DREAMEATER,FUTURESIGHT
+Pokemon = LUCEMONLM,86
+    Moves = RAZORLEAF,COSMICPOWER,DREAMEATER,FUTURESIGHT
+Pokemon = JUPITERMON,87
+    Moves = RAZORLEAF,LIGHTKICK
+Pokemon = BELPHEMNSM,88
+    Moves = GROWTH,SLEEPTALK,SIGNALBEAM,DREAMEATER
+Pokemon = CRUSADRMNX,89
+    Moves = SPORE,NIGHTMARE,FUTURESIGHT,DARKEYES
+
+[CLASS_86, Alexa, 0]
+Pokemon = BRYWELDRMN,84
+    Moves = LIGHTSCREEN,DOUBLEEDGE,COSMICPOWER
+Pokemon = DIANAMON,85
+    Moves = SING,DREAMEATER,HYDROPUMP
+Pokemon = APOLLOMON,86
+    Moves = PAYDAY,FIREBLAST,LIGHTKICK
+Pokemon = TITAMON,87
+    Moves = SHEERCOLD,METEORMASH,OUTRAGE
+Pokemon = CPIEDMON,88
+    Moves = SING,DARKEYES,HIJUMPKICK_2
+
+[CLASS_86, Shannon, 0]
+Pokemon = GUMMYMON,42
+    Moves = PINMISSILE,TWINEEDLE,AGILITY,PURSUIT
+Pokemon = POROMON,42
+    Moves = SAFEGUARD,PSYBEAM,GUST,SUPERSONIC
+Pokemon = GOMAMON,42
+    Moves = SPORE,LEECHLIFE,SLASH,GROWTH
+Pokemon = PALMON,42
+    Moves = PSYBEAM,STUNSPORE,LEECHLIFE,DISABLE
+Pokemon = PATAMON,42
+    Moves = PSYBEAM,GUST,SUPERSONIC,LEECHLIFE
+
+[CLASS_86, Naomi, 0]
+Pokemon = IDRAMONDM,84
+    Moves = FURYSWIPES
+Pokemon = VENUSMON,85
+    Moves = AGILITY,FUTURESIGHT
+Pokemon = KCHESSMON,85
+    Moves = FURYATTACK,FUTURESIGHT,DOOMDESIRE
+Pokemon = DARKDRAMON,86
+    Moves = FLAMETHROWER,SHADOWBALL,SUPERPOWER,METEORMASH
+Pokemon = ZDGARURUMN,87
+    Moves = SAFEGUARD,IRONTAIL,BLIZZARD
+
+[CLASS_86, Brooke, 0]
+Pokemon = FANBEEMON,42
+    Moves = SLAM,BIND,MEGADRAIN,INGRAIN
+Pokemon = AGUMON,42
+    Moves = ACID,MOONLIGHT,SLEEPPOWDER,STUNSPORE
+Pokemon = GABUMON,42
+    Moves = MEGADRAIN,ACID,STUNSPORE,AROMATHERAPY
+Pokemon = TSUNOMON,42
+    Moves = RAZORLEAF,SWEETSCENT,GROWL,LEECHSEED
+Pokemon = YOKOMON,42
+    Moves = RAZORLEAF,GROWTH,SLEEPPOWDER,POISONPOWDER
+
+[CLASS_86, Austina, 0]
+Pokemon = BLKGUILMON,42
+    Moves = HORNDRILL,ROCKBLAST,DARKEYES,STOMP
+Pokemon = DORIMON,42
+    Moves = DOUBLEKICK,FURYSWIPES,BITE,FLATTER
+Pokemon = PUROROMON,42
+    Moves = BODYSLAM,DOUBLEKICK,BITE,GROWL
+Pokemon = ARKADIMONB,42
+    Moves = HORNATTACK,POISONSTING,FOCUSENERGY,LEER
+Pokemon = SAKUTTOMON,42
+    Moves = THRASH,DOUBLEKICK,POISONSTING,PECK
+
+[CLASS_86, Julie, 0]
+Pokemon = WORMMON,42
+    Moves = FURYSWIPES,BITE,SCREECH,FAINTATTACK
+Pokemon = BABYDMON,42
+    Moves = FLAMETHROWER,WILLOWISP,CONFUSERAY,GRUDGE
+Pokemon = WPCHESSMON,42
+    Moves = FURYATTACK,FIRESPIN,TAKEDOWN,AGILITY
+Pokemon = KYAROMON,42
+    Moves = THUNDERBOLT,THUNDERWAVE,DOUBLETEAM,QUICKATTACK
+Pokemon = XIAOMON,42
+    Moves = THUNDER,THUNDERWAVE,SLAM,DOUBLETEAM
+
+[CLASS_87, Lorelei, 0]
+Pokemon = SUIJINMON,88
+    Moves = ICEBEAM,HYDROCANNON,DOOMDESIRE
+Pokemon = SPLASHMON,89
+    Moves = WATERSPOUT,RAINDANCE,HYDROCANNON
+Pokemon = CSEADRAMON,90
+    Moves = SHADOWBALL,AEROBLAST,NIGHTMARE,DARKEYES
+Pokemon = GSEADRAMON,90
+    Moves = AEROBLAST,DOOMDESIRE,WATERSPOUT,DARKEYES
+Pokemon = DIANAMON,91
+    Moves = DREAMEATER,HYDROPUMP,BLIZZARD
+Pokemon = AMERMAIMON,92
+    Moves = HYDROPUMP,WISH,WATERSPOUT,THUNDER
+
+[CLASS_87, Bruno, 0]
+Pokemon = BSTINGMON,89
+    Moves = HIJUMPKICK_2,MEGAHORN,SKYATTACK
+Pokemon = BGOLEMON,90
+    Moves = LIGHTPUNCH,THRASH,FOCUSPUNCH
+Pokemon = JUSTIMONX,91
+    Moves = HIJUMPKICK_2,DOUBLEEDGE,FOCUSPUNCH
+Pokemon = MARSMON,91
+    Moves = SKULLBASH,HIJUMPKICK_2,LIGHTPUNCH,OUTRAGE
+Pokemon = RASENMON,92
+    Moves = THRASH,HIJUMPKICK_2,LIGHTPUNCH
+Pokemon = MIGAOGMNBM,93
+    Moves = HIJUMPKICK_2,DOUBLEEDGE,SKULLBASH,LIGHTPUNCH
+
+[CLASS_87, Agatha, 0]
+Pokemon = DKNIGHTMON,90
+    Moves = DOUBLEEDGE,EARTHQUAKE,SKULLBASH
+Pokemon = LILITHMONX,91
+    Moves = FUTURESIGHT,MOONLIGHT,DARKEYES,PAINSPLIT
+Pokemon = BEELSTRMNX,92
+    Moves = AEROBLAST,DREAMEATER,FUTURESIGHT
+Pokemon = RASIELMON,92
+    Moves = FUTURESIGHT,DARKEYES,PSYCHOBOOST
+Pokemon = NPUMPKINMN,93
+    Moves = DARKEYES,FUTURESIGHT,PSYCHOBOOST
+Pokemon = BEELZEMONX,94
+    Moves = FUTURESIGHT,OVERHEAT,PSYCHOBOOST
+
+[CLASS_87, Lance, 0]
+Pokemon = DORBICKMON,91
+    Moves = OUTRAGE,ERUPTION,BLASTBURN
+Pokemon = MAGNADRMNX,92
+    Moves = OUTRAGE,SKULLBASH
+Pokemon = GODDRAMONX,93
+    Moves = LIGHTPUNCH,OVERHEAT,LIGHTBEAM
+Pokemon = MEGIDRAMNX,93
+    Moves = SUPERPOWER,OUTRAGE,OVERHEAT
+Pokemon = ALPHAMON,94
+    Moves = DARKEYES,LIGHTPUNCH,LIGHTBEAM
+Pokemon = HEXEBLUMON,95
+    Moves = OUTRAGE,LIGHTPUNCH,SHEERCOLD
+
+[CLASS_84, Brock, 0]
+Pokemon = GOTSUMON,12
+    Moves = TACKLE,DEFENSECURL,ROCKTHROW,SANDATTACK
+Pokemon = ARMADILOMN,13
+    Moves = TACKLE,DEFENSECURL,ROCKTOMB,SANDATTACK
+Pokemon = DIGMON,15
+    Moves = MEGADRAIN,FURYATTACK,SANDTOMB
+Pokemon = ANKYLOMON,16
+    Moves = DEFENSECURL,ROCKTOMB,METALCLAW
+
+[CLASS_84, Misty, 0]
+Pokemon = IKKAKUMON,25
+    Moves = MEGADRAIN,WATERPULSE,REST,RAINDANCE
+Pokemon = RANAMON,25
+    Moves = ROCKTOMB,HELPINGHAND,ICYWIND
+Pokemon = MEANGEMON,26
+    Moves = CALMMIND,WISH
+Pokemon = DOLPHMON,27
+    Moves = WATERPULSE,RAINDANCE
+
+[CLASS_84, Lt. Surge, 0]
+Pokemon = THUNDERMON,36
+    Moves = SWIFT
+Pokemon = RAIDRAMON,36
+    Moves = AGILITY
+Pokemon = BOLGMON,37
+    Moves = IRONDEFENSE,THUNDERPUNCH
+Pokemon = CANONBEMON,38
+    Moves = SILVERWIND
+
+[CLASS_84, Erika, 0]
+Pokemon = KABUKIMON,44
+    Moves = PETALDANCE,SWIFT
+Pokemon = BLOSSOMON,45
+Pokemon = PIXIMON,46
+    Moves = RECOVER,EXTRASENSORY
+Pokemon = AEGICHSMNG,47
+Pokemon = ANGEWOMON,48
+    Moves = EXTRASENSORY,MAGICCOAT
+Pokemon = LILYMON,48
+    Moves = GIGADRAIN,MAGICALLEAF
+
+[CLASS_84, Koga, 0]
+Pokemon = CHAMELEMON,57
+Pokemon = HIMONITRMN,58
+Pokemon = DTSUWARMON,59
+Pokemon = ZAMIELMON,60
+Pokemon = SHURIMON,59
+Pokemon = RAVEMON,60
+
+[CLASS_84, Blaine, 0]
+Pokemon = SGREYMON,75
+    Moves = DRAGONDANCE,FIREBLAST
+Pokemon = WARGREYMON,76
+    Moves = HEATWAVE,FIREBLAST
+Pokemon = OSHOUTMON,76
+    Moves = LIGHTKICK,OUTRAGE
+Pokemon = OSHOUTMONB,77
+    Moves = NIGHTMARE
+Pokemon = APOLLOMONW,78
+    Moves = MOONLIGHT,FIREBLAST
+Pokemon = AGREYMON,78
+    Moves = FIREBLAST,AEROBLAST
+
+[CLASS_84, Sabrina, 0]
+Pokemon = EBEMON,67
+    Moves = DREAMEATER,MAGICCOAT
+Pokemon = BABAMON,67
+    Moves = PSYCHIC,CALMMIND
+Pokemon = LUCEMONLM,68
+    Moves = SHADOWBALL,PSYCHIC
+Pokemon = DYNASMON,68
+    Moves = PSYCHIC
+Pokemon = SISTERMNNA,69
+    Moves = PSYCHIC,NIGHTMARE,MOONLIGHT
+Pokemon = SISTERMNBA,69
+    Moves = WISH,FUTURESIGHT
+
+[CLASS_88, Thomas, 0]
+Pokemon = LOBOMON,29
+Pokemon = GARGOMON,30
+
+[CLASS_88, Arthur, 0]
+Pokemon = MONITORMON,29
+Pokemon = FIRAMON,30
+
+[CLASS_88, Tucker, 0]
+Pokemon = ANDROMON,36
+
+[CLASS_88, Norton, 0]
+Pokemon = WORMMON,48
+
+[CLASS_88, Walter, 0]
+Pokemon = TERRIERMON,17
+Pokemon = BTOYAGUMON,17
+
+[CLASS_89, TERRY, 0]
+Pokemon = SEADRAMON,32
+Pokemon = COREDRAMNB,33
+Pokemon = ANGEMON,34
+Pokemon = GRIZZLYMON,35
+Pokemon = GREYMON,36
+
+[CLASS_89, TERRY, 0]
+Pokemon = PECKMON,32
+Pokemon = DOBERMON,33
+Pokemon = ICEDEVIMON,34
+Pokemon = KIWIMON,35
+Pokemon = GROWLMON,36
+
+[CLASS_89, TERRY, 0]
+Pokemon = REPPAMON,32
+Pokemon = STRIKEDRMN,33
+Pokemon = WENDIGOMON,34
+Pokemon = REPTILDRMN,35
+Pokemon = VEEDRAMON,36
+
+[CLASS_89, TERRY, 0]
+Pokemon = MSEADRAMON,46
+Pokemon = GRAPLEOMON,47
+Pokemon = MGANGEMON,47
+Pokemon = TANKDRAMON,48
+Pokemon = WINGDRAMON,49
+Pokemon = MGREYMON,50
+
+[CLASS_89, TERRY, 0]
+Pokemon = CROWMON,46
+Pokemon = SIRENMON,47
+Pokemon = BUTENMON,47
+Pokemon = CERBERMNWM,48
+Pokemon = SKLSATAMON,49
+Pokemon = WGROWLMON,50
+
+[CLASS_89, TERRY, 0]
+Pokemon = ANTYLAMON,46
+Pokemon = CYBERDRAMN,47
+Pokemon = GRADEMON,47
+Pokemon = STIFFILMON,48
+Pokemon = TYILINMON,49
+Pokemon = AVEEDRAMON,50
+
+[CLASS_89, TERRY, 0]
+Pokemon = MESEADRAMN,60
+Pokemon = BLEOMON,61
+Pokemon = SERAPHIMON,62
+Pokemon = DARKDRAMON,62
+Pokemon = SLAYERDRMN,63
+Pokemon = BLTZGREYMN,64
+
+[CLASS_89, TERRY, 0]
+Pokemon = RAVEMON,60
+Pokemon = CERESMON,61
+Pokemon = BEELZEMON,62
+Pokemon = PLUTOMON,62
+Pokemon = CHRONOMNDM,63
+Pokemon = MEGIDRAMON,64
+
+[CLASS_89, TERRY, 0]
+Pokemon = KERPYMON,60
+Pokemon = JUSTIMON,61
+Pokemon = RASENMON,62
+Pokemon = SLEIPMON,62
+Pokemon = GAIOUMON,63
+Pokemon = UVEEDRAMON,64
+
+[CLASS_89, TERRY, 0]
+Pokemon = GSEADRAMON,84
+    Moves = BLIZZARD,AEROBLAST,DOOMDESIRE
+Pokemon = BLEOMON,85
+    Moves = LIGHTKICK,HIJUMPKICK_2
+Pokemon = SSERAPHIMN,86
+    Moves = NIGHTMARE,DREAMEATER
+Pokemon = DARKDRAMON,86
+    Moves = SHADOWBALL,SUPERPOWER,METEORMASH
+Pokemon = SLAYERDRMN,87
+    Moves = SUPERPOWER,OUTRAGE
+Pokemon = BLTZGREYMN,88
+    Moves = METEORMASH,OVERHEAT
+
+[CLASS_89, TERRY, 0]
+Pokemon = PLUTOMON,84
+    Moves = PERISHSONG,NIGHTMARE,DARKEYES
+Pokemon = BEELZEMNBM,85
+    Moves = AGILITY,AEROBLAST,PAINSPLIT
+Pokemon = CHRONOMNHM,86
+    Moves = FUTURESIGHT
+Pokemon = RAVEMON,86
+Pokemon = CERESMON,87
+    Moves = AEROBLAST,PERISHSONG
+Pokemon = MEGIDRAMNX,88
+    Moves = SUPERPOWER,OUTRAGE
+
+[CLASS_89, TERRY, 0]
+Pokemon = RASENMON,84
+    Moves = METEORMASH,THRASH,HIJUMPKICK_2
+Pokemon = GAIOUMON,85
+    Moves = OUTRAGE,LIGHTKICK
+Pokemon = KERPYMON,86
+    Moves = NIGHTMARE,DREAMEATER,CURSE
+Pokemon = JUSTIMONX,86
+    Moves = LIGHTPUNCH,HIJUMPKICK_2
+Pokemon = SLEIPMONX,87
+    Moves = DREAMEATER,BLIZZARD,MOONLIGHT
+Pokemon = UVEEDRAMON,88
+    Moves = OUTRAGE,SWORDSDANCE
+
+[CLASS_90, TERRY, 0]
+Pokemon = GSEADRAMON,92
+    Moves = DOOMDESIRE,WATERSPOUT,DARKEYES,HYDROCANNON
+Pokemon = SSERAPHIMN,93
+    Moves = PSYCHOBOOST,DARKEYES,NIGHTMARE
+Pokemon = SLAYERDRMN,94
+    Moves = SUPERPOWER,OUTRAGE,FOCUSPUNCH
+Pokemon = BREAKDRAMN,94
+    Moves = SUPERPOWER,IRONTAIL,OUTRAGE
+Pokemon = CHAOSMON,95
+    Moves = OVERHEAT,DARKEYES,PSYCHOBOOST
+Pokemon = OMNIMONAS,96
+    Moves = OUTRAGE,DOOMDESIRE,BLASTBURN
+
+[CLASS_90, TERRY, 0]
+Pokemon = PLUTOMON,92
+    Moves = DARKEYES,FUTURESIGHT
+Pokemon = BEELZEMNBM,93
+    Moves = DARKEYES,NIGHTMARE,PSYCHOBOOST
+Pokemon = CHRONOMNHM,94
+    Moves = PSYCHOBOOST,LIGHTBEAM,AEROBLAST
+Pokemon = SGREYMONRM,94
+    Moves = OVERHEAT,PSYCHOBOOST,OUTRAGE,DARKEYES
+Pokemon = RAVEMONBM,95
+    Moves = HIJUMPKICK_2,SKYATTACK,EXTREMESPEED
+Pokemon = DUKEMONCM,96
+    Moves = OUTRAGE,LIGHTPUNCH,BLASTBURN
+
+[CLASS_90, TERRY, 0]
+Pokemon = RASENMON,92
+    Moves = EARTHQUAKE,HIJUMPKICK_2,LIGHTPUNCH
+Pokemon = KERPYMONX,93
+    Moves = FUTURESIGHT,REST,DARKEYES,PSYCHOBOOST
+Pokemon = GAIOUMON,94
+    Moves = OUTRAGE,LIGHTPUNCH,HIJUMPKICK_2
+Pokemon = JUSTIMONX,94
+    Moves = DOUBLEEDGE,FOCUSPUNCH
+Pokemon = SLEIPMONX,95
+    Moves = BLIZZARD,LIGHTBEAM,PSYCHOBOOST
+Pokemon = UVEEDRAMNX,96
+    Moves = OUTRAGE,LIGHTPUNCH
+
+[CLASS_91, Patricia, 0]
+Pokemon = TAOMON,47
+
+[CLASS_91, Carly, 0]
+Pokemon = VADEMON,46
+
+[CLASS_91, Hope, 0]
+Pokemon = BAROMON,47
+
+[CLASS_91, Paula, 0]
+Pokemon = SEPIROTMON,48
+
+[CLASS_91, Laurel, 0]
+Pokemon = TAOMON,46
+Pokemon = SKLSATAMON,47
+
+[CLASS_91, Jody, 0]
+Pokemon = VADEMON,47
+
+[CLASS_91, Tammy, 0]
+Pokemon = JLOWEMON,48
+
+[CLASS_91, Ruth, 0]
+Pokemon = ARUKENIMON,48
+
+[CLASS_91, Karina, 0]
+Pokemon = NEFERTIMON,48
+
+[CLASS_91, Janae, 0]
+Pokemon = INFERMON,48
+
+[CLASS_91, Angelica, 0]
+Pokemon = BUTENMON,47
+Pokemon = TAOMON,47
+Pokemon = ANTYLAMON,47
+
+[CLASS_91, Emilia, 0]
+Pokemon = CHAKKAIMON,47
+
+[CLASS_91, Jennifer, 0]
+Pokemon = PIXIMON,48
+
+[CLASS_91, Amanda, 0]
+Pokemon = PHANTOMON,64
+Pokemon = PUMPKINMON,65
+
+[CLASS_91, Stacy, 0]
+Pokemon = SEPIROTMON,66
+
+[CLASS_91, Tasha, 0]
+Pokemon = TAOMON,64
+Pokemon = PHANTOMON,65
+Pokemon = MISTYMON,65
+
+[CLASS_65, Jeremy, 0]
+Pokemon = METEORMON,36
+Pokemon = BABONGAMON,35
+
+[CLASS_62, Alma, 0]
+Pokemon = HIMONITRMN,48
+Pokemon = MAMEMON,49
+Pokemon = MEICRAKMON,50
+
+[CLASS_62, Susie, 0]
+Pokemon = SHUTUMON,47
+Pokemon = FLAMEDRAMN,47
+Pokemon = LDEVIMON,48
+Pokemon = KGARURUMON,48
+Pokemon = RAPIDMONA,49
+
+[CLASS_62, Valerie, 0]
+Pokemon = GRAPLEOMON,49
+Pokemon = PANDAMON,50
+
+[CLASS_62, Gwen, 0]
+Pokemon = LILYMON,47
+Pokemon = MEICRKMNVM,48
+Pokemon = PARROTMON,49
+Pokemon = BKNUMEMON,50
+
+[CLASS_66, Virgil, 0]
+Pokemon = ASURAMON,49
+    Moves = SMOKESCREEN,SWIFT,BLAZEKICK
+Pokemon = GROUNDRAMN,50
+    Moves = SMOKESCREEN,ROCKSLIDE
+Pokemon = DDGREYMON,51
+    Moves = SMOKESCREEN,SLASH
+
+[CLASS_61, Flint, 0]
+Pokemon = TYRANOMON,21
+Pokemon = EXVEEMON,23
+
+[CLASS_62, Missy, 0]
+Pokemon = SISTERMNBA,68
+Pokemon = GRYPHONMON,69
+
+[CLASS_62, Irene, 0]
+Pokemon = PANDAMON,68
+Pokemon = HISYARYUMN,68
+Pokemon = EAGLEMON,69
+
+[CLASS_62, Dana, 0]
+Pokemon = LDEVIMON,38
+Pokemon = MEICOOMON,38
+Pokemon = PARROTMON,38
+
+[CLASS_62, Ariana, 0]
+Pokemon = DORUGAMON,37
+Pokemon = SMERAMON,37
+Pokemon = SILPHYMON,38
+Pokemon = CROWMON,38
+
+[CLASS_62, Leah, 0]
+Pokemon = BASTEMON,38
+Pokemon = CRESCEMON,38
+
+[CLASS_61, Justin, 0]
+Pokemon = WGARURUMON,49
+Pokemon = PAILDRAMON,50
+
+[CLASS_62, Yazmin, 0]
+Pokemon = KNIGHTMON,50
+Pokemon = VAJRAMON,50
+Pokemon = ASURAMON,50
+
+[CLASS_62, Kindra, 0]
+Pokemon = BASTEMON,49
+Pokemon = CUTEMON,50
+Pokemon = LDEVIMON,51
+
+[CLASS_62, Becky, 0]
+Pokemon = PANDAMON,51
+Pokemon = GRAPLEOMON,50
+
+[CLASS_62, Celia, 0]
+Pokemon = SSTARMON,52
+
+[CLASS_88, Brooks, 0]
+Pokemon = DERAMON,33
+
+[CLASS_88, Lamar, 0]
+Pokemon = BAKEMON,32
+Pokemon = WIZARDMON,33
+
+[CLASS_92, Eli ? Anne, 0]
+Pokemon = GOTSUMON,40
+Pokemon = PUMPKINMON,40
+
+[CLASS_93, Ray ? Tyra, 0]
+Pokemon = OMNIMON,89
+    Moves = SUPERPOWER,BLIZZARD,LIGHTKICK
+Pokemon = OMNIMONZ,89
+    Moves = MEGAHORN,DREAMEATER,NIGHTMARE,BLIZZARD
+
+[CLASS_94, Gia ? Jes, 0]
+Pokemon = GARUDAMON,48
+Pokemon = LILYMON,49
+
+[CLASS_92, Kiri ? Jan, 0]
+Pokemon = ANTYLAMON,50
+Pokemon = ANTYLAMON,50
+
+[CLASS_95, Ron ? Mya, 0]
+Pokemon = STIFFILMON,52
+Pokemon = GRADEMON,52
+
+[CLASS_94, Lea ? Jed, 0]
+Pokemon = KNIGHTMON,48
+Pokemon = MISTYMON,48
+
+[CLASS_96, Lia ? Luc, 0]
+Pokemon = MEANGEMON,67
+Pokemon = SUBMARIMON,67
+
+[CLASS_96, Lil ? Ian, 0]
+Pokemon = GSEADRAMON,79
+Pokemon = PLESIOMONX,79
+
+[CLASS_57, Ben, 0]
+Pokemon = KAPURIMON,28
+Pokemon = YAAMON,28
+
+[CLASS_57, Ben, 0]
+Pokemon = KAPURIMON,48
+Pokemon = CHAPMON,48
+
+[CLASS_57, Chad, 0]
+Pokemon = YAAMON,20
+Pokemon = KOKOMON,20
+
+[CLASS_59, Reli, 0]
+Pokemon = WANYAMON,20
+Pokemon = CHICCHIMON,20
+
+[CLASS_59, Reli, 0]
+Pokemon = PINAMON,28
+Pokemon = DORIMON,28
+
+[CLASS_57, Timmy, 0]
+Pokemon = KAPURIMON,19
+Pokemon = YAAMON,19
+Pokemon = CUPPIMON,19
+
+[CLASS_57, Timmy, 0]
+Pokemon = KAPURIMON,27
+Pokemon = YAAMON,27
+Pokemon = PICKMON,27
+
+[CLASS_57, Timmy, 0]
+Pokemon = KAPURIMON,52
+Pokemon = CHAPMON,52
+Pokemon = PICKMON,52
+
+[CLASS_57, Chad, 0]
+Pokemon = CHAPMON,28
+Pokemon = KOKOMON,28
+
+[CLASS_59, Janice, 0]
+Pokemon = PINAMON,20
+Pokemon = PINAMON,20
+
+[CLASS_59, Janice, 0]
+Pokemon = PINAMON,28
+Pokemon = PINAMON,28
+
+[CLASS_57, Chad, 0]
+Pokemon = CHAPMON,48
+Pokemon = HOPMON,48
+
+[CLASS_65, Franklin, 0]
+Pokemon = ELECMONV,25
+Pokemon = TSUKAIMON,25
+
+[CLASS_97, Prof. Oak, 0]
+Pokemon = YAAMON,5
+
+[CLASS_98, Brendan, 0]
+Pokemon = YAAMON,5
+
+[CLASS_98, May, 0]
+Pokemon = YAAMON,5
+
+[CLASS_98, Red, 0]
+Pokemon = YAAMON,5
+
+[CLASS_98, Leaf, 0]
+Pokemon = YAAMON,5
+
+[CLASS_85, Grunt, 0]
+Pokemon = BARBAMONX,99
+Pokemon = LEVIAMONX,99
+
+[CLASS_75, Jaclyn, 0]
+Pokemon = KUZUHAMON,98
+    Moves = NIGHTSHADE,PERISHSONG
+Pokemon = PARASIMON,98
+    Moves = PSYCHIC,NIGHTMARE,DARKEYES
+Pokemon = VENUSMON,98
+    Moves = PSYCHIC,PSYCHOBOOST
+
+[CLASS_99, Sharon, 0]
+Pokemon = MIGAOGAMON,76
+Pokemon = JUSTIMON,76
+
+[CLASS_100, Amira, 0]
+Pokemon = NEPTUNEMON,78
+Pokemon = PUKUMON,78
+Pokemon = JGAMEMON,78
+
+[CLASS_101, Alize, 0]
+Pokemon = CHERUBIMNX,96
+Pokemon = JDORULUMON,97
+Pokemon = RSPARROWMN,97
+
+[CLASS_102, Nicolas, 0]
+Pokemon = VCTGREYMON,98
+    Moves = RAZORLEAF,OVERHEAT,OUTRAGE,LIGHTPUNCH
+Pokemon = AGUMONBOC,99
+    Moves = RAZORLEAF,DRAGONCLAW
+
+[CLASS_102, Madeline, 0]
+Pokemon = ZDGARURUMN,98
+    Moves = PETALDANCE,LIGHTBEAM,SHEERCOLD
+Pokemon = GABUMONBOF,99
+    Moves = PETALDANCE,BLIZZARD,SHEERCOLD
+
+[CLASS_103, Nikki, 0]
+Pokemon = LOTUSMON,78
+Pokemon = ROSEMONBM,78
+
+[CLASS_104, Stanly, 0]
+Pokemon = CALUMON,98
+Pokemon = JUPITERMON,98
+Pokemon = JUNOMON,98
+
+[CLASS_105, Jacki, 0]
+Pokemon = RAFFLESIMN,96
+Pokemon = OPHANIMONX,97
+
+[CLASS_106, Daisy, 0]
+Pokemon = FUJINMON,98
+    Moves = DYNAMICPUNCH,DOUBLEEDGE
+
+[CLASS_66, Goon, 0]
+Pokemon = RTYRANOMON,76
+    Moves = HAZE,THUNDERBOLT
+Pokemon = BMAMEMON,77
+    Moves = ACIDARMOR,EARTHQUAKE
+
+[CLASS_66, Goon, 0]
+Pokemon = BMGARURUMN,78
+    Moves = HAZE,SHADOWBALL,IRONDEFENSE
+
+[CLASS_66, Goon, 0]
+Pokemon = MADLEOMNFM,78
+
+[CLASS_58, Anthony, 0]
+Pokemon = PUROROMON,8
+Pokemon = TENTOMON,9
+
+[CLASS_58, Charlie, 0]
+Pokemon = PUROROMON,8
+Pokemon = DOKUGUMON,10
+Pokemon = FLYMON,10
+
+[CLASS_92, Eli ? Anne, 0]
+Pokemon = KAKKINMON,28
+Pokemon = DOKUGUMON,10
+
+[CLASS_57, Johnson, 0]
+Pokemon = AEGICHSMNB,68
+Pokemon = AGUMONBOC,69
+Pokemon = GABUMONBOF,69
+
+[CLASS_66, Ricardo, 0]
+Pokemon = BMGREYMON,40
+    Moves = SLUDGE,CRUSHCLAW
+Pokemon = BWGARURUMN,41
+    Moves = SLUDGE,HYPERFANG,ROAR
+Pokemon = BWGROWLMON,41
+    Moves = MINIMIZE,CRUSHCLAW
+
+[CLASS_66, Jaren, 0]
+Pokemon = CERBERMNWM,40
+Pokemon = GRAPLEOMON,41
+
+[CLASS_85, Grunt, 0]
+Pokemon = GRANDRACMN,95
+Pokemon = DAEMONX,96
+
+[CLASS_85, Grunt, 0]
+Pokemon = DYNASMON,95
+Pokemon = DKNIGHTMNX,95
+Pokemon = VOLCNCDRMN,96
+Pokemon = SMAMMTHMNX,96
+
+[CLASS_85, Grunt, 0]
+Pokemon = MADLEOMNFM,96
+Pokemon = BARBAMONX,97
+Pokemon = EOSMONM,97
+
+[CLASS_85, Grunt, 0]
+Pokemon = APOLLOMONW,98
+Pokemon = LILITHMONX,98
+Pokemon = LUCEMONX,98
+
+[CLASS_85, Grunt, 0]
+Pokemon = LUCEMONX,99
+Pokemon = DAEMONX,99
+Pokemon = LILITHMONX,99
+
+[CLASS_85, Grunt, 0]
+Pokemon = BEELZEMONX,99
+Pokemon = BELPHEMONX,99
+
+[CLASS_85, Admin, 0]
+Pokemon = CAOSDRAMON,99
+    Moves = SLUDGEBOMB,DOOMDESIRE
+Pokemon = OMNIMONZ,99
+    Moves = SLUDGEBOMB,BLIZZARD,DARKEYES
+Pokemon = ARMAGEDOMN,100
+    Moves = SLUDGEBOMB,SKULLBASH,PSYCHOBOOST,OUTRAGE
+
+[CLASS_85, Admin, 0]
+Pokemon = SHOUTMNDXB,99
+    Moves = CONFUSERAY,OUTRAGE,DOOMDESIRE
+Pokemon = DKNGHTMNBM,99
+    Moves = SLUDGEBOMB,DARKEYES,PSYCHOBOOST
+Pokemon = BAGRAMONDM,100
+    Moves = FLAMETHROWER,EARTHQUAKE,PSYCHOBOOST,DOOMDESIRE
+
+[CLASS_82, Gideon, 0]
+Pokemon = DYNASMONX,99
+    Moves = SWIFT,DARKEYES,PSYCHOBOOST
+Pokemon = CRUSADRMNX,99
+    Moves = SPARK,DARKEYES,PSYCHOBOOST,MOONLIGHT
+Pokemon = CRANIUMONX,99
+    Moves = SCREECH,DOUBLEEDGE,SKULLBASH
+Pokemon = RAIDENMON,100
+    Moves = TRIATTACK,FISSURE,DOOMDESIRE
+Pokemon = OGUDOMON,100
+    Moves = TRIATTACK,EARTHQUAKE,PSYCHOBOOST
+
+[CLASS_74, Amara, 0]
+Pokemon = NEPTUNEMON,75
+Pokemon = SURFIMON,76
+Pokemon = PLESIOMON,77
+
+[CLASS_74, Maria, 0]
+Pokemon = MEANGEMON,76
+Pokemon = SURFIMON,77
+
+[CLASS_74, Abigail, 0]
+Pokemon = MEANGEMON,75
+Pokemon = MESEADRAMN,76
+Pokemon = PUKUMON,75
+
+[CLASS_70, Finn, 0]
+Pokemon = JGAMEMON,77
+
+[CLASS_70, Garrett, 0]
+Pokemon = SUBMARIMON,76
+Pokemon = MPIRANIMON,76
+Pokemon = PLESIOMON,76
+
+[CLASS_69, Tommy, 0]
+Pokemon = SWIMMON,77
+Pokemon = GOMAMON,77
+Pokemon = SYAKOMON,77
+Pokemon = NEPTUNEMON,76
+Pokemon = CHOOKMON,77
+
+[CLASS_99, Tanya, 0]
+Pokemon = BLEOMON,76
+Pokemon = BLILYMON,76
+
+[CLASS_80, Shea, 0]
+Pokemon = BMAMEMON,76
+Pokemon = GAIOUMON,76
+
+[CLASS_80, Hugh, 0]
+Pokemon = MERVAMON,76
+Pokemon = JIJIMON,77
+
+[CLASS_61, Bryce, 0]
+Pokemon = DUKEMON,76
+Pokemon = MEGIDRAMON,75
+Pokemon = METEMON,76
+
+[CLASS_62, Claire, 0]
+Pokemon = UVEEDRAMON,75
+Pokemon = GODDRAMON,75
+Pokemon = MAGNAMON,76
+Pokemon = IDRAMONFM,76
+
+[CLASS_95, Mik ? Kia, 0]
+Pokemon = BSTINGMON,76
+Pokemon = BGOLEMON,76
+
+[CLASS_103, Violet, 0]
+Pokemon = ROSEMON,78
+Pokemon = LOTUSMON,78
+Pokemon = RAFFLESIMN,79
+
+[CLASS_100, Alexis, 0]
+Pokemon = MEANGEMON,77
+Pokemon = MESEADRAMN,78
+Pokemon = JGAMEMON,78
+Pokemon = PLESIOMONX,79
+
+[CLASS_92, Joy ? Meg, 0]
+Pokemon = ROSEMON,80
+Pokemon = LOTUSMON,80
+
+[CLASS_74, Tisha, 0]
+Pokemon = GSEADRAMON,80
+
+[CLASS_106, Celina, 0]
+Pokemon = UVEEDRAMNX,98
+    Moves = FLY,LIGHTPUNCH
+
+[CLASS_106, Rayna, 0]
+Pokemon = ORNISMON,98
+    Moves = CROSSCHOP,PSYCHOBOOST,LIGHTBEAM
+
+[CLASS_105, Gillian, 0]
+Pokemon = RAPIDMONAX,96
+Pokemon = CALUMON,97
+Pokemon = JUNOMON,98
+
+[CLASS_57, Destin, 0]
+Pokemon = OMNIMON,97
+Pokemon = OMNIMONAS,97
+
+[CLASS_70, Toby, 0]
+Pokemon = SUIJINMON,96
+Pokemon = PUKUMON,97
+Pokemon = PLESIOMONX,97
+
+[CLASS_85, Grunt, 0]
+Pokemon = BOLTMON,96
+Pokemon = CAOSDRAMON,97
+Pokemon = BEELZEMNBM,97
+
+[CLASS_85, Grunt, 0]
+Pokemon = MERVAMONX,96
+    Moves = MEMENTO,FUTURESIGHT,DARKEYES
+Pokemon = OMNIMONZ,97
+    Moves = HAZE,BLIZZARD,DARKEYES
+
+[CLASS_85, Grunt, 0]
+Pokemon = BEELSTRMNX,96
+Pokemon = BWGREYMON,97
+Pokemon = BMGARURMNX,97
+
+[CLASS_79, Milo, 0]
+Pokemon = VALKYRIMON,96
+Pokemon = RAVEMONBM,97
+
+[CLASS_79, Chaz, 0]
+Pokemon = CHRONOMNDM,97
+Pokemon = CHRONOMNHM,97
+
+[CLASS_79, Harold, 0]
+Pokemon = GRYPHONMON,97
+Pokemon = BEELZEMONX,97
+
+[CLASS_69, Tylor, 0]
+Pokemon = SURFIMON,98
+Pokemon = NEPTUNEMON,98
+
+[CLASS_70, Mymo, 0]
+Pokemon = NEPTUNEMON,98
+Pokemon = AMERMAIMON,98
+
+[CLASS_74, Nicole, 0]
+Pokemon = CSEADRAMON,98
+
+[CLASS_96, Ava ? Geb, 0]
+Pokemon = GSEADRAMON,98
+Pokemon = CSEADRAMON,98
+
+[CLASS_103, Rose, 0]
+Pokemon = RAFFLESIMN,98
+Pokemon = ROSEMONBM,98
+
+[CLASS_70, Samir, 0]
+Pokemon = DIANAMON,98
+
+[CLASS_74, Denise, 0]
+Pokemon = MEANGEMON,97
+Pokemon = PLESIOMONX,98
+
+[CLASS_92, Miu ? Mia, 0]
+Pokemon = AMTHERIUMN,98
+Pokemon = ASPHINXMON,98
+
+[CLASS_65, Earl, 0]
+Pokemon = BGOLEMON,98
+Pokemon = BLASTMON,98
+
+[CLASS_104, Foster, 0]
+Pokemon = SHOUTMNDXB,99
+
+[CLASS_104, Larry, 0]
+Pokemon = DINOREXMON,98
+Pokemon = SPINOMON,98
+
+[CLASS_65, Daryl, 0]
+Pokemon = MARSMON,98
+
+[CLASS_63, Hector, 0]
+Pokemon = CDUKEMONC,98
+Pokemon = ARGOMONM,99
+
+[CLASS_75, Dario, 0]
+Pokemon = BAGRAMON,98
+    Moves = CRUNCH,SUPERPOWER,PERISHSONG,FUTURESIGHT
+
+[CLASS_75, Rodette, 0]
+Pokemon = KUZUHAMON,98
+    Moves = NIGHTSHADE,PERISHSONG
+Pokemon = VENUSMON,97
+    Moves = PSYCHIC,PSYCHOBOOST
+Pokemon = CHRONOMNHM,99
+    Moves = PSYCHIC,PSYCHOBOOST,LIGHTBEAM
+
+[CLASS_103, Miah, 0]
+Pokemon = RAFFLESIMN,98
+Pokemon = ROSEMONBM,99
+
+[CLASS_94, Eve ? Jon, 0]
+Pokemon = JESMONX,98
+Pokemon = GANKOOMONX,98
+
+[CLASS_77, Mason, 0]
+Pokemon = DYNASMON,97
+    Moves = SWIFT,DREAMEATER,FUTURESIGHT
+Pokemon = DARKDRAMON,98
+    Moves = SPIKES,METEORMASH,NIGHTMARE,DARKEYES
+Pokemon = BLEOMON,98
+    Moves = SWIFT,LIGHTKICK,HIJUMPKICK_2,LIGHTPUNCH
+Pokemon = CHAOSMON,99
+    Moves = SPIKES,BLASTBURN,MOONLIGHT
+
+[CLASS_99, Cyndy, 0]
+Pokemon = BSTINGMON,98
+Pokemon = BMAMEMON,98
+Pokemon = DUFTMON,99
+
+[CLASS_99, Jocelyn, 0]
+Pokemon = BLEOMON,77
+Pokemon = BSTINGMON,78
+
+[CLASS_78, Evan, 0]
+Pokemon = BMGARURMNX,98
+Pokemon = RAIJINMON,98
+Pokemon = EBONWUMON,99
+
+[CLASS_63, Mark, 0]
+Pokemon = BLKGUILMON,33
+Pokemon = SGOBLIMON,33
+
+[CLASS_102, Logan, 0]
+Pokemon = MAGNAMON,77
+    Moves = SLEEPPOWDER,CALMMIND,DYNAMICPUNCH,METEORMASH
+Pokemon = APOLLOMON,78
+    Moves = EGGBOMB,FIREBLAST,LIGHTKICK
+
+[CLASS_102, Jackson, 0]
+Pokemon = DDORUGORMN,98
+    Moves = SLAM,SUPERPOWER,DARKEYES
+Pokemon = AKABUTERMN,98
+    Moves = CONFUSION,VOLTTACKLE,DARKEYES
+Pokemon = BAIHUMON,99
+    Moves = CONFUSION,BELLYDRUM,DOOMDESIRE,SKULLBASH
+
+[CLASS_102, Beth, 0]
+Pokemon = SLEOMON,76
+Pokemon = DTIGERMON,76
+Pokemon = JDORULUMON,77
+
+[CLASS_102, Katelyn, 0]
+Pokemon = CERESMONM,98
+    Moves = EGGBOMB,PSYCHOBOOST,DARKEYES
+
+[CLASS_86, Leroy, 0]
+Pokemon = JESMONX,98
+    Moves = TAKEDOWN,DOOMDESIRE,LIGHTKICK
+Pokemon = MEGIDRAMNX,98
+    Moves = PSYCHIC,OVERHEAT,DARKEYES
+Pokemon = ARGOMONM,99
+    Moves = DIZZYPUNCH,NIGHTMARE,DARKEYES
+Pokemon = SUSANOOMON,98
+    Moves = CROSSCHOP,BLASTBURN,DOOMDESIRE
+Pokemon = ZHUQIAOMON,99
+    Moves = SLASH,OVERHEAT,BLASTBURN
+
+[CLASS_86, Michelle, 0]
+Pokemon = IDRAMONDM,98
+    Moves = SLASH
+Pokemon = LILITHMONX,98
+    Moves = ICEBEAM,DARKEYES,PAINSPLIT
+Pokemon = EXAMON,99
+    Moves = FLAMETHROWER,DOUBLEEDGE,OVERHEAT
+Pokemon = BABAMON,98
+    Moves = BOUNCE,FUTURESIGHT,DARKEYES
+Pokemon = AZULONGMON,99
+    Moves = CRUNCH,IRONTAIL,BLASTBURN
+
+[CLASS_93, Lex ? Nya, 0]
+Pokemon = OMNIMONX,99
+    Moves = BODYSLAM,MOONLIGHT,LIGHTBEAM
+Pokemon = OMNIMONZD,99
+    Moves = THRASH,FUTURESIGHT,OVERHEAT
+
+[CLASS_104, Brandon, 0]
+Pokemon = APOLLOMON,99
+
+[CLASS_104, Benjamin, 0]
+Pokemon = VENUSMON,97
+    Moves = EARTHQUAKE,PSYCHOBOOST
+Pokemon = JUNOMON,98
+    Moves = EARTHQUAKE,SHADOWBALL,DREAMEATER,NIGHTMARE
+Pokemon = JUPITERMON,99
+    Moves = EARTHQUAKE,LIGHTKICK
+
+[CLASS_106, Edna, 0]
+Pokemon = SPLASHMON,99
+    Moves = FAKEOUT,WATERSPOUT,RAINDANCE,HYDROCANNON
+
+[CLASS_88, Clifford, 0]
+Pokemon = NPUMPKINMN,98
+Pokemon = RAGUELMON,99
+
+[CLASS_105, Selphy, 0]
+Pokemon = AIRISMON,98
+    Moves = THUNDER,LIGHTKICK,LIGHTPUNCH
+Pokemon = CRUSADRMNX,99
+    Moves = DARKEYES,PSYCHOBOOST,MOONLIGHT,DOOMDESIRE
+
+[CLASS_104, Lawson, 0]
+Pokemon = DTIGERMON,97
+Pokemon = GODDRAMONX,97
+Pokemon = JUPITERMON,98
+
+[CLASS_75, Laura, 0]
+Pokemon = KUZUHAMON,97
+Pokemon = EBEMONX,97
+Pokemon = AWISEMON,98
+
+[CLASS_101, Bethany, 0]
+Pokemon = KERPYMONX,98
+
+[CLASS_101, Allison, 0]
+Pokemon = DURANDAMON,97
+Pokemon = BRYWELDRMN,97
+Pokemon = RASENMON,98
+
+[CLASS_58, Garret, 0]
+Pokemon = TKABUTERMN,98
+
+[CLASS_58, Jonah, 0]
+Pokemon = TKABUTERMN,97
+Pokemon = HKABUTRMNX,97
+Pokemon = ZAMIELMON,98
+Pokemon = GKUWAGAMON,98
+
+[CLASS_58, Vance, 0]
+Pokemon = HKABUTRMNX,98
+Pokemon = TVESPAMON,98
+
+[CLASS_57, Nash, 0]
+Pokemon = MAGNAMONX,97
+Pokemon = SHOUTMONDX,98
+Pokemon = GANKOOMONX,97
+
+[CLASS_57, Cordell, 0]
+Pokemon = CRANIUMMON,97
+Pokemon = DUKEMONX,98
+
+[CLASS_59, Dalia, 0]
+Pokemon = OPHANIMONC,97
+Pokemon = OPHANIMONX,97
+Pokemon = OPHANMNFMX,98
+Pokemon = MASTEMON,98
+
+[CLASS_59, Joana, 0]
+Pokemon = OPHANIMONC,98
+
+[CLASS_61, Riley, 0]
+Pokemon = SLAYERDRMN,98
+Pokemon = EXAMON,98
+
+[CLASS_62, Marcy, 0]
+Pokemon = OPHANMNFMX,97
+Pokemon = ATROIAMON,98
+Pokemon = DUFTMONLM,98
+
+[CLASS_104, Layton, 0]
+Pokemon = JUSTIMONX,97
+Pokemon = BELPHEMNRM,98
+Pokemon = AGARURUMON,98
+
+[CLASS_62, Kelsey, 0]
+Pokemon = KYOKYOMON,21
+Pokemon = CHICCHIMON,21
+
+[CLASS_62, Kelsey, 0]
+Pokemon = ARKADIMONB,29
+Pokemon = DORIMON,29
+
+[CLASS_62, Kelsey, 0]
+Pokemon = ARKADIMONB,49
+Pokemon = DORIMON,49
+
+[CLASS_61, Ricky, 0]
+Pokemon = NYAROMON,22
+
+[CLASS_61, Ricky, 0]
+Pokemon = MOTIMON,30
+
+[CLASS_61, Ricky, 0]
+Pokemon = MOTIMON,55
+
+[CLASS_61, Jeff, 0]
+Pokemon = TSUMEMON,21
+Pokemon = KAPURIMON,21
+
+[CLASS_61, Jeff, 0]
+Pokemon = BUDMON,29
+Pokemon = KAPURIMON,29
+
+[CLASS_61, Jeff, 0]
+Pokemon = BUDMON,54
+Pokemon = KAPURIMON,54
+
+[CLASS_62, Isabelle, 0]
+Pokemon = PINAMON,21
+Pokemon = PINAMON,21
+Pokemon = WANYAMON,18
+
+[CLASS_62, Isabelle, 0]
+Pokemon = PINAMON,29
+Pokemon = PINAMON,29
+Pokemon = PINAMON,26
+
+[CLASS_62, Isabelle, 0]
+Pokemon = PINAMON,47
+Pokemon = PINAMON,47
+Pokemon = PAGUMON,50
+
+[CLASS_57, Yasu, 0]
+Pokemon = DMERAMON,22
+Pokemon = KAPURIMON,22
+Pokemon = KAPURIMON,22
+
+[CLASS_57, Yasu, 0]
+Pokemon = KAPURIMON,47
+Pokemon = KAPURIMON,47
+Pokemon = KAPURIMON,47
+
+[CLASS_68, Bernie, 0]
+Pokemon = DRACMON,28
+Pokemon = DRACMON,28
+Pokemon = DRACMON,28
+
+[CLASS_72, Darian, 0]
+Pokemon = TERRIERMON,29
+Pokemon = MISSIMON,29
+
+[CLASS_61, Chris, 0]
+Pokemon = TERRIERMON,24
+Pokemon = BUKAMON,24
+
+[CLASS_61, Chris, 0]
+Pokemon = TERRIERMON,29
+Pokemon = TANEMON,29
+
+[CLASS_61, Chris, 0]
+Pokemon = AGUMONS,54
+Pokemon = TANEMON,54
+
+[CLASS_62, Alicia, 0]
+Pokemon = VEEMON,25
+
+[CLASS_62, Alicia, 0]
+Pokemon = WORMMON,30
+
+[CLASS_62, Alicia, 0]
+Pokemon = WORMMON,55
+
+[CLASS_65, Jeremy, 0]
+Pokemon = ELECMONV,30
+Pokemon = KUDAMON,28
+
+[CLASS_63, Mark, 0]
+Pokemon = SUNARIZAMN,54
+Pokemon = SGOBLIMON,54
+
+[CLASS_63, Herman, 0]
+Pokemon = SHAMAMON,29
+Pokemon = KUNEMON,29
+
+[CLASS_63, Herman, 0]
+Pokemon = SHAMAMON,54
+Pokemon = KUNEMON,54
+
+[CLASS_65, Trent, 0]
+Pokemon = KUDAMON,31
+Pokemon = TSUKAIMON,31
+
+[CLASS_59, Megan, 0]
+Pokemon = PINAMON,22
+Pokemon = KAPURIMON,22
+Pokemon = KYOKYOMON,23
+Pokemon = VEEMON,21
+Pokemon = KYAROMON,22
+
+[CLASS_59, Megan, 0]
+Pokemon = PAGUMON,46
+Pokemon = KAPURIMON,47
+Pokemon = ARKADIMONB,47
+Pokemon = WORMMON,47
+Pokemon = XIAOMON,48
+
+[CLASS_64, Glenn, 0]
+Pokemon = IMPMON,28
+Pokemon = IMPMON,28
+Pokemon = IMPMON,28
+
+[CLASS_72, Rich, 0]
+Pokemon = TERRIERMON,30
+Pokemon = MISSIMON,30
+
+[CLASS_66, Jaren, 0]
+Pokemon = IMPMON,28
+Pokemon = IMPMON,30
+
+[CLASS_69, Elliot, 0]
+Pokemon = LALAMON,28
+Pokemon = KERAMON,28
+Pokemon = ZUBAMON,28
+Pokemon = SANGOMON,28
+
+[CLASS_76, Luca, 0]
+Pokemon = OTAMAMON,33
+Pokemon = OTAMAMON,33
+
+[CLASS_73, Sheila, 0]
+Pokemon = KAKKINMON,49
+Pokemon = WORMMON,49
+
+[CLASS_79, Robert, 0]
+Pokemon = PINAMON,28
+Pokemon = PINAMON,28
+Pokemon = BUDMON,28
+Pokemon = BUDMON,28
+
+[CLASS_79, Robert, 0]
+Pokemon = PAGUMON,47
+Pokemon = PAGUMON,47
+Pokemon = BUDMON,47
+Pokemon = BUDMON,47
+
+[CLASS_62, Susie, 0]
+Pokemon = PINAMON,27
+Pokemon = VEEMON,27
+Pokemon = KAPURIMON,27
+Pokemon = KYAROMON,27
+Pokemon = VEEMON,27
+
+[CLASS_62, Susie, 0]
+Pokemon = PINAMON,47
+Pokemon = WORMMON,47
+Pokemon = KAPURIMON,47
+Pokemon = KYAROMON,47
+Pokemon = WORMMON,47
+
+[CLASS_62, Susie, 0]
+Pokemon = PAGUMON,52
+Pokemon = WORMMON,52
+Pokemon = KAPURIMON,52
+Pokemon = XIAOMON,52
+Pokemon = WORMMON,52
+
+[CLASS_66, Lukas, 0]
+Pokemon = BLKAGUMON,47
+Pokemon = BLKAGUMON,47
+Pokemon = IMPMON,47
+Pokemon = BLKGABUMON,47
+
+[CLASS_79, Benny, 0]
+Pokemon = BUDMON,32
+Pokemon = BUDMON,32
+
+[CLASS_79, Benny, 0]
+Pokemon = BUDMON,49
+Pokemon = BUDMON,49
+
+[CLASS_79, Marlon, 0]
+Pokemon = BUDMON,30
+Pokemon = GAZIMON,30
+Pokemon = BUDMON,30
+
+[CLASS_79, Marlon, 0]
+Pokemon = BUDMON,48
+Pokemon = GIZAMON,48
+Pokemon = BUDMON,48
+
+[CLASS_73, Grace, 0]
+Pokemon = PAGUMON,49
+Pokemon = SUNMON,49
+
+[CLASS_79, Chester, 0]
+Pokemon = GIZAMON,30
+Pokemon = GIZAMON,30
+Pokemon = GAZIMON,30
+
+[CLASS_79, Chester, 0]
+Pokemon = GIZAMON,48
+Pokemon = GIZAMON,48
+Pokemon = GIZAMON,48
+
+[CLASS_62, Becky, 0]
+Pokemon = KYAROMON,32
+Pokemon = XIAOMON,32
+
+[CLASS_62, Becky, 0]
+Pokemon = KYAROMON,49
+Pokemon = XIAOMON,49
+
+[CLASS_62, Becky, 0]
+Pokemon = XIAOMON,54
+Pokemon = XIAOMON,54
+
+[CLASS_95, Ron ? Mya, 0]
+Pokemon = SNOWAGUMON,33
+Pokemon = SOLARMON,33
+
+[CLASS_95, Ron ? Mya, 0]
+Pokemon = SNOWAGUMON,51
+Pokemon = SOLARMON,51
+
+[CLASS_95, Ron ? Mya, 0]
+Pokemon = SNOWAGUMON,56
+Pokemon = SOLARMON,56
+
+[CLASS_66, Ruben, 0]
+Pokemon = BLKGABUMON,48
+Pokemon = BLKGABUMON,48
+Pokemon = BLKGABUMON,48
+
+[CLASS_71, Camron, 0]
+Pokemon = RENAMON,49
+Pokemon = ELECMONV,49
+
+[CLASS_66, Jaxon, 0]
+Pokemon = BLKGABUMON,49
+Pokemon = IMPMON,49
+
+[CLASS_71, Isaiah, 0]
+Pokemon = ELECMONV,49
+Pokemon = CHUUMON,49
+
+[CLASS_71, Corey, 0]
+Pokemon = RENAMON,49
+Pokemon = CHUUMON,49
+
+[CLASS_79, Jacob, 0]
+Pokemon = BUDMON,28
+Pokemon = TSUMEMON,28
+Pokemon = BUDMON,28
+Pokemon = TSUMEMON,28
+
+[CLASS_79, Jacob, 0]
+Pokemon = BUDMON,47
+Pokemon = BUDMON,47
+Pokemon = BUDMON,47
+Pokemon = BUDMON,47
+
+[CLASS_74, Alice, 0]
+Pokemon = ZUBAMON,49
+Pokemon = ZUBAMON,49
+
+[CLASS_70, Darrin, 0]
+Pokemon = SANGOMON,52
+Pokemon = SANGOMON,52
+Pokemon = SANGOMON,52
+Pokemon = SANGOMON,52
+
+[CLASS_62, Missy, 0]
+Pokemon = ZUBAMON,49
+Pokemon = ZUBAMON,49
+
+[CLASS_62, Missy, 0]
+Pokemon = ZUBAMON,54
+Pokemon = ZUBAMON,54
+
+[CLASS_69, Wade, 0]
+Pokemon = LUNAMON,47
+Pokemon = LUNAMON,47
+Pokemon = LUNAMON,47
+Pokemon = LUNAMON,47
+Pokemon = LUNAMON,47
+Pokemon = LUNAMON,47
+
+[CLASS_70, Jack, 0]
+Pokemon = VORVOMON,50
+
+[CLASS_96, Lil ? Ian, 0]
+Pokemon = SANGOMON,50
+Pokemon = VORVOMON,50
+
+[CLASS_96, Lil ? Ian, 0]
+Pokemon = SANGOMON,55
+Pokemon = VORVOMON,55
+
+[CLASS_70, Finn, 0]
+Pokemon = VORVOMON,50
+
+[CLASS_99, Sharon, 0]
+Pokemon = GUILMON,50
+Pokemon = RENAMON,50
+
+[CLASS_99, Sharon, 0]
+Pokemon = RENAMON,55
+Pokemon = RENAMON,55
+
+[CLASS_99, Tanya, 0]
+Pokemon = SOLARMON,50
+Pokemon = SNOWAGUMON,50
+
+[CLASS_99, Tanya, 0]
+Pokemon = SOLARMON,55
+Pokemon = SNOWAGUMON,55
+
+[CLASS_80, Shea, 0]
+Pokemon = ELECMONV,50
+Pokemon = ELECMONV,50
+
+[CLASS_80, Shea, 0]
+Pokemon = ELECMONV,55
+Pokemon = CHUUMON,55
+
+[CLASS_80, Hugh, 0]
+Pokemon = ELECMONV,50
+Pokemon = ELECMONV,50
+
+[CLASS_80, Hugh, 0]
+Pokemon = ELECMONV,55
+Pokemon = CHUUMON,55
+
+[CLASS_95, Mik ? Kia, 0]
+Pokemon = ELECMONV,51
+Pokemon = RENAMON,51
+
+[CLASS_95, Mik ? Kia, 0]
+Pokemon = CHUUMON,56
+Pokemon = RENAMON,56
+
+[CLASS_100, Amira, 0]
+Pokemon = PUKUMON,78
+Pokemon = REGALECSMN,78
+Pokemon = MEANGEMON,79
+
+[CLASS_92, Joy ? Meg, 0]
+Pokemon = ROSEMON,78
+Pokemon = LOTUSMON,78
+
+[CLASS_106, Rayna, 0]
+Pokemon = HYOUGAMON,54
+    Moves = CROSSCHOP,MEGAHORN,DOUBLEEDGE,SELFDESTRUCT
+
+[CLASS_57, Destin, 0]
+Pokemon = KAPURIMON,53
+Pokemon = PAGUMON,53
+
+[CLASS_101, Alize, 0]
+Pokemon = KYAROMON,53
+Pokemon = KAKKINMON,53
+Pokemon = REDVEGIMON,53
+
+[CLASS_94, Gia ? Jes, 0]
+Pokemon = DORIMON,30
+Pokemon = ARKADIMONB,30
+
+[CLASS_94, Gia ? Jes, 0]
+Pokemon = SAKUTTOMON,55
+Pokemon = PUROROMON,55
+
+[CLASS_79, Milo, 0]
+Pokemon = PINAMON,53
+Pokemon = PAGUMON,55
+
+[CLASS_79, Chaz, 0]
+Pokemon = BUDMON,53
+Pokemon = BUDMON,55
+
+[CLASS_79, Harold, 0]
+Pokemon = ANKYLOMON,53
+Pokemon = ANKYLOMON,55
+
+[CLASS_74, Nicole, 0]
+Pokemon = REDVEGIMON,54
+
+[CLASS_75, Jaclyn, 0]
+Pokemon = LEOMON,52
+    Moves = PSYCHIC,CONFUSERAY,FUTURESIGHT,WISH
+Pokemon = KUNEMON,52
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,YAWN
+Pokemon = DDEVIMON,54
+    Moves = PSYCHIC,FUTURESIGHT,RECOVER,REFLECT
+
+[CLASS_70, Samir, 0]
+Pokemon = CORONAMON,55
+
+[CLASS_65, Earl, 0]
+Pokemon = KUDAMON,54
+Pokemon = CHUUMON,54
+
+[CLASS_104, Larry, 0]
+Pokemon = ELECMONV,54
+Pokemon = ELECMONV,54
+
+[CLASS_63, Hector, 0]
+Pokemon = SUNARIZAMN,55
+Pokemon = ARGOMONR,55
+
+[CLASS_75, Dario, 0]
+Pokemon = OGREMON,56
+    Moves = CRUNCH,PSYBEAM,ODORSLEUTH,AGILITY
+
+[CLASS_75, Rodette, 0]
+Pokemon = LEOMON,53
+    Moves = PSYCHIC,CONFUSERAY,WISH,FUTURESIGHT
+Pokemon = LOPMON,53
+    Moves = PSYCHIC,DISABLE,PSYCHUP,FUTURESIGHT
+Pokemon = LOPMON,53
+    Moves = PSYCHIC,HYPNOSIS,PSYCHUP,FUTURESIGHT
+
+[CLASS_77, Mason, 0]
+Pokemon = OTAMAMON,52
+Pokemon = BNANIMON,52
+Pokemon = OTAMAMON,52
+Pokemon = BNANIMON,52
+
+[CLASS_102, Nicolas, 0]
+Pokemon = VCTGREYMON,98
+    Moves = RAZORLEAF,OVERHEAT,OUTRAGE,LIGHTPUNCH
+Pokemon = AGUMONBOC,99
+    Moves = RAZORLEAF,DRAGONCLAW
+
+[CLASS_102, Madeline, 0]
+Pokemon = ZDGARURUMN,98
+    Moves = PETALDANCE,LIGHTBEAM,SHEERCOLD
+Pokemon = GABUMONBOF,99
+    Moves = PETALDANCE,BLIZZARD,SHEERCOLD
+
+[CLASS_99, Cyndy, 0]
+Pokemon = RENAMON,54
+Pokemon = DTYRANOMON,54
+Pokemon = CHUUMON,54
+
+[CLASS_78, Evan, 0]
+Pokemon = HOPMON,52
+Pokemon = SGOBLIMON,52
+Pokemon = STRIKEDRMN,55
+
+[CLASS_102, Jackson, 0]
+Pokemon = FANBEEMON,53
+    Moves = SLAM,MEGADRAIN,BIND,INGRAIN
+Pokemon = PENGUIMON,54
+    Moves = CONFUSION,EGGBOMB,STUNSPORE,REFLECT
+Pokemon = PENGUIMON,55
+    Moves = CONFUSION,EGGBOMB,SLEEPPOWDER,STOMP
+
+[CLASS_102, Katelyn, 0]
+Pokemon = GHOSTMON,56
+    Moves = EGGBOMB,DEFENSECURL,MINIMIZE,SOFTBOILED
+
+[CLASS_86, Leroy, 0]
+Pokemon = SUNARIZAMN,52
+    Moves = EARTHQUAKE,HORNDRILL,ROCKBLAST,DARKEYES
+Pokemon = KUNEMON,54
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,DISABLE
+Pokemon = ARGOMONR,52
+    Moves = DIZZYPUNCH,BITE,ENDURE,REVERSAL
+Pokemon = CHUUMON,52
+    Moves = CROSSCHOP,VITALTHROW,REVENGE,SEISMICTOSS
+Pokemon = STRIKEDRMN,55
+    Moves = SLASH,FAINTATTACK,SNORE,REST
+
+[CLASS_86, Michelle, 0]
+Pokemon = WORMMON,53
+    Moves = SLASH,SCREECH,FAINTATTACK,BITE
+Pokemon = GOTSUMON,53
+    Moves = ICEBEAM,TAKEDOWN,ICYWIND,SHEERCOLD
+Pokemon = BABYDMON,54
+    Moves = FLAMETHROWER,CONFUSERAY,WILLOWISP,GRUDGE
+Pokemon = WPCHESSMON,54
+    Moves = BOUNCE,AGILITY,FIRESPIN,TAKEDOWN
+Pokemon = OGREMON,56
+    Moves = CRUNCH,PSYBEAM,STOMP,ODORSLEUTH
+
+[CLASS_93, Lex ? Nya, 0]
+Pokemon = BAKEMON,57
+    Moves = BODYSLAM,MILKDRINK,GROWL,DEFENSECURL
+Pokemon = BLUCOMON,57
+    Moves = TAKEDOWN,DARKEYES,PURSUIT,SWAGGER
+
+[CLASS_58, Colton, 0]
+Pokemon = UPAMON,19
+Pokemon = GIGIMON,19
+Pokemon = UPAMON,19
+
+[CLASS_58, Colton, 0]
+Pokemon = POROMON,27
+Pokemon = VIXIMON,27
+Pokemon = POROMON,27
+
+[CLASS_58, Colton, 0]
+Pokemon = POROMON,51
+Pokemon = GUMMYMON,54
+Pokemon = POROMON,51
+
+[CLASS_70, Matthew, 0]
+Pokemon = LALAMON,49
+Pokemon = FALCOMON,49
+
+[CLASS_70, Tony, 0]
+Pokemon = SANGOMON,49
+Pokemon = SANGOMON,49
+
+[CLASS_74, Melissa, 0]
+Pokemon = LALAMON,49
+Pokemon = ZUBAMON,49
+
+[CLASS_87, Lorelei, 0]
+Pokemon = CSEADRAMON,100
+Pokemon = GSEADRAMON,100
+Pokemon = PLESIOMONX,100
+Pokemon = AMERMAIMON,100
+Pokemon = LEVIAMONX,100
+Pokemon = AEGISDRAMN,100
+
+[CLASS_87, Bruno, 0]
+Pokemon = MINERVAMON,100
+Pokemon = JUSTIMONX,100
+Pokemon = DUFTMON,100
+Pokemon = MIGAOGMNBM,100
+Pokemon = MARSMON,100
+Pokemon = DUFTMONLM,100
+
+[CLASS_87, Agatha, 0]
+Pokemon = LUCEMONX,100
+Pokemon = BEELSTRMNX,100
+Pokemon = JUNOMONHM,100
+Pokemon = DKNGHTMNBM,100
+Pokemon = BAGRAMONDM,100
+Pokemon = ORDINEMON,100
+
+[CLASS_87, Lance, 0]
+Pokemon = JESMONX,100
+Pokemon = MEGIDRAMNX,100
+Pokemon = UVEEDRAMNX,100
+Pokemon = ALPHAMONOM,100
+Pokemon = OMNIMONAS,100
+Pokemon = IDRAMONPM,100
+
+[CLASS_90, TERRY, 0]
+Pokemon = SUSANOOMON,100
+Pokemon = JUPITRMNWM,100
+Pokemon = SSERAPHIMN,100
+Pokemon = CHAOSMON,100
+Pokemon = OMNIMONAS,100
+Pokemon = EXAMONX,100
+
+[CLASS_90, TERRY, 0]
+Pokemon = AGREYMON,100
+Pokemon = SGREYMONBM,100
+Pokemon = BEELZEMONX,100
+Pokemon = GNOVAMON,100
+Pokemon = DUKEMONCM,100
+Pokemon = JESMONGX,100
+
+[CLASS_90, TERRY, 0]
+Pokemon = FUJINMON,100
+Pokemon = ALPHAMONOM,100
+Pokemon = UVEEDRAMNX,100
+Pokemon = AGARURUMON,100
+Pokemon = SLEIPMONX,100
+Pokemon = OMNIMONMM,100
+
+[CLASS_71, Paxton, 0]
+Pokemon = BWGREYMON,78
+Pokemon = BMGARURMNX,79

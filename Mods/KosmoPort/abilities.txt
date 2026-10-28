@@ -1,0 +1,2 @@
+60191,XYZPOWER,XYZ Power,"Added by KosmoPort."
+60192,EVILPOWER,Evil Power,"Added by KosmoPort."

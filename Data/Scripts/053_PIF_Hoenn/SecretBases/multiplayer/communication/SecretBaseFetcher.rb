@@ -23,7 +23,7 @@ class SecretBaseFetcher
       url = "#{SECRETBASE_DOWNLOAD_URL}/get-base?playerID=#{player_id}"
 
       begin
-        response = HTTPLite.get(url)
+        response = http_call_gc_guard { HTTPLite.get(url) }
         if response[:status] == 200
           echoln "[SecretBase] Downloaded base for #{player_id}"
           base_json = JSON.parse(response[:body])

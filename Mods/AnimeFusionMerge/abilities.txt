@@ -1,0 +1,18 @@
+#-------------------------------
+# Custom DBZ/Animon abilities recovered from the original GBA ROM export data
+# (Pokemon Anime fusions/gba export dbz/Abilities/*.ini). Names/descriptions
+# are verbatim from that source; mechanics implemented in AbilityHandlers.rb
+# as exact copies of the closest-matching vanilla ability handler, per the
+# GBA description, wherever an exact analog exists.
+#-------------------------------
+9001,TERROR,Terror,"Helps repel fighters."
+9002,AURA,Aura,"Encounter rate increases."
+9003,CHASE,Chase,"Prevents fleeing."
+9004,PARRY,Parry,"Blocks critical hits."
+9005,POTENTIAL,Potential,"Ups Defense if suffering."
+9006,TOUGHNESS,Toughness,"Prevents Attack reduction."
+9007,MAJINPOWER,Majin Power,"Raises Attack."
+9008,DEADZONE,Dead Zone,"Prevents the foe's escape."
+9009,KIABSORB,Ki Absorb,"Powers up if hit by fire."
+9010,KIDRAIN,Ki Drain,"Raises foe's PP usage."
+9011,PERFECTBODY,Perfect Body,"Prevents ability reduction."

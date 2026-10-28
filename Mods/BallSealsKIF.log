@@ -1,0 +1,917 @@
+[2026-08-27 16:10:14 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 16:10:14 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 16:10:14 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 16:10:14 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 16:10:14 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 16:10:14 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 16:10:14 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 16:10:14 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 16:10:14 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 16:10:14 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 16:10:14 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 16:10:14 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 16:10:14 -0500] Global pbShowCommands hook installed
+[2026-08-27 16:10:14 -0500] init_menu complete: OK
+[2026-08-27 16:10:14 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 16:10:14 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 16:10:14 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 16:10:14 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 16:13:03 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 16:13:03 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 16:13:03 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 16:13:03 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 16:13:03 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 16:13:03 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 16:13:03 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 16:13:03 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 16:13:03 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 16:13:03 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 16:13:03 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 16:13:03 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 16:13:03 -0500] Global pbShowCommands hook installed
+[2026-08-27 16:13:03 -0500] init_menu complete: OK
+[2026-08-27 16:13:03 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 16:13:03 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 16:13:03 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 16:13:03 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 16:17:24 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 16:17:24 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 16:17:24 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 16:17:24 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 16:17:24 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 16:17:24 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 16:17:24 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 16:17:24 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 16:17:24 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 16:17:24 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 16:17:24 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 16:17:24 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 16:17:24 -0500] Global pbShowCommands hook installed
+[2026-08-27 16:17:24 -0500] init_menu complete: OK
+[2026-08-27 16:17:24 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 16:17:24 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 16:17:24 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 16:17:24 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 16:24:45 -0500] DBG: Baked seal data for battle (1 party Pokémon)
+[2026-08-27 16:32:02 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 16:32:02 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 16:32:02 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 16:32:02 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 16:32:02 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 16:32:02 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 16:32:02 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 16:32:02 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 16:32:02 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 16:32:02 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 16:32:02 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 16:32:02 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 16:32:02 -0500] Global pbShowCommands hook installed
+[2026-08-27 16:32:02 -0500] init_menu complete: OK
+[2026-08-27 16:32:02 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 16:32:02 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 16:32:02 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 16:32:02 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 16:33:00 -0500] DBG: Baked seal data for battle (1 party Pokémon)
+[2026-08-27 16:56:22 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 16:56:22 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 16:56:22 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 16:56:22 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 16:56:22 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 16:56:22 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 16:56:22 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 16:56:22 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 16:56:22 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 16:56:22 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 16:56:22 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 16:56:22 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 16:56:22 -0500] Global pbShowCommands hook installed
+[2026-08-27 16:56:22 -0500] init_menu complete: OK
+[2026-08-27 16:56:22 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 16:56:22 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 16:56:22 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 16:56:22 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 16:57:25 -0500] DBG: Baked seal data for battle (1 party Pokémon)
+[2026-08-27 16:59:56 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 16:59:56 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 16:59:56 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 16:59:56 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 16:59:56 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 16:59:56 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 16:59:56 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 16:59:56 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 16:59:56 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 16:59:56 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 16:59:56 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 16:59:56 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 16:59:56 -0500] Global pbShowCommands hook installed
+[2026-08-27 16:59:56 -0500] init_menu complete: OK
+[2026-08-27 16:59:56 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 16:59:56 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 16:59:56 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 16:59:56 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 17:01:13 -0500] DBG: Baked seal data for battle (1 party Pokémon)
+[2026-08-27 17:26:18 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 17:26:18 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 17:26:18 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 17:26:18 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 17:26:18 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 17:26:18 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 17:26:18 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 17:26:18 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 17:26:18 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 17:26:18 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 17:26:18 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 17:26:18 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 17:26:18 -0500] Global pbShowCommands hook installed
+[2026-08-27 17:26:18 -0500] init_menu complete: OK
+[2026-08-27 17:26:18 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 17:26:18 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 17:26:18 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 17:26:18 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 17:27:40 -0500] DBG: Baked seal data for battle (1 party Pokémon)
+[2026-08-27 17:44:46 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 17:44:46 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 17:44:46 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 17:44:46 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 17:44:46 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 17:44:46 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 17:44:46 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 17:44:46 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 17:44:46 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 17:44:46 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 17:44:46 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 17:44:46 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 17:44:46 -0500] Global pbShowCommands hook installed
+[2026-08-27 17:44:46 -0500] init_menu complete: OK
+[2026-08-27 17:44:46 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 17:44:46 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 17:44:46 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 17:44:46 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 17:46:59 -0500] DBG: Baked seal data for battle (1 party Pokémon)
+[2026-08-27 18:00:52 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 18:00:52 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 18:00:52 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 18:00:52 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 18:00:52 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 18:00:52 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 18:00:52 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 18:00:52 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 18:00:52 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 18:00:52 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 18:00:52 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 18:00:52 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 18:00:52 -0500] Global pbShowCommands hook installed
+[2026-08-27 18:00:52 -0500] init_menu complete: OK
+[2026-08-27 18:00:52 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 18:00:52 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 18:00:52 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 18:00:52 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 18:06:40 -0500] DBG: Baked seal data for battle (2 party Pokémon)
+[2026-08-27 18:28:27 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 18:28:27 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 18:28:27 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 18:28:27 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 18:28:27 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 18:28:27 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 18:28:27 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 18:28:27 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 18:28:27 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 18:28:27 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 18:28:27 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 18:28:27 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 18:28:27 -0500] Global pbShowCommands hook installed
+[2026-08-27 18:28:27 -0500] init_menu complete: OK
+[2026-08-27 18:28:27 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 18:28:27 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 18:28:27 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 18:28:27 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 18:40:49 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 18:40:49 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 18:40:49 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 18:40:49 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 18:40:49 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 18:40:49 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 18:40:49 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 18:40:49 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 18:40:49 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 18:40:49 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 18:40:49 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 18:40:49 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 18:40:49 -0500] Global pbShowCommands hook installed
+[2026-08-27 18:40:49 -0500] init_menu complete: OK
+[2026-08-27 18:40:49 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 18:40:49 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 18:40:49 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 18:40:49 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 19:13:49 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 19:13:49 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 19:13:49 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 19:13:49 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 19:13:49 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 19:13:49 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 19:13:49 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 19:13:49 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 19:13:49 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 19:13:49 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 19:13:49 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 19:13:49 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 19:13:49 -0500] Global pbShowCommands hook installed
+[2026-08-27 19:13:49 -0500] init_menu complete: OK
+[2026-08-27 19:13:49 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 19:13:49 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 19:13:49 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 19:13:49 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 19:19:00 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 19:19:00 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 19:19:00 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 19:19:00 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 19:19:00 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 19:19:00 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 19:19:00 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 19:19:00 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 19:19:00 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 19:19:00 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 19:19:00 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 19:19:00 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 19:19:00 -0500] Global pbShowCommands hook installed
+[2026-08-27 19:19:00 -0500] init_menu complete: OK
+[2026-08-27 19:19:00 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 19:19:00 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 19:19:00 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 19:19:00 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 19:28:55 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 19:28:55 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 19:28:55 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 19:28:55 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 19:28:55 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 19:28:55 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 19:28:55 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 19:28:55 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 19:28:55 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 19:28:55 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 19:28:55 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 19:28:55 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 19:28:55 -0500] Global pbShowCommands hook installed
+[2026-08-27 19:28:55 -0500] init_menu complete: OK
+[2026-08-27 19:28:55 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 19:28:55 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 19:28:55 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 19:28:55 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 19:47:37 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 19:47:37 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 19:47:37 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 19:47:37 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 19:47:37 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 19:47:37 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 19:47:37 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 19:47:37 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 19:47:37 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 19:47:37 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 19:47:37 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 19:47:37 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 19:47:37 -0500] Global pbShowCommands hook installed
+[2026-08-27 19:47:37 -0500] init_menu complete: OK
+[2026-08-27 19:47:37 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 19:47:37 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 19:47:37 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 19:47:37 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 19:51:24 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 19:51:24 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 19:51:24 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 19:51:24 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 19:51:24 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 19:51:24 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 19:51:24 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 19:51:24 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 19:51:24 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 19:51:24 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 19:51:24 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 19:51:24 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 19:51:24 -0500] Global pbShowCommands hook installed
+[2026-08-27 19:51:24 -0500] init_menu complete: OK
+[2026-08-27 19:51:24 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 19:51:24 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 19:51:24 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 19:51:24 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 19:53:38 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 19:53:38 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 19:53:38 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 19:53:38 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 19:53:38 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 19:53:38 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 19:53:38 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 19:53:38 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 19:53:38 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 19:53:38 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 19:53:38 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 19:53:38 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 19:53:38 -0500] Global pbShowCommands hook installed
+[2026-08-27 19:53:38 -0500] init_menu complete: OK
+[2026-08-27 19:53:38 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 19:53:38 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 19:53:38 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 19:53:38 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 20:04:27 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 20:04:27 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 20:04:27 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 20:04:27 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 20:04:27 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 20:04:27 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 20:04:27 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 20:04:27 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 20:04:27 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 20:04:27 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 20:04:27 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 20:04:27 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 20:04:27 -0500] Global pbShowCommands hook installed
+[2026-08-27 20:04:27 -0500] init_menu complete: OK
+[2026-08-27 20:04:27 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 20:04:27 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 20:04:27 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 20:04:27 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 20:05:14 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 20:05:14 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 20:05:14 -0500] DBG:   pbStorePokemon available? YES
+[2026-08-27 20:05:14 -0500] Installed pbStorePokemon hook
+[2026-08-27 20:05:14 -0500] DBG:   PokemonStorageScreen methods: pbWithdraw=true, pbDeposit=false, pbPlace=true, pbSwap=true
+[2026-08-27 20:05:14 -0500] Installed PokemonStorageScreen#pbWithdraw hook
+[2026-08-27 20:05:14 -0500] Installed PokemonStorageScreen#pbPlace hook
+[2026-08-27 20:05:14 -0500] Installed PokemonStorageScreen#pbSwap hook
+[2026-08-27 20:05:14 -0500] Installed PokemonStorageScreen#pbStartScreen session-level hook
+[2026-08-27 20:05:14 -0500] DBG: install_storage_hooks complete: at least one hook installed
+[2026-08-27 20:05:30 -0500] DBG: pbStorePokemon hook fired for Luvdisc
+[2026-08-27 20:05:30 -0500] DBG: on_pokemon_deposited called for Luvdisc (key=pid_1078812685)
+[2026-08-27 20:05:30 -0500] DBG: on_pokemon_deposited: Luvdisc has no valid capsule slot (slot=nil)
+[2026-08-27 20:15:12 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 20:15:12 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 20:15:12 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 20:15:12 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 20:15:12 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 20:15:12 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 20:15:12 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 20:15:12 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 20:15:12 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 20:15:12 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 20:15:12 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 20:15:12 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 20:15:12 -0500] Global pbShowCommands hook installed
+[2026-08-27 20:15:12 -0500] init_menu complete: OK
+[2026-08-27 20:15:12 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 20:15:12 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 20:15:12 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 20:15:12 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 20:18:14 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 20:18:14 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 20:18:14 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 20:18:14 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 20:18:14 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 20:18:14 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 20:18:14 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 20:18:14 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 20:18:14 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 20:18:14 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 20:18:14 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 20:18:14 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 20:18:14 -0500] Global pbShowCommands hook installed
+[2026-08-27 20:18:14 -0500] init_menu complete: OK
+[2026-08-27 20:18:14 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 20:18:14 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 20:18:14 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 20:18:14 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 20:39:26 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 20:39:26 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 20:39:26 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 20:39:26 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 20:39:26 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 20:39:26 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 20:39:26 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 20:39:26 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 20:39:26 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 20:39:26 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 20:39:26 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 20:39:26 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 20:39:26 -0500] Global pbShowCommands hook installed
+[2026-08-27 20:39:26 -0500] init_menu complete: OK
+[2026-08-27 20:39:26 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 20:39:26 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 20:39:26 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 20:39:26 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 20:41:37 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 20:41:37 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 20:41:37 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 20:41:37 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 20:41:37 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 20:41:37 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 20:41:37 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 20:41:37 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 20:41:37 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 20:41:37 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 20:41:37 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 20:41:37 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 20:41:37 -0500] Global pbShowCommands hook installed
+[2026-08-27 20:41:37 -0500] init_menu complete: OK
+[2026-08-27 20:41:37 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 20:41:37 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 20:41:37 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 20:41:37 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 20:49:44 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 20:49:44 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 20:49:44 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 20:49:44 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 20:49:44 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 20:49:44 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 20:49:44 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 20:49:44 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 20:49:44 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 20:49:44 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 20:49:44 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 20:49:44 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 20:49:44 -0500] Global pbShowCommands hook installed
+[2026-08-27 20:49:44 -0500] init_menu complete: OK
+[2026-08-27 20:49:44 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 20:49:44 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 20:49:44 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 20:49:44 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 21:01:05 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 21:01:05 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 21:01:05 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 21:01:05 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 21:01:05 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 21:01:05 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 21:01:05 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 21:01:05 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 21:01:05 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 21:01:05 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 21:01:05 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 21:01:05 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 21:01:05 -0500] Global pbShowCommands hook installed
+[2026-08-27 21:01:05 -0500] init_menu complete: OK
+[2026-08-27 21:01:05 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 21:01:05 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 21:01:05 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 21:01:05 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 21:19:04 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 21:19:04 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 21:19:04 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 21:19:04 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 21:19:04 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 21:19:04 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 21:19:04 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 21:19:04 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 21:19:04 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 21:19:04 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 21:19:04 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 21:19:04 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 21:19:04 -0500] Global pbShowCommands hook installed
+[2026-08-27 21:19:04 -0500] init_menu complete: OK
+[2026-08-27 21:19:04 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 21:19:04 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 21:19:04 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 21:19:04 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 21:24:11 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 21:24:11 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 21:24:11 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 21:24:11 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 21:24:11 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 21:24:11 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 21:24:11 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 21:24:11 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 21:24:11 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 21:24:11 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 21:24:11 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 21:24:11 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 21:24:11 -0500] Global pbShowCommands hook installed
+[2026-08-27 21:24:11 -0500] init_menu complete: OK
+[2026-08-27 21:24:11 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 21:24:11 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 21:24:11 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 21:24:11 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 21:26:33 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 21:26:33 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 21:26:33 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 21:26:33 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 21:26:33 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 21:26:33 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 21:26:33 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 21:26:33 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 21:26:33 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 21:26:33 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 21:26:33 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 21:26:33 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 21:26:33 -0500] Global pbShowCommands hook installed
+[2026-08-27 21:26:33 -0500] init_menu complete: OK
+[2026-08-27 21:26:33 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 21:26:33 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 21:26:33 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 21:26:33 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 21:49:21 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 21:49:21 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 21:49:21 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 21:49:21 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 21:49:21 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 21:49:21 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 21:49:21 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 21:49:21 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 21:49:21 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 21:49:21 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 21:49:21 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 21:49:21 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 21:49:21 -0500] Global pbShowCommands hook installed
+[2026-08-27 21:49:21 -0500] init_menu complete: OK
+[2026-08-27 21:49:21 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 21:49:21 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 21:49:21 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 21:49:21 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 21:57:51 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 21:57:51 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 21:57:51 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 21:57:51 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 21:57:51 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 21:57:51 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 21:57:51 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 21:57:51 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 21:57:51 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 21:57:51 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 21:57:51 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 21:57:51 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 21:57:51 -0500] Global pbShowCommands hook installed
+[2026-08-27 21:57:51 -0500] init_menu complete: OK
+[2026-08-27 21:57:51 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 21:57:51 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 21:57:51 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 21:57:51 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 22:19:12 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 22:19:12 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 22:19:12 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 22:19:12 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 22:19:12 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 22:19:12 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 22:19:12 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 22:19:12 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 22:19:12 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 22:19:12 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 22:19:12 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 22:19:12 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 22:19:12 -0500] Global pbShowCommands hook installed
+[2026-08-27 22:19:12 -0500] init_menu complete: OK
+[2026-08-27 22:19:12 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 22:19:12 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 22:19:12 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 22:19:12 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 22:22:38 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 22:22:38 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 22:22:38 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 22:22:38 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 22:22:38 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 22:22:38 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 22:22:38 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 22:22:38 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 22:22:38 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 22:22:38 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 22:22:38 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 22:22:38 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 22:22:38 -0500] Global pbShowCommands hook installed
+[2026-08-27 22:22:38 -0500] init_menu complete: OK
+[2026-08-27 22:22:38 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 22:22:38 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 22:22:38 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 22:22:38 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 22:31:53 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 22:31:53 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 22:31:53 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 22:31:53 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 22:31:53 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 22:31:53 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 22:31:53 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 22:31:53 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 22:31:53 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 22:31:53 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 22:31:53 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 22:31:53 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 22:31:53 -0500] Global pbShowCommands hook installed
+[2026-08-27 22:31:53 -0500] init_menu complete: OK
+[2026-08-27 22:31:53 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 22:31:53 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 22:31:53 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 22:31:53 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-27 23:25:47 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-27 23:25:47 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-27 23:25:47 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-27 23:25:47 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-27 23:25:47 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-27 23:25:47 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-27 23:25:47 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-27 23:25:47 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-27 23:25:47 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-27 23:25:47 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-27 23:25:47 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-27 23:25:47 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-27 23:25:47 -0500] Global pbShowCommands hook installed
+[2026-08-27 23:25:47 -0500] init_menu complete: OK
+[2026-08-27 23:25:47 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-27 23:25:47 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-27 23:25:47 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-27 23:25:47 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-28 00:12:28 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-28 00:12:28 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-28 00:12:28 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-28 00:12:28 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-28 00:12:28 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-28 00:12:28 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-28 00:12:28 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-28 00:12:28 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-28 00:12:28 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-28 00:12:28 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-28 00:12:28 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-28 00:12:28 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-28 00:12:28 -0500] Global pbShowCommands hook installed
+[2026-08-28 00:12:28 -0500] init_menu complete: OK
+[2026-08-28 00:12:28 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-28 00:12:28 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-28 00:12:28 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-28 00:12:28 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-28 00:43:11 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-28 00:43:11 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-28 00:43:11 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-28 00:43:11 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-28 00:43:11 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-28 00:43:11 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-28 00:43:11 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-28 00:43:11 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-28 00:43:11 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-28 00:43:11 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-28 00:43:11 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-28 00:43:11 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-28 00:43:11 -0500] Global pbShowCommands hook installed
+[2026-08-28 00:43:11 -0500] init_menu complete: OK
+[2026-08-28 00:43:11 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-28 00:43:11 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-28 00:43:11 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-28 00:43:11 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-28 00:55:24 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-28 00:55:24 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-28 00:55:24 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-28 00:55:24 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-28 00:55:24 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-28 00:55:24 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-28 00:55:24 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-28 00:55:24 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-28 00:55:24 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-28 00:55:24 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-28 00:55:24 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-28 00:55:24 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-28 00:55:24 -0500] Global pbShowCommands hook installed
+[2026-08-28 00:55:24 -0500] init_menu complete: OK
+[2026-08-28 00:55:24 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-28 00:55:24 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-28 00:55:24 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-28 00:55:24 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-28 00:59:03 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-28 00:59:03 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-28 00:59:03 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-28 00:59:03 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-28 00:59:03 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-28 00:59:03 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-28 00:59:03 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-28 00:59:03 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-28 00:59:03 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-28 00:59:03 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-28 00:59:03 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-28 00:59:03 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-28 00:59:03 -0500] Global pbShowCommands hook installed
+[2026-08-28 00:59:03 -0500] init_menu complete: OK
+[2026-08-28 00:59:03 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-28 00:59:03 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-28 00:59:03 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-28 00:59:03 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-28 01:12:35 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-28 01:12:35 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-28 01:12:35 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-28 01:12:35 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-28 01:12:35 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-28 01:12:35 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-28 01:12:35 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-28 01:12:35 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-28 01:12:35 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-28 01:12:35 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-28 01:12:35 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-28 01:12:35 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-28 01:12:35 -0500] Global pbShowCommands hook installed
+[2026-08-28 01:12:35 -0500] init_menu complete: OK
+[2026-08-28 01:12:35 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-28 01:12:35 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-28 01:12:35 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-28 01:12:35 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames
+[2026-08-28 01:15:05 -0500] Scanned Icons folder: found 280 additional seal(s)
+[2026-08-28 01:15:05 -0500] DBG: install_storage_hooks: attempting hook installation...
+[2026-08-28 01:15:05 -0500] DBG:   PokemonStorageScreen defined? YES
+[2026-08-28 01:15:05 -0500] install_storage_hooks ERROR: NoMethodError: undefined method `has_any_method?' for BallSealsKIF:Module
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:1939:in `install_storage_hooks'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3310:in `init'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/000_BallSeals_Core.rb:3464:in `<top (required)>'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `require'
+E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/main.rb:11:in `block in <top (required)>'
+[2026-08-28 01:15:05 -0500] Registered Ball Seals in Overworld Menu
+[2026-08-28 01:15:05 -0500] === BallSealsKIF 0.10.0 init ===
+[2026-08-28 01:15:05 -0500] Game root detected: E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers
+[2026-08-28 01:15:05 -0500]   Icons folder found (563 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/Icons
+[2026-08-28 01:15:05 -0500]   GUI folder found (3 PNG files): E:/pokemon infinite fusion and mods/Pokemon Anime fusions/InfiniteFusion/Mods/pokeball_seals_stickers/Graphics/BallSeals/GUI
+[2026-08-28 01:15:05 -0500] DBG: Storage hooks installed at init? NO (will retry lazily)
+[2026-08-28 01:15:05 -0500] Pause menu hook installed on PokemonPauseMenu_Scene (alias-chain)
+[2026-08-28 01:15:05 -0500] Screen hook installed on PokemonPauseMenu (alias-chain)
+[2026-08-28 01:15:05 -0500] Global pbShowCommands hook installed
+[2026-08-28 01:15:05 -0500] init_menu complete: OK
+[2026-08-28 01:15:05 -0500] DBG: Baked seal data for battle (0 party Pokémon)
+[2026-08-28 01:15:05 -0500] Installed send-out hooks on: PokeBattle_Scene#pbSendOutBattlers
+[2026-08-28 01:15:05 -0500] Installed pbStartBattle seal-baking hook on PokeBattle_Scene
+[2026-08-28 01:15:05 -0500] Ghost Classic+ UI detected — burst delay set to 45 frames

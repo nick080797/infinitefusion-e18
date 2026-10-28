@@ -1,0 +1,22 @@
+# See PBS/trainertypes.txt for the format. These are generic (non-identity-locked)
+# trainer classes added so previously-unresolvable Animon trainer classes can be
+# registered. None of the base game's own trainertypes.txt entries are touched -
+# these are wholly new id_numbers/symbols starting at 9000. No "gymleader"/"elite"
+# style flags are set on LEADER/ELITEFOUR here (deliberately - the base game's own
+# GameData::TrainerType data has no code that reads those fields anyway, but
+# leaving them off keeps these from ever being mistaken for the true 8 gym leaders
+# or true Elite Four in the Pokedex/League UI. They're just flavor overworld battles).
+#-------------------------------
+9000,BLACKKNIGHT,Black Knight,80,,,,Male,,
+9001,LEADER,Leader,100,,,,Mixed,,
+9002,ELITEFOUR,Elite Four,100,,,,Mixed,,
+9003,EXPERT,Expert,60,,,,Male,,
+9004,ANIMANIAC,Animaniac,64,,,,Male,,
+9005,GAMER,Gamer,72,,,,Male,,
+9006,BUGMANIAC,Bug Maniac,64,,,,Male,,
+9007,BOSS,Boss,100,,,,Male,,
+9008,AQUAADMIN,Aqua Admin,64,,,,Mixed,,
+9009,MAGMAADMIN,Magma Admin,64,,,,Mixed,,
+9010,POKEMONTRAINER,Pokémon Trainer,60,,,,Mixed,,
+9011,COLLECTOR,Collector,64,,,,Male,,
+9012,SCHOOLKID,School Kid,24,,,,Mixed,,

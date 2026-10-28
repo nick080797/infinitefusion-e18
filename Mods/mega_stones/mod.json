@@ -1,0 +1,13 @@
+{
+  "name": "Mega Stones",
+  "id": "mega_stones",
+  "version": "1.1.2",
+  "author": "Yoko_vdR",
+  "description": "",
+  "tags": ["Gameplay"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["Mods/050_MegaStoneSimulator.rb", "Mods/060_MegaSpriteSwitch.rb"],
+  "icon": "icon.png"
+}

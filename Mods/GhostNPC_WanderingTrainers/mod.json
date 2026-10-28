@@ -1,0 +1,19 @@
+{
+  "name": "GhostNPC Wandering Trainers",
+  "id": "GhostNPC_WanderingTrainers",
+  "version": "1.0.1",
+  "author": "t-Ghost-t",
+  "description": [
+    "Wandering Trainers populates the overworld with life by adding wandering NPCs and their companion Pokémon.",
+    " ",
+    "This mod adds:",
+    "- Randomly spawning trainers with their own follower Pokémon on every route.",
+    "- Low spawn rates so wandering trainers don't overwhelm the world.",
+    "- Fair battle encounters that strictly forbid over-powered Legendaries."
+  ],
+  "tags": ["Gameplay", "Content"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PokemonGantz Port",
+  "id": "PokemonGantzPort",
+  "version": "0.1.0",
+  "author": "gba_world pipeline",
+  "description": [
+    "Automated world port of Pokemon Gantz.gba (425 maps, 59 tileset pairs) into the Multiverse Hub. Loads pre-baked Marshal .rxdata maps directly (ids fixed at emit time, no runtime remap) and registers them through MultiverseHub's GAUNTLET_MAP_BUILDERS / load_data hooks. Geometry + tilesets + warps + transpiled NPC/coord/sign scripts, plus a data layer (data_layer.rb) that additively registers the species / moves / abilities / wild encounters / trainers decoded from the ROM into GameData at load time -- no PBS file is touched, overlapping species reuse the existing entry."
+  ],
+  "tags": [
+    "Content",
+    "Maps",
+    "PC",
+    "Species",
+    "Moves"
+  ],
+  "dependencies": [
+    "MultiverseHub"
+  ],
+  "incompatible": [],
+  "settings": [],
+  "scripts": [
+    "main.rb",
+    "data_layer.rb"
+  ]
+}

@@ -87,8 +87,20 @@ def species_has_head_of(checked_species, checked_against)
   return ret
 end
 
+# GHOST/QOL: dex numbers 600000-699999 are a reserved band for standalone
+# added species (AnimeFusionMerge) that don't fit in the base 1-727 range.
+# Every number above 727 is otherwise claimed by the real head*727+body
+# two-way fusion arithmetic (heads and bodies both run 1-727, so that space
+# is fully dense up to 727*727+727=529729) - this reserved band sits well
+# above that ceiling and well below the real triple-fusion floor (999999),
+# so nothing here can ever collide with an actual player-created fusion.
+def is_reserved_standalone_dex?(dex_number)
+  return dex_number >= 600000 && dex_number < 700000
+end
+
 def species_is_fusion(species_id)
   dex_number = get_dex_number(species_id)
+  return false if is_reserved_standalone_dex?(dex_number)
   return dex_number > NB_POKEMON && dex_number < Settings::ZAPMOLCUNO_NB
 end
 
@@ -271,6 +283,7 @@ def isTripleFusion?(num)
 end
 
 def isFusion(num)
+  return false if is_reserved_standalone_dex?(num)
   return num > Settings::NB_POKEMON && !isTripleFusion?(num)
 end
 

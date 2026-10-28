@@ -1,0 +1,3 @@
+[60037]
+Name = Custom 23
+InternalName = CUSTOM_TYPE_23_8

@@ -1,0 +1,3602 @@
+# Additive trainer entries sourced from Animon's real extracted ROM
+# trainer table (tools/gba_pipeline/out/animon/trainers.json), generated
+# by build_animon_trainers.py. Every entry is a WHOLLY SEPARATE
+# GameData::Trainer record (version 950+, never colliding with vanilla
+# or the DBZ import's 900+ range) - nothing existing is modified. A small
+# number of trainers with no resolvable species (ROM glitch slots) were
+# dropped; see the build script's stdout for exact counts.
+#-------------------------------
+[BUGMANIAC,WEEVIL,950]
+    Pokemon = CELL,12
+    Moves = ABSORB,QUICKATTACK,LEECHLIFE
+    Pokemon = ENTOMA,12
+    Moves = ABSORB,STRINGSHOT
+#-------------------------------
+[TEAMAQUA,~2,950]
+    Pokemon = COCO,5
+#-------------------------------
+[ELITEFOUR,KAIBA,950]
+    Pokemon = OBELISK,80
+#-------------------------------
+[CHAMPION,ZERO,950]
+    Pokemon = MERUEM,64
+    Moves = BRICKBREAK,EARTHQUAKE,AERIALACE,FURYCUTTER
+    Pokemon = GURENMK2,65
+    Moves = VICEGRIP,STEELWING,HEATWAVE,QUICKATTACK
+    Pokemon = LANCELOT,65
+    Moves = FLY,EXTREMESPEED,METEORMASH,SLASH
+    Pokemon = ITACHI,64
+    Moves = HYPNOSIS,SANDATTACK,DREAMEATER,SHADOWPUNCH
+    Pokemon = TRUEFORM,64
+    Moves = CRUNCH,ROAR,SHADOWBALL,TOXIC
+    Pokemon = CC,68
+    Moves = PSYCHIC,AMNESIA,ATTRACT,CONFUSERAY
+#-------------------------------
+[BUGMANIAC,WEEVIL,951]
+    Pokemon = CELL3,66
+    Pokemon = ENTOMA2,65
+    Pokemon = KAKUJA,65
+    Pokemon = PITOU,64
+    Pokemon = REIJU,63
+    Pokemon = MERUEM,67
+#-------------------------------
+[LEADER,NAMI,950]
+    Pokemon = KISAME2,68
+    Pokemon = TSUKIUMI,65
+    Pokemon = TIERHUNT,66
+    Pokemon = RIMURU,67
+    Pokemon = JINBE,70
+#-------------------------------
+[LEADER,DENKI,950]
+    Pokemon = FLASHGOD,68
+    Pokemon = PIKACHU,68
+    Pokemon = GODSPEED,66
+    Pokemon = KAKASHI,66
+    Pokemon = SUSANOO,68
+    Pokemon = AKENO,70
+#-------------------------------
+[LEADER,JACKIE,950]
+    Pokemon = KRILLIN,68
+    Pokemon = YAMCHA,80
+    Pokemon = SSJVEGETA,70
+    Pokemon = FRIEZA3,68
+    Pokemon = RAIZEN,67
+    Pokemon = SSJGOKU,72
+#-------------------------------
+[LEADER,REIGAN,950]
+    Pokemon = MOB100,70
+    Pokemon = TORNADO,69
+    Pokemon = FRIEZA3,68
+    Pokemon = DPALADIN,68
+    Pokemon = KYUBEY,68
+#-------------------------------
+[LEADER,WINRY,950]
+    Pokemon = GURENMK2,69
+    Pokemon = STRELIZIA,69
+    Pokemon = GURENRAGAN,70
+    Pokemon = GENOS,68
+    Pokemon = ALPHONSE,72
+    Pokemon = EDWARD,73
+#-------------------------------
+[LEADER,SHIEMI,950]
+    Pokemon = MIMOSA,70
+    Pokemon = USOPP2,70
+    Pokemon = HAKURYUU,69
+    Pokemon = KING,69
+    Pokemon = HAFURIYATO,68
+#-------------------------------
+[LEADER,ANNA,950]
+    Pokemon = BAKUGOU,71
+    Pokemon = TODOROKI,71
+    Pokemon = ZUKO2,70
+    Pokemon = NATSUFORCE,70
+    Pokemon = ESCANOR,73
+    Pokemon = MIKOTO,75
+#-------------------------------
+[LEADER,YUGI,950]
+    Pokemon = DMAGICIAN,70
+    Pokemon = MAGICIAN,70
+    Pokemon = GETSUGA,73
+    Pokemon = VASTOLORDE,72
+    Pokemon = MAGICIAND,74
+    Pokemon = DPALADIN,75
+#-------------------------------
+[TAMER,LUCY,950]
+    Pokemon = COCO,5
+    Pokemon = COCO,5
+#-------------------------------
+[EXPERT,LIGHT,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BOSS,ZERO,950]
+    Pokemon = MERUEM,72
+    Pokemon = TRUEFORM,72
+    Pokemon = GURENMK2,75
+    Pokemon = LANCELOT,75
+    Pokemon = ITACHI,72
+    Pokemon = CC,80
+#-------------------------------
+[POKEMONTRAINER,ASH,950]
+    Pokemon = PIKACHU,99
+    Pokemon = KURAMAMODE,78
+    Pokemon = LUFFYGEAR2,78
+    Pokemon = SSJGOKU,78
+    Pokemon = TRUEBANKAI,75
+    Pokemon = MGREYMON,75
+#-------------------------------
+[KINDLER,~4,950]
+    Pokemon = GODSPEED,58
+#-------------------------------
+[PSYCHIC_M,~7,950]
+    Pokemon = COCO,5
+#-------------------------------
+[PSYCHIC_M,~8,950]
+    Pokemon = COCO,5
+#-------------------------------
+[GENTLEMAN,~9,950]
+    Pokemon = COCO,5
+#-------------------------------
+[YOUNGSTER,SAMMY,950]
+    Pokemon = KIDSASUKE,15
+#-------------------------------
+[ELITEFOUR,PHOEBE,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,ROXANNE,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,BRAWLY,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,TATE&LIZA,950]
+    Pokemon = COCO,5
+#-------------------------------
+[SCHOOLKID,~10,950]
+    Pokemon = COCO,5
+#-------------------------------
+[SCHOOLKID,~11,950]
+    Pokemon = COCO,5
+#-------------------------------
+[SRANDJR,~12,950]
+    Pokemon = COCO,5
+#-------------------------------
+[ANIFAN,~13,950]
+    Pokemon = COCO,5
+#-------------------------------
+[ANIFAN,~14,950]
+    Pokemon = COCO,5
+#-------------------------------
+[EXPERT,~15,950]
+    Pokemon = COCO,5
+#-------------------------------
+[EXPERT,~16,950]
+    Pokemon = COCO,5
+#-------------------------------
+[YOUNGSTER,~17,950]
+    Pokemon = COCO,5
+#-------------------------------
+[CHAMPION,~18,950]
+    Pokemon = COCO,5
+#-------------------------------
+[FISHERMAN,~19,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TRIATHLETE,~20,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TRIATHLETE,~21,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TRIATHLETE,~22,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TRIATHLETE,~23,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TRIATHLETE,~24,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TRIATHLETE,~25,950]
+    Pokemon = COCO,5
+#-------------------------------
+[DRAGONTAMER,~26,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BIRDKEEPER,~27,950]
+    Pokemon = COCO,5
+#-------------------------------
+[NINJABOY,~28,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BATTLEGIRL,~29,950]
+    Pokemon = COCO,5
+#-------------------------------
+[PARASOLLADY,~30,950]
+    Pokemon = COCO,5
+#-------------------------------
+[SWIMMER_F,~31,950]
+    Pokemon = COCO,5
+#-------------------------------
+[PICNICKER,~32,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TWINS,~33,950]
+    Pokemon = COCO,5
+#-------------------------------
+[SAILOR,~34,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BOARDER,~35,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BOARDER,~36,950]
+    Pokemon = COCO,5
+#-------------------------------
+[COLLECTOR,~37,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONTRAINER,~38,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONTRAINER,~39,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONTRAINER,~40,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONTRAINER,~41,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONTRAINER,~42,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONTRAINER,~43,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONTRAINER,~44,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONBREEDER,~45,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONBREEDER,~46,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONRANGER_M,~47,950]
+    Pokemon = COCO,5
+#-------------------------------
+[POKEMONRANGER_M,~48,950]
+    Pokemon = COCO,5
+#-------------------------------
+[MAGMALEADER,~49,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TEAMMAGMA,~50,950]
+    Pokemon = COCO,5
+#-------------------------------
+[TEAMMAGMA,~51,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LASS,~52,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BUGCATCHER,~53,950]
+    Pokemon = COCO,5
+#-------------------------------
+[HIKER,~54,950]
+    Pokemon = COCO,5
+#-------------------------------
+[YOUNGCOUPLE,~55,950]
+    Pokemon = COCO,5
+    Pokemon = COCO,5
+#-------------------------------
+[OLDCOUPLE,~56,950]
+    Pokemon = COCO,5
+#-------------------------------
+[SISANDBRO,~57,950]
+    Pokemon = COCO,5
+#-------------------------------
+[AQUAADMIN,MATT,950]
+    Pokemon = COCO,5
+#-------------------------------
+[AQUAADMIN,SHELLY,950]
+    Pokemon = COCO,5
+#-------------------------------
+[MAGMAADMIN,TABITHA,950]
+    Pokemon = COCO,5
+#-------------------------------
+[MAGMAADMIN,COURTNEY,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,WATTSON,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,FLANNERY,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,NORMAN,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,WINONA,950]
+    Pokemon = COCO,5
+#-------------------------------
+[LEADER,WALLACE,950]
+    Pokemon = COCO,5
+#-------------------------------
+[ELITEFOUR,GLACIA,950]
+    Pokemon = COCO,5
+#-------------------------------
+[ELITEFOUR,DRAKE,950]
+    Pokemon = COCO,5
+#-------------------------------
+[YOUNGSTER,BEN,950]
+    Pokemon = RAPHTALIA,38
+    Pokemon = KRILLIN,38
+#-------------------------------
+[YOUNGSTER,CALVIN,950]
+    Pokemon = ASTA,35
+#-------------------------------
+[YOUNGSTER,JOSH,950]
+    Pokemon = USOPP,32
+    Pokemon = USOPP2,34
+    Pokemon = ASTA,34
+#-------------------------------
+[YOUNGSTER,TIMMY,950]
+    Pokemon = KIDGAARA,45
+    Pokemon = GON,45
+#-------------------------------
+[YOUNGSTER,JOEY,950]
+    Pokemon = KRAPHTALIA,22
+    Pokemon = KIDKRILLIN,22
+#-------------------------------
+[YOUNGSTER,DAN,950]
+    Pokemon = KILLUA,17
+#-------------------------------
+[YOUNGSTER,CHAD,950]
+    Pokemon = KILLUA,14
+    Pokemon = KIDGAARA,14
+#-------------------------------
+[YOUNGSTER,TYLER,950]
+    Pokemon = STAMPEDE,21
+#-------------------------------
+[YOUNGSTER,EDDIE,950]
+    Pokemon = COCODEMON,52
+#-------------------------------
+[YOUNGSTER,DILLON,950]
+    Pokemon = KIDGAARA,50
+    Pokemon = LANCELOT,50
+#-------------------------------
+[YOUNGSTER,YASU,950]
+    Pokemon = RAPHTALIA,50
+    Pokemon = RAPHTALIA,50
+    Pokemon = RAPHTALIA,50
+#-------------------------------
+[YOUNGSTER,DAVE,950]
+    Pokemon = TRUEAPUS,50
+    Pokemon = STRELIZIA,50
+#-------------------------------
+[YOUNGSTER,BEN,951]
+    Pokemon = KRAPHTALIA,17
+    Pokemon = COCO,17
+#-------------------------------
+[BUGCATCHER,JERRY,950]
+    Pokemon = ENTOMA,6
+    Pokemon = CELL,6
+#-------------------------------
+[BUGCATCHER,DOUG,950]
+    Pokemon = ENTOMA,7
+    Pokemon = GREGORY,7
+    Pokemon = ENTOMA,7
+#-------------------------------
+[BUGCATCHER,SAMMY,950]
+    Pokemon = ENTOMA,9
+#-------------------------------
+[BUGCATCHER,COLTON,950]
+    Pokemon = CELL,32
+    Pokemon = CELL2,36
+    Pokemon = CELL3,40
+#-------------------------------
+[BUGCATCHER,GREG,950]
+    Pokemon = GREGORY,36
+    Pokemon = ENJU,36
+    Pokemon = CELL,34
+    Pokemon = REIJU,36
+#-------------------------------
+[BUGCATCHER,JAMES,950]
+    Pokemon = CELL2,36
+    Pokemon = ENTOMA2,36
+#-------------------------------
+[BUGCATCHER,KENT,950]
+    Pokemon = ENTOMA,34
+    Pokemon = ENTOMA2,34
+#-------------------------------
+[BUGCATCHER,ROBBY,950]
+    Pokemon = CELL,33
+    Pokemon = CELL2,35
+    Pokemon = CELL2,35
+#-------------------------------
+[BUGCATCHER,CALE,950]
+    Pokemon = CELL,40
+    Pokemon = CELL2,42
+    Pokemon = CELL3,44
+    Pokemon = MERUEM,44
+#-------------------------------
+[BUGCATCHER,KEIGO,950]
+    Pokemon = ENTOMA,16
+    Pokemon = CELL,16
+    Pokemon = ENTOMA2,21
+#-------------------------------
+[BUGCATCHER,ELIJAH,950]
+    Pokemon = CELL2,20
+#-------------------------------
+[BUGCATCHER,~58,950]
+    Pokemon = CELL2,18
+    Pokemon = CELL,18
+    Pokemon = YUNO,18
+#-------------------------------
+[BUGCATCHER,BRENT,950]
+    Pokemon = PITOU,36
+    Pokemon = MERUEM,35
+#-------------------------------
+[BUGCATCHER,CONNER,950]
+    Pokemon = CELL,34
+    Pokemon = ENTOMA2,36
+    Pokemon = ENJU,37
+#-------------------------------
+[LASS,JANICE,950]
+    Pokemon = CROW,35
+    Pokemon = GODBIRD,35
+#-------------------------------
+[LASS,SALLY,950]
+    Pokemon = RYUKO,34
+    Pokemon = SENKETSU,36
+#-------------------------------
+[LASS,ROBIN,950]
+    Pokemon = AANG,36
+#-------------------------------
+[LASS,CRISSY,950]
+    Pokemon = HASHIRAMA,38
+    Pokemon = HASHIRAMA,38
+    Pokemon = VEGETA,38
+#-------------------------------
+[LASS,MIRIAM,950]
+    Pokemon = PITOU,34
+    Pokemon = KIDSASUKE,35
+#-------------------------------
+[LASS,IRIS,950]
+    Pokemon = GON,36
+#-------------------------------
+[LASS,RELI,950]
+    Pokemon = SENKETSU,43
+    Pokemon = ICERING,44
+#-------------------------------
+[LASS,ALI,950]
+    Pokemon = SASUKE,40
+    Pokemon = ZORO,40
+    Pokemon = MUSTANG,42
+#-------------------------------
+[LASS,~59,950]
+    Pokemon = STAMPEDE,15
+    Pokemon = RYUKO,15
+#-------------------------------
+[LASS,HALEY,950]
+    Pokemon = PITOU,12
+    Pokemon = FILOLIAL,13
+    Pokemon = KRAPHTALIA,13
+#-------------------------------
+[LASS,ANN,950]
+    Pokemon = FILOLIAL,18
+    Pokemon = RYUKO,18
+#-------------------------------
+[LASS,DAWN,950]
+    Pokemon = KRAPHTALIA,18
+    Pokemon = PIKACHU,18
+#-------------------------------
+[BUGCATCHER,PAUL,950]
+    Pokemon = ENTOMA,11
+    Pokemon = ENTOMA,13
+#-------------------------------
+[LASS,ANDREA,950]
+    Pokemon = KRAPHTALIA,12
+    Pokemon = KRAPHTALIA,13
+    Pokemon = KRAPHTALIA,14
+#-------------------------------
+[BLACKKNIGHT,MEGAN,950]
+    Pokemon = FILOLIAL,12
+    Pokemon = KRAPHTALIA,12
+    Pokemon = FILOLIAL,12
+    Pokemon = SHIROU,10
+    Pokemon = KRAPHTALIA,12
+#-------------------------------
+[BLACKKNIGHT,JULIA,950]
+    Pokemon = GON,15
+    Pokemon = KYUBEY,15
+#-------------------------------
+[LASS,KAY,950]
+    Pokemon = MIMOSA,43
+    Pokemon = USOPP2,43
+#-------------------------------
+[LASS,LISA,950]
+    Pokemon = MIMOSA,42
+    Pokemon = USOPP2,42
+#-------------------------------
+[SAILOR,EDMOND,950]
+    Pokemon = KIDVEGETA,18
+    Pokemon = KISAME,18
+#-------------------------------
+[SAILOR,TREVOR,950]
+    Pokemon = KIDVEGETA,17
+    Pokemon = DEKU,17
+#-------------------------------
+[SAILOR,LEONARD,950]
+    Pokemon = KISAME,21
+#-------------------------------
+[SAILOR,DUNCAN,950]
+    Pokemon = SLIME,17
+    Pokemon = KISAME,17
+    Pokemon = DEKU,17
+#-------------------------------
+[SAILOR,HUEY,950]
+    Pokemon = DEKU,18
+    Pokemon = TOSHIRO,18
+#-------------------------------
+[SAILOR,DYLAN,950]
+    Pokemon = SLIME,17
+    Pokemon = SLIME,17
+    Pokemon = SLIME,17
+#-------------------------------
+[SAILOR,PHILLIP,950]
+    Pokemon = KIDVEGETA,20
+#-------------------------------
+[SAILOR,DONNA,950]
+    Pokemon = PIKACHU,21
+    Pokemon = PIKACHU,21
+#-------------------------------
+[CAMPER,LIAM,950]
+    Pokemon = AGUMON,10
+    Moves = TACKLE,DEFENSECURL
+    Pokemon = KIDGAARA,11
+    Moves = SCRATCH,DEFENSECURL,SANDATTACK
+#-------------------------------
+[CAMPER,SHANE,950]
+    Pokemon = RAPHTALIA,43
+    Pokemon = KRILLIN,44
+#-------------------------------
+[CAMPER,ETHAN,950]
+    Pokemon = RAIZEN,46
+#-------------------------------
+[CAMPER,RICKY,950]
+    Pokemon = GON,20
+#-------------------------------
+[CAMPER,JEFF,950]
+    Pokemon = KIDKRILLIN,19
+    Pokemon = RAPHTALIA,20
+#-------------------------------
+[CAMPER,~60,950]
+    Pokemon = COCO,5
+#-------------------------------
+[CAMPER,CHRIS,950]
+    Pokemon = ZUKO,35
+    Pokemon = KIDGOKU,33
+#-------------------------------
+[CAMPER,DREW,950]
+    Pokemon = KRAPHTALIA,35
+    Pokemon = KIDGAARA,35
+    Pokemon = KIDSASUKE,35
+    Pokemon = KIDVEGETA,35
+#-------------------------------
+[PICNICKER,DIANA,950]
+    Pokemon = YATO,19
+#-------------------------------
+[PICNICKER,NANCY,950]
+    Pokemon = KRAPHTALIA,18
+    Pokemon = PIKACHU,20
+#-------------------------------
+[PICNICKER,ISABELLE,950]
+    Pokemon = FILOLIAL,16
+    Pokemon = FILOLIAL,18
+    Pokemon = GODBIRD,20
+#-------------------------------
+[PICNICKER,KELSEY,950]
+    Pokemon = AKAME,15
+    Pokemon = ENTOMA,15
+#-------------------------------
+[PICNICKER,ALICIA,950]
+    Pokemon = PITOU,35
+    Pokemon = KIDSASUKE,38
+    Pokemon = USOPP,36
+    Pokemon = WENDY,35
+#-------------------------------
+[PICNICKER,CAITLIN,950]
+    Pokemon = PIKACHU,40
+#-------------------------------
+[PICNICKER,HEIDI,950]
+    Pokemon = PIKACHU,42
+    Pokemon = GON,46
+#-------------------------------
+[PICNICKER,CAROL,950]
+    Pokemon = REIJU,40
+    Pokemon = WENDYFORCE,42
+#-------------------------------
+[PICNICKER,SOFIA,950]
+    Pokemon = AANG,34
+    Pokemon = FILOLIAL,32
+    Pokemon = SHIROU,34
+#-------------------------------
+[PICNICKER,MARTHA,950]
+    Pokemon = GREGORY,38
+    Pokemon = KYUBEY,36
+#-------------------------------
+[PICNICKER,TINA,950]
+    Pokemon = MIMOSA,42
+    Pokemon = USOPP2,42
+#-------------------------------
+[PICNICKER,HANNAH,950]
+    Pokemon = FILOLIAL,24
+    Pokemon = SHIROU,24
+    Pokemon = KRAPHTALIA,24
+    Pokemon = PIKACHU,24
+    Pokemon = SHIROU,24
+#-------------------------------
+[SUPERNERD,MARK,950]
+    Pokemon = AKAME2,44
+    Pokemon = CINNABAR,44
+#-------------------------------
+[SUPERNERD,HERMAN,950]
+    Pokemon = AKENO,43
+    Pokemon = RIAS,43
+#-------------------------------
+[SUPERNERD,COOPER,950]
+    Pokemon = USOPP,34
+    Pokemon = DEKU,34
+    Pokemon = NAOFUMI,34
+#-------------------------------
+[SUPERNERD,STEVE,950]
+    Pokemon = PITOU,35
+#-------------------------------
+[SUPERNERD,WINSTON,950]
+    Pokemon = ADAMANTINE,36
+#-------------------------------
+[ANIMANIAC,DAWSON,950]
+    Pokemon = TRUEAPUS,45
+    Pokemon = ESDEATH,45
+    Pokemon = CINNABAR,45
+#-------------------------------
+[COLLECTOR,ASHTON,950]
+    Pokemon = GREED,26
+    Pokemon = YURUICHI,27
+#-------------------------------
+[SUPERNERD,JOVAN,950]
+    Pokemon = YURUICHI,34
+    Pokemon = KIDKAKASHI,34
+#-------------------------------
+[SUPERNERD,MIGUEL,950]
+    Pokemon = STAMPEDE,33
+    Pokemon = STRELIZIA,36
+    Pokemon = GURENMK2,36
+#-------------------------------
+[SUPERNERD,AIDAN,950]
+    Pokemon = KIDKAKASHI,20
+    Moves = SONICBOOM,SCREECH,TACKLE,CHARGE
+    Pokemon = ASTA,20
+    Moves = SLUDGE,SMOG,TACKLE,POISONGAS
+    Pokemon = KIDKAKASHI,20
+    Moves = SONICBOOM,SCREECH,TACKLE,CHARGE
+    Pokemon = YURUICHI,20
+    Moves = SONICBOOM,SUPERSONIC,THUNDERSHOCK,TACKLE
+#-------------------------------
+[SUPERNERD,GLENN,950]
+    Pokemon = AKAME,22
+    Pokemon = AKAME2,22
+    Pokemon = AKAME,22
+#-------------------------------
+[SUPERNERD,~61,950]
+    Pokemon = ASTA,22
+    Pokemon = YURUICHI,22
+    Pokemon = BLACKASTA,22
+#-------------------------------
+[SUPERNERD,~62,950]
+    Pokemon = YURUICHI,20
+    Pokemon = YURUICHI,20
+    Pokemon = ASTA,20
+    Pokemon = YURUICHI,20
+#-------------------------------
+[SUPERNERD,~63,950]
+    Pokemon = YURUICHI,24
+    Pokemon = KIDKAKASHI,24
+#-------------------------------
+[SUPERNERD,ERIK,950]
+    Pokemon = ZUKO,40
+    Pokemon = ZUKO2,40
+    Pokemon = GURENMK2,40
+#-------------------------------
+[SUPERNERD,AVERY,950]
+    Pokemon = GENOS,38
+    Pokemon = BAKUGOU,40
+    Pokemon = TODOROKI,38
+    Pokemon = GURENMK2,42
+#-------------------------------
+[SUPERNERD,DEREK,950]
+    Pokemon = TODOROKI,43
+#-------------------------------
+[SUPERNERD,ZAC,950]
+    Pokemon = ZUKO,38
+    Pokemon = MUSTANG,42
+#-------------------------------
+[HIKER,MARCOS,950]
+    Pokemon = KIRISHIMA,33
+    Pokemon = ARMSTRONG,33
+    Pokemon = REDRIOT,36
+#-------------------------------
+[HIKER,FRANKLIN,950]
+    Pokemon = KILLUA,15
+    Pokemon = CELL,15
+#-------------------------------
+[BEAUTY,BLAIRE,950]
+    Pokemon = AKAME,13
+    Pokemon = AKAME,13
+    Pokemon = KIDVEGETA,13
+#-------------------------------
+[HIKER,WAYNE,950]
+    Pokemon = ARMSTRONG,17
+#-------------------------------
+[HIKER,ALAN,950]
+    Pokemon = PICA,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+    Pokemon = PICAGOLEM,38
+    Moves = HARDEN,ROCKTHROW,BIND,SCREECH
+#-------------------------------
+[HIKER,BRICE,950]
+    Pokemon = KIRISHIMA,34
+    Pokemon = PICA,34
+    Pokemon = REDRIOT,38
+#-------------------------------
+[HIKER,CLARK,950]
+    Pokemon = GAARA,42
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+    Pokemon = ARMSTRONG,43
+    Moves = HARDEN,ROCKTHROW,BIND,SCREECH
+#-------------------------------
+[HIKER,TRENT,950]
+    Pokemon = ARMSTRONG,42
+    Pokemon = TOPH,42
+#-------------------------------
+[HIKER,DUDLEY,950]
+    Pokemon = ARMSTRONG,36
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+    Pokemon = PICA,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+    Pokemon = PICAGOLEM,35
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+#-------------------------------
+[HIKER,ALLEN,950]
+    Pokemon = REDRIOT,36
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+#-------------------------------
+[HIKER,ERIC,950]
+    Pokemon = VEGETA,28
+    Pokemon = ARMSTRONG,28
+#-------------------------------
+[HIKER,LENNY,950]
+    Pokemon = PICA,33
+    Pokemon = KIRISHIMA,33
+    Pokemon = CROCODILE,34
+    Pokemon = PICA,34
+#-------------------------------
+[HIKER,OLIVER,950]
+    Pokemon = ARMSTRONG,34
+    Pokemon = ARMSTRONG,34
+    Pokemon = KIRISHIMA,34
+#-------------------------------
+[HIKER,LUCAS,950]
+    Pokemon = ARMSTRONG,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+    Pokemon = TOPH,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+#-------------------------------
+[SCHOOLKID,KARMA,950]
+    Pokemon = AKAME,18
+    Moves = SMOKESCREEN,SLASH,SPIKES,POISONGAS
+    Pokemon = KILLUA,18
+    Moves = SMOKESCREEN,THUNDERSHOCK,SMOG,SLASH
+    Pokemon = KOROSENSEI,20
+    Moves = QUICKATTACK,OCTAZOOKA,CONSTRICT,DOUBLETEAM
+#-------------------------------
+[BIKER,MALIK,950]
+    Pokemon = ASTA,36
+    Pokemon = AKAME,36
+#-------------------------------
+[BIKER,ERNEST,950]
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = BLACKASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = AKAME,25
+    Moves = MINIMIZE,SLUDGE,DISABLE,POUND
+#-------------------------------
+[SCIENTIST,SHAO,950]
+    Pokemon = ENVY,38
+    Pokemon = GREED,40
+    Pokemon = CHIMERA,10
+#-------------------------------
+[BLACKKNIGHT,LAO,950]
+    Pokemon = SESSHOMARU,13
+    Moves = CUT,FOCUSENERGY,ACID,GROWTH
+    Pokemon = CELL,13
+    Moves = SMOKESCREEN,ABSORB,SMOG,TACKLE
+#-------------------------------
+[BIKER,~64,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BIKER,HIDEO,950]
+    Pokemon = BLACKASTA,33
+#-------------------------------
+[EXPERT,KIRITSUGU,950]
+    Pokemon = SHIROU,36
+    Moves = MIMIC,PROTECT,SLASH,TAKEDOWN
+    Pokemon = ARCHER,38
+    Moves = SNIPE,MIRRORMOVE,QUICKATTACK,SLASH
+    Pokemon = SABER,38
+    Moves = SLASH,BULLETPUNCH,PURSUIT,DIVINESTRIKE
+#-------------------------------
+[SCIENTIST,BILLY,950]
+    Pokemon = ALPHONSE,38
+#-------------------------------
+[SCIENTIST,NIKOLAS,950]
+    Pokemon = KIDKAKASHI,36
+    Moves = SPARK,SONICBOOM,SCREECH,CHARGE
+    Pokemon = KAKASHI,38
+    Moves = SPARK,SONICBOOM,SCREECH,CHARGE
+#-------------------------------
+[BIKER,JAXON,950]
+    Pokemon = BLACKASTA,29
+    Moves = SLUDGE,SMOKESCREEN,SMOG,TACKLE
+    Pokemon = AKAME2,29
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+#-------------------------------
+[BIKER,WILLIAM,950]
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = BLACKASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = BLACKASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SELFDESTRUCT,TACKLE
+#-------------------------------
+[BIKER,LUKAS,950]
+    Pokemon = ASTA,35
+    Pokemon = ASTA,35
+    Pokemon = AKAME,35
+    Pokemon = BAKUGOU,38
+#-------------------------------
+[BIKER,ISAAC,950]
+    Pokemon = AKAME,35
+    Pokemon = AKAME,36
+    Pokemon = ASTA,36
+#-------------------------------
+[BIKER,GERALD,950]
+    Pokemon = NATSU,36
+    Pokemon = ZUKO,38
+#-------------------------------
+[BURGLAR,~65,950]
+    Pokemon = ZUKO,29
+    Pokemon = KALLEN,29
+#-------------------------------
+[BURGLAR,~66,950]
+    Pokemon = ZUKO,33
+#-------------------------------
+[BURGLAR,~67,950]
+    Pokemon = KALLEN,28
+    Pokemon = KIDGOKU,28
+    Pokemon = SESSHOMARU,28
+#-------------------------------
+[BURGLAR,QUINN,950]
+    Pokemon = ZUKO,40
+    Pokemon = NATSU,40
+    Pokemon = GURENMK2,40
+#-------------------------------
+[BURGLAR,RAMON,950]
+    Pokemon = BAKUGOU,43
+#-------------------------------
+[BURGLAR,DUSTY,950]
+    Pokemon = BAKUGOU,40
+    Pokemon = NATSU,40
+#-------------------------------
+[BURGLAR,ARNIE,950]
+    Pokemon = KIDGOKU,34
+    Pokemon = GOKU,34
+#-------------------------------
+[BURGLAR,~68,950]
+    Pokemon = KIDGOKU,34
+    Pokemon = GOKU,34
+#-------------------------------
+[BURGLAR,SIMON,950]
+    Pokemon = GURENMK2,38
+#-------------------------------
+[BURGLAR,LEWIS,950]
+    Pokemon = ZUKO,34
+    Pokemon = SESSHOMARU,34
+#-------------------------------
+[ENGINEER,BAILY,950]
+    Pokemon = KIDKAKASHI,21
+    Pokemon = YURUICHI,21
+#-------------------------------
+[ENGINEER,BRAXTON,950]
+    Pokemon = YURUICHI,50
+#-------------------------------
+[ENGINEER,BERNIE,950]
+    Pokemon = FLASHGOD,50
+    Pokemon = FLASHGOD,18
+    Pokemon = GODSPEED,50
+#-------------------------------
+[FISHERMAN,DALE,950]
+    Pokemon = YATO,17
+    Pokemon = DEKU,17
+    Pokemon = YATO,17
+#-------------------------------
+[FISHERMAN,BARNY,950]
+    Pokemon = DEKU,17
+    Pokemon = TOSHIRO,17
+    Pokemon = KISAME,17
+#-------------------------------
+[FISHERMAN,NED,950]
+    Pokemon = YATO,22
+    Pokemon = LAGANN,22
+    Pokemon = YATO,22
+#-------------------------------
+[FISHERMAN,CHIP,950]
+    Pokemon = DEKU,24
+    Pokemon = YATO,24
+#-------------------------------
+[FISHERMAN,HANK,950]
+    Pokemon = YATO,27
+#-------------------------------
+[FISHERMAN,ELLIOT,950]
+    Pokemon = LAGANN,21
+    Pokemon = KISAME,21
+    Pokemon = YATO,21
+    Pokemon = SLIME,21
+#-------------------------------
+[FISHERMAN,RONALD,950]
+    Pokemon = HAFURIYATO,28
+    Pokemon = YATO,28
+    Pokemon = HAFURIYATO,28
+    Pokemon = HAFURIYATO,28
+#-------------------------------
+[FISHERMAN,CLAUDE,950]
+    Pokemon = KISAME,31
+    Pokemon = KISAME2,31
+#-------------------------------
+[FISHERMAN,WADE,950]
+    Pokemon = EREN,27
+    Pokemon = EREN,27
+    Pokemon = EREN,27
+    Pokemon = EREN,27
+    Pokemon = EREN,27
+    Pokemon = EREN,27
+#-------------------------------
+[FISHERMAN,NOLAN,950]
+    Pokemon = HAFURIYATO,33
+    Pokemon = YATO,33
+#-------------------------------
+[FISHERMAN,ANDREW,950]
+    Pokemon = EREN,24
+    Pokemon = EREN,24
+#-------------------------------
+[SWIMMER_M,LUIS,950]
+    Pokemon = SLIME,11
+#-------------------------------
+[SWIMMER_M,RICHARD,950]
+    Pokemon = KISAME,30
+#-------------------------------
+[RUINMANIAC,MAGIN,950]
+    Pokemon = YATO,29
+    Pokemon = SLIME,29
+    Pokemon = TOSHIRO,29
+#-------------------------------
+[SWIMMER_M,MATTHEW,950]
+    Pokemon = LAGANN,30
+    Pokemon = GURREN,30
+#-------------------------------
+[EXPERT,LIGHT,951]
+    Pokemon = GILGAMESH,40
+    Pokemon = GENOS,36
+    Pokemon = RIMURU,38
+    Pokemon = KAKUJA,38
+#-------------------------------
+[SWIMMER_M,DAVID,950]
+    Pokemon = YATO,29
+    Pokemon = KISAME,29
+    Pokemon = HAFURIYATO,29
+#-------------------------------
+[SWIMMER_M,TONY,950]
+    Pokemon = SLIME,30
+    Pokemon = SLIME,30
+#-------------------------------
+[SWIMMER_M,AXLE,950]
+    Pokemon = DEKU,27
+    Pokemon = DEKU,27
+    Pokemon = TOSHIRO,27
+    Pokemon = SLIME,27
+    Pokemon = FULLCOWL,27
+#-------------------------------
+[SWIMMER_M,BARRY,950]
+    Pokemon = KISAME,31
+    Pokemon = KISAME2,31
+#-------------------------------
+[SWIMMER_M,DEAN,950]
+    Pokemon = TOSHIRO,35
+#-------------------------------
+[SWIMMER_M,DARRIN,950]
+    Pokemon = SLIME,28
+    Pokemon = SLIME,28
+    Pokemon = RIMURU,28
+    Pokemon = SLIME,28
+#-------------------------------
+[SWIMMER_M,SPENCER,950]
+    Pokemon = RIMURU,33
+    Pokemon = FULLCOWL,33
+#-------------------------------
+[SWIMMER_M,JACK,950]
+    Pokemon = ICERING,37
+#-------------------------------
+[SWIMMER_M,JEROME,950]
+    Pokemon = TOSHIRO,33
+    Pokemon = LUFFYGEAR2,33
+#-------------------------------
+[EXPERT,LIGHT,952]
+    Pokemon = FILOLIAL,18
+    Pokemon = YURUICHI,20
+    Pokemon = KIDSASUKE,22
+#-------------------------------
+[BLACKBELT,JACKIE,950]
+    Pokemon = KRILLIN,30
+    Pokemon = VEGETA,32
+    Pokemon = GOKU,33
+#-------------------------------
+[CUEBALL,LUKE,950]
+    Pokemon = YUSUKE,29
+    Pokemon = KIDVEGETA,29
+#-------------------------------
+[BLACKKNIGHT,CAMRON,950]
+    Pokemon = KISAME,12
+    Pokemon = KIDVEGETA,14
+#-------------------------------
+[BIRDKEEPER,RAUL,950]
+    Pokemon = FILOLIAL,22
+    Pokemon = GODBIRD,24
+#-------------------------------
+[BLACKBELT,KOICHI,950]
+    Pokemon = VEGETA,28
+    Pokemon = YUSUKE,28
+#-------------------------------
+[CUEBALL,ZEEK,950]
+    Pokemon = VEGETA,33
+#-------------------------------
+[SCIENTIST,JAMAL,950]
+    Pokemon = CELL2,36
+    Pokemon = GENOS,36
+    Pokemon = KOROSENSEI,36
+    Pokemon = GURENMK2,36
+#-------------------------------
+[CUEBALL,COREY,950]
+    Pokemon = RAIZEN,29
+    Pokemon = VEGETA,29
+#-------------------------------
+[CUEBALL,CHASE,950]
+    Pokemon = DEKU,31
+    Pokemon = DEKU,31
+    Pokemon = FULLCOWL,31
+#-------------------------------
+[GAMER,HUGO,950]
+    Pokemon = LAGANN,50
+    Pokemon = SHIKAMARU,50
+#-------------------------------
+[GAMER,JASPER,950]
+    Pokemon = SUSANOO,50
+    Pokemon = PITOU,50
+#-------------------------------
+[GAMER,DIRK,950]
+    Pokemon = SHIKAMARU,49
+    Pokemon = YURUICHI,47
+#-------------------------------
+[GAMER,DARIAN,950]
+    Pokemon = ZUKO,50
+    Pokemon = GURENMK2,50
+#-------------------------------
+[BLACKKNIGHT,STACY,950]
+    Pokemon = LAGANN,15
+    Pokemon = CELL,15
+    Pokemon = KISAME,15
+#-------------------------------
+[GAMER,~69,950]
+    Pokemon = COCO,5
+#-------------------------------
+[GAMER,RICH,950]
+    Pokemon = ZUKO,50
+    Pokemon = MERUEM,50
+#-------------------------------
+[BEAUTY,BRIDGET,950]
+    Pokemon = MIMOSA,42
+    Pokemon = USOPP2,42
+    Pokemon = HASHIRAMA,42
+    Pokemon = MIMOSA,42
+#-------------------------------
+[BEAUTY,TAMIA,950]
+    Pokemon = HAKURYUU,43
+    Pokemon = HAKURYUU,43
+#-------------------------------
+[BEAUTY,LORI,950]
+    Pokemon = HAKURYUU,44
+#-------------------------------
+[BEAUTY,LOLA,950]
+    Pokemon = KRAPHTALIA,27
+    Pokemon = PIKACHU,27
+    Pokemon = KRAPHTALIA,27
+#-------------------------------
+[BEAUTY,SHEILA,950]
+    Pokemon = GON,29
+    Pokemon = SHIROU,29
+#-------------------------------
+[SWIMMER_F,TIFFANY,950]
+    Pokemon = HAFURIYATO,35
+#-------------------------------
+[SWIMMER_F,NORA,950]
+    Pokemon = KISAME,30
+    Pokemon = KISAME,30
+    Pokemon = KISAME2,30
+#-------------------------------
+[SWIMMER_F,MELISSA,950]
+    Pokemon = LAGANN,31
+    Pokemon = HAFURIYATO,31
+#-------------------------------
+[BEAUTY,GRACE,950]
+    Pokemon = RIAS,46
+    Pokemon = TSUKIUMI,46
+#-------------------------------
+[BEAUTY,OLIVIA,950]
+    Pokemon = AKENO,45
+    Pokemon = ESDEATH,48
+#-------------------------------
+[BEAUTY,LAUREN,950]
+    Pokemon = SASUKE,33
+    Pokemon = KIDSASUKE,33
+    Pokemon = SASUKE,33
+#-------------------------------
+[SWIMMER_F,ANYA,950]
+    Pokemon = LAGANN,27
+    Pokemon = YATO,27
+    Pokemon = HAFURIYATO,27
+    Pokemon = YATO,27
+    Pokemon = LAGANN,27
+#-------------------------------
+[SWIMMER_F,ALICE,950]
+    Pokemon = YATO,30
+    Pokemon = HAFURIYATO,30
+#-------------------------------
+[SWIMMER_F,CONNIE,950]
+    Pokemon = TOSHIRO,29
+    Pokemon = TOSHIRO,29
+    Pokemon = TOSHIRO,29
+#-------------------------------
+[SWIMMER_F,SHIRLEY,950]
+    Pokemon = RIMURU,30
+    Pokemon = SLIME,30
+    Pokemon = RIMURU,30
+#-------------------------------
+[PSYCHIC_M,JOHAN,950]
+    Pokemon = FRIEZA,31
+    Pokemon = CC,31
+    Pokemon = KYUBEY,31
+    Pokemon = ARCHER,33
+#-------------------------------
+[PSYCHIC_M,TYRON,950]
+    Pokemon = KYUBEY,34
+    Pokemon = FRIEZA2,34
+#-------------------------------
+[PSYCHIC_M,CAMERON,950]
+    Pokemon = FRIEZA,33
+    Pokemon = FRIEZA,33
+    Pokemon = FRIEZA2,33
+#-------------------------------
+[PSYCHIC_M,PRESTON,950]
+    Pokemon = DMAGICIAN,38
+#-------------------------------
+[ROCKER,RANDALL,950]
+    Pokemon = KIDKAKASHI,20
+    Pokemon = YURUICHI,20
+    Pokemon = KIDKAKASHI,20
+#-------------------------------
+[ROCKER,LUCA,950]
+    Pokemon = KIDKAKASHI,29
+    Pokemon = KAKASHI,29
+#-------------------------------
+[JUGGLER,DALTON,950]
+    Pokemon = FRIEZA2,29
+    Pokemon = ALPHONSE,29
+#-------------------------------
+[JUGGLER,NELSON,950]
+    Pokemon = DMAGICIAN,47
+    Pokemon = DPALADIN,50
+    Pokemon = FRIEZA2,47
+    Pokemon = FRIEZA3,50
+#-------------------------------
+[JUGGLER,KIRK,950]
+    Pokemon = DMAGICIAN,45
+    Pokemon = HISOKA,45
+    Pokemon = MAGICIAN,45
+    Pokemon = DMAGICIAN,45
+#-------------------------------
+[JUGGLER,SHAWN,950]
+    Pokemon = DMAGICIAN,34
+    Pokemon = DPALADIN,34
+#-------------------------------
+[JUGGLER,GREGORY,950]
+    Pokemon = ALPHONSE,52
+#-------------------------------
+[JUGGLER,EDWARD,950]
+    Pokemon = KIDKAKASHI,46
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+    Pokemon = KIDKAKASHI,46
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+    Pokemon = KAKASHI,47
+    Moves = SWIFT,SPARK,SELFDESTRUCT,SONICBOOM
+    Pokemon = ALPHONSE,48
+    Moves = PSYCHIC,ROLEPLAY,REFLECT,ENCORE
+#-------------------------------
+[JUGGLER,KAYDEN,950]
+    Pokemon = DPALADIN,38
+#-------------------------------
+[JUGGLER,NATE,950]
+    Pokemon = DMAGICIAN,50
+    Pokemon = MAGICIAN,50
+#-------------------------------
+[TAMER,PHIL,950]
+    Pokemon = SESSHOMARU,46
+    Pokemon = TRUEFORM,50
+#-------------------------------
+[TAMER,EDGAR,950]
+    Pokemon = COCODEMON,33
+    Pokemon = GAARA,33
+    Pokemon = COCODEMON,33
+#-------------------------------
+[TAMER,JASON,950]
+    Pokemon = KIRISHIMA,43
+#-------------------------------
+[TAMER,COLE,950]
+    Pokemon = COCODEMON,32
+    Pokemon = NAOFUMI,32
+#-------------------------------
+[TAMER,VINCENT,950]
+    Pokemon = ARCHER,50
+    Pokemon = TIERHUNT,50
+#-------------------------------
+[TAMER,JOHN,950]
+    Pokemon = KIRISHIMA,42
+    Pokemon = RAIZEN,42
+    Pokemon = COCODEMON,42
+    Pokemon = BAKUGOU,42
+#-------------------------------
+[BIRDKEEPER,SEBASTIAN,950]
+    Pokemon = FILOLIAL,32
+    Pokemon = GODBIRD,36
+#-------------------------------
+[BIRDKEEPER,PERRY,950]
+    Pokemon = YUNO,36
+    Pokemon = GODBIRD,36
+    Pokemon = FILOLIAL,34
+    Pokemon = WENDY,34
+    Pokemon = AIS,36
+#-------------------------------
+[BIRDKEEPER,ROBERT,950]
+    Pokemon = FILOLIAL,32
+    Pokemon = GODBIRD,34
+    Pokemon = AANG,32
+    Pokemon = AVATARAANG,36
+#-------------------------------
+[BIRDKEEPER,DONALD,950]
+    Pokemon = AIS,40
+#-------------------------------
+[BIRDKEEPER,BENNY,950]
+    Pokemon = YUNO,38
+    Pokemon = SPIRITDIVE,40
+#-------------------------------
+[BIRDKEEPER,EDWIN,950]
+    Pokemon = GODBIRD,46
+    Pokemon = AIS,44
+    Pokemon = WENDY,45
+    Pokemon = FILO,48
+#-------------------------------
+[BIRDKEEPER,CHESTER,950]
+    Pokemon = WENDYFORCE,46
+    Pokemon = WENDY,34
+    Pokemon = GODBIRD,46
+#-------------------------------
+[BIRDKEEPER,WILTON,950]
+    Pokemon = FILOLIAL,18
+    Pokemon = GODBIRD,22
+#-------------------------------
+[BIRDKEEPER,RAMIRO,950]
+    Pokemon = WENDY,20
+#-------------------------------
+[BIRDKEEPER,JACOB,950]
+    Pokemon = FILOLIAL,18
+    Pokemon = GODBIRD,20
+    Pokemon = KRILLIN,18
+    Pokemon = GODBIRD,20
+#-------------------------------
+[BIRDKEEPER,ROGER,950]
+    Pokemon = KRILLIN,30
+    Pokemon = KRILLIN,30
+    Pokemon = GODBIRD,30
+#-------------------------------
+[BIRDKEEPER,REED,950]
+    Pokemon = GODBIRD,39
+    Pokemon = GODBIRD,39
+    Pokemon = FILOLIAL,39
+    Pokemon = GODBIRD,39
+#-------------------------------
+[BIRDKEEPER,KEITH,950]
+    Pokemon = AIS,39
+    Pokemon = KRILLIN,39
+#-------------------------------
+[BIRDKEEPER,CARTER,950]
+    Pokemon = FILOLIAL,34
+    Pokemon = WENDY,38
+    Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,MITCH,950]
+    Pokemon = FILOLIAL,35
+    Pokemon = WENDY,35
+    Pokemon = FILOLIAL,38
+    Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,BECK,950]
+    Pokemon = GODBIRD,36
+    Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,MARLON,950]
+    Pokemon = FILOLIAL,35
+    Pokemon = GODBIRD,38
+    Pokemon = FILO,40
+#-------------------------------
+[BLACKBELT,KOICHI,951]
+    Pokemon = STARPLAT,35
+    Pokemon = THEWORLD,35
+#-------------------------------
+[BLACKBELT,MIKE,950]
+    Pokemon = YUSUKE,31
+    Pokemon = YUSUKE,31
+    Pokemon = RAIZEN,31
+#-------------------------------
+[BLACKBELT,HIDEKI,950]
+    Pokemon = KIDVEGETA,32
+    Pokemon = VEGETA,32
+#-------------------------------
+[BLACKBELT,AARON,950]
+    Pokemon = RAIZEN,36
+#-------------------------------
+[BLACKBELT,HITOSHI,950]
+    Pokemon = KIDVEGETA,31
+    Pokemon = YUSUKE,31
+    Pokemon = RAIZEN,31
+#-------------------------------
+[BLACKBELT,ATSUSHI,950]
+    Pokemon = KIDVEGETA,40
+    Pokemon = VEGETA,40
+#-------------------------------
+[BLACKBELT,KIYO,950]
+    Pokemon = VEGETA,43
+#-------------------------------
+[BLACKBELT,TAKASHI,950]
+    Pokemon = VEGETA,38
+    Pokemon = KIDVEGETA,38
+    Pokemon = VEGETA,38
+#-------------------------------
+[BLACKBELT,DAISUKE,950]
+    Pokemon = VEGETA,47
+    Pokemon = SSJVEGETA,50
+    Pokemon = VEGETA,46
+#-------------------------------
+[TAMER,LUCY,951]
+    Pokemon = LUFFY,5
+#-------------------------------
+[TAMER,LUCY,952]
+    Pokemon = KIDNARUTO,5
+#-------------------------------
+[TAMER,LUCY,953]
+    Pokemon = KIDGOKU,5
+#-------------------------------
+[TAMER,LUCY,954]
+    Pokemon = NATSU,17
+    Pokemon = LUFFY,15
+#-------------------------------
+[TAMER,LUCY,955]
+    Pokemon = NATSU,13
+    Pokemon = KIDNARUTO,14
+#-------------------------------
+[TAMER,LUCY,956]
+    Pokemon = NATSU,13
+    Pokemon = KIDGOKU,14
+#-------------------------------
+[TAMER,LUCY,957]
+    Pokemon = DEMONSLAY,40
+    Pokemon = NATSUFORCE,43
+    Pokemon = ADAMANTINE,43
+    Pokemon = LUFFYGEAR4,45
+#-------------------------------
+[TAMER,LUCY,958]
+    Pokemon = DEMONSLAY,40
+    Pokemon = NATSUFORCE,43
+    Pokemon = PURGATORY,43
+    Pokemon = KURAMAMODE,45
+#-------------------------------
+[TAMER,LUCY,959]
+    Pokemon = DEMONSLAY,40
+    Pokemon = NATSUFORCE,43
+    Pokemon = CLEARHEART,43
+    Pokemon = SSJGOKU,45
+#-------------------------------
+[SCIENTIST,TED,950]
+    Pokemon = KAKASHI,29
+    Pokemon = BLACKASTA,29
+#-------------------------------
+[SCIENTIST,CONNOR,950]
+    Pokemon = AKAME,26
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+    Pokemon = BLACKASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = ASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,SELFDESTRUCT
+    Pokemon = BLACKASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+#-------------------------------
+[SCIENTIST,JERRY,950]
+    Pokemon = YURUICHI,28
+    Pokemon = KIDKAKASHI,28
+    Pokemon = FLASHGOD,28
+#-------------------------------
+[SCIENTIST,JOSE,950]
+    Pokemon = KAKASHI,29
+    Moves = SPARK,SONICBOOM,SCREECH,TACKLE
+    Pokemon = BLACKASTA,29
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+#-------------------------------
+[SCIENTIST,RODNEY,950]
+    Pokemon = KAKASHI,33
+#-------------------------------
+[SCIENTIST,BEAU,950]
+    Pokemon = FLASHGOD,26
+    Moves = SPARK,THUNDERWAVE,SONICBOOM,SUPERSONIC
+    Pokemon = ASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = BLACKASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = YURUICHI,26
+    Moves = SPARK,THUNDERWAVE,SONICBOOM,SUPERSONIC
+#-------------------------------
+[SCIENTIST,TAYLOR,950]
+    Pokemon = KIDKAKASHI,25
+    Moves = SPARK,SONICBOOM,SCREECH,TACKLE
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = FLASHGOD,25
+    Moves = THUNDERWAVE,SONICBOOM,SUPERSONIC,THUNDERSHOCK
+    Pokemon = YURUICHI,25
+    Moves = THUNDERWAVE,SONICBOOM,SUPERSONIC,THUNDERSHOCK
+    Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,SELFDESTRUCT
+#-------------------------------
+[SCIENTIST,JOSHUA,950]
+    Pokemon = KAKASHI,29
+    Pokemon = AKAME2,29
+#-------------------------------
+[SCIENTIST,PARKER,950]
+    Pokemon = AKAME,29
+    Pokemon = KAKASHI,29
+#-------------------------------
+[SCIENTIST,ED,950]
+    Pokemon = KIDKAKASHI,28
+    Moves = SPARK,SONICBOOM,SCREECH,TACKLE
+    Pokemon = ASTA,28
+    Moves = SMOKESCREEN,SLUDGE,TACKLE,SMOG
+    Pokemon = FLASHGOD,28
+    Moves = SPARK,THUNDERWAVE,SONICBOOM,SUPERSONIC
+#-------------------------------
+[SCIENTIST,TRAVIS,950]
+    Pokemon = YURUICHI,29
+    Pokemon = ASTA,29
+#-------------------------------
+[SCIENTIST,BRAYDON,950]
+    Pokemon = YURUICHI,33
+    Pokemon = FLASHGOD,33
+    Pokemon = KIDKAKASHI,33
+#-------------------------------
+[SCIENTIST,IVAN,950]
+    Pokemon = YURUICHI,34
+    Pokemon = KAKASHI,34
+#-------------------------------
+[BOSS,ZERO,951]
+    Pokemon = CC,52
+    Pokemon = GURENMK2,48
+    Pokemon = LANCELOT,48
+#-------------------------------
+[BOSS,GIOVANNI,950]
+    Pokemon = STRELIZIA,37
+    Pokemon = GURENMK2,35
+    Pokemon = KIRISHIMA,37
+    Pokemon = TRUESYNC,41
+#-------------------------------
+[LEADER,YUGI,951]
+    Pokemon = DMAGICIAN,50
+    Moves = DARKMAGIC,PSYCHIC,HYPNOSIS,BARRIER
+    Pokemon = MAGICIAN,50
+    Moves = DARKMAGIC,PSYCHIC,ATTRACT,LOVELYKISS
+    Pokemon = GETSUGA,53
+    Moves = NIGHTSLASH,SHADOWBALL,EXTREMESPEED,DOUBLETEAM
+    Pokemon = MAGICIAND,54
+    Moves = DRAGONBREATH,PSYCHIC,ATTRACT,FLY
+    Pokemon = DPALADIN,55
+    Moves = DARKMAGIC,NIGHTSLASH,PSYCHIC,SLASH
+#-------------------------------
+[BLACKKNIGHT,GRUNT,950]
+    Pokemon = RAPHTALIA,33
+    Pokemon = KRILLIN,33
+#-------------------------------
+[BLACKKNIGHT,GRUNT,951]
+    Pokemon = KIDGAARA,32
+    Pokemon = RAPHTALIA,32
+    Pokemon = VEGETA,33
+#-------------------------------
+[BLACKKNIGHT,GRUNT,952]
+    Pokemon = PITOU,34
+    Pokemon = COCODEMON,34
+#-------------------------------
+[BLACKKNIGHT,GRUNT,953]
+    Pokemon = KIDGAARA,32
+    Pokemon = KISAME,33
+#-------------------------------
+[BLACKKNIGHT,GRUNT,954]
+    Pokemon = KIDVEGETA,17
+    Pokemon = TIER,17
+#-------------------------------
+[BLACKKNIGHT,GRUNT,955]
+    Pokemon = COCODEMON,45
+    Pokemon = FRIEZA3,45
+#-------------------------------
+[BLACKKNIGHT,GRUNT,956]
+    Pokemon = KRAPHTALIA,5
+    Pokemon = KIDKRILLIN,5
+#-------------------------------
+[BLACKKNIGHT,GRUNT,957]
+    Pokemon = GREGORY,5
+    Pokemon = CELL,5
+#-------------------------------
+[BLACKKNIGHT,GRUNT,958]
+    Pokemon = KRAPHTALIA,21
+    Pokemon = KRAPHTALIA,21
+#-------------------------------
+[BLACKKNIGHT,GRUNT,959]
+    Pokemon = AKAME2,40
+    Pokemon = BLACKASTA,40
+    Pokemon = COCODEMON,40
+#-------------------------------
+[BLACKKNIGHT,GRUNT,960]
+    Pokemon = RAPHTALIA,38
+    Pokemon = RAPHTALIA,38
+    Pokemon = RAPHTALIA,38
+    Pokemon = RAPHTALIA,40
+#-------------------------------
+[BLACKKNIGHT,GRUNT,961]
+    Pokemon = AKAME2,42
+    Pokemon = BLACKASTA,42
+#-------------------------------
+[BLACKKNIGHT,GRUNT,962]
+    Pokemon = CELL,38
+    Pokemon = CELL,38
+    Pokemon = CELL2,40
+    Pokemon = AKAME,40
+    Pokemon = PITOU,40
+#-------------------------------
+[BLACKKNIGHT,GRUNT,963]
+    Pokemon = KRAPHTALIA,38
+    Pokemon = RAPHTALIA,41
+    Pokemon = PICA,40
+#-------------------------------
+[BLACKKNIGHT,GRUNT,964]
+    Pokemon = KIDVEGETA,38
+    Pokemon = KIDVEGETA,38
+#-------------------------------
+[BLACKKNIGHT,GRUNT,965]
+    Pokemon = KIDGAARA,40
+    Pokemon = KISAME,40
+    Pokemon = SASUKE,40
+#-------------------------------
+[BLACKKNIGHT,GRUNT,966]
+    Pokemon = COCO,40
+    Pokemon = KIDGAARA,40
+    Pokemon = KISAME,40
+#-------------------------------
+[BLACKKNIGHT,GRUNT,967]
+    Pokemon = ASTA,38
+    Pokemon = ZUKO,40
+#-------------------------------
+[BLACKKNIGHT,GRUNT,968]
+    Pokemon = KYUBEY,44
+    Pokemon = FRIEZA2,44
+    Pokemon = GREED,45
+#-------------------------------
+[BLACKKNIGHT,GRUNT,969]
+    Pokemon = ASTA,45
+    Pokemon = BLACKASTA,46
+#-------------------------------
+[BLACKKNIGHT,GRUNT,970]
+    Pokemon = CROW,43
+    Pokemon = RAPHTALIA,44
+    Pokemon = NOFACE2,45
+    Pokemon = VASTOLORDE,48
+#-------------------------------
+[BLACKKNIGHT,GRUNT,971]
+    Pokemon = KYUBEY,26
+    Pokemon = ASTA,26
+#-------------------------------
+[BLACKKNIGHT,GRUNT,972]
+    Pokemon = GREED,29
+    Pokemon = SESSHOMARU,29
+#-------------------------------
+[BLACKKNIGHT,GRUNT,973]
+    Pokemon = PICA,25
+    Pokemon = PITOU,25
+    Pokemon = PICA,25
+    Pokemon = KIDGAARA,25
+    Pokemon = ZUKO,25
+#-------------------------------
+[BLACKKNIGHT,GRUNT,974]
+    Pokemon = RAPHTALIA,28
+    Pokemon = GODBIRD,28
+    Pokemon = RAPHTALIA,28
+#-------------------------------
+[BLACKKNIGHT,GRUNT,975]
+    Pokemon = KIDVEGETA,29
+    Pokemon = CELL2,29
+#-------------------------------
+[BLACKKNIGHT,GRUNT,976]
+    Pokemon = COCO,28
+    Pokemon = SASUKE,28
+    Pokemon = GREED,28
+#-------------------------------
+[BLACKKNIGHT,GRUNT,977]
+    Pokemon = COCODEMON,33
+#-------------------------------
+[BLACKKNIGHT,GRUNT,978]
+    Pokemon = BLACKASTA,33
+#-------------------------------
+[BLACKKNIGHT,GRUNT,979]
+    Pokemon = KIDVEGETA,29
+    Pokemon = VEGETA,29
+#-------------------------------
+[BLACKKNIGHT,GRUNT,980]
+    Pokemon = ZUKO,28
+    Pokemon = ZUKO,28
+    Pokemon = TIER,28
+#-------------------------------
+[BLACKKNIGHT,GRUNT,981]
+    Pokemon = RAPHTALIA,26
+    Pokemon = AKAME,26
+    Pokemon = ASTA,26
+    Pokemon = GURENMK2,26
+#-------------------------------
+[BLACKKNIGHT,GRUNT,982]
+    Pokemon = GREED,29
+    Pokemon = GREED,29
+#-------------------------------
+[BLACKKNIGHT,GRUNT,983]
+    Pokemon = KIDGAARA,29
+    Pokemon = GAARA,29
+#-------------------------------
+[BLACKKNIGHT,GRUNT,984]
+    Pokemon = RAPHTALIA,26
+    Pokemon = PITOU,26
+    Pokemon = ENTOMA,26
+    Pokemon = ENTOMA2,28
+#-------------------------------
+[BLACKKNIGHT,GRUNT,985]
+    Pokemon = BLACKASTA,28
+    Pokemon = GURENMK2,28
+    Pokemon = ASTA,28
+#-------------------------------
+[BLACKKNIGHT,GRUNT,986]
+    Pokemon = KIDSASUKE,28
+    Pokemon = AKAME,28
+    Pokemon = KIDVEGETA,28
+#-------------------------------
+[BLACKKNIGHT,GRUNT,987]
+    Pokemon = GURENMK2,28
+    Pokemon = ENTOMA2,28
+    Pokemon = SESSHOMARU,28
+#-------------------------------
+[BLACKKNIGHT,GRUNT,988]
+    Pokemon = VEGETA,33
+#-------------------------------
+[BLACKKNIGHT,GRUNT,989]
+    Pokemon = KRAPHTALIA,25
+    Pokemon = KRAPHTALIA,25
+    Pokemon = NATSU,25
+    Pokemon = KRAPHTALIA,25
+    Pokemon = COCO,25
+#-------------------------------
+[BLACKKNIGHT,GRUNT,990]
+    Pokemon = GREED,32
+    Pokemon = CROCODILE,32
+    Pokemon = LINGREED,32
+#-------------------------------
+[COOLTRAINER_M,SAMUEL,950]
+    Pokemon = CROW,48
+    Pokemon = KYUBEY,47
+    Pokemon = DEMONSLAY,48
+    Pokemon = ITACHI,48
+    Pokemon = SHIKAMARU,48
+#-------------------------------
+[COOLTRAINER_M,GEORGE,950]
+    Pokemon = NOFACE2,50
+    Moves = SCARYFACE,SPITUP,SWALLOW,PAYDAY
+    Pokemon = GAARA,48
+    Moves = PROTECT,EARTHQUAKE,SANDTOMB,SANDATTACK
+    Pokemon = KISAME2,50
+    Moves = SPIKECANNON,SPIKES,AURORABEAM,SUPERSONIC
+    Pokemon = KAKASHI,50
+    Moves = SPARK,SONICBOOM,DIG,LIGHTSCREEN
+    Pokemon = ZUKO2,50
+    Moves = FLAMEWHEEL,ROAR,DRAGONRAGE,TAKEDOWN
+#-------------------------------
+[COOLTRAINER_M,COLBY,950]
+    Pokemon = WHITEHAZE,48
+    Moves = ICEBEAM,STOMP,KARATECHOP,LEER
+    Pokemon = GURREN,48
+    Moves = BODYSLAM,HEADBUTT,METALCLAW,TAKEDOWN
+    Pokemon = FULLCOWL,48
+    Moves = DOUBLEEDGE,BOUNCE,BULKUP,TRIPLEKICK
+    Pokemon = RIMURU,50
+    Moves = WATERGUN,SMOKESCREEN,TWISTER,LEER
+    Pokemon = LUFFYGEAR4,52
+    Moves = MEGAPUNCH,BITE,RAPIDSPIN,DEFENSECURL
+#-------------------------------
+[COOLTRAINER_M,PAUL,950]
+    Pokemon = GRAY,42
+    Moves = HEADBUTT,CONFUSION,WATERGUN,DISABLE
+    Pokemon = KISAME,42
+    Moves = AURORABEAM,CLAMP,SUPERSONIC,LEER
+    Pokemon = WHITEHAZE,42
+    Moves = GUILLOTINE,STOMP,MUDSHOT,BUBBLE
+    Pokemon = ICERING,42
+    Moves = BUBBLEBEAM,SWIFT,RECOVER,RAPIDSPIN
+    Pokemon = TIERHUNT,42
+    Moves = CONFUSION,SCRATCH,SCREECH,DISABLE
+#-------------------------------
+[COOLTRAINER_M,ROLANDO,950]
+    Pokemon = RAPHTALIA,50
+    Pokemon = NARUTO,50
+    Pokemon = LUFFYGEAR2,50
+    Pokemon = GOKU,50
+    Pokemon = KURAMAMODE,50
+#-------------------------------
+[COOLTRAINER_M,GILBERT,950]
+    Pokemon = GODBIRD,42
+    Moves = RASENGAN,FEATHERDANCE,WHIRLWIND,QUICKATTACK
+    Pokemon = KRILLIN,42
+    Moves = DRILLPECK,MIRRORMOVE,PURSUIT,LEER
+    Pokemon = ARCHER,42
+    Moves = PAYDAY,FAINTATTACK,SCREECH,BITE
+    Pokemon = CINNABAR,42
+    Moves = SLAM,DISABLE,WRAP,SUPERSONIC
+    Pokemon = BAKUGOU,42
+    Moves = HORNATTACK,SCARYFACE,SWAGGER,TAILWHIP
+#-------------------------------
+[COOLTRAINER_M,OWEN,950]
+    Pokemon = STRELIZIA,42
+    Moves = SCRATCH,POISONSTING,DOUBLEKICK,BITE
+    Pokemon = SENKETSU,42
+    Moves = HORNATTACK,POISONSTING,DOUBLEKICK,LEER
+    Pokemon = RAPHTALIA,42
+    Moves = SUPERFANG,PURSUIT,SCARYFACE,QUICKATTACK
+    Pokemon = GAARA,42
+    Moves = FURYSWIPES,SWIFT,SLASH,POISONSTING
+    Pokemon = KIRISHIMA,42
+    Moves = ROCKBLAST,SCARYFACE,STOMP,TAILWHIP
+#-------------------------------
+[COOLTRAINER_M,BERKE,950]
+    Pokemon = HAKU,42
+    Moves = TAKEDOWN,AURORABEAM,ICYWIND,GROWL
+    Pokemon = GREYMON,42
+    Moves = ROCKBLAST,MAGNITUDE,ROCKTHROW,MUDSPORT
+    Pokemon = WHITEHAZE,42
+    Moves = GUILLOTINE,STOMP,MUDSHOT,BUBBLE
+    Pokemon = ARMSTRONG,42
+    Moves = SLAM,SANDSTORM,DRAGONBREATH,ROCKTHROW
+    Pokemon = KISAME2,42
+    Moves = SPIKECANNON,AURORABEAM,SUPERSONIC,PROTECT
+#-------------------------------
+[COOLTRAINER_M,YUJI,950]
+    Pokemon = KANEKI,45
+    Pokemon = KAKUJA,48
+    Pokemon = NOFACE2,48
+    Pokemon = NATSU,45
+    Pokemon = END,48
+#-------------------------------
+[COOLTRAINER_M,WARREN,950]
+    Pokemon = LINGREED,45
+    Moves = BONEMERANG,HEADBUTT,LEER,GROWL
+    Pokemon = BLACKASTA,48
+    Moves = BONEMERANG,HEADBUTT,LEER,GROWL
+    Pokemon = RIAS,48
+    Moves = TAKEDOWN,ROCKBLAST,FURYATTACK,SCARYFACE
+    Pokemon = RYUK,48
+    Moves = FURYSWIPES,BITE,POISONSTING,DOUBLEKICK
+    Pokemon = RAIZEN,48
+    Moves = BODYSLAM,BITE,POISONSTING,DOUBLEKICK
+#-------------------------------
+[COOLTRAINER_M,MARY,950]
+    Pokemon = MIMOSA,40
+    Pokemon = HAKURYUU,40
+    Pokemon = UEKI,40
+    Pokemon = USOPP2,40
+    Pokemon = HASHIRAMA,40
+#-------------------------------
+[COOLTRAINER_M,CAROLINE,950]
+    Pokemon = SASUKE,48
+    Moves = THUNDERPUNCH,DREAMEATER,HYPNOSIS,FLAMETHROWER
+    Pokemon = FULLCOWL,48
+    Moves = THUNDER,FLAMETHROWER,GLARE,BOUNCE
+    Pokemon = SUSANOO,50
+    Moves = THUNDER,ACID,STUNSPORE,SLEEPPOWDER
+    Pokemon = HASHIRAMA,48
+    Moves = GROWTH,SLASH,LEECHLIFE,STUNSPORE
+#-------------------------------
+[COOLTRAINER_M,ALEXA,950]
+    Pokemon = GON,48
+    Pokemon = AANG,48
+    Pokemon = ARCHER,48
+    Pokemon = HAKUDRAGON,50
+    Pokemon = ASUNA,50
+#-------------------------------
+[COOLTRAINER_M,SHANNON,950]
+    Pokemon = ENTOMA2,42
+    Moves = PINMISSILE,TWINEEDLE,AGILITY,PURSUIT
+    Pokemon = CELL3,42
+    Moves = SAFEGUARD,PSYBEAM,GUST,SUPERSONIC
+    Pokemon = YUNO,42
+    Moves = PSYBEAM,STUNSPORE,LEECHLIFE,DISABLE
+    Pokemon = SPIRITDIVE,42
+    Moves = PSYBEAM,GUST,SUPERSONIC,LEECHLIFE
+#-------------------------------
+[COOLTRAINER_M,NAOMI,950]
+    Pokemon = ARCHER,48
+    Pokemon = SESSHOMARU,48
+    Pokemon = TRUEFORM,48
+    Pokemon = GURENMK2,48
+    Pokemon = FULLCOWL,48
+#-------------------------------
+[COOLTRAINER_M,BROOKE,950]
+    Pokemon = UEKI,42
+    Moves = SLAM,BIND,MEGADRAIN,INGRAIN
+    Pokemon = USOPP,42
+    Moves = ACID,MOONLIGHT,SLEEPPOWDER,STUNSPORE
+    Pokemon = USOPP2,42
+    Moves = MEGADRAIN,ACID,STUNSPORE,AROMATHERAPY
+    Pokemon = NARUTO,42
+    Moves = RAZORLEAF,SWEETSCENT,GROWL,LEECHSEED
+    Pokemon = KURAMAMODE,42
+    Moves = RAZORLEAF,GROWTH,SLEEPPOWDER,POISONPOWDER
+#-------------------------------
+[COOLTRAINER_M,AUSTINA,950]
+    Pokemon = KIRISHIMA,42
+    Moves = HORNDRILL,ROCKBLAST,SCARYFACE,STOMP
+    Pokemon = SENKETSU,42
+    Moves = DOUBLEKICK,FURYSWIPES,BITE,FLATTER
+    Pokemon = TRUESYNC,42
+    Moves = BODYSLAM,DOUBLEKICK,BITE,GROWL
+    Pokemon = STRELIZIA,42
+    Moves = HORNATTACK,POISONSTING,FOCUSENERGY,LEER
+    Pokemon = TRUEAPUS,42
+    Moves = THRASH,DOUBLEKICK,POISONSTING,PECK
+#-------------------------------
+[COOLTRAINER_M,JULIE,950]
+    Pokemon = ARCHER,42
+    Moves = FURYSWIPES,BITE,SCREECH,FAINTATTACK
+    Pokemon = GURENMK2,42
+    Moves = FLAMETHROWER,WILLOWISP,CONFUSERAY,GRUDGE
+    Pokemon = TRUEFORM,42
+    Moves = FURYATTACK,FIRESPIN,TAKEDOWN,AGILITY
+    Pokemon = PIKACHU,42
+    Moves = THUNDERBOLT,THUNDERWAVE,DOUBLETEAM,QUICKATTACK
+    Pokemon = SHINRA,42
+    Moves = THUNDER,THUNDERWAVE,SLAM,DOUBLETEAM
+#-------------------------------
+[ELITEFOUR,HIYURI,950]
+    Pokemon = NOFACE2,60
+    Moves = TOXIC,SWALLOW,SPITUP,BODYSLAM
+    Pokemon = HAKUDRAGON,60
+    Moves = DRAGONBREATH,SWALLOW,FLY,DIVE
+    Pokemon = WHITEHAZE,60
+    Moves = NIGHTSLASH,SHADOWBALL,BLIZZARD,EXTREMESPEED
+    Pokemon = TIERHUNT,60
+    Moves = ICEPUNCH,DOUBLESLAP,LOVELYKISS,ATTRACT
+    Pokemon = HAFURIYATO,62
+    Moves = SPIRITBREAK,SHADOWSNEAK,NIGHTSLASH,SLACKOFF
+#-------------------------------
+[ELITEFOUR,ERWIN,950]
+    Pokemon = TRUESYNC,61
+    Moves = SLASH,AERIALACE,BRICKBREAK,EXTREMESPEED
+    Pokemon = ARCHER,60
+    Moves = SLASH,MACHPUNCH,SWORDSDANCE,MIRRORMOVE
+    Pokemon = CLEARHEART,60
+    Moves = SLASH,SWORDSDANCE,EXTREMESPEED,MEGAPUNCH
+    Pokemon = LEVI,62
+    Moves = SLASH,SWORDSDANCE,EXTREMESPEED,FAKEOUT
+    Pokemon = TITANFORM,62
+    Moves = BODYSLAM,HYPERVOICE,SUPERPOWER,ROCKTOMB
+#-------------------------------
+[ELITEFOUR,BLANK,950]
+    Pokemon = JIBRIL,63
+    Moves = DIVINESTRIKE,AERIALACE,PSYCHIC,THUNDER
+    Pokemon = KAKASHI,62
+    Moves = EARTHQUAKE,CHIDORI,SHADOWSNEAK,DOUBLETEAM
+    Pokemon = MERUEM,63
+    Moves = SUPERPOWER,SIGNALBEAM,IRONTAIL,MEANLOOK
+    Pokemon = SHIKAMARU,63
+    Moves = DESTINYBOND,SLACKOFF,IRONTAIL,FAKEOUT
+    Pokemon = RIMURU,62
+    Moves = HYDROPUMP,THUNDER,TOXIC,RECOVER
+#-------------------------------
+[ELITEFOUR,KAIBA,951]
+    Pokemon = BLUEEYES,63
+    Moves = WLIGHTNING,DRAGONCLAW,DRAGONDANCE,DRAGONBREATH
+    Pokemon = NATSUFORCE,62
+    Moves = FIREBLAST,DRAGONBREATH,FIREPUNCH,OUTRAGE
+    Pokemon = MAGICIAND,61
+    Moves = DRAGONBREATH,ATTRACT,DARKMAGIC,DRAGONCLAW
+    Pokemon = HAKUDRAGON,60
+    Moves = SKYATTACK,DRAGONBREATH,SURF,SHADOWSNEAK
+    Pokemon = BEYESULT,65
+    Moves = WLIGHTNING,SKYATTACK,DRAGONDANCE,DRAGONRUSH
+    Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+#-------------------------------
+[LEADER,NAMI,951]
+    Pokemon = KISAME,14
+    Moves = WATERGUN,CUT,RAINDANCE,SHARPEN
+    Pokemon = JINBE,15
+    Moves = WATERGUN,POUND,FOCUSENERGY
+#-------------------------------
+[LEADER,MISTY,950]
+    Pokemon = TOSHIRO,18
+    Moves = TACKLE,HARDEN,RECOVER,WATERPULSE
+    Pokemon = ICERING,21
+    Moves = SWIFT,RECOVER,RAPIDSPIN,WATERPULSE
+#-------------------------------
+[LEADER,DENKI,951]
+    Pokemon = YURUICHI,22
+    Moves = SONICBOOM,QUICKATTACK,THUNDERWAVE,SHOCKWAVE
+    Pokemon = PIKACHU,23
+    Moves = QUICKATTACK,THUNDERWAVE,DOUBLETEAM,SHOCKWAVE
+    Pokemon = AKENO,23
+    Moves = ATTRACT,THUNDERWAVE,DOUBLESLAP,SHOCKWAVE
+#-------------------------------
+[LEADER,SHIEMI,951]
+    Pokemon = MIMOSA,45
+    Moves = VINEWHIP,RECOVER,SLEEPPOWDER,MAGICALLEAF
+    Pokemon = USOPP2,45
+    Moves = SNIPE,BULLETSEED,LEECHSEED,TRICK
+#-------------------------------
+[LEADER,WINRY,951]
+    Pokemon = GURENMK2,40
+    Moves = METALCLAW,BULLETPUNCH,VICEGRIP,INCINERATE
+    Pokemon = STRELIZIA,40
+    Moves = HORNATTACK,IRONDEFENSE,IRONTAIL,BULLETPUNCH
+    Pokemon = ALPHONSE,42
+    Moves = BULLETPUNCH,KARATECHOP,IRONDEFENSE,EARTHQUAKE
+    Pokemon = EDWARD,43
+    Moves = SLASH,BULLETPUNCH,EARTHQUAKE,ROCKTOMB
+#-------------------------------
+[LEADER,ANNA,951]
+    Pokemon = BAKUGOU,50
+    Moves = RAGE,ROAR,BLASTBURN,EXPLOSION
+    Pokemon = ZUKO2,47
+    Moves = DRAGONDANCE,FLAMETHROWER,FLAMEWHEEL,BRICKBREAK
+    Pokemon = TODOROKI,48
+    Moves = ICICLESPEAR,AURORABEAM,FLAMETHROWER,FIREPUNCH
+    Pokemon = MIKOTO,52
+    Moves = SLACKOFF,WILLOWISP,HEATWAVE,FIREBLAST
+#-------------------------------
+[LEADER,REIGAN,951]
+    Pokemon = MOB,35
+    Moves = PSYBEAM,REFLECT,BARRIER,CALMMIND
+    Pokemon = FRIEZA2,36
+    Moves = KARATECHOP,PSYBEAM,DEATHBEAM,CALMMIND
+    Pokemon = TORNADO,37
+    Moves = PSYCHIC,AERIALACE,ROCKSLIDE,LIGHTSCREEN
+    Pokemon = MOB100,38
+    Moves = PSYCHIC,REFLECT,ROCKSLIDE,HIDDENPOWER
+#-------------------------------
+[GENTLEMAN,THOMAS,950]
+    Pokemon = ZUKO,18
+    Pokemon = ZUKO,18
+#-------------------------------
+[GENTLEMAN,ARTHUR,950]
+    Pokemon = STAMPEDE,19
+    Pokemon = RYUKO,19
+#-------------------------------
+[BEAUTY,TINA,950]
+    Pokemon = PIKACHU,23
+#-------------------------------
+[GENTLEMAN,NORTON,950]
+    Pokemon = ARCHER,48
+#-------------------------------
+[GENTLEMAN,WALTER,950]
+    Pokemon = ZUKO,17
+    Pokemon = SESSHOMARU,17
+#-------------------------------
+[TAMER,LUCY,960]
+    Pokemon = NATSU,35
+    Pokemon = GRAY,33
+    Pokemon = ERZA,34
+    Pokemon = LUFFYGEAR2,35
+#-------------------------------
+[TAMER,LUCY,961]
+    Pokemon = NATSU,35
+    Pokemon = GRAY,32
+    Pokemon = ERZA,34
+    Pokemon = NARUTO,35
+#-------------------------------
+[TAMER,LUCY,962]
+    Pokemon = NATSU,35
+    Pokemon = GRAY,32
+    Pokemon = ERZA,34
+    Pokemon = GOKU,35
+#-------------------------------
+[TAMER,LUCY,963]
+    Pokemon = WENDYFORCE,45
+    Pokemon = DEMONSLAY,45
+    Pokemon = NATSUFORCE,48
+    Pokemon = ADAMANTINE,48
+    Pokemon = LUFFYGEAR2,50
+#-------------------------------
+[TAMER,LUCY,964]
+    Pokemon = WENDYFORCE,45
+    Pokemon = DEMONSLAY,45
+    Pokemon = NATSUFORCE,48
+    Pokemon = PURGATORY,48
+    Pokemon = NARUTO,50
+#-------------------------------
+[TAMER,LUCY,965]
+    Pokemon = WENDYFORCE,45
+    Pokemon = DEMONSLAY,45
+    Pokemon = CLEARHEART,48
+    Pokemon = NATSUFORCE,48
+    Pokemon = GOKU,50
+#-------------------------------
+[TAMER,LUCY,966]
+    Pokemon = WENDYFORCE,51
+    Pokemon = DEMONSLAY,51
+    Pokemon = ADAMANTINE,53
+    Pokemon = NATSUFORCE,53
+    Pokemon = LUFFYGEAR4,55
+#-------------------------------
+[TAMER,LUCY,967]
+    Pokemon = WENDYFORCE,51
+    Pokemon = DEMONSLAY,51
+    Pokemon = PURGATORY,53
+    Pokemon = NATSUFORCE,53
+    Pokemon = KURAMAMODE,55
+#-------------------------------
+[TAMER,LUCY,968]
+    Pokemon = WENDYFORCE,51
+    Pokemon = DEMONSLAY,51
+    Pokemon = CLEARHEART,53
+    Pokemon = NATSUFORCE,53
+    Pokemon = SSJGOKU,55
+#-------------------------------
+[EXPERT,LIGHT,953]
+    Pokemon = RYUK,60
+    Moves = DESTINYBOND,AERIALACE,CRUNCH,SHADOWPUNCH
+    Pokemon = GILGAMESH,58
+    Moves = DIVINESTRIKE,SNIPE,SWORDSDANCE,METEORMASH
+    Pokemon = GODSPEED,58
+    Moves = VOLTTACKLE,EXTREMESPEED,NIGHTSLASH,SHADOWSNEAK
+    Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+    Pokemon = KURAMAMODE,62
+    Moves = DESTINYBOND,AERIALACE,BRICKBREAK,AERIALACE
+#-------------------------------
+[EXPERT,LIGHT,954]
+    Pokemon = RYUK,60
+    Moves = DESTINYBOND,AERIALACE,CRUNCH,SHADOWPUNCH
+    Pokemon = GILGAMESH,58
+    Moves = DIVINESTRIKE,SNIPE,SWORDSDANCE,METEORMASH
+    Pokemon = GODSPEED,58
+    Moves = VOLTTACKLE,EXTREMESPEED,NIGHTSLASH,SHADOWSNEAK
+    Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+    Pokemon = SSJGOKU,62
+    Moves = DESTINYBOND,AERIALACE,FIREPUNCH,BOUNCE
+#-------------------------------
+[EXPERT,LIGHT,955]
+    Pokemon = RYUK,60
+    Moves = DESTINYBOND,AERIALACE,CRUNCH,SHADOWPUNCH
+    Pokemon = GILGAMESH,58
+    Moves = DIVINESTRIKE,SNIPE,SWORDSDANCE,FURYATTACK
+    Pokemon = GODSPEED,58
+    Moves = VOLTTACKLE,EXTREMESPEED,NIGHTSLASH,STUNSPORE
+    Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+    Pokemon = LUFFYGEAR4,62
+    Moves = DESTINYBOND,AERIALACE,DOUBLETEAM,EXTREMESPEED
+#-------------------------------
+[EXPERT,LIGHT,956]
+    Pokemon = RYUK,75
+    Moves = AERIALACE,CRUNCH,SHADOWSNEAK,NIGHTSLASH
+    Pokemon = GILGAMESH,71
+    Moves = SNIPE,SWORDSDANCE,PROTECT,DIVINESTRIKE
+    Pokemon = GODSPEED,71
+    Moves = VOLTTACKLE,THUNDER,EXTREMESPEED,DOUBLETEAM
+    Pokemon = FRIEZA3,73
+    Moves = DEATHBEAM,PSYCHIC,IRONTAIL,REFLECT
+    Pokemon = BEERUS,77
+    Moves = HYDROPUMP,RAINDANCE,SKULLBASH,BITE
+#-------------------------------
+[TAMER,LUCY,969]
+    Pokemon = WENDYFORCE,70
+    Moves = AERIALACE,DRAGONBREATH,HYPERVOICE,WHIRLWIND
+    Pokemon = DEMONSLAY,70
+    Moves = ICEBEAM,NIGHTSLASH,SHEERCOLD,BARRIER
+    Pokemon = PURGATORY,73
+    Moves = SLASH,METEORMASH,BULLETPUNCH,BRICKBREAK
+    Pokemon = NATSUFORCE,73
+    Moves = FLAMETHROWER,DRAGONRAGE,FIREPUNCH,THUNDER
+    Pokemon = CLEARHEART,73
+    Moves = EXTREMESPEED,SLASH,SWORDSDANCE,DOUBLETEAM
+    Pokemon = MINATO,76
+    Moves = BEASTBOMB,SUBSTITUTE,EXTREMESPEED,RASENSHURIKEN
+#-------------------------------
+[CHAMPION,LIGHT,950]
+    Pokemon = FILO,59
+    Moves = AERIALACE,FEATHERDANCE,SANDATTACK,WHIRLWIND
+    Pokemon = FRIEZA3,57
+    Moves = PSYCHIC,FUTURESIGHT,RECOVER,REFLECT
+    Pokemon = REDRIOT,59
+    Moves = TAKEDOWN,EARTHQUAKE,ROCKTOMB,SCARYFACE
+    Pokemon = NOFACE2,59
+    Moves = GIGADRAIN,EGGBOMB,SLEEPPOWDER,LIGHTSCREEN
+    Pokemon = TITANFORM,61
+    Moves = HYDROPUMP,DRAGONRAGE,BITE,THRASH
+    Pokemon = SSJGOKU,63
+    Moves = FIREBLAST,AERIALACE,SLASH,FIRESPIN
+#-------------------------------
+[CHANNELER,PATRICIA,950]
+    Pokemon = YUSUKE,45
+#-------------------------------
+[CHANNELER,CARLY,950]
+    Pokemon = TOSHIRO,45
+#-------------------------------
+[CHANNELER,HOPE,950]
+    Pokemon = RUKIA,45
+#-------------------------------
+[CHANNELER,PAULA,950]
+    Pokemon = RYUK,45
+#-------------------------------
+[CHANNELER,LAUREL,950]
+    Pokemon = ICHIGO,45
+    Pokemon = VIZARD,46
+#-------------------------------
+[CHANNELER,JODY,950]
+    Pokemon = YATO,45
+#-------------------------------
+[CHANNELER,TAMMY,950]
+    Pokemon = ICERING,46
+#-------------------------------
+[CHANNELER,RUTH,950]
+    Pokemon = VIZARD,45
+#-------------------------------
+[CHANNELER,KARINA,950]
+    Pokemon = TIERHUNT,46
+#-------------------------------
+[CHANNELER,JANAE,950]
+    Pokemon = WHITEHAZE,45
+#-------------------------------
+[CHANNELER,ANGELICA,950]
+    Pokemon = ICHIGO,45
+    Pokemon = VIZARD,45
+    Pokemon = NOFACE2,46
+#-------------------------------
+[CHANNELER,EMILIA,950]
+    Pokemon = HAKUDRAGON,45
+#-------------------------------
+[CHANNELER,JENNIFER,950]
+    Pokemon = HAKU,49
+#-------------------------------
+[CHANNELER,~70,950]
+    Pokemon = VIZARD,23
+#-------------------------------
+[CHANNELER,~71,950]
+    Pokemon = ICHIGO,24
+#-------------------------------
+[CHANNELER,~72,950]
+    Pokemon = ICHIGO,22
+#-------------------------------
+[CHANNELER,~73,950]
+    Pokemon = ICHIGO,24
+#-------------------------------
+[CHANNELER,~74,950]
+    Pokemon = VIZARD,22
+#-------------------------------
+[CHANNELER,~75,950]
+    Pokemon = ICHIGO,22
+    Pokemon = ICHIGO,22
+    Pokemon = ICHIGO,22
+#-------------------------------
+[CHANNELER,~76,950]
+    Pokemon = ICHIGO,24
+#-------------------------------
+[CHANNELER,~77,950]
+    Pokemon = ICHIGO,24
+#-------------------------------
+[CHANNELER,AMANDA,950]
+    Pokemon = NOFACE,34
+    Pokemon = TOSHIRO,34
+#-------------------------------
+[CHANNELER,STACY,950]
+    Pokemon = YURUICHI,38
+#-------------------------------
+[CHANNELER,TASHA,950]
+    Pokemon = ICHIGO,33
+    Pokemon = ICHIGO,33
+    Pokemon = VIZARD,33
+#-------------------------------
+[HIKER,JEREMY,950]
+    Pokemon = VEGETA,38
+    Pokemon = ARMSTRONG,36
+#-------------------------------
+[PICNICKER,ALMA,950]
+    Pokemon = YATO,32
+    Pokemon = SLIME,39
+#-------------------------------
+[PICNICKER,SUSIE,950]
+    Pokemon = FILOLIAL,32
+    Pokemon = SHIROU,34
+    Pokemon = MIMOSA,34
+    Pokemon = PIKACHU,35
+    Pokemon = RAPHTALIA,36
+#-------------------------------
+[PICNICKER,VALERIE,950]
+    Pokemon = USOPP,34
+    Pokemon = USOPP2,36
+#-------------------------------
+[PICNICKER,GWEN,950]
+    Pokemon = FILOLIAL,34
+    Pokemon = SHIROU,34
+    Pokemon = WENDY,34
+    Pokemon = ENJU,35
+#-------------------------------
+[BIKER,VIRGIL,950]
+    Pokemon = BLACKASTA,28
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = ASTA,28
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+    Pokemon = BLACKASTA,28
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+#-------------------------------
+[CAMPER,FLINT,950]
+    Pokemon = KRAPHTALIA,14
+    Pokemon = COCO,14
+#-------------------------------
+[PICNICKER,MISSY,950]
+    Pokemon = YATO,31
+    Pokemon = HAFURIYATO,31
+#-------------------------------
+[PICNICKER,IRENE,950]
+    Pokemon = DEKU,30
+    Pokemon = SLIME,30
+    Pokemon = HAKU,30
+#-------------------------------
+[PICNICKER,DANA,950]
+    Pokemon = SHIROU,32
+    Pokemon = PITOU,33
+    Pokemon = FILOLIAL,33
+#-------------------------------
+[PICNICKER,ARIANA,950]
+    Pokemon = FILOLIAL,33
+    Pokemon = KRAPHTALIA,32
+    Pokemon = RAPHTALIA,34
+    Pokemon = GODBIRD,34
+#-------------------------------
+[PICNICKER,LEAH,950]
+    Pokemon = KIDSASUKE,34
+    Pokemon = GON,34
+#-------------------------------
+[CAMPER,JUSTIN,950]
+    Pokemon = STAMPEDE,29
+    Pokemon = STRELIZIA,29
+#-------------------------------
+[PICNICKER,YAZMIN,950]
+    Pokemon = KIDSASUKE,47
+    Pokemon = KRILLIN,47
+    Pokemon = UEKI,46
+#-------------------------------
+[PICNICKER,KINDRA,950]
+    Pokemon = USOPP,44
+    Pokemon = USOPP2,46
+    Pokemon = ASTA,46
+#-------------------------------
+[PICNICKER,BECKY,950]
+    Pokemon = PIKACHU,45
+    Pokemon = GODSPEED,48
+#-------------------------------
+[PICNICKER,CELIA,950]
+    Pokemon = ADULTGON,48
+#-------------------------------
+[GENTLEMAN,BROOKS,950]
+    Pokemon = PIKACHU,23
+#-------------------------------
+[GENTLEMAN,LAMAR,950]
+    Pokemon = ZUKO,17
+    Pokemon = SESSHOMARU,17
+#-------------------------------
+[TWINS,ELI & ANNE,950]
+    Pokemon = GON,22
+    Pokemon = AANG,22
+#-------------------------------
+[COOLCOUPLE,RAY & TYRA,950]
+    Pokemon = TRUESYNC,52
+    Moves = SUPERPOWER,EXTREMESPEED,DOUBLEKICK,SLASH
+    Pokemon = TRUEAPUS,52
+    Moves = MEGAHORN,THRASH,DOUBLEKICK,METEORMASH
+#-------------------------------
+[YOUNGCOUPLE,GIA & JES,950]
+    Pokemon = STAMPEDE,24
+    Pokemon = RYUKO,24
+#-------------------------------
+[TWINS,KIRI & JAN,950]
+    Pokemon = KIDGOKU,40
+    Pokemon = LUFFY,40
+#-------------------------------
+[CRUSHKIN,RON & MYA,950]
+    Pokemon = AVATARAANG,48
+    Pokemon = ZUKO2,48
+#-------------------------------
+[YOUNGCOUPLE,LEA & JED,950]
+    Pokemon = PIKACHU,20
+    Pokemon = KILLUA,20
+#-------------------------------
+[SISANDBRO,LIA & LUC,950]
+    Pokemon = YATO,30
+    Pokemon = HAFURIYATO,30
+#-------------------------------
+[SISANDBRO,LIL & IAN,950]
+    Pokemon = RIMURU,33
+    Pokemon = ICERING,33
+#-------------------------------
+[BUGCATCHER,~78,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BUGCATCHER,~79,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BUGCATCHER,~80,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BUGCATCHER,~81,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BUGCATCHER,~82,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BUGCATCHER,~83,950]
+    Pokemon = COCO,5
+#-------------------------------
+[YOUNGSTER,BEN,952]
+    Pokemon = RAPHTALIA,28
+    Pokemon = COCO,28
+#-------------------------------
+[YOUNGSTER,BEN,953]
+    Pokemon = RAPHTALIA,48
+    Pokemon = COCODEMON,48
+#-------------------------------
+[YOUNGSTER,CHAD,951]
+    Pokemon = COCO,20
+    Pokemon = KIDGAARA,20
+#-------------------------------
+[LASS,RELI,951]
+    Pokemon = FILOLIAL,20
+    Pokemon = RYUKO,20
+#-------------------------------
+[LASS,RELI,952]
+    Pokemon = GODBIRD,28
+    Pokemon = SENKETSU,28
+#-------------------------------
+[YOUNGSTER,TIMMY,951]
+    Pokemon = RAPHTALIA,19
+    Pokemon = COCO,19
+    Pokemon = SUZAKU,19
+#-------------------------------
+[YOUNGSTER,TIMMY,952]
+    Pokemon = RAPHTALIA,27
+    Pokemon = COCO,27
+    Pokemon = LANCELOT,27
+#-------------------------------
+[YOUNGSTER,TIMMY,953]
+    Pokemon = RAPHTALIA,52
+    Pokemon = COCODEMON,52
+    Pokemon = LANCELOT,52
+#-------------------------------
+[YOUNGSTER,CHAD,952]
+    Pokemon = COCODEMON,28
+    Pokemon = KIDGAARA,28
+#-------------------------------
+[LASS,JANICE,951]
+    Pokemon = GODBIRD,20
+    Pokemon = GODBIRD,20
+#-------------------------------
+[LASS,JANICE,952]
+    Pokemon = GODBIRD,28
+    Pokemon = GODBIRD,28
+#-------------------------------
+[YOUNGSTER,CHAD,953]
+    Pokemon = COCODEMON,48
+    Pokemon = GAARA,48
+#-------------------------------
+[HIKER,FRANKLIN,951]
+    Pokemon = VEGETA,25
+    Pokemon = GREYMON,25
+#-------------------------------
+[PROFESSOR,PROF. OAK,950]
+    Pokemon = COCO,5
+#-------------------------------
+[PLAYER,BRENDAN,950]
+    Pokemon = COCO,5
+#-------------------------------
+[PLAYER,MAY,950]
+    Pokemon = COCO,5
+#-------------------------------
+[PLAYER,RED,950]
+    Pokemon = COCO,5
+#-------------------------------
+[PLAYER,LEAF,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BLACKKNIGHT,GRUNT,991]
+    Pokemon = HOUNDOUR,49
+    Pokemon = HOUNDOUR,49
+#-------------------------------
+[PSYCHIC_M,JACLYN,950]
+    Pokemon = KYUBEY,48
+    Moves = NIGHTSHADE,CONFUSERAY,FUTURESIGHT,WISH
+    Pokemon = MOB100,48
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,YAWN
+    Pokemon = FRIEZA2,49
+    Moves = PSYCHIC,FUTURESIGHT,RECOVER,REFLECT
+#-------------------------------
+[CRUSHGIRL,SHARON,950]
+    Pokemon = KRILLIN,25
+    Pokemon = YUSUKE,25
+#-------------------------------
+[TUBER,AMIRA,950]
+    Pokemon = LAGANN,44
+    Pokemon = GURREN,44
+    Pokemon = LAGANN,44
+#-------------------------------
+[POKEMONBREEDER,ALIZE,950]
+    Pokemon = PIKACHU,48
+    Pokemon = GON,48
+    Pokemon = KILLUA,48
+#-------------------------------
+[POKEMONRANGER_M,NICOLAS,950]
+    Pokemon = SASUKE,51
+    Moves = RAZORLEAF,ACID,SWEETSCENT,WRAP
+    Pokemon = SUSANOO,51
+    Moves = RAZORLEAF,ACID,SLEEPPOWDER,STUNSPORE
+#-------------------------------
+[POKEMONRANGER_M,MADELINE,950]
+    Pokemon = USOPP,51
+    Moves = PETALDANCE,ACID,SWEETSCENT,POISONPOWDER
+    Pokemon = USOPP2,51
+    Moves = PETALDANCE,MOONLIGHT,ACID,STUNSPORE
+#-------------------------------
+[AROMALADY,NIKKI,950]
+    Pokemon = KIDSASUKE,42
+    Pokemon = SASUKE,45
+#-------------------------------
+[RUINMANIAC,STANLY,950]
+    Pokemon = GREYMON,48
+    Pokemon = ARMSTRONG,48
+    Pokemon = GREYMON,48
+#-------------------------------
+[LADY,JACKI,950]
+    Pokemon = NATSU,48
+    Pokemon = NATSUFORCE,50
+#-------------------------------
+[PAINTER,DAISY,950]
+    Pokemon = KOROSENSEI,50
+    Moves = DYNAMICPUNCH,DIZZYPUNCH,FOCUSPUNCH,MEGAPUNCH
+#-------------------------------
+[BIKER,GOON,950]
+    Pokemon = ASTA,37
+    Moves = HAZE,SMOKESCREEN,SLUDGE,TACKLE
+    Pokemon = AKAME,37
+    Moves = ACIDARMOR,SCREECH,MINIMIZE,SLUDGE
+#-------------------------------
+[BIKER,GOON,951]
+    Pokemon = ASTA,38
+    Moves = HAZE,SMOKESCREEN,SLUDGE,TACKLE
+#-------------------------------
+[BIKER,GOON,952]
+    Pokemon = AKAME,38
+#-------------------------------
+[BIKER,~84,950]
+    Pokemon = COCO,5
+#-------------------------------
+[BUGCATCHER,ANTHONY,950]
+    Pokemon = CELL,7
+    Pokemon = CELL,8
+#-------------------------------
+[BUGCATCHER,CHARLIE,950]
+    Pokemon = CELL,7
+    Pokemon = CELL,7
+    Pokemon = CELL,7
+#-------------------------------
+[TWINS,ELI & ANNE,951]
+    Pokemon = GON,28
+    Pokemon = AANG,28
+#-------------------------------
+[YOUNGSTER,JOHNSON,950]
+    Pokemon = COCO,33
+    Pokemon = COCO,33
+    Pokemon = RAPHTALIA,34
+#-------------------------------
+[BIKER,RICARDO,950]
+    Pokemon = ASTA,22
+    Pokemon = ASTA,22
+    Pokemon = AKAME,23
+#-------------------------------
+[BIKER,JAREN,950]
+    Pokemon = COCO,24
+    Pokemon = AKAME,24
+#-------------------------------
+[BLACKKNIGHT,GRUNT,992]
+    Pokemon = GREED,37
+    Pokemon = LINGREED,37
+#-------------------------------
+[BLACKKNIGHT,GRUNT,993]
+    Pokemon = KRAPHTALIA,35
+    Pokemon = RAPHTALIA,35
+    Pokemon = KIDGAARA,35
+    Pokemon = GAARA,35
+#-------------------------------
+[BLACKKNIGHT,GRUNT,994]
+    Pokemon = SUZAKU,38
+    Pokemon = SUZAKU,38
+    Pokemon = LANCELOT,38
+#-------------------------------
+[BLACKKNIGHT,GRUNT,995]
+    Pokemon = AKAME2,48
+    Pokemon = LANCELOT,48
+    Pokemon = RAPHTALIA,48
+#-------------------------------
+[BLACKKNIGHT,GRUNT,996]
+    Pokemon = KIDVEGETA,48
+    Pokemon = KIDVEGETA,48
+    Pokemon = VEGETA,48
+#-------------------------------
+[BLACKKNIGHT,GRUNT,997]
+    Pokemon = DPALADIN,49
+    Pokemon = DPALADIN,49
+#-------------------------------
+[BLACKKNIGHT,ADMIN,950]
+    Pokemon = AKAME2,52
+    Moves = SLUDGEBOMB,SCREECH,MINIMIZE,ROCKTOMB
+    Pokemon = COCODEMON,53
+    Moves = SLUDGEBOMB,BITE,EARTHQUAKE,IRONTAIL
+    Pokemon = USOPP2,54
+    Moves = SLUDGEBOMB,GIGADRAIN,SLEEPPOWDER,STUNSPORE
+#-------------------------------
+[BLACKKNIGHT,ADMIN,951]
+    Pokemon = LANCELOT,53
+    Moves = CONFUSERAY,SLUDGEBOMB,AIRCUTTER,SHADOWBALL
+    Pokemon = BLACKASTA,54
+    Moves = SLUDGEBOMB,THUNDERBOLT,EXPLOSION,SHADOWBALL
+    Pokemon = HOUNDOOM,55
+    Moves = FLAMETHROWER,CRUNCH,IRONTAIL,SHADOWBALL
+#-------------------------------
+[SCIENTIST,GIDEON,950]
+    Pokemon = KIDKAKASHI,46
+    Moves = SWIFT,SCREECH,SPARK,SONICBOOM
+    Pokemon = KAKASHI,46
+    Moves = SPARK,SONICBOOM,SCREECH,CHARGE
+    Pokemon = YURUICHI,46
+    Moves = SCREECH,SWIFT,SPARK,THUNDERWAVE
+    Pokemon = FLASHGOD,46
+    Moves = TRIATTACK,SPARK,THUNDERWAVE,SONICBOOM
+    Pokemon = RIAS,46
+    Moves = TRIATTACK,CONVERSION,RECOVER,PSYBEAM
+#-------------------------------
+[SWIMMER_F,AMARA,950]
+    Pokemon = HAKU,36
+    Pokemon = HAKU,36
+    Pokemon = HAKUDRAGON,36
+#-------------------------------
+[SWIMMER_F,MARIA,950]
+    Pokemon = RIMURU,37
+    Pokemon = RIMURU,37
+#-------------------------------
+[SWIMMER_F,ABIGAIL,950]
+    Pokemon = TIER,35
+    Pokemon = TIER,36
+    Pokemon = TIERHUNT,37
+#-------------------------------
+[SWIMMER_M,FINN,950]
+    Pokemon = ICERING,38
+#-------------------------------
+[SWIMMER_M,GARRETT,950]
+    Pokemon = KISAME,35
+    Pokemon = KISAME2,35
+    Pokemon = LUFFYGEAR2,38
+#-------------------------------
+[FISHERMAN,TOMMY,950]
+    Pokemon = YATO,33
+    Pokemon = YATO,33
+    Pokemon = HAFURIYATO,35
+    Pokemon = HAFURIYATO,35
+    Pokemon = HAFURIYATO,35
+#-------------------------------
+[CRUSHGIRL,TANYA,950]
+    Pokemon = MUSTANG,38
+    Pokemon = TOPH,38
+#-------------------------------
+[BLACKBELT,SHEA,950]
+    Pokemon = KIDVEGETA,38
+    Pokemon = VEGETA,38
+#-------------------------------
+[BLACKBELT,HUGH,950]
+    Pokemon = KIDVEGETA,37
+    Pokemon = VEGETA,37
+#-------------------------------
+[CAMPER,BRYCE,950]
+    Pokemon = STRELIZIA,36
+    Pokemon = RAPHTALIA,36
+    Pokemon = GAARA,36
+#-------------------------------
+[PICNICKER,CLAIRE,950]
+    Pokemon = SHIROU,35
+    Pokemon = SHIROU,35
+    Pokemon = PIKACHU,35
+    Pokemon = GON,35
+#-------------------------------
+[CRUSHKIN,MIK & KIA,950]
+    Pokemon = VEGETA,39
+    Pokemon = RAIZEN,39
+#-------------------------------
+[AROMALADY,VIOLET,950]
+    Pokemon = KIDNARUTO,42
+    Pokemon = NARUTO,44
+    Pokemon = NARUTO,44
+#-------------------------------
+[TUBER,ALEXIS,950]
+    Pokemon = TOSHIRO,42
+    Pokemon = TOSHIRO,42
+    Pokemon = RUKIA,42
+    Pokemon = RUKIA,42
+#-------------------------------
+[TWINS,JOY & MEG,950]
+    Pokemon = GON,45
+    Pokemon = GON,45
+#-------------------------------
+[SWIMMER_F,TISHA,950]
+    Pokemon = WHITEHAZE,46
+#-------------------------------
+[PAINTER,CELINA,950]
+    Pokemon = KOROSENSEI,50
+    Moves = FLY,DIG,DIVE,BOUNCE
+#-------------------------------
+[PAINTER,RAYNA,950]
+    Pokemon = KOROSENSEI,50
+    Moves = CROSSCHOP,MEGAHORN,DOUBLEEDGE,SELFDESTRUCT
+#-------------------------------
+[LADY,GILLIAN,950]
+    Pokemon = MOB,47
+    Pokemon = MOB,48
+    Pokemon = MOB100,49
+#-------------------------------
+[YOUNGSTER,DESTIN,950]
+    Pokemon = RAPHTALIA,48
+    Pokemon = GODBIRD,48
+#-------------------------------
+[SWIMMER_M,TOBY,950]
+    Pokemon = GURREN,48
+    Pokemon = DEKU,48
+    Pokemon = FULLCOWL,48
+#-------------------------------
+[BLACKKNIGHT,GRUNT,998]
+    Pokemon = KRAPHTALIA,48
+    Pokemon = AKAME,48
+    Pokemon = AKAME2,48
+#-------------------------------
+[BLACKKNIGHT,GRUNT,999]
+    Pokemon = ASTA,49
+    Moves = MEMENTO,HAZE,SMOKESCREEN,SLUDGE
+    Pokemon = BLACKASTA,49
+    Moves = HAZE,SMOKESCREEN,SLUDGE,SELFDESTRUCT
+#-------------------------------
+[BLACKKNIGHT,GRUNT,1000]
+    Pokemon = COCO,48
+    Pokemon = USOPP,48
+    Pokemon = USOPP,48
+#-------------------------------
+[BIRDKEEPER,MILO,950]
+    Pokemon = FILOLIAL,36
+    Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,CHAZ,950]
+    Pokemon = FILOLIAL,36
+    Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,HAROLD,950]
+    Pokemon = GODBIRD,38
+    Pokemon = FILO,40
+#-------------------------------
+[FISHERMAN,TYLOR,950]
+    Pokemon = JINBE,49
+    Pokemon = JINBE,49
+#-------------------------------
+[SWIMMER_M,MYMO,950]
+    Pokemon = WHITEHAZE,49
+    Pokemon = LUFFYGEAR2,49
+#-------------------------------
+[SWIMMER_F,NICOLE,950]
+    Pokemon = KILLUA,48
+#-------------------------------
+[SISANDBRO,AVA & GEB,950]
+    Pokemon = GURREN,50
+    Pokemon = ICERING,50
+#-------------------------------
+[AROMALADY,ROSE,950]
+    Pokemon = GETSUGA,49
+    Pokemon = TRUEBANKAI,49
+#-------------------------------
+[SWIMMER_M,SAMIR,950]
+    Pokemon = TITANFORM,50
+#-------------------------------
+[SWIMMER_F,DENISE,950]
+    Pokemon = TSUKIUMI,49
+    Pokemon = ESCANOR,49
+#-------------------------------
+[TWINS,MIU & MIA,950]
+    Pokemon = PIKACHU,50
+    Pokemon = PIKACHU,50
+#-------------------------------
+[HIKER,EARL,950]
+    Pokemon = ARMSTRONG,49
+    Pokemon = VEGETA,49
+#-------------------------------
+[RUINMANIAC,FOSTER,950]
+    Pokemon = MGREYMON,50
+#-------------------------------
+[RUINMANIAC,LARRY,950]
+    Pokemon = VEGETA,49
+    Pokemon = VEGETA,49
+#-------------------------------
+[HIKER,DARYL,950]
+    Pokemon = CROCODILE,50
+#-------------------------------
+[ANIMANIAC,HECTOR,950]
+    Pokemon = KIRISHIMA,49
+    Pokemon = JIRAIYA,49
+#-------------------------------
+[PSYCHIC_M,DARIO,950]
+    Pokemon = STARPLAT,52
+    Moves = CRUNCH,PSYBEAM,ODORSLEUTH,AGILITY
+#-------------------------------
+[PSYCHIC_M,RODETTE,950]
+    Pokemon = NATU,48
+    Moves = NIGHTSHADE,CONFUSERAY,WISH,FUTURESIGHT
+    Pokemon = DMAGICIAN,48
+    Moves = PSYCHIC,DISABLE,PSYCHUP,FUTURESIGHT
+    Pokemon = DPALADIN,50
+    Moves = PSYCHIC,HYPNOSIS,PSYCHUP,FUTURESIGHT
+#-------------------------------
+[AROMALADY,MIAH,950]
+    Pokemon = TANJIRO,50
+    Pokemon = TANJIRO,50
+#-------------------------------
+[YOUNGCOUPLE,EVE & JON,950]
+    Pokemon = TIERHUNT,50
+    Pokemon = TIER,50
+#-------------------------------
+[JUGGLER,MASON,950]
+    Pokemon = KIDKAKASHI,47
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+    Pokemon = PINECO,47
+    Moves = SPIKES,BIDE,RAPIDSPIN,TAKEDOWN
+    Pokemon = KIDKAKASHI,47
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+    Pokemon = PINECO,47
+    Moves = SPIKES,BIDE,RAPIDSPIN,EXPLOSION
+#-------------------------------
+[CRUSHGIRL,CYNDY,950]
+    Pokemon = RAIZEN,48
+    Pokemon = HITMONTOP,48
+    Pokemon = VEGETA,48
+#-------------------------------
+[CRUSHGIRL,JOCELYN,950]
+    Pokemon = TOPH,38
+    Pokemon = TOPH,38
+#-------------------------------
+[TAMER,EVAN,950]
+    Pokemon = GAARA,48
+    Pokemon = CINNABAR,48
+    Pokemon = ZORO2,49
+#-------------------------------
+[ANIMANIAC,MARK,950]
+    Pokemon = KIRISHIMA,33
+    Pokemon = CINNABAR,33
+#-------------------------------
+[POKEMONRANGER_M,LOGAN,950]
+    Pokemon = NOFACE,37
+    Moves = SLEEPPOWDER,POISONPOWDER,STUNSPORE,CONFUSION
+    Pokemon = NOFACE2,40
+    Moves = EGGBOMB,STOMP,CONFUSION,HYPNOSIS
+#-------------------------------
+[POKEMONRANGER_M,JACKSON,950]
+    Pokemon = UEKI,49
+    Moves = SLAM,MEGADRAIN,BIND,INGRAIN
+    Pokemon = NOFACE,49
+    Moves = CONFUSION,POISONPOWDER,BARRAGE,REFLECT
+    Pokemon = NOFACE2,49
+    Moves = CONFUSION,EGGBOMB,SLEEPPOWDER,STOMP
+#-------------------------------
+[POKEMONRANGER_M,BETH,950]
+    Pokemon = KIDSASUKE,38
+    Pokemon = USOPP,38
+    Pokemon = USOPP,38
+#-------------------------------
+[POKEMONRANGER_M,KATELYN,950]
+    Pokemon = ASUNA,52
+    Moves = EGGBOMB,DEFENSECURL,MINIMIZE,SOFTBOILED
+#-------------------------------
+[COOLTRAINER_M,LEROY,950]
+    Pokemon = REDRIOT,47
+    Moves = TAKEDOWN,HORNDRILL,ROCKBLAST,SCARYFACE
+    Pokemon = DEMONSLAY,48
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,DISABLE
+    Pokemon = JIRAIYA,47
+    Moves = DIZZYPUNCH,BITE,ENDURE,REVERSAL
+    Pokemon = VEGETA,48
+    Moves = CROSSCHOP,VITALTHROW,REVENGE,SEISMICTOSS
+    Pokemon = ZORO2,50
+    Moves = SLASH,FAINTATTACK,SNORE,REST
+#-------------------------------
+[COOLTRAINER_M,MICHELLE,950]
+    Pokemon = ARCHER,47
+    Moves = SLASH,SCREECH,FAINTATTACK,BITE
+    Pokemon = HAKUDRAGON,47
+    Moves = ICEBEAM,TAKEDOWN,ICYWIND,GROWL
+    Pokemon = GURENMK2,48
+    Moves = FLAMETHROWER,CONFUSERAY,WILLOWISP,GRUDGE
+    Pokemon = TRUEFORM,48
+    Moves = BOUNCE,AGILITY,FIRESPIN,TAKEDOWN
+    Pokemon = STARPLAT,50
+    Moves = CRUNCH,PSYBEAM,STOMP,ODORSLEUTH
+#-------------------------------
+[COOLCOUPLE,LEX & NYA,950]
+    Pokemon = MASH,52
+    Moves = BODYSLAM,MILKDRINK,GROWL,DEFENSECURL
+    Pokemon = BAKUGOU,52
+    Moves = THRASH,HORNATTACK,PURSUIT,SWAGGER
+#-------------------------------
+[RUINMANIAC,BRANDON,950]
+    Pokemon = ARMSTRONG,50
+#-------------------------------
+[RUINMANIAC,BENJAMIN,950]
+    Pokemon = AGUMON,48
+    Moves = EARTHQUAKE,ROCKBLAST,ROLLOUT,SELFDESTRUCT
+    Pokemon = GREYMON,48
+    Moves = EARTHQUAKE,ROCKBLAST,ROCKTHROW,SELFDESTRUCT
+    Pokemon = GREYMON,48
+    Moves = EARTHQUAKE,ROCKBLAST,ROCKTHROW,SELFDESTRUCT
+#-------------------------------
+[PAINTER,EDNA,950]
+    Pokemon = KOROSENSEI,50
+    Moves = FAKEOUT,EXTREMESPEED,PROTECT,QUICKATTACK
+#-------------------------------
+[GENTLEMAN,CLIFFORD,950]
+    Pokemon = LINGREED,49
+    Pokemon = TIERHUNT,49
+#-------------------------------
+[LADY,SELPHY,950]
+    Pokemon = ARCHER,49
+    Moves = PAYDAY,BITE,TAUNT,TORMENT
+    Pokemon = ARCHER,49
+    Moves = PAYDAY,SCRATCH,TORMENT,TAUNT
+#-------------------------------
+[RUINMANIAC,LAWSON,950]
+    Pokemon = ARMSTRONG,47
+    Pokemon = GREYMON,48
+    Pokemon = LINGREED,49
+#-------------------------------
+[PSYCHIC_M,LAURA,950]
+    Pokemon = NATSU,48
+    Pokemon = LEVI,48
+    Pokemon = THEWORLD,49
+#-------------------------------
+[POKEMONBREEDER,BETHANY,950]
+    Pokemon = ASUNA,50
+#-------------------------------
+[POKEMONBREEDER,ALLISON,950]
+    Pokemon = GON,48
+    Pokemon = GON,48
+    Pokemon = ADULTGON,48
+#-------------------------------
+[BUGCATCHER,GARRET,950]
+    Pokemon = ENJU,49
+#-------------------------------
+[BUGCATCHER,JONAH,950]
+    Pokemon = GREGORY,45
+    Pokemon = ENTOMA2,45
+    Pokemon = GREGORY,46
+    Pokemon = ENTOMA2,47
+#-------------------------------
+[BUGCATCHER,VANCE,950]
+    Pokemon = KANEKI,48
+    Pokemon = KAKUJA,50
+#-------------------------------
+[YOUNGSTER,NASH,950]
+    Pokemon = SASUKE,47
+    Pokemon = SASUKE,47
+    Pokemon = SUSANOO,49
+#-------------------------------
+[YOUNGSTER,CORDELL,950]
+    Pokemon = AIS,48
+    Pokemon = AIS,48
+#-------------------------------
+[LASS,DALIA,950]
+    Pokemon = NATSU,46
+    Pokemon = NATSU,47
+    Pokemon = NATSUFORCE,47
+    Pokemon = NATSUFORCE,48
+#-------------------------------
+[LASS,JOANA,950]
+    Pokemon = ENTOMA2,49
+#-------------------------------
+[CAMPER,RILEY,950]
+    Pokemon = GREGORY,49
+    Pokemon = ENJU,50
+#-------------------------------
+[PICNICKER,MARCY,950]
+    Pokemon = HASHIRAMA,48
+    Pokemon = HASHIRAMA,48
+#-------------------------------
+[RUINMANIAC,LAYTON,950]
+    Pokemon = GAARA,48
+    Pokemon = ARMSTRONG,48
+    Pokemon = GAARA,48
+#-------------------------------
+[PICNICKER,KELSEY,951]
+    Pokemon = STAMPEDE,21
+    Pokemon = RYUKO,21
+#-------------------------------
+[PICNICKER,KELSEY,952]
+    Pokemon = STRELIZIA,29
+    Pokemon = SENKETSU,29
+#-------------------------------
+[PICNICKER,KELSEY,953]
+    Pokemon = STRELIZIA,49
+    Pokemon = SENKETSU,49
+#-------------------------------
+[CAMPER,RICKY,951]
+    Pokemon = LUFFY,22
+#-------------------------------
+[CAMPER,RICKY,952]
+    Pokemon = LUFFYGEAR2,30
+#-------------------------------
+[CAMPER,RICKY,953]
+    Pokemon = LUFFYGEAR2,55
+#-------------------------------
+[CAMPER,JEFF,951]
+    Pokemon = KIDKRILLIN,21
+    Pokemon = RAPHTALIA,21
+#-------------------------------
+[CAMPER,JEFF,952]
+    Pokemon = KRILLIN,29
+    Pokemon = RAPHTALIA,29
+#-------------------------------
+[CAMPER,JEFF,953]
+    Pokemon = KRILLIN,54
+    Pokemon = RAPHTALIA,54
+#-------------------------------
+[PICNICKER,ISABELLE,951]
+    Pokemon = GODBIRD,21
+    Pokemon = GODBIRD,21
+    Pokemon = FILOLIAL,18
+#-------------------------------
+[PICNICKER,ISABELLE,952]
+    Pokemon = GODBIRD,29
+    Pokemon = GODBIRD,29
+    Pokemon = GODBIRD,26
+#-------------------------------
+[PICNICKER,ISABELLE,953]
+    Pokemon = GODBIRD,47
+    Pokemon = GODBIRD,47
+    Pokemon = FILO,50
+#-------------------------------
+[YOUNGSTER,YASU,951]
+    Pokemon = KRAPHTALIA,22
+    Pokemon = RAPHTALIA,22
+    Pokemon = RAPHTALIA,22
+#-------------------------------
+[YOUNGSTER,YASU,952]
+    Pokemon = RAPHTALIA,47
+    Pokemon = RAPHTALIA,47
+    Pokemon = RAPHTALIA,47
+#-------------------------------
+[ENGINEER,BERNIE,951]
+    Pokemon = FLASHGOD,28
+    Pokemon = FLASHGOD,28
+    Pokemon = FLASHGOD,28
+#-------------------------------
+[GAMER,DARIAN,951]
+    Pokemon = ZUKO,29
+    Pokemon = KALLEN,29
+#-------------------------------
+[CAMPER,CHRIS,951]
+    Pokemon = ZUKO,24
+    Pokemon = KIDGOKU,24
+#-------------------------------
+[CAMPER,CHRIS,952]
+    Pokemon = ZUKO,29
+    Pokemon = GOKU,29
+#-------------------------------
+[CAMPER,CHRIS,953]
+    Pokemon = ZUKO2,54
+    Pokemon = GOKU,54
+#-------------------------------
+[PICNICKER,ALICIA,951]
+    Pokemon = SHIROU,25
+#-------------------------------
+[PICNICKER,ALICIA,952]
+    Pokemon = ARCHER,30
+#-------------------------------
+[PICNICKER,ALICIA,953]
+    Pokemon = ARCHER,55
+#-------------------------------
+[HIKER,JEREMY,951]
+    Pokemon = VEGETA,30
+    Pokemon = ARMSTRONG,28
+#-------------------------------
+[ANIMANIAC,MARK,951]
+    Pokemon = REDRIOT,54
+    Pokemon = CINNABAR,54
+#-------------------------------
+[ANIMANIAC,HERMAN,950]
+    Pokemon = LINGREED,29
+    Pokemon = DEMONSLAY,29
+#-------------------------------
+[ANIMANIAC,HERMAN,951]
+    Pokemon = LINGREED,54
+    Pokemon = DEMONSLAY,54
+#-------------------------------
+[HIKER,TRENT,951]
+    Pokemon = ARMSTRONG,31
+    Pokemon = GREYMON,31
+#-------------------------------
+[LASS,MEGAN,950]
+    Pokemon = GODBIRD,22
+    Pokemon = RAPHTALIA,22
+    Pokemon = STAMPEDE,23
+    Pokemon = SHIROU,21
+    Pokemon = PIKACHU,22
+#-------------------------------
+[LASS,MEGAN,951]
+    Pokemon = FILO,46
+    Pokemon = RAPHTALIA,47
+    Pokemon = STRELIZIA,47
+    Pokemon = ARCHER,47
+    Pokemon = SHINRA,48
+#-------------------------------
+[SUPERNERD,GLENN,951]
+    Pokemon = AKAME2,28
+    Pokemon = AKAME2,28
+    Pokemon = AKAME2,28
+#-------------------------------
+[GAMER,RICH,951]
+    Pokemon = ZUKO,30
+    Pokemon = KALLEN,30
+#-------------------------------
+[BIKER,JAREN,951]
+    Pokemon = AKAME2,28
+    Pokemon = AKAME2,30
+#-------------------------------
+[FISHERMAN,ELLIOT,951]
+    Pokemon = GURREN,28
+    Pokemon = KISAME2,28
+    Pokemon = HAFURIYATO,28
+    Pokemon = RIMURU,28
+#-------------------------------
+[ROCKER,LUCA,951]
+    Pokemon = KAKASHI,33
+    Pokemon = KAKASHI,33
+#-------------------------------
+[BEAUTY,SHEILA,951]
+    Pokemon = GON,49
+    Pokemon = ARCHER,49
+#-------------------------------
+[BIRDKEEPER,ROBERT,951]
+    Pokemon = GODBIRD,28
+    Pokemon = GODBIRD,28
+    Pokemon = KRILLIN,28
+    Pokemon = KRILLIN,28
+#-------------------------------
+[BIRDKEEPER,ROBERT,952]
+    Pokemon = FILO,47
+    Pokemon = FILO,47
+    Pokemon = KRILLIN,47
+    Pokemon = KRILLIN,47
+#-------------------------------
+[PICNICKER,SUSIE,951]
+    Pokemon = GODBIRD,27
+    Pokemon = SHIROU,27
+    Pokemon = RAPHTALIA,27
+    Pokemon = PIKACHU,27
+    Pokemon = SHIROU,27
+#-------------------------------
+[PICNICKER,SUSIE,952]
+    Pokemon = GODBIRD,47
+    Pokemon = ARCHER,47
+    Pokemon = RAPHTALIA,47
+    Pokemon = PIKACHU,47
+    Pokemon = ARCHER,47
+#-------------------------------
+[PICNICKER,SUSIE,953]
+    Pokemon = FILO,52
+    Pokemon = ARCHER,52
+    Pokemon = RAPHTALIA,52
+    Pokemon = SHINRA,52
+    Pokemon = ARCHER,52
+#-------------------------------
+[BIKER,LUKAS,951]
+    Pokemon = ASTA,47
+    Pokemon = ASTA,47
+    Pokemon = AKAME2,47
+    Pokemon = BLACKASTA,47
+#-------------------------------
+[BIRDKEEPER,BENNY,951]
+    Pokemon = KRILLIN,32
+    Pokemon = KRILLIN,32
+#-------------------------------
+[BIRDKEEPER,BENNY,952]
+    Pokemon = KRILLIN,49
+    Pokemon = KRILLIN,49
+#-------------------------------
+[BIRDKEEPER,MARLON,951]
+    Pokemon = KRILLIN,30
+    Pokemon = WENDY,30
+    Pokemon = KRILLIN,30
+#-------------------------------
+[BIRDKEEPER,MARLON,952]
+    Pokemon = KRILLIN,48
+    Pokemon = WENDYFORCE,48
+    Pokemon = KRILLIN,48
+#-------------------------------
+[BEAUTY,GRACE,951]
+    Pokemon = FILO,49
+    Pokemon = AVATARAANG,49
+#-------------------------------
+[BIRDKEEPER,CHESTER,951]
+    Pokemon = WENDYFORCE,30
+    Pokemon = WENDYFORCE,30
+    Pokemon = WENDY,30
+#-------------------------------
+[BIRDKEEPER,CHESTER,952]
+    Pokemon = WENDYFORCE,48
+    Pokemon = WENDYFORCE,48
+    Pokemon = WENDYFORCE,48
+#-------------------------------
+[PICNICKER,BECKY,951]
+    Pokemon = PIKACHU,32
+    Pokemon = SHINRA,32
+#-------------------------------
+[PICNICKER,BECKY,952]
+    Pokemon = PIKACHU,49
+    Pokemon = SHINRA,49
+#-------------------------------
+[PICNICKER,BECKY,953]
+    Pokemon = SHINRA,54
+    Pokemon = SHINRA,54
+#-------------------------------
+[CRUSHKIN,RON & MYA,951]
+    Pokemon = TOPH,33
+    Pokemon = MUSTANG,33
+#-------------------------------
+[CRUSHKIN,RON & MYA,952]
+    Pokemon = TOPH,51
+    Pokemon = MUSTANG,51
+#-------------------------------
+[CRUSHKIN,RON & MYA,953]
+    Pokemon = TOPH,56
+    Pokemon = MUSTANG,56
+#-------------------------------
+[BIKER,RUBEN,950]
+    Pokemon = BLACKASTA,48
+    Pokemon = BLACKASTA,48
+    Pokemon = BLACKASTA,48
+#-------------------------------
+[CUEBALL,CAMRON,950]
+    Pokemon = RAIZEN,49
+    Pokemon = VEGETA,49
+#-------------------------------
+[BIKER,JAXON,951]
+    Pokemon = BLACKASTA,49
+    Pokemon = AKAME2,49
+#-------------------------------
+[CUEBALL,ISAIAH,950]
+    Pokemon = VEGETA,49
+    Pokemon = SSJVEGETA,49
+#-------------------------------
+[CUEBALL,COREY,951]
+    Pokemon = RAIZEN,49
+    Pokemon = SSJVEGETA,49
+#-------------------------------
+[BIRDKEEPER,JACOB,951]
+    Pokemon = KRILLIN,28
+    Pokemon = KIDKRILLIN,28
+    Pokemon = KRILLIN,28
+    Pokemon = KIDKRILLIN,28
+#-------------------------------
+[BIRDKEEPER,JACOB,952]
+    Pokemon = KRILLIN,47
+    Pokemon = KRILLIN,47
+    Pokemon = KRILLIN,47
+    Pokemon = KRILLIN,47
+#-------------------------------
+[SWIMMER_F,ALICE,951]
+    Pokemon = HAFURIYATO,49
+    Pokemon = HAFURIYATO,49
+#-------------------------------
+[SWIMMER_M,DARRIN,951]
+    Pokemon = RIMURU,52
+    Pokemon = RIMURU,52
+    Pokemon = RIMURU,52
+    Pokemon = RIMURU,52
+#-------------------------------
+[PICNICKER,MISSY,951]
+    Pokemon = HAFURIYATO,49
+    Pokemon = HAFURIYATO,49
+#-------------------------------
+[PICNICKER,MISSY,952]
+    Pokemon = HAFURIYATO,54
+    Pokemon = HAFURIYATO,54
+#-------------------------------
+[FISHERMAN,WADE,951]
+    Pokemon = EREN,47
+    Pokemon = EREN,47
+    Pokemon = EREN,47
+    Pokemon = EREN,47
+    Pokemon = EREN,47
+    Pokemon = EREN,47
+#-------------------------------
+[SWIMMER_M,JACK,951]
+    Pokemon = ICERING,50
+#-------------------------------
+[SISANDBRO,LIL & IAN,951]
+    Pokemon = RIMURU,50
+    Pokemon = ICERING,50
+#-------------------------------
+[SISANDBRO,LIL & IAN,952]
+    Pokemon = RIMURU,55
+    Pokemon = ICERING,55
+#-------------------------------
+[SWIMMER_M,FINN,951]
+    Pokemon = ICERING,50
+#-------------------------------
+[CRUSHGIRL,SHARON,951]
+    Pokemon = YUSUKE,50
+    Pokemon = RAIZEN,50
+#-------------------------------
+[CRUSHGIRL,SHARON,952]
+    Pokemon = RAIZEN,55
+    Pokemon = RAIZEN,55
+#-------------------------------
+[CRUSHGIRL,TANYA,951]
+    Pokemon = MUSTANG,50
+    Pokemon = TOPH,50
+#-------------------------------
+[CRUSHGIRL,TANYA,952]
+    Pokemon = MUSTANG,55
+    Pokemon = TOPH,55
+#-------------------------------
+[BLACKBELT,SHEA,951]
+    Pokemon = VEGETA,50
+    Pokemon = VEGETA,50
+#-------------------------------
+[BLACKBELT,SHEA,952]
+    Pokemon = VEGETA,55
+    Pokemon = SSJVEGETA,55
+#-------------------------------
+[BLACKBELT,HUGH,951]
+    Pokemon = VEGETA,50
+    Pokemon = VEGETA,50
+#-------------------------------
+[BLACKBELT,HUGH,952]
+    Pokemon = VEGETA,55
+    Pokemon = SSJVEGETA,55
+#-------------------------------
+[CRUSHKIN,MIK & KIA,951]
+    Pokemon = VEGETA,51
+    Pokemon = RAIZEN,51
+#-------------------------------
+[CRUSHKIN,MIK & KIA,952]
+    Pokemon = SSJVEGETA,56
+    Pokemon = RAIZEN,56
+#-------------------------------
+[TUBER,AMIRA,951]
+    Pokemon = GURREN,47
+    Pokemon = GURREN,47
+    Pokemon = GURREN,47
+#-------------------------------
+[TWINS,JOY & MEG,951]
+    Pokemon = GON,49
+    Pokemon = GON,49
+#-------------------------------
+[PAINTER,RAYNA,951]
+    Pokemon = KOROSENSEI,54
+    Moves = CROSSCHOP,MEGAHORN,DOUBLEEDGE,SELFDESTRUCT
+#-------------------------------
+[YOUNGSTER,DESTIN,951]
+    Pokemon = RAPHTALIA,53
+    Pokemon = FILO,53
+#-------------------------------
+[POKEMONBREEDER,ALIZE,951]
+    Pokemon = PIKACHU,53
+    Pokemon = GON,53
+    Pokemon = KILLUA,53
+#-------------------------------
+[YOUNGCOUPLE,GIA & JES,951]
+    Pokemon = SENKETSU,30
+    Pokemon = STRELIZIA,30
+#-------------------------------
+[YOUNGCOUPLE,GIA & JES,952]
+    Pokemon = TRUEAPUS,55
+    Pokemon = TRUESYNC,55
+#-------------------------------
+[BIRDKEEPER,MILO,951]
+    Pokemon = GODBIRD,53
+    Pokemon = FILO,55
+#-------------------------------
+[BIRDKEEPER,CHAZ,951]
+    Pokemon = KRILLIN,53
+    Pokemon = KRILLIN,55
+#-------------------------------
+[BIRDKEEPER,HAROLD,951]
+    Pokemon = SHIKAMARU,53
+    Pokemon = SHIKAMARU,55
+#-------------------------------
+[SWIMMER_F,NICOLE,951]
+    Pokemon = KILLUA,54
+#-------------------------------
+[PSYCHIC_M,JACLYN,951]
+    Pokemon = NATU,52
+    Moves = PSYCHIC,CONFUSERAY,FUTURESIGHT,WISH
+    Pokemon = DEMONSLAY,52
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,YAWN
+    Pokemon = FRIEZA2,54
+    Moves = PSYCHIC,FUTURESIGHT,RECOVER,REFLECT
+#-------------------------------
+[SWIMMER_M,SAMIR,951]
+    Pokemon = TITANFORM,55
+#-------------------------------
+[HIKER,EARL,951]
+    Pokemon = ARMSTRONG,54
+    Pokemon = SSJVEGETA,54
+#-------------------------------
+[RUINMANIAC,LARRY,951]
+    Pokemon = VEGETA,54
+    Pokemon = VEGETA,54
+#-------------------------------
+[ANIMANIAC,HECTOR,951]
+    Pokemon = REDRIOT,55
+    Pokemon = JIRAIYA,55
+#-------------------------------
+[PSYCHIC_M,DARIO,951]
+    Pokemon = STARPLAT,56
+    Moves = CRUNCH,PSYBEAM,ODORSLEUTH,AGILITY
+#-------------------------------
+[PSYCHIC_M,RODETTE,951]
+    Pokemon = NATU,53
+    Moves = PSYCHIC,CONFUSERAY,WISH,FUTURESIGHT
+    Pokemon = DPALADIN,53
+    Moves = PSYCHIC,DISABLE,PSYCHUP,FUTURESIGHT
+    Pokemon = DPALADIN,53
+    Moves = PSYCHIC,HYPNOSIS,PSYCHUP,FUTURESIGHT
+#-------------------------------
+[JUGGLER,MASON,951]
+    Pokemon = KAKASHI,52
+    Pokemon = PINECO,52
+    Pokemon = KAKASHI,52
+    Pokemon = PINECO,52
+#-------------------------------
+[POKEMONRANGER_M,NICOLAS,951]
+    Pokemon = SUSANOO,55
+    Moves = RAZORLEAF,ACID,STUNSPORE,WRAP
+    Pokemon = SUSANOO,55
+    Moves = RAZORLEAF,ACID,SLEEPPOWDER,SLAM
+#-------------------------------
+[POKEMONRANGER_M,MADELINE,951]
+    Pokemon = USOPP2,55
+    Moves = PETALDANCE,MOONLIGHT,ACID,SLEEPPOWDER
+    Pokemon = USOPP2,55
+    Moves = PETALDANCE,MOONLIGHT,ACID,STUNSPORE
+#-------------------------------
+[CRUSHGIRL,CYNDY,951]
+    Pokemon = RAIZEN,54
+    Pokemon = HITMONTOP,54
+    Pokemon = SSJVEGETA,54
+#-------------------------------
+[TAMER,EVAN,951]
+    Pokemon = GAARA,52
+    Pokemon = CINNABAR,52
+    Pokemon = ZORO2,55
+#-------------------------------
+[POKEMONRANGER_M,JACKSON,951]
+    Pokemon = UEKI,53
+    Moves = SLAM,MEGADRAIN,BIND,INGRAIN
+    Pokemon = NOFACE2,54
+    Moves = CONFUSION,EGGBOMB,STUNSPORE,REFLECT
+    Pokemon = NOFACE2,55
+    Moves = CONFUSION,EGGBOMB,SLEEPPOWDER,STOMP
+#-------------------------------
+[POKEMONRANGER_M,KATELYN,951]
+    Pokemon = ASUNA,56
+    Moves = EGGBOMB,DEFENSECURL,MINIMIZE,SOFTBOILED
+#-------------------------------
+[COOLTRAINER_M,LEROY,951]
+    Pokemon = REDRIOT,52
+    Moves = EARTHQUAKE,HORNDRILL,ROCKBLAST,SCARYFACE
+    Pokemon = DEMONSLAY,54
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,DISABLE
+    Pokemon = JIRAIYA,52
+    Moves = DIZZYPUNCH,BITE,ENDURE,REVERSAL
+    Pokemon = SSJVEGETA,52
+    Moves = CROSSCHOP,VITALTHROW,REVENGE,SEISMICTOSS
+    Pokemon = ZORO2,55
+    Moves = SLASH,FAINTATTACK,SNORE,REST
+#-------------------------------
+[COOLTRAINER_M,MICHELLE,951]
+    Pokemon = ARCHER,53
+    Moves = SLASH,SCREECH,FAINTATTACK,BITE
+    Pokemon = HAKUDRAGON,53
+    Moves = ICEBEAM,TAKEDOWN,ICYWIND,SHEERCOLD
+    Pokemon = GURENMK2,54
+    Moves = FLAMETHROWER,CONFUSERAY,WILLOWISP,GRUDGE
+    Pokemon = TRUEFORM,54
+    Moves = BOUNCE,AGILITY,FIRESPIN,TAKEDOWN
+    Pokemon = STARPLAT,56
+    Moves = CRUNCH,PSYBEAM,STOMP,ODORSLEUTH
+#-------------------------------
+[COOLCOUPLE,LEX & NYA,951]
+    Pokemon = MASH,57
+    Moves = BODYSLAM,MILKDRINK,GROWL,DEFENSECURL
+    Pokemon = BAKUGOU,57
+    Moves = TAKEDOWN,SCARYFACE,PURSUIT,SWAGGER
+#-------------------------------
+[BUGCATCHER,COLTON,951]
+    Pokemon = CELL2,19
+    Pokemon = ENTOMA,19
+    Pokemon = CELL2,19
+#-------------------------------
+[BUGCATCHER,COLTON,952]
+    Pokemon = CELL3,27
+    Pokemon = MEGUMIN,27
+    Pokemon = CELL3,27
+#-------------------------------
+[BUGCATCHER,COLTON,953]
+    Pokemon = CELL3,51
+    Pokemon = ENTOMA2,54
+    Pokemon = CELL3,51
+#-------------------------------
+[SWIMMER_M,MATTHEW,951]
+    Pokemon = GURREN,49
+    Pokemon = GURENRAGAN,49
+#-------------------------------
+[SWIMMER_M,TONY,951]
+    Pokemon = RIMURU,49
+    Pokemon = RIMURU,49
+#-------------------------------
+[SWIMMER_F,MELISSA,951]
+    Pokemon = GURREN,49
+    Pokemon = HAFURIYATO,49
+#-------------------------------
+[ELITEFOUR,HIYURI,951]
+    Pokemon = HAKUDRAGON,64
+    Moves = ICEBEAM,SURF,SIGNALBEAM,DOUBLETEAM
+    Pokemon = KISAME2,63
+    Moves = ICEBEAM,SURF,SUPERSONIC,RAINDANCE
+    Pokemon = PILOSWINE,63
+    Moves = BLIZZARD,EARTHQUAKE,DOUBLEEDGE,ROCKSLIDE
+    Pokemon = ESDEATH,66
+    Moves = ICEBEAM,SURF,PSYCHIC,THUNDER
+#-------------------------------
+[ELITEFOUR,ERWIN,951]
+    Pokemon = ASTROBOY,65
+    Moves = EARTHQUAKE,IRONTAIL,CRUNCH,ROCKTOMB
+    Pokemon = TOPH,65
+    Moves = SKYUPPERCUT,MACHPUNCH,ROCKSLIDE,COUNTER
+    Pokemon = MUSTANG,65
+    Moves = MEGAKICK,FORESIGHT,EARTHQUAKE,ROCKSLIDE
+    Pokemon = ASTROBOY,66
+    Moves = EARTHQUAKE,IRONTAIL,CRUNCH,DRAGONBREATH
+    Pokemon = SSJVEGETA,68
+    Moves = CROSSCHOP,EARTHQUAKE,BRICKBREAK,ROCKSLIDE
+#-------------------------------
+[ELITEFOUR,BLANK,951]
+    Pokemon = VASTOLORDE,66
+    Moves = SHADOWBALL,PSYCHIC,CONFUSERAY,HYPNOSIS
+    Pokemon = ITACHI,66
+    Moves = SLUDGEBOMB,AIRCUTTER,SHADOWBALL,CONFUSERAY
+    Pokemon = KYUBEY,65
+    Moves = SHADOWBALL,PSYCHIC,THUNDERBOLT,ATTRACT
+    Pokemon = COCODEMON,68
+    Moves = SLUDGEBOMB,EARTHQUAKE,GIGADRAIN,DOUBLETEAM
+    Pokemon = VASTOLORDE,70
+    Moves = SHADOWBALL,PSYCHIC,THUNDERBOLT,SLUDGEBOMB
+#-------------------------------
+[ELITEFOUR,KAIBA,952]
+    Pokemon = TITANFORM,68
+    Moves = HYPERBEAM,DRAGONDANCE,EARTHQUAKE,THUNDERWAVE
+    Pokemon = BEYESULT,66
+    Moves = HYPERBEAM,EARTHQUAKE,DRAGONCLAW,FLAMETHROWER
+    Pokemon = DENJI,66
+    Moves = HYPERBEAM,DRAGONDANCE,SURF,ICEBEAM
+    Pokemon = REIJU,70
+    Moves = HYPERBEAM,ANCIENTPOWER,AERIALACE,EARTHQUAKE
+    Pokemon = BEYESULT,72
+    Moves = HYPERBEAM,OUTRAGE,THUNDERBOLT,ICEBEAM
+#-------------------------------
+[CHAMPION,LIGHT,951]
+    Pokemon = RYUK,83
+    Moves = SHADOWSNEAK,BITE,DESTINYBOND,PURSUIT
+    Pokemon = GILGAMESH,80
+    Moves = DIVINESTRIKE,METEORMASH,SWORDSDANCE,SLASH
+    Pokemon = GODSPEED,80
+    Moves = EXTREMESPEED,VOLTTACKLE,THUNDERBOLT,SHADOWSNEAK
+    Pokemon = FRIEZA3,73
+    Moves = DEATHBEAM,PSYCHIC,LIGHTSCREEN,AERIALACE
+    Pokemon = KURAMAMODE,85
+    Moves = BEASTBOMB,RASENSHURIKEN,EXTREMESPEED,RECOVER
+#-------------------------------
+[CHAMPION,LIGHT,952]
+    Pokemon = RYUK,83
+    Moves = SHADOWSNEAK,BITE,DESTINYBOND,PURSUIT
+    Pokemon = GILGAMESH,80
+    Moves = DIVINESTRIKE,SWORDSDANCE,METEORMASH,SLASH
+    Pokemon = GODSPEED,80
+    Moves = EXTREMESPEED,VOLTTACKLE,THUNDERBOLT,SHADOWSNEAK
+    Pokemon = FRIEZA3,80
+    Moves = PSYCHIC,DEATHBEAM,AERIALACE,LIGHTSCREEN
+    Pokemon = SSJGOKU,85
+    Moves = SUPERPOWER,KAMEHAMEHA,KAIOKEN,AERIALACE
+#-------------------------------
+[CHAMPION,LIGHT,953]
+    Pokemon = RYUK,83
+    Moves = SHADOWSNEAK,BITE,DESTINYBOND,PURSUIT
+    Pokemon = GILGAMESH,80
+    Moves = DIVINESTRIKE,SWORDSDANCE,METEORMASH,SLASH
+    Pokemon = GODSPEED,80
+    Moves = EXTREMESPEED,VOLTTACKLE,THUNDERBOLT,SHADOWSNEAK
+    Pokemon = FRIEZA3,80
+    Moves = PSYCHIC,DEATHBEAM,AERIALACE,LIGHTSCREEN
+    Pokemon = LUFFYGEAR4,85
+    Moves = DESTINYBOND,BOUNCE,GUMGUMPISTOL,FIREPUNCH

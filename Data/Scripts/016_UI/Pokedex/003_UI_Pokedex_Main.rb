@@ -373,6 +373,21 @@ class PokemonPokedex_Scene
         end
       end
     end
+    # Species registered in the reserved standalone band (is_reserved_standalone_dex?,
+    # FusionUtils.rb - currently 600000-699999) sit above PBSpecies.maxValue (the
+    # ceiling of the head*727+body fusion arithmetic), so the sequential loop above
+    # never reaches them - they'd never appear in the Pokedex menu at all, seen or
+    # not. List each one (DATA is keyed by both symbol and id_number, so dedupe by
+    # id_number) sorted after the main dex by their own id_number.
+    seen_reserved = {}
+    GameData::Species::DATA.each_value do |species|
+      next unless is_reserved_standalone_dex?(species.id_number)
+      next if seen_reserved[species.id_number]
+      seen_reserved[species.id_number] = true
+      next unless $Trainer.seen?(species.id_number)
+      next if filter_owned && !$Trainer.owned?(species.id_number)
+      dexlist.push([species.id_number, species.name, 0, 0, species.id_number, 0])
+    end
     return dexlist
   end
 

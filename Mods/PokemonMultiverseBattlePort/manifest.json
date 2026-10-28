@@ -1,0 +1,6235 @@
+{
+ "name": "PokemonMultiverseBattle",
+ "mod_name": "PokemonMultiverseBattlePort",
+ "source_rom": "Pokemon Multiverse Battle.gba",
+ "rom_meta": {
+  "title": "POKEMON FIRE",
+  "code": "BPRE",
+  "version": 0,
+  "base": "FireRed",
+  "size": 33554432,
+  "is_efrlg": true,
+  "is_fr10": true
+ },
+ "map_mode": "banked",
+ "map_id_base": 105077,
+ "tileset_id_base": 3691,
+ "flag_base": 286000,
+ "var_base": 286000,
+ "map_count": 425,
+ "tileset_pair_count": 60,
+ "game_key": "pokemonmultiversebattle",
+ "start_map_id": 105078,
+ "start_spawn": [
+  7,
+  4,
+  2
+ ],
+ "seed_dynamic_warp": null,
+ "map_names": {
+  "105078": "PokemonMultiverseBattle 0-0",
+  "105079": "PokemonMultiverseBattle 0-1",
+  "105080": "PokemonMultiverseBattle 0-2",
+  "105081": "PokemonMultiverseBattle 0-3",
+  "105082": "PokemonMultiverseBattle 0-4",
+  "105083": "PokemonMultiverseBattle 1-0",
+  "105084": "PokemonMultiverseBattle 1-1",
+  "105085": "PokemonMultiverseBattle 1-2",
+  "105086": "PokemonMultiverseBattle 1-3",
+  "105087": "PokemonMultiverseBattle 1-4",
+  "105088": "PokemonMultiverseBattle 1-5",
+  "105089": "PokemonMultiverseBattle 1-6",
+  "105090": "PokemonMultiverseBattle 1-7",
+  "105091": "PokemonMultiverseBattle 1-8",
+  "105092": "PokemonMultiverseBattle 1-9",
+  "105093": "PokemonMultiverseBattle 1-10",
+  "105094": "PokemonMultiverseBattle 1-11",
+  "105095": "PokemonMultiverseBattle 1-12",
+  "105096": "PokemonMultiverseBattle 1-13",
+  "105097": "PokemonMultiverseBattle 1-14",
+  "105098": "PokemonMultiverseBattle 1-15",
+  "105099": "PokemonMultiverseBattle 1-16",
+  "105100": "PokemonMultiverseBattle 1-17",
+  "105101": "PokemonMultiverseBattle 1-18",
+  "105102": "PokemonMultiverseBattle 1-19",
+  "105103": "PokemonMultiverseBattle 1-20",
+  "105104": "PokemonMultiverseBattle 1-21",
+  "105105": "PokemonMultiverseBattle 1-22",
+  "105106": "PokemonMultiverseBattle 1-23",
+  "105107": "PokemonMultiverseBattle 1-24",
+  "105108": "PokemonMultiverseBattle 1-25",
+  "105109": "PokemonMultiverseBattle 1-26",
+  "105110": "PokemonMultiverseBattle 1-27",
+  "105111": "PokemonMultiverseBattle 1-28",
+  "105112": "PokemonMultiverseBattle 1-29",
+  "105113": "PokemonMultiverseBattle 1-30",
+  "105114": "PokemonMultiverseBattle 1-31",
+  "105115": "PokemonMultiverseBattle 1-32",
+  "105116": "PokemonMultiverseBattle 1-33",
+  "105117": "PokemonMultiverseBattle 1-34",
+  "105118": "PokemonMultiverseBattle 1-35",
+  "105119": "PokemonMultiverseBattle 1-36",
+  "105120": "PokemonMultiverseBattle 1-37",
+  "105121": "PokemonMultiverseBattle 1-38",
+  "105122": "PokemonMultiverseBattle 1-39",
+  "105123": "PokemonMultiverseBattle 1-40",
+  "105124": "PokemonMultiverseBattle 1-41",
+  "105125": "PokemonMultiverseBattle 1-42",
+  "105126": "PokemonMultiverseBattle 1-43",
+  "105127": "PokemonMultiverseBattle 1-44",
+  "105128": "PokemonMultiverseBattle 1-45",
+  "105129": "PokemonMultiverseBattle 1-46",
+  "105130": "PokemonMultiverseBattle 1-47",
+  "105131": "PokemonMultiverseBattle 1-48",
+  "105132": "PokemonMultiverseBattle 1-49",
+  "105133": "PokemonMultiverseBattle 1-50",
+  "105134": "PokemonMultiverseBattle 1-51",
+  "105135": "PokemonMultiverseBattle 1-52",
+  "105136": "PokemonMultiverseBattle 1-53",
+  "105137": "PokemonMultiverseBattle 1-54",
+  "105138": "PokemonMultiverseBattle 1-55",
+  "105139": "PokemonMultiverseBattle 1-56",
+  "105140": "PokemonMultiverseBattle 1-57",
+  "105141": "PokemonMultiverseBattle 1-58",
+  "105142": "PokemonMultiverseBattle 1-59",
+  "105143": "PokemonMultiverseBattle 1-60",
+  "105144": "PokemonMultiverseBattle 1-61",
+  "105145": "PokemonMultiverseBattle 1-62",
+  "105146": "PokemonMultiverseBattle 1-63",
+  "105147": "PokemonMultiverseBattle 1-64",
+  "105148": "PokemonMultiverseBattle 1-65",
+  "105149": "PokemonMultiverseBattle 1-66",
+  "105150": "PokemonMultiverseBattle 1-67",
+  "105151": "PokemonMultiverseBattle 1-68",
+  "105152": "PokemonMultiverseBattle 1-69",
+  "105153": "PokemonMultiverseBattle 1-70",
+  "105154": "PokemonMultiverseBattle 1-71",
+  "105155": "PokemonMultiverseBattle 1-72",
+  "105156": "PokemonMultiverseBattle 1-73",
+  "105157": "PokemonMultiverseBattle 1-74",
+  "105158": "PokemonMultiverseBattle 1-75",
+  "105159": "PokemonMultiverseBattle 1-76",
+  "105160": "PokemonMultiverseBattle 1-77",
+  "105161": "PokemonMultiverseBattle 1-78",
+  "105162": "PokemonMultiverseBattle 1-79",
+  "105163": "PokemonMultiverseBattle 1-80",
+  "105164": "PokemonMultiverseBattle 1-81",
+  "105165": "PokemonMultiverseBattle 1-82",
+  "105166": "PokemonMultiverseBattle 1-83",
+  "105167": "PokemonMultiverseBattle 1-84",
+  "105168": "PokemonMultiverseBattle 1-85",
+  "105169": "PokemonMultiverseBattle 1-86",
+  "105170": "PokemonMultiverseBattle 1-87",
+  "105171": "PokemonMultiverseBattle 1-88",
+  "105172": "PokemonMultiverseBattle 1-89",
+  "105173": "PokemonMultiverseBattle 1-90",
+  "105174": "PokemonMultiverseBattle 1-91",
+  "105175": "PokemonMultiverseBattle 1-92",
+  "105176": "PokemonMultiverseBattle 1-93",
+  "105177": "PokemonMultiverseBattle 1-94",
+  "105178": "PokemonMultiverseBattle 1-95",
+  "105179": "PokemonMultiverseBattle 1-96",
+  "105180": "PokemonMultiverseBattle 1-97",
+  "105181": "PokemonMultiverseBattle 1-98",
+  "105182": "PokemonMultiverseBattle 1-99",
+  "105183": "PokemonMultiverseBattle 1-100",
+  "105184": "PokemonMultiverseBattle 1-101",
+  "105185": "PokemonMultiverseBattle 1-102",
+  "105186": "PokemonMultiverseBattle 1-103",
+  "105187": "PokemonMultiverseBattle 1-104",
+  "105188": "PokemonMultiverseBattle 1-105",
+  "105189": "PokemonMultiverseBattle 1-106",
+  "105190": "PokemonMultiverseBattle 1-107",
+  "105191": "PokemonMultiverseBattle 1-108",
+  "105192": "PokemonMultiverseBattle 1-109",
+  "105193": "PokemonMultiverseBattle 1-110",
+  "105194": "PokemonMultiverseBattle 1-111",
+  "105195": "PokemonMultiverseBattle 1-112",
+  "105196": "PokemonMultiverseBattle 1-113",
+  "105197": "PokemonMultiverseBattle 1-114",
+  "105198": "PokemonMultiverseBattle 1-115",
+  "105199": "PokemonMultiverseBattle 1-116",
+  "105200": "PokemonMultiverseBattle 1-117",
+  "105201": "PokemonMultiverseBattle 1-118",
+  "105202": "PokemonMultiverseBattle 1-119",
+  "105203": "PokemonMultiverseBattle 1-120",
+  "105204": "PokemonMultiverseBattle 1-121",
+  "105205": "PokemonMultiverseBattle 1-122",
+  "105206": "PokemonMultiverseBattle 2-0",
+  "105207": "PokemonMultiverseBattle 2-1",
+  "105208": "PokemonMultiverseBattle 2-2",
+  "105209": "PokemonMultiverseBattle 2-3",
+  "105210": "PokemonMultiverseBattle 2-4",
+  "105211": "PokemonMultiverseBattle 2-5",
+  "105212": "PokemonMultiverseBattle 2-6",
+  "105213": "PokemonMultiverseBattle 2-7",
+  "105214": "PokemonMultiverseBattle 2-8",
+  "105215": "PokemonMultiverseBattle 2-9",
+  "105216": "PokemonMultiverseBattle 2-10",
+  "105217": "PokemonMultiverseBattle 2-11",
+  "105218": "PokemonMultiverseBattle 2-12",
+  "105219": "PokemonMultiverseBattle 2-13",
+  "105220": "PokemonMultiverseBattle 2-14",
+  "105221": "PokemonMultiverseBattle 2-15",
+  "105222": "PokemonMultiverseBattle 2-16",
+  "105223": "PokemonMultiverseBattle 2-17",
+  "105224": "PokemonMultiverseBattle 2-18",
+  "105225": "PokemonMultiverseBattle 2-19",
+  "105226": "PokemonMultiverseBattle 2-20",
+  "105227": "PokemonMultiverseBattle 2-21",
+  "105228": "PokemonMultiverseBattle 2-22",
+  "105229": "PokemonMultiverseBattle 2-23",
+  "105230": "PokemonMultiverseBattle 2-24",
+  "105231": "PokemonMultiverseBattle 2-25",
+  "105232": "PokemonMultiverseBattle 2-26",
+  "105233": "PokemonMultiverseBattle 2-27",
+  "105234": "PokemonMultiverseBattle 2-28",
+  "105235": "PokemonMultiverseBattle 2-29",
+  "105236": "PokemonMultiverseBattle 2-30",
+  "105237": "PokemonMultiverseBattle 2-31",
+  "105238": "PokemonMultiverseBattle 2-32",
+  "105239": "PokemonMultiverseBattle 2-33",
+  "105240": "PokemonMultiverseBattle 2-34",
+  "105241": "PokemonMultiverseBattle 2-35",
+  "105242": "PokemonMultiverseBattle 2-36",
+  "105243": "PokemonMultiverseBattle 2-37",
+  "105244": "PokemonMultiverseBattle 2-38",
+  "105245": "PokemonMultiverseBattle 2-39",
+  "105246": "PokemonMultiverseBattle 2-40",
+  "105247": "PokemonMultiverseBattle 2-41",
+  "105248": "PokemonMultiverseBattle 2-42",
+  "105249": "PokemonMultiverseBattle 2-43",
+  "105250": "PokemonMultiverseBattle 2-44",
+  "105251": "PokemonMultiverseBattle 2-45",
+  "105252": "PokemonMultiverseBattle 2-46",
+  "105253": "PokemonMultiverseBattle 2-47",
+  "105254": "PokemonMultiverseBattle 2-48",
+  "105255": "PokemonMultiverseBattle 2-49",
+  "105256": "PokemonMultiverseBattle 2-50",
+  "105257": "PokemonMultiverseBattle 2-51",
+  "105258": "PokemonMultiverseBattle 2-52",
+  "105259": "PokemonMultiverseBattle 2-53",
+  "105260": "PokemonMultiverseBattle 2-54",
+  "105261": "PokemonMultiverseBattle 2-55",
+  "105262": "PokemonMultiverseBattle 2-56",
+  "105263": "PokemonMultiverseBattle 2-57",
+  "105264": "PokemonMultiverseBattle 2-58",
+  "105265": "PokemonMultiverseBattle 2-59",
+  "105266": "PokemonMultiverseBattle 3-0",
+  "105267": "PokemonMultiverseBattle 3-1",
+  "105268": "PokemonMultiverseBattle 3-2",
+  "105269": "PokemonMultiverseBattle 3-3",
+  "105270": "PokemonMultiverseBattle 3-4",
+  "105271": "PokemonMultiverseBattle 3-5",
+  "105272": "PokemonMultiverseBattle 3-6",
+  "105273": "PokemonMultiverseBattle 3-7",
+  "105274": "PokemonMultiverseBattle 3-8",
+  "105275": "PokemonMultiverseBattle 3-9",
+  "105276": "PokemonMultiverseBattle 3-10",
+  "105277": "PokemonMultiverseBattle 3-11",
+  "105278": "PokemonMultiverseBattle 3-12",
+  "105279": "PokemonMultiverseBattle 3-13",
+  "105280": "PokemonMultiverseBattle 3-14",
+  "105281": "PokemonMultiverseBattle 3-15",
+  "105282": "PokemonMultiverseBattle 3-16",
+  "105283": "PokemonMultiverseBattle 3-17",
+  "105284": "PokemonMultiverseBattle 3-18",
+  "105285": "PokemonMultiverseBattle 3-19",
+  "105286": "PokemonMultiverseBattle 3-20",
+  "105287": "PokemonMultiverseBattle 3-21",
+  "105288": "PokemonMultiverseBattle 3-22",
+  "105289": "PokemonMultiverseBattle 3-23",
+  "105290": "PokemonMultiverseBattle 3-24",
+  "105291": "PokemonMultiverseBattle 3-25",
+  "105292": "PokemonMultiverseBattle 3-26",
+  "105293": "PokemonMultiverseBattle 3-27",
+  "105294": "PokemonMultiverseBattle 3-28",
+  "105295": "PokemonMultiverseBattle 3-29",
+  "105296": "PokemonMultiverseBattle 3-30",
+  "105297": "PokemonMultiverseBattle 3-31",
+  "105298": "PokemonMultiverseBattle 3-32",
+  "105299": "PokemonMultiverseBattle 3-33",
+  "105300": "PokemonMultiverseBattle 3-34",
+  "105301": "PokemonMultiverseBattle 3-35",
+  "105302": "PokemonMultiverseBattle 3-36",
+  "105303": "PokemonMultiverseBattle 3-37",
+  "105304": "PokemonMultiverseBattle 3-38",
+  "105305": "PokemonMultiverseBattle 3-39",
+  "105306": "PokemonMultiverseBattle 3-40",
+  "105307": "PokemonMultiverseBattle 3-41",
+  "105308": "PokemonMultiverseBattle 3-42",
+  "105309": "PokemonMultiverseBattle 3-43",
+  "105310": "PokemonMultiverseBattle 3-44",
+  "105311": "PokemonMultiverseBattle 3-45",
+  "105312": "PokemonMultiverseBattle 3-46",
+  "105313": "PokemonMultiverseBattle 3-47",
+  "105314": "PokemonMultiverseBattle 3-48",
+  "105315": "PokemonMultiverseBattle 3-49",
+  "105316": "PokemonMultiverseBattle 3-50",
+  "105317": "PokemonMultiverseBattle 3-51",
+  "105318": "PokemonMultiverseBattle 3-52",
+  "105319": "PokemonMultiverseBattle 3-53",
+  "105320": "PokemonMultiverseBattle 3-54",
+  "105321": "PokemonMultiverseBattle 3-55",
+  "105322": "PokemonMultiverseBattle 3-56",
+  "105323": "PokemonMultiverseBattle 3-57",
+  "105324": "PokemonMultiverseBattle 3-58",
+  "105325": "PokemonMultiverseBattle 3-59",
+  "105326": "PokemonMultiverseBattle 3-60",
+  "105327": "PokemonMultiverseBattle 3-61",
+  "105328": "PokemonMultiverseBattle 3-62",
+  "105329": "PokemonMultiverseBattle 3-63",
+  "105330": "PokemonMultiverseBattle 3-64",
+  "105331": "PokemonMultiverseBattle 3-65",
+  "105332": "PokemonMultiverseBattle 4-0",
+  "105333": "PokemonMultiverseBattle 4-1",
+  "105334": "PokemonMultiverseBattle 4-2",
+  "105335": "PokemonMultiverseBattle 4-3",
+  "105336": "PokemonMultiverseBattle 5-0",
+  "105337": "PokemonMultiverseBattle 5-1",
+  "105338": "PokemonMultiverseBattle 5-2",
+  "105339": "PokemonMultiverseBattle 5-3",
+  "105340": "PokemonMultiverseBattle 5-4",
+  "105341": "PokemonMultiverseBattle 5-5",
+  "105342": "PokemonMultiverseBattle 6-0",
+  "105343": "PokemonMultiverseBattle 6-1",
+  "105344": "PokemonMultiverseBattle 6-2",
+  "105345": "PokemonMultiverseBattle 6-3",
+  "105346": "PokemonMultiverseBattle 6-4",
+  "105347": "PokemonMultiverseBattle 6-5",
+  "105348": "PokemonMultiverseBattle 6-6",
+  "105349": "PokemonMultiverseBattle 6-7",
+  "105350": "PokemonMultiverseBattle 7-0",
+  "105351": "PokemonMultiverseBattle 7-1",
+  "105352": "PokemonMultiverseBattle 7-2",
+  "105353": "PokemonMultiverseBattle 7-3",
+  "105354": "PokemonMultiverseBattle 7-4",
+  "105355": "PokemonMultiverseBattle 7-5",
+  "105356": "PokemonMultiverseBattle 7-6",
+  "105357": "PokemonMultiverseBattle 7-7",
+  "105358": "PokemonMultiverseBattle 7-8",
+  "105359": "PokemonMultiverseBattle 7-9",
+  "105360": "PokemonMultiverseBattle 8-0",
+  "105361": "PokemonMultiverseBattle 8-1",
+  "105362": "PokemonMultiverseBattle 8-2",
+  "105363": "PokemonMultiverseBattle 8-3",
+  "105364": "PokemonMultiverseBattle 8-4",
+  "105365": "PokemonMultiverseBattle 8-5",
+  "105366": "PokemonMultiverseBattle 9-0",
+  "105367": "PokemonMultiverseBattle 9-1",
+  "105368": "PokemonMultiverseBattle 9-2",
+  "105369": "PokemonMultiverseBattle 9-3",
+  "105370": "PokemonMultiverseBattle 9-4",
+  "105371": "PokemonMultiverseBattle 9-5",
+  "105372": "PokemonMultiverseBattle 9-6",
+  "105373": "PokemonMultiverseBattle 9-7",
+  "105374": "PokemonMultiverseBattle 10-0",
+  "105375": "PokemonMultiverseBattle 10-1",
+  "105376": "PokemonMultiverseBattle 10-2",
+  "105377": "PokemonMultiverseBattle 10-3",
+  "105378": "PokemonMultiverseBattle 10-4",
+  "105379": "PokemonMultiverseBattle 10-5",
+  "105380": "PokemonMultiverseBattle 10-6",
+  "105381": "PokemonMultiverseBattle 10-7",
+  "105382": "PokemonMultiverseBattle 10-8",
+  "105383": "PokemonMultiverseBattle 10-9",
+  "105384": "PokemonMultiverseBattle 10-10",
+  "105385": "PokemonMultiverseBattle 10-11",
+  "105386": "PokemonMultiverseBattle 10-12",
+  "105387": "PokemonMultiverseBattle 10-13",
+  "105388": "PokemonMultiverseBattle 10-14",
+  "105389": "PokemonMultiverseBattle 10-15",
+  "105390": "PokemonMultiverseBattle 10-16",
+  "105391": "PokemonMultiverseBattle 10-17",
+  "105392": "PokemonMultiverseBattle 10-18",
+  "105393": "PokemonMultiverseBattle 10-19",
+  "105394": "PokemonMultiverseBattle 11-0",
+  "105395": "PokemonMultiverseBattle 11-1",
+  "105396": "PokemonMultiverseBattle 11-2",
+  "105397": "PokemonMultiverseBattle 11-3",
+  "105398": "PokemonMultiverseBattle 11-4",
+  "105399": "PokemonMultiverseBattle 11-5",
+  "105400": "PokemonMultiverseBattle 11-6",
+  "105401": "PokemonMultiverseBattle 11-7",
+  "105402": "PokemonMultiverseBattle 11-8",
+  "105403": "PokemonMultiverseBattle 11-9",
+  "105404": "PokemonMultiverseBattle 12-0",
+  "105405": "PokemonMultiverseBattle 12-1",
+  "105406": "PokemonMultiverseBattle 12-2",
+  "105407": "PokemonMultiverseBattle 12-3",
+  "105408": "PokemonMultiverseBattle 12-4",
+  "105409": "PokemonMultiverseBattle 12-5",
+  "105410": "PokemonMultiverseBattle 12-6",
+  "105411": "PokemonMultiverseBattle 12-7",
+  "105412": "PokemonMultiverseBattle 13-0",
+  "105413": "PokemonMultiverseBattle 13-1",
+  "105414": "PokemonMultiverseBattle 14-0",
+  "105415": "PokemonMultiverseBattle 14-1",
+  "105416": "PokemonMultiverseBattle 14-2",
+  "105417": "PokemonMultiverseBattle 14-3",
+  "105418": "PokemonMultiverseBattle 14-4",
+  "105419": "PokemonMultiverseBattle 14-5",
+  "105420": "PokemonMultiverseBattle 14-6",
+  "105421": "PokemonMultiverseBattle 14-7",
+  "105422": "PokemonMultiverseBattle 14-8",
+  "105423": "PokemonMultiverseBattle 14-9",
+  "105424": "PokemonMultiverseBattle 15-0",
+  "105425": "PokemonMultiverseBattle 15-1",
+  "105426": "PokemonMultiverseBattle 15-2",
+  "105427": "PokemonMultiverseBattle 15-3",
+  "105428": "PokemonMultiverseBattle 16-0",
+  "105429": "PokemonMultiverseBattle 16-1",
+  "105430": "PokemonMultiverseBattle 17-0",
+  "105431": "PokemonMultiverseBattle 17-1",
+  "105432": "PokemonMultiverseBattle 18-0",
+  "105433": "PokemonMultiverseBattle 18-1",
+  "105434": "PokemonMultiverseBattle 19-0",
+  "105435": "PokemonMultiverseBattle 20-0",
+  "105436": "PokemonMultiverseBattle 21-0",
+  "105437": "PokemonMultiverseBattle 21-1",
+  "105438": "PokemonMultiverseBattle 22-0",
+  "105439": "PokemonMultiverseBattle 22-1",
+  "105440": "PokemonMultiverseBattle 23-0",
+  "105441": "PokemonMultiverseBattle 23-1",
+  "105442": "PokemonMultiverseBattle 23-2",
+  "105443": "PokemonMultiverseBattle 24-0",
+  "105444": "PokemonMultiverseBattle 24-1",
+  "105445": "PokemonMultiverseBattle 25-0",
+  "105446": "PokemonMultiverseBattle 25-1",
+  "105447": "PokemonMultiverseBattle 25-2",
+  "105448": "PokemonMultiverseBattle 26-0",
+  "105449": "PokemonMultiverseBattle 26-1",
+  "105450": "PokemonMultiverseBattle 27-0",
+  "105451": "PokemonMultiverseBattle 28-0",
+  "105452": "PokemonMultiverseBattle 29-0",
+  "105453": "PokemonMultiverseBattle 30-0",
+  "105454": "PokemonMultiverseBattle 31-0",
+  "105455": "PokemonMultiverseBattle 31-1",
+  "105456": "PokemonMultiverseBattle 31-2",
+  "105457": "PokemonMultiverseBattle 31-3",
+  "105458": "PokemonMultiverseBattle 31-4",
+  "105459": "PokemonMultiverseBattle 31-5",
+  "105460": "PokemonMultiverseBattle 31-6",
+  "105461": "PokemonMultiverseBattle 32-0",
+  "105462": "PokemonMultiverseBattle 32-1",
+  "105463": "PokemonMultiverseBattle 32-2",
+  "105464": "PokemonMultiverseBattle 32-3",
+  "105465": "PokemonMultiverseBattle 32-4",
+  "105466": "PokemonMultiverseBattle 33-0",
+  "105467": "PokemonMultiverseBattle 33-1",
+  "105468": "PokemonMultiverseBattle 33-2",
+  "105469": "PokemonMultiverseBattle 33-3",
+  "105470": "PokemonMultiverseBattle 33-4",
+  "105471": "PokemonMultiverseBattle 34-0",
+  "105472": "PokemonMultiverseBattle 34-1",
+  "105473": "PokemonMultiverseBattle 34-2",
+  "105474": "PokemonMultiverseBattle 34-3",
+  "105475": "PokemonMultiverseBattle 34-4",
+  "105476": "PokemonMultiverseBattle 34-5",
+  "105477": "PokemonMultiverseBattle 34-6",
+  "105478": "PokemonMultiverseBattle 34-7",
+  "105479": "PokemonMultiverseBattle 35-0",
+  "105480": "PokemonMultiverseBattle 35-1",
+  "105481": "PokemonMultiverseBattle 35-2",
+  "105482": "PokemonMultiverseBattle 35-3",
+  "105483": "PokemonMultiverseBattle 35-4",
+  "105484": "PokemonMultiverseBattle 35-5",
+  "105485": "PokemonMultiverseBattle 35-6",
+  "105486": "PokemonMultiverseBattle 35-7",
+  "105487": "PokemonMultiverseBattle 36-0",
+  "105488": "PokemonMultiverseBattle 36-1",
+  "105489": "PokemonMultiverseBattle 36-2",
+  "105490": "PokemonMultiverseBattle 36-3",
+  "105491": "PokemonMultiverseBattle 36-4",
+  "105492": "PokemonMultiverseBattle 37-0",
+  "105493": "PokemonMultiverseBattle 37-1",
+  "105494": "PokemonMultiverseBattle 37-2",
+  "105495": "PokemonMultiverseBattle 37-3",
+  "105496": "PokemonMultiverseBattle 37-4",
+  "105497": "PokemonMultiverseBattle 38-0",
+  "105498": "PokemonMultiverseBattle 39-0",
+  "105499": "PokemonMultiverseBattle 40-0",
+  "105500": "PokemonMultiverseBattle 41-0",
+  "105501": "PokemonMultiverseBattle 41-1",
+  "105502": "PokemonMultiverseBattle 42-0"
+ },
+ "connections": [
+  [
+   105266,
+   "N",
+   0,
+   105285,
+   "S",
+   0
+  ],
+  [
+   105266,
+   "S",
+   0,
+   105305,
+   "N",
+   0
+  ],
+  [
+   105267,
+   "N",
+   12,
+   105286,
+   "S",
+   0
+  ],
+  [
+   105267,
+   "S",
+   12,
+   105285,
+   "N",
+   0
+  ],
+  [
+   105267,
+   "W",
+   10,
+   105307,
+   "E",
+   0
+  ],
+  [
+   105268,
+   "E",
+   10,
+   105287,
+   "W",
+   0
+  ],
+  [
+   105268,
+   "S",
+   12,
+   105286,
+   "N",
+   0
+  ],
+  [
+   105269,
+   "E",
+   10,
+   105293,
+   "W",
+   0
+  ],
+  [
+   105269,
+   "N",
+   12,
+   105309,
+   "S",
+   0
+  ],
+  [
+   105269,
+   "S",
+   0,
+   105289,
+   "N",
+   0
+  ],
+  [
+   105269,
+   "W",
+   10,
+   105288,
+   "E",
+   0
+  ],
+  [
+   105270,
+   "N",
+   0,
+   105294,
+   "S",
+   0
+  ],
+  [
+   105270,
+   "S",
+   0,
+   105296,
+   "N",
+   0
+  ],
+  [
+   105270,
+   "W",
+   0,
+   105292,
+   "E",
+   0
+  ],
+  [
+   105271,
+   "E",
+   10,
+   105295,
+   "W",
+   0
+  ],
+  [
+   105271,
+   "N",
+   12,
+   105290,
+   "S",
+   0
+  ],
+  [
+   105272,
+   "E",
+   10,
+   105291,
+   "W",
+   0
+  ],
+  [
+   105272,
+   "W",
+   10,
+   105300,
+   "E",
+   0
+  ],
+  [
+   105273,
+   "E",
+   10,
+   105299,
+   "W",
+   0
+  ],
+  [
+   105273,
+   "S",
+   12,
+   105303,
+   "N",
+   0
+  ],
+  [
+   105273,
+   "W",
+   10,
+   105302,
+   "E",
+   0
+  ],
+  [
+   105274,
+   "E",
+   0,
+   105304,
+   "W",
+   0
+  ],
+  [
+   105274,
+   "N",
+   0,
+   105306,
+   "S",
+   0
+  ],
+  [
+   105275,
+   "S",
+   0,
+   105308,
+   "N",
+   0
+  ],
+  [
+   105277,
+   "E",
+   10,
+   105292,
+   "W",
+   0
+  ],
+  [
+   105277,
+   "N",
+   0,
+   105289,
+   "S",
+   0
+  ],
+  [
+   105277,
+   "S",
+   12,
+   105290,
+   "N",
+   0
+  ],
+  [
+   105277,
+   "W",
+   10,
+   105291,
+   "E",
+   0
+  ],
+  [
+   105278,
+   "E",
+   0,
+   105311,
+   "W",
+   120
+  ],
+  [
+   105278,
+   "S",
+   0,
+   105312,
+   "N",
+   0
+  ],
+  [
+   105279,
+   "N",
+   24,
+   105313,
+   "S",
+   0
+  ],
+  [
+   105280,
+   "S",
+   0,
+   105315,
+   "N",
+   0
+  ],
+  [
+   105280,
+   "S",
+   0,
+   105316,
+   "N",
+   0
+  ],
+  [
+   105280,
+   "S",
+   0,
+   105317,
+   "N",
+   0
+  ],
+  [
+   105280,
+   "W",
+   0,
+   105314,
+   "E",
+   0
+  ],
+  [
+   105282,
+   "E",
+   0,
+   105322,
+   "W",
+   0
+  ],
+  [
+   105282,
+   "N",
+   0,
+   105321,
+   "S",
+   48
+  ],
+  [
+   105283,
+   "N",
+   0,
+   105328,
+   "S",
+   48
+  ],
+  [
+   105283,
+   "S",
+   0,
+   105329,
+   "N",
+   0
+  ],
+  [
+   105284,
+   "E",
+   0,
+   105326,
+   "W",
+   40
+  ],
+  [
+   105287,
+   "N",
+   60,
+   105288,
+   "S",
+   0
+  ],
+  [
+   105293,
+   "E",
+   0,
+   105294,
+   "W",
+   0
+  ],
+  [
+   105295,
+   "E",
+   0,
+   105296,
+   "W",
+   60
+  ],
+  [
+   105296,
+   "S",
+   0,
+   105297,
+   "N",
+   48
+  ],
+  [
+   105297,
+   "W",
+   0,
+   105298,
+   "E",
+   0
+  ],
+  [
+   105298,
+   "W",
+   40,
+   105299,
+   "E",
+   0
+  ],
+  [
+   105300,
+   "S",
+   0,
+   105301,
+   "N",
+   0
+  ],
+  [
+   105301,
+   "S",
+   0,
+   105302,
+   "N",
+   0
+  ],
+  [
+   105303,
+   "W",
+   40,
+   105304,
+   "E",
+   0
+  ],
+  [
+   105305,
+   "S",
+   0,
+   105306,
+   "N",
+   0
+  ],
+  [
+   105307,
+   "N",
+   0,
+   105308,
+   "S",
+   0
+  ],
+  [
+   105309,
+   "E",
+   0,
+   105310,
+   "W",
+   0
+  ],
+  [
+   105320,
+   "S",
+   0,
+   105321,
+   "N",
+   48
+  ],
+  [
+   105322,
+   "E",
+   20,
+   105323,
+   "W",
+   0
+  ],
+  [
+   105324,
+   "S",
+   0,
+   105325,
+   "N",
+   0
+  ],
+  [
+   105325,
+   "E",
+   0,
+   105326,
+   "W",
+   0
+  ],
+  [
+   105326,
+   "W",
+   80,
+   105327,
+   "E",
+   0
+  ],
+  [
+   105329,
+   "E",
+   20,
+   105330,
+   "W",
+   0
+  ],
+  [
+   105330,
+   "S",
+   0,
+   105331,
+   "N",
+   48
+  ]
+ ],
+ "mapid_of": {
+  "0.0": 105078,
+  "0.1": 105079,
+  "0.2": 105080,
+  "0.3": 105081,
+  "0.4": 105082,
+  "1.0": 105083,
+  "1.1": 105084,
+  "1.2": 105085,
+  "1.3": 105086,
+  "1.4": 105087,
+  "1.5": 105088,
+  "1.6": 105089,
+  "1.7": 105090,
+  "1.8": 105091,
+  "1.9": 105092,
+  "1.10": 105093,
+  "1.11": 105094,
+  "1.12": 105095,
+  "1.13": 105096,
+  "1.14": 105097,
+  "1.15": 105098,
+  "1.16": 105099,
+  "1.17": 105100,
+  "1.18": 105101,
+  "1.19": 105102,
+  "1.20": 105103,
+  "1.21": 105104,
+  "1.22": 105105,
+  "1.23": 105106,
+  "1.24": 105107,
+  "1.25": 105108,
+  "1.26": 105109,
+  "1.27": 105110,
+  "1.28": 105111,
+  "1.29": 105112,
+  "1.30": 105113,
+  "1.31": 105114,
+  "1.32": 105115,
+  "1.33": 105116,
+  "1.34": 105117,
+  "1.35": 105118,
+  "1.36": 105119,
+  "1.37": 105120,
+  "1.38": 105121,
+  "1.39": 105122,
+  "1.40": 105123,
+  "1.41": 105124,
+  "1.42": 105125,
+  "1.43": 105126,
+  "1.44": 105127,
+  "1.45": 105128,
+  "1.46": 105129,
+  "1.47": 105130,
+  "1.48": 105131,
+  "1.49": 105132,
+  "1.50": 105133,
+  "1.51": 105134,
+  "1.52": 105135,
+  "1.53": 105136,
+  "1.54": 105137,
+  "1.55": 105138,
+  "1.56": 105139,
+  "1.57": 105140,
+  "1.58": 105141,
+  "1.59": 105142,
+  "1.60": 105143,
+  "1.61": 105144,
+  "1.62": 105145,
+  "1.63": 105146,
+  "1.64": 105147,
+  "1.65": 105148,
+  "1.66": 105149,
+  "1.67": 105150,
+  "1.68": 105151,
+  "1.69": 105152,
+  "1.70": 105153,
+  "1.71": 105154,
+  "1.72": 105155,
+  "1.73": 105156,
+  "1.74": 105157,
+  "1.75": 105158,
+  "1.76": 105159,
+  "1.77": 105160,
+  "1.78": 105161,
+  "1.79": 105162,
+  "1.80": 105163,
+  "1.81": 105164,
+  "1.82": 105165,
+  "1.83": 105166,
+  "1.84": 105167,
+  "1.85": 105168,
+  "1.86": 105169,
+  "1.87": 105170,
+  "1.88": 105171,
+  "1.89": 105172,
+  "1.90": 105173,
+  "1.91": 105174,
+  "1.92": 105175,
+  "1.93": 105176,
+  "1.94": 105177,
+  "1.95": 105178,
+  "1.96": 105179,
+  "1.97": 105180,
+  "1.98": 105181,
+  "1.99": 105182,
+  "1.100": 105183,
+  "1.101": 105184,
+  "1.102": 105185,
+  "1.103": 105186,
+  "1.104": 105187,
+  "1.105": 105188,
+  "1.106": 105189,
+  "1.107": 105190,
+  "1.108": 105191,
+  "1.109": 105192,
+  "1.110": 105193,
+  "1.111": 105194,
+  "1.112": 105195,
+  "1.113": 105196,
+  "1.114": 105197,
+  "1.115": 105198,
+  "1.116": 105199,
+  "1.117": 105200,
+  "1.118": 105201,
+  "1.119": 105202,
+  "1.120": 105203,
+  "1.121": 105204,
+  "1.122": 105205,
+  "2.0": 105206,
+  "2.1": 105207,
+  "2.2": 105208,
+  "2.3": 105209,
+  "2.4": 105210,
+  "2.5": 105211,
+  "2.6": 105212,
+  "2.7": 105213,
+  "2.8": 105214,
+  "2.9": 105215,
+  "2.10": 105216,
+  "2.11": 105217,
+  "2.12": 105218,
+  "2.13": 105219,
+  "2.14": 105220,
+  "2.15": 105221,
+  "2.16": 105222,
+  "2.17": 105223,
+  "2.18": 105224,
+  "2.19": 105225,
+  "2.20": 105226,
+  "2.21": 105227,
+  "2.22": 105228,
+  "2.23": 105229,
+  "2.24": 105230,
+  "2.25": 105231,
+  "2.26": 105232,
+  "2.27": 105233,
+  "2.28": 105234,
+  "2.29": 105235,
+  "2.30": 105236,
+  "2.31": 105237,
+  "2.32": 105238,
+  "2.33": 105239,
+  "2.34": 105240,
+  "2.35": 105241,
+  "2.36": 105242,
+  "2.37": 105243,
+  "2.38": 105244,
+  "2.39": 105245,
+  "2.40": 105246,
+  "2.41": 105247,
+  "2.42": 105248,
+  "2.43": 105249,
+  "2.44": 105250,
+  "2.45": 105251,
+  "2.46": 105252,
+  "2.47": 105253,
+  "2.48": 105254,
+  "2.49": 105255,
+  "2.50": 105256,
+  "2.51": 105257,
+  "2.52": 105258,
+  "2.53": 105259,
+  "2.54": 105260,
+  "2.55": 105261,
+  "2.56": 105262,
+  "2.57": 105263,
+  "2.58": 105264,
+  "2.59": 105265,
+  "3.0": 105266,
+  "3.1": 105267,
+  "3.2": 105268,
+  "3.3": 105269,
+  "3.4": 105270,
+  "3.5": 105271,
+  "3.6": 105272,
+  "3.7": 105273,
+  "3.8": 105274,
+  "3.9": 105275,
+  "3.10": 105276,
+  "3.11": 105277,
+  "3.12": 105278,
+  "3.13": 105279,
+  "3.14": 105280,
+  "3.15": 105281,
+  "3.16": 105282,
+  "3.17": 105283,
+  "3.18": 105284,
+  "3.19": 105285,
+  "3.20": 105286,
+  "3.21": 105287,
+  "3.22": 105288,
+  "3.23": 105289,
+  "3.24": 105290,
+  "3.25": 105291,
+  "3.26": 105292,
+  "3.27": 105293,
+  "3.28": 105294,
+  "3.29": 105295,
+  "3.30": 105296,
+  "3.31": 105297,
+  "3.32": 105298,
+  "3.33": 105299,
+  "3.34": 105300,
+  "3.35": 105301,
+  "3.36": 105302,
+  "3.37": 105303,
+  "3.38": 105304,
+  "3.39": 105305,
+  "3.40": 105306,
+  "3.41": 105307,
+  "3.42": 105308,
+  "3.43": 105309,
+  "3.44": 105310,
+  "3.45": 105311,
+  "3.46": 105312,
+  "3.47": 105313,
+  "3.48": 105314,
+  "3.49": 105315,
+  "3.50": 105316,
+  "3.51": 105317,
+  "3.52": 105318,
+  "3.53": 105319,
+  "3.54": 105320,
+  "3.55": 105321,
+  "3.56": 105322,
+  "3.57": 105323,
+  "3.58": 105324,
+  "3.59": 105325,
+  "3.60": 105326,
+  "3.61": 105327,
+  "3.62": 105328,
+  "3.63": 105329,
+  "3.64": 105330,
+  "3.65": 105331,
+  "4.0": 105332,
+  "4.1": 105333,
+  "4.2": 105334,
+  "4.3": 105335,
+  "5.0": 105336,
+  "5.1": 105337,
+  "5.2": 105338,
+  "5.3": 105339,
+  "5.4": 105340,
+  "5.5": 105341,
+  "6.0": 105342,
+  "6.1": 105343,
+  "6.2": 105344,
+  "6.3": 105345,
+  "6.4": 105346,
+  "6.5": 105347,
+  "6.6": 105348,
+  "6.7": 105349,
+  "7.0": 105350,
+  "7.1": 105351,
+  "7.2": 105352,
+  "7.3": 105353,
+  "7.4": 105354,
+  "7.5": 105355,
+  "7.6": 105356,
+  "7.7": 105357,
+  "7.8": 105358,
+  "7.9": 105359,
+  "8.0": 105360,
+  "8.1": 105361,
+  "8.2": 105362,
+  "8.3": 105363,
+  "8.4": 105364,
+  "8.5": 105365,
+  "9.0": 105366,
+  "9.1": 105367,
+  "9.2": 105368,
+  "9.3": 105369,
+  "9.4": 105370,
+  "9.5": 105371,
+  "9.6": 105372,
+  "9.7": 105373,
+  "10.0": 105374,
+  "10.1": 105375,
+  "10.2": 105376,
+  "10.3": 105377,
+  "10.4": 105378,
+  "10.5": 105379,
+  "10.6": 105380,
+  "10.7": 105381,
+  "10.8": 105382,
+  "10.9": 105383,
+  "10.10": 105384,
+  "10.11": 105385,
+  "10.12": 105386,
+  "10.13": 105387,
+  "10.14": 105388,
+  "10.15": 105389,
+  "10.16": 105390,
+  "10.17": 105391,
+  "10.18": 105392,
+  "10.19": 105393,
+  "11.0": 105394,
+  "11.1": 105395,
+  "11.2": 105396,
+  "11.3": 105397,
+  "11.4": 105398,
+  "11.5": 105399,
+  "11.6": 105400,
+  "11.7": 105401,
+  "11.8": 105402,
+  "11.9": 105403,
+  "12.0": 105404,
+  "12.1": 105405,
+  "12.2": 105406,
+  "12.3": 105407,
+  "12.4": 105408,
+  "12.5": 105409,
+  "12.6": 105410,
+  "12.7": 105411,
+  "13.0": 105412,
+  "13.1": 105413,
+  "14.0": 105414,
+  "14.1": 105415,
+  "14.2": 105416,
+  "14.3": 105417,
+  "14.4": 105418,
+  "14.5": 105419,
+  "14.6": 105420,
+  "14.7": 105421,
+  "14.8": 105422,
+  "14.9": 105423,
+  "15.0": 105424,
+  "15.1": 105425,
+  "15.2": 105426,
+  "15.3": 105427,
+  "16.0": 105428,
+  "16.1": 105429,
+  "17.0": 105430,
+  "17.1": 105431,
+  "18.0": 105432,
+  "18.1": 105433,
+  "19.0": 105434,
+  "20.0": 105435,
+  "21.0": 105436,
+  "21.1": 105437,
+  "22.0": 105438,
+  "22.1": 105439,
+  "23.0": 105440,
+  "23.1": 105441,
+  "23.2": 105442,
+  "24.0": 105443,
+  "24.1": 105444,
+  "25.0": 105445,
+  "25.1": 105446,
+  "25.2": 105447,
+  "26.0": 105448,
+  "26.1": 105449,
+  "27.0": 105450,
+  "28.0": 105451,
+  "29.0": 105452,
+  "30.0": 105453,
+  "31.0": 105454,
+  "31.1": 105455,
+  "31.2": 105456,
+  "31.3": 105457,
+  "31.4": 105458,
+  "31.5": 105459,
+  "31.6": 105460,
+  "32.0": 105461,
+  "32.1": 105462,
+  "32.2": 105463,
+  "32.3": 105464,
+  "32.4": 105465,
+  "33.0": 105466,
+  "33.1": 105467,
+  "33.2": 105468,
+  "33.3": 105469,
+  "33.4": 105470,
+  "34.0": 105471,
+  "34.1": 105472,
+  "34.2": 105473,
+  "34.3": 105474,
+  "34.4": 105475,
+  "34.5": 105476,
+  "34.6": 105477,
+  "34.7": 105478,
+  "35.0": 105479,
+  "35.1": 105480,
+  "35.2": 105481,
+  "35.3": 105482,
+  "35.4": 105483,
+  "35.5": 105484,
+  "35.6": 105485,
+  "35.7": 105486,
+  "36.0": 105487,
+  "36.1": 105488,
+  "36.2": 105489,
+  "36.3": 105490,
+  "36.4": 105491,
+  "37.0": 105492,
+  "37.1": 105493,
+  "37.2": 105494,
+  "37.3": 105495,
+  "37.4": 105496,
+  "38.0": 105497,
+  "39.0": 105498,
+  "40.0": 105499,
+  "41.0": 105500,
+  "41.1": 105501,
+  "42.0": 105502
+ },
+ "tileset_ids": {
+  "0": 3692,
+  "1": 3693,
+  "2": 3694,
+  "3": 3695,
+  "4": 3696,
+  "5": 3697,
+  "6": 3698,
+  "7": 3699,
+  "8": 3700,
+  "9": 3701,
+  "10": 3702,
+  "11": 3703,
+  "12": 3704,
+  "13": 3705,
+  "14": 3706,
+  "15": 3707,
+  "16": 3708,
+  "17": 3709,
+  "18": 3710,
+  "19": 3711,
+  "20": 3712,
+  "21": 3713,
+  "22": 3714,
+  "23": 3715,
+  "24": 3716,
+  "25": 3717,
+  "26": 3718,
+  "27": 3719,
+  "28": 3720,
+  "29": 3721,
+  "30": 3722,
+  "31": 3723,
+  "32": 3724,
+  "33": 3725,
+  "34": 3726,
+  "35": 3727,
+  "36": 3728,
+  "37": 3729,
+  "38": 3730,
+  "39": 3731,
+  "40": 3732,
+  "41": 3733,
+  "42": 3734,
+  "43": 3735,
+  "44": 3736,
+  "45": 3737,
+  "46": 3738,
+  "47": 3739,
+  "48": 3740,
+  "49": 3741,
+  "50": 3742,
+  "51": 3743,
+  "52": 3744,
+  "53": 3745,
+  "54": 3746,
+  "55": 3747,
+  "56": 3748,
+  "57": 3749,
+  "58": 3750,
+  "59": 3751
+ },
+ "pair_gba_ptrs": {
+  "0": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c44"
+  },
+  "1": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d50dc"
+  },
+  "2": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4dc4"
+  },
+  "3": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4bfc"
+  },
+  "4": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b24"
+  },
+  "5": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4d94"
+  },
+  "6": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e84"
+  },
+  "7": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4ee4"
+  },
+  "8": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4e0c"
+  },
+  "9": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4ecc"
+  },
+  "10": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f2c"
+  },
+  "11": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b54"
+  },
+  "12": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f14"
+  },
+  "13": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4e54"
+  },
+  "14": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d50c4"
+  },
+  "15": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4df4"
+  },
+  "16": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4e24"
+  },
+  "17": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4efc"
+  },
+  "18": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e9c"
+  },
+  "19": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4fec"
+  },
+  "20": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d504c"
+  },
+  "21": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d5004"
+  },
+  "22": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d501c"
+  },
+  "23": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d5094"
+  },
+  "24": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d5034"
+  },
+  "25": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d507c"
+  },
+  "26": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d50ac"
+  },
+  "27": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4aac"
+  },
+  "28": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4ac4"
+  },
+  "29": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4adc"
+  },
+  "30": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4af4"
+  },
+  "31": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b0c"
+  },
+  "32": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b3c"
+  },
+  "33": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b6c"
+  },
+  "34": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b84"
+  },
+  "35": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d4b9c"
+  },
+  "36": {
+   "primary": "0x82d4a94",
+   "secondary": "0x82d5064"
+  },
+  "37": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c74"
+  },
+  "38": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c8c"
+  },
+  "39": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4cbc"
+  },
+  "40": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f5c"
+  },
+  "41": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4bcc"
+  },
+  "42": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4be4"
+  },
+  "43": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c2c"
+  },
+  "44": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d04"
+  },
+  "45": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4fa4"
+  },
+  "46": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d1c"
+  },
+  "47": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4c5c"
+  },
+  "48": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f74"
+  },
+  "49": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d34"
+  },
+  "50": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e6c"
+  },
+  "51": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f8c"
+  },
+  "52": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4cec"
+  },
+  "53": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d4c"
+  },
+  "54": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4f44"
+  },
+  "55": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4ca4"
+  },
+  "56": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d7c"
+  },
+  "57": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4d64"
+  },
+  "58": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4eb4"
+  },
+  "59": {
+   "primary": "0x82d4bb4",
+   "secondary": "0x82d4e24"
+  }
+ },
+ "stats": {
+  "maps": 425,
+  "warps_emitted": 1294,
+  "warps_dropped": 0,
+  "cells": 233741,
+  "unrenderable_cells": 0,
+  "script_events": 2915,
+  "npc_events": 1648,
+  "coord_events": 228,
+  "sign_events": 519,
+  "map_scripts": 584,
+  "transpile_text_lines": 20990,
+  "transpile_warps": 120,
+  "transpile_branches": 16275,
+  "transpile_stubs": 37441,
+  "transpile_dropped_noops": 28821,
+  "transpile_truncated": 0,
+  "npc_sprites_decoded": 1604,
+  "bgm_songs_exported": 34,
+  "bgm_maps_assigned": 423,
+  "connections": 59
+ },
+ "data_layer": {
+  "rom": "Pokemon Multiverse Battle.gba",
+  "warnings": [],
+  "species": {
+   "case_a_overlap": 578,
+   "case_b_registry": 0,
+   "case_c_new": 680,
+   "junk_skipped": 381
+  },
+  "moves": {
+   "reused": 239,
+   "new": 2
+  },
+  "abilities": {
+   "reused": 0,
+   "new": 53,
+   "no_effect_handler": 53
+  },
+  "items": {
+   "resolved": 4,
+   "unresolved": 47
+  },
+  "types": {
+   "new": 0
+  },
+  "encounters": {
+   "maps": 132,
+   "slots": 2176,
+   "maps_not_ported": 0
+  },
+  "trainers": {
+   "registered": 643,
+   "classes": 55,
+   "skipped": 99
+  },
+  "stat_conflicts": [],
+  "type_fallbacks": [],
+  "identity_matches": [],
+  "sprites_needed": 680,
+  "sprites_extracted": 680,
+  "evolutions": {
+   "resolved": 48,
+   "skipped_method": 437,
+   "skipped_species": 10,
+   "skipped_item": 12
+  },
+  "gaps": [
+   "trainers: trainerbattle opcodes now emit a real pbTrainerBattle call resolved via trainer_key (class, name, version); only double vs. single battle is inferred (tb_type==2), the other 9 GBA type bytes' extra semantics (e.g. tag partners, silhouette reveals) are not modeled",
+   "items: GBA item ids are resolved to Essentials InternalNames by reading each item's name straight out of the ROM's own item table (handles hack-renamed items, e.g. DBZ Team Training's 'Golden Caps.' for Master Ball) and matching it against vanilla + other mods' items.txt; additem/removeitem/pokemart use the real Essentials call for resolved ids -- items with no existing PBS match (genuinely new, hack-only items) have no stats/pocket/price/icon minting pipeline yet and fall back to a comment stub for just those ids (see items.unresolved count)",
+   "sprites: front battler art (spritesheets_base/{dex}.png) is extracted from the ROM's own pic+palette tables when both are structurally located (see sprites_extracted vs sprites_needed); icon sprites and the back-sprite table are not resolved -- icon-table candidates found by structural scan were indistinguishable/false-positive on the one ROM tried, and back-sprite art has no confirmed in-game consumer for a fused species -- ROM-hack originals also have no pokemondb.net source",
+   "abilities: a new ability (no name match to an existing PBS ability) gets a real PBS entry -- name + flavor description -- but no battle effect. Confirmed (ck32) this is a permanent Gen3 data-model limit, not an unbuilt feature: unlike moves' per-move effect byte or the evolution method field, vanilla Gen3 has no ability-effect table at all -- behavior is scattered ad-hoc engine checks, not decodable data -- so there's no ROM to extract this from on any hack, ever; see abilities.no_effect_handler count"
+  ],
+  "id_ranges": {
+   "species": [
+    60000,
+    606150
+   ],
+   "moves": [
+    60621,
+    60622
+   ],
+   "abilities": [
+    60060,
+    60112
+   ],
+   "trainertype_id_base": 16200000,
+   "trainer_id_base": 19200000
+  },
+  "species_sym": {
+   "1": "BULBASAUR",
+   "2": "IVYSAUR",
+   "3": "VENUSAUR",
+   "4": "CHARMANDER",
+   "5": "CHARMELEON",
+   "6": "CHARIZARD",
+   "7": "SQUIRTLE",
+   "8": "WARTORTLE",
+   "9": "BLASTOISE",
+   "10": "CATERPIE",
+   "11": "METAPOD",
+   "12": "BUTTERFREE",
+   "13": "WEEDLE",
+   "14": "KAKUNA",
+   "15": "BEEDRILL",
+   "16": "PIDGEY",
+   "17": "PIDGEOTTO",
+   "18": "PIDGEOT",
+   "19": "RATTATA",
+   "20": "RATICATE",
+   "21": "SPEAROW",
+   "22": "FEAROW",
+   "23": "EKANS",
+   "24": "ARBOK",
+   "25": "PIKACHU",
+   "26": "RAICHU",
+   "27": "SANDSHREW",
+   "28": "SANDSLASH",
+   "29": "NIDORANfE",
+   "30": "NIDORINA",
+   "31": "NIDOQUEEN",
+   "32": "NIDORANfE",
+   "33": "NIDORINO",
+   "34": "NIDOKING",
+   "35": "CLEFAIRY",
+   "36": "CLEFABLE",
+   "37": "VULPIX",
+   "38": "NINETALES",
+   "39": "JIGGLYPUFF",
+   "40": "WIGGLYTUFF",
+   "41": "ZUBAT",
+   "42": "GOLBAT",
+   "43": "ODDISH",
+   "44": "GLOOM",
+   "45": "VILEPLUME",
+   "46": "PARAS",
+   "47": "PARASECT",
+   "48": "VENONAT",
+   "49": "VENOMOTH",
+   "50": "DIGLETT",
+   "51": "DUGTRIO",
+   "52": "MEOWTH",
+   "53": "PERSIAN",
+   "54": "PSYDUCK",
+   "55": "GOLDUCK",
+   "56": "MANKEY",
+   "57": "PRIMEAPE",
+   "58": "GROWLITHE",
+   "59": "ARCANINE",
+   "60": "POLIWAG",
+   "61": "POLIWHIRL",
+   "62": "POLIWRATH",
+   "63": "ABRA",
+   "64": "KADABRA",
+   "65": "ALAKAZAM",
+   "66": "MACHOP",
+   "67": "MACHOKE",
+   "68": "MACHAMP",
+   "69": "BELLSPROUT",
+   "70": "WEEPINBELL",
+   "71": "VICTREEBEL",
+   "72": "TENTACOOL",
+   "73": "TENTACRUEL",
+   "74": "GEODUDE",
+   "75": "GRAVELER",
+   "76": "GOLEM",
+   "77": "PONYTA",
+   "78": "RAPIDASH",
+   "79": "SLOWPOKE",
+   "80": "SLOWBRO",
+   "81": "MAGNEMITE",
+   "82": "MAGNETON",
+   "83": "FARFETCHD",
+   "84": "DODUO",
+   "85": "DODRIO",
+   "86": "SEEL",
+   "87": "DEWGONG",
+   "88": "GRIMER",
+   "89": "MUK",
+   "90": "SHELLDER",
+   "91": "CLOYSTER",
+   "92": "GASTLY",
+   "93": "HAUNTER",
+   "94": "GENGAR",
+   "95": "ONIX",
+   "96": "DROWZEE",
+   "97": "HYPNO",
+   "98": "KRABBY",
+   "99": "KINGLER",
+   "100": "VOLTORB",
+   "101": "ELECTRODE",
+   "102": "EXEGGCUTE",
+   "103": "EXEGGUTOR",
+   "104": "CUBONE",
+   "105": "MAROWAK",
+   "106": "HITMONLEE",
+   "107": "HITMONCHAN",
+   "108": "LICKITUNG",
+   "109": "KOFFING",
+   "110": "WEEZING",
+   "111": "RHYHORN",
+   "112": "RHYDON",
+   "113": "CHANSEY",
+   "114": "TANGELA",
+   "115": "KANGASKHAN",
+   "116": "HORSEA",
+   "117": "SEADRA",
+   "118": "GOLDEEN",
+   "119": "SEAKING",
+   "120": "STARYU",
+   "121": "STARMIE",
+   "122": "MRMIME",
+   "123": "SCYTHER",
+   "124": "JYNX",
+   "125": "ELECTABUZZ",
+   "126": "MAGMAR",
+   "127": "PINSIR",
+   "128": "TAUROS",
+   "129": "MAGIKARP",
+   "130": "GYARADOS",
+   "131": "LAPRAS",
+   "132": "DITTO",
+   "133": "EEVEE",
+   "134": "VAPOREON",
+   "135": "JOLTEON",
+   "136": "FLAREON",
+   "137": "PORYGON",
+   "138": "OMANYTE",
+   "139": "OMASTAR",
+   "140": "KABUTO",
+   "141": "KABUTOPS",
+   "142": "AERODACTYL",
+   "143": "SNORLAX",
+   "144": "ARTICUNO",
+   "145": "ZAPDOS",
+   "146": "MOLTRES",
+   "147": "DRATINI",
+   "148": "DRAGONAIR",
+   "149": "DRAGONITE",
+   "150": "MEWTWO",
+   "151": "MEW",
+   "152": "CHIKORITA",
+   "153": "BAYLEEF",
+   "154": "MEGANIUM",
+   "155": "CYNDAQUIL",
+   "156": "QUILAVA",
+   "157": "TYPHLOSION",
+   "158": "TOTODILE",
+   "159": "CROCONAW",
+   "160": "FERALIGATR",
+   "161": "SENTRET",
+   "162": "FURRET",
+   "163": "HOOTHOOT",
+   "164": "NOCTOWL",
+   "165": "LEDYBA",
+   "166": "LEDIAN",
+   "167": "SPINARAK",
+   "168": "ARIADOS",
+   "169": "CROBAT",
+   "170": "CHINCHOU",
+   "171": "LANTURN",
+   "172": "PICHU",
+   "173": "CLEFFA",
+   "174": "IGGLYBUFF",
+   "175": "TOGEPI",
+   "176": "TOGETIC",
+   "177": "NATU",
+   "178": "XATU",
+   "179": "MAREEP",
+   "180": "FLAAFFY",
+   "181": "AMPHAROS",
+   "182": "BELLOSSOM",
+   "183": "MARILL",
+   "184": "AZUMARILL",
+   "185": "SUDOWOODO",
+   "186": "POLITOED",
+   "187": "HOPPIP",
+   "188": "SKIPLOOM",
+   "189": "JUMPLUFF",
+   "190": "AIPOM",
+   "191": "SUNKERN",
+   "192": "SUNFLORA",
+   "193": "YANMA",
+   "194": "WOOPER",
+   "195": "QUAGSIRE",
+   "196": "ESPEON",
+   "197": "UMBREON",
+   "198": "MURKROW",
+   "199": "SLOWKING",
+   "200": "MISDREAVUS",
+   "201": "UNOWN",
+   "202": "WOBBUFFET",
+   "203": "GIRAFARIG",
+   "204": "PINECO",
+   "205": "FORRETRESS",
+   "206": "DUNSPARCE",
+   "207": "GLIGAR",
+   "208": "STEELIX",
+   "209": "SNUBBULL",
+   "210": "GRANBULL",
+   "211": "QWILFISH",
+   "212": "SCIZOR",
+   "213": "SHUCKLE",
+   "214": "HERACROSS",
+   "215": "SNEASEL",
+   "216": "TEDDIURSA",
+   "217": "URSARING",
+   "218": "SLUGMA",
+   "219": "MAGCARGO",
+   "220": "SWINUB",
+   "221": "PILOSWINE",
+   "222": "CORSOLA",
+   "223": "REMORAID",
+   "224": "OCTILLERY",
+   "225": "DELIBIRD",
+   "226": "MANTINE",
+   "227": "SKARMORY",
+   "228": "HOUNDOUR",
+   "229": "HOUNDOOM",
+   "230": "KINGDRA",
+   "231": "PHANPY",
+   "232": "DONPHAN",
+   "233": "PORYGON2",
+   "234": "STANTLER",
+   "235": "SMEARGLE",
+   "236": "TYROGUE",
+   "237": "HITMONTOP",
+   "238": "SMOOCHUM",
+   "239": "ELEKID",
+   "240": "MAGBY",
+   "241": "MILTANK",
+   "242": "BLISSEY",
+   "243": "RAIKOU",
+   "244": "ENTEI",
+   "245": "SUICUNE",
+   "246": "LARVITAR",
+   "247": "PUPITAR",
+   "248": "TYRANITAR",
+   "249": "LUGIA",
+   "250": "HOOH",
+   "251": "CELEBI",
+   "277": "TREECKO",
+   "278": "GROVYLE",
+   "279": "SCEPTILE",
+   "280": "TORCHIC",
+   "281": "COMBUSKEN",
+   "282": "BLAZIKEN",
+   "283": "MUDKIP",
+   "284": "MARSHTOMP",
+   "285": "SWAMPERT",
+   "286": "POOCHYENA",
+   "287": "MIGHTYENA",
+   "288": "ZIGZAGOON",
+   "289": "LINOONE",
+   "290": "WURMPLE",
+   "291": "SILCOON",
+   "292": "BEAUTIFLY",
+   "293": "CASCOON",
+   "294": "DUSTOX",
+   "295": "LOTAD",
+   "296": "LOMBRE",
+   "297": "LUDICOLO",
+   "298": "SEEDOT",
+   "299": "NUZLEAF",
+   "300": "SHIFTRY",
+   "301": "NINCADA",
+   "302": "NINJASK",
+   "303": "SHEDINJA",
+   "304": "TAILLOW",
+   "305": "SWELLOW",
+   "306": "SHROOMISH",
+   "307": "BRELOOM",
+   "308": "SPINDA",
+   "309": "WINGULL",
+   "310": "PELIPPER",
+   "311": "SURSKIT",
+   "312": "MASQUERAIN",
+   "313": "WAILMER",
+   "314": "WAILORD",
+   "315": "SKITTY",
+   "316": "DELCATTY",
+   "317": "KECLEON",
+   "318": "BALTOY",
+   "319": "CLAYDOL",
+   "320": "NOSEPASS",
+   "321": "TORKOAL",
+   "322": "SABLEYE",
+   "323": "BARBOACH",
+   "324": "WHISCASH",
+   "325": "LUVDISC",
+   "326": "CORPHISH",
+   "327": "CRAWDAUNT",
+   "328": "FEEBAS",
+   "329": "MILOTIC",
+   "330": "CARVANHA",
+   "331": "SHARPEDO",
+   "332": "TRAPINCH",
+   "333": "VIBRAVA",
+   "334": "FLYGON",
+   "335": "MAKUHITA",
+   "336": "HARIYAMA",
+   "337": "ELECTRIKE",
+   "338": "MANECTRIC",
+   "339": "NUMEL",
+   "340": "CAMERUPT",
+   "341": "SPHEAL",
+   "342": "SEALEO",
+   "343": "WALREIN",
+   "344": "CACNEA",
+   "345": "CACTURNE",
+   "346": "SNORUNT",
+   "347": "GLALIE",
+   "348": "LUNATONE",
+   "349": "SOLROCK",
+   "350": "AZURILL",
+   "351": "SPOINK",
+   "352": "GRUMPIG",
+   "353": "PLUSLE",
+   "354": "MINUN",
+   "355": "MAWILE",
+   "356": "MEDITITE",
+   "357": "MEDICHAM",
+   "358": "SWABLU",
+   "359": "ALTARIA",
+   "360": "WYNAUT",
+   "361": "DUSKULL",
+   "362": "DUSCLOPS",
+   "363": "ROSELIA",
+   "364": "SLAKOTH",
+   "365": "VIGOROTH",
+   "366": "SLAKING",
+   "367": "GULPIN",
+   "368": "SWALOT",
+   "369": "TROPIUS",
+   "370": "WHISMUR",
+   "371": "LOUDRED",
+   "372": "EXPLOUD",
+   "373": "CLAMPERL",
+   "374": "HUNTAIL",
+   "375": "GOREBYSS",
+   "376": "ABSOL",
+   "377": "SHUPPET",
+   "378": "BANETTE",
+   "379": "SEVIPER",
+   "380": "ZANGOOSE",
+   "381": "RELICANTH",
+   "382": "ARON",
+   "383": "LAIRON",
+   "384": "AGGRON",
+   "385": "CASTFORM",
+   "386": "VOLBEAT",
+   "387": "ILLUMISE",
+   "388": "LILEEP",
+   "389": "CRADILY",
+   "390": "ANORITH",
+   "391": "ARMALDO",
+   "392": "RALTS",
+   "393": "KIRLIA",
+   "394": "GARDEVOIR",
+   "395": "BAGON",
+   "396": "SHELGON",
+   "397": "SALAMENCE",
+   "398": "BELDUM",
+   "399": "METANG",
+   "400": "METAGROSS",
+   "401": "REGIROCK",
+   "402": "REGICE",
+   "403": "REGISTEEL",
+   "404": "KYOGRE",
+   "405": "GROUDON",
+   "406": "RAYQUAZA",
+   "407": "LATIAS",
+   "408": "LATIOS",
+   "409": "JIRACHI",
+   "410": "DEOXYS",
+   "411": "CHIMECHO",
+   "440": "CARNAGE",
+   "441": "DARKRIKU",
+   "442": "AXEL",
+   "443": "KHIGTMAN",
+   "444": "BALIENX",
+   "445": "LIFEVIRUS",
+   "446": "HARPIELADY",
+   "447": "BUSTINATRX",
+   "448": "KINGMAN",
+   "449": "FREZZEMAN",
+   "450": "THUNDERMAN",
+   "451": "CUTMAN",
+   "452": "AIRMAN",
+   "453": "QUICKMAN",
+   "454": "MAGNETMAN",
+   "455": "VANNY",
+   "456": "PRESIOS",
+   "457": "BXLR8",
+   "458": "FROST",
+   "459": "JIRENT",
+   "460": "A18",
+   "461": "A17",
+   "462": "DRAGONRB",
+   "463": "VEGETOSJB",
+   "464": "HIT",
+   "465": "SPINTRAP",
+   "466": "MEGAMANBN",
+   "467": "DRAGONWB",
+   "468": "DARKMAN",
+   "469": "PLANTMAN",
+   "470": "CBEASTMANG",
+   "471": "JUN",
+   "472": "GOKUB",
+   "473": "ALPHA",
+   "474": "GOGETASJ4",
+   "475": "KEFLASJBM",
+   "476": "AS17",
+   "477": "KURIBOHA",
+   "478": "GOKU",
+   "479": "GOKUSJ",
+   "480": "CAUTILFA",
+   "481": "MYSTICELF",
+   "482": "CAUTIFLASJ",
+   "483": "CAUTIFLAS2",
+   "484": "KENT",
+   "485": "GOKUSJB",
+   "486": "SUMMONEDS",
+   "487": "GOKUSJ3",
+   "488": "GOKUSJ4",
+   "489": "GOKUSJG",
+   "490": "VEGETASJB",
+   "491": "VEGETOSJ",
+   "492": "KIO",
+   "493": "GOGETA",
+   "494": "GOGETASJ",
+   "495": "KEFLA",
+   "496": "GALATMONCM",
+   "497": "FTRUNKS",
+   "498": "AWARRIOR",
+   "499": "FTRUNKSSJ",
+   "500": "TRUNKSSJR",
+   "501": "BROLY",
+   "502": "BROLYSJ",
+   "503": "LAJINGL",
+   "504": "STARBOY",
+   "505": "CHEETAH",
+   "506": "ACHERGIRL",
+   "507": "SONICBIRD",
+   "508": "HARPIEBR",
+   "509": "CLAYMAN",
+   "510": "WILDHEART",
+   "511": "BLACKTYRA",
+   "512": "NEOS",
+   "513": "WWINGMAN",
+   "514": "BATTLEOX",
+   "515": "OBELISK",
+   "516": "DRAGONRA",
+   "517": "SLIFER",
+   "518": "DRAGONUWB",
+   "519": "BALLENAF",
+   "520": "KENTSJBK",
+   "521": "KENTSJBKM",
+   "522": "IORI",
+   "523": "PROTOMAN",
+   "524": "GOKUBSJR",
+   "525": "BROLYSJL",
+   "526": "ZAMAS",
+   "527": "ZAMASB",
+   "528": "FREEZER",
+   "529": "FREEZERF2",
+   "530": "FREEZERF3",
+   "531": "FREEZERF4",
+   "532": "FREEZERFG",
+   "533": "FREEZERFM",
+   "534": "COOLER",
+   "535": "COOLERF2",
+   "536": "GOHAN",
+   "537": "GOHANSJ",
+   "538": "GOTENKS",
+   "539": "GOTENKSSJ",
+   "540": "GOTENKSS3",
+   "541": "OSHENLONG",
+   "542": "TGOHAN",
+   "543": "TGOHANSJ",
+   "544": "TENSHINHAN",
+   "545": "CELLFP",
+   "546": "BUUFSP",
+   "547": "PICORRO",
+   "548": "KTRUNKSSJ",
+   "549": "BUUFSP2",
+   "550": "BUUFSP3",
+   "551": "BUUFM",
+   "552": "KRILIN",
+   "553": "JANEMBASP",
+   "554": "SAIBAMEN",
+   "555": "RADITZ",
+   "556": "TAPION",
+   "557": "NAPPA",
+   "558": "SORA",
+   "559": "GOKUUI",
+   "560": "GOKUMUI",
+   "561": "N01",
+   "562": "N02",
+   "563": "N03",
+   "564": "N04",
+   "565": "SANGAN",
+   "566": "BWARRIOR",
+   "567": "COPYX",
+   "568": "N06",
+   "569": "N07",
+   "571": "N09",
+   "573": "DRAGONTWB",
+   "574": "FENFNIR",
+   "575": "N012",
+   "576": "FERALIMP",
+   "577": "OMEGAFS",
+   "588": "HARPUIA",
+   "611": "EXODIA",
+   "612": "ZERO",
+   "620": "REIJI",
+   "621": "SONIC",
+   "622": "AMY",
+   "623": "KNUCKLES",
+   "624": "SSONIC",
+   "625": "ROLL",
+   "626": "TERRY",
+   "627": "RALF",
+   "628": "CLARK",
+   "629": "KIM",
+   "630": "CHANG",
+   "631": "CHOI",
+   "632": "ATHENA",
+   "633": "KENSOU",
+   "634": "BAO",
+   "635": "RYO",
+   "636": "TAKUMA",
+   "637": "ANSEM",
+   "638": "LEON",
+   "639": "SKULLMAN",
+   "640": "FLAMEMAN",
+   "641": "SHARKMAN",
+   "642": "MACHDRAMON",
+   "643": "GOTEN",
+   "644": "TURLES",
+   "645": "GOTENSJ",
+   "646": "BARDOCK",
+   "647": "KTRUNKS",
+   "648": "BARDOCKSJ",
+   "649": "GOKUGT",
+   "650": "OSAURU",
+   "651": "GOKUGTSJ",
+   "652": "OSAURUD",
+   "653": "GOKUGTSJ3",
+   "654": "DODORIA",
+   "655": "UUB",
+   "656": "ZARBON",
+   "657": "SUPERUUB",
+   "658": "GULDO",
+   "659": "MARXULIAN",
+   "660": "ASHENLONG",
+   "661": "RECOOME",
+   "662": "FROSTF1",
+   "663": "FROSTF2",
+   "664": "FROSTF3",
+   "665": "CGINYU",
+   "666": "DYSPO",
+   "667": "A13",
+   "668": "TOPPO",
+   "669": "BILLS",
+   "670": "AS13",
+   "671": "A16",
+   "672": "A19",
+   "673": "DRGERO",
+   "674": "CELLFI",
+   "675": "YAMU",
+   "676": "DABURA",
+   "677": "MAJINBUU",
+   "678": "CELLJR",
+   "679": "JIMIZU",
+   "680": "LUIGI",
+   "681": "MARIO",
+   "682": "BOWLETTA",
+   "683": "TAILS",
+   "684": "SSHENLONG",
+   "685": "JIZZ",
+   "686": "AZULONGMON",
+   "687": "BAHIUMON",
+   "688": "ZAMBAMON",
+   "689": "BOLTMON",
+   "690": "DULFMON",
+   "691": "IPDRAMONPM",
+   "692": "SUSSANOMON",
+   "693": "OMNIMON",
+   "694": "BLEOMON",
+   "695": "ARMAGEDOMN",
+   "696": "KUZUHAMON",
+   "697": "RIKU",
+   "698": "SHADOW",
+   "699": "ROUGE",
+   "700": "EMERL",
+   "701": "GAMMA",
+   "702": "OPHANIMONC",
+   "703": "CGALATMNCH",
+   "704": "SLEIPMON",
+   "705": "BEZELMONXC",
+   "706": "ELIPZO",
+   "707": "CRAFT",
+   "708": "PHAMTOM",
+   "709": "LEVITHAN",
+   "710": "OMEGAFG",
+   "711": "OMEGAFZ",
+   "712": "DRWELLY",
+   "713": "MAY",
+   "714": "NARUTO",
+   "715": "SAKURA",
+   "716": "SASUKE",
+   "717": "ROCKLEE",
+   "718": "INO",
+   "719": "NARUTOK",
+   "720": "NARUTOFF",
+   "721": "GARRA",
+   "722": "MINATO",
+   "723": "MINATOK",
+   "724": "OROCHIMARU",
+   "725": "SHINO",
+   "726": "DEIDARA",
+   "727": "JIRAYA",
+   "728": "KAKASHI",
+   "729": "MOE",
+   "730": "ANDY",
+   "731": "CLOUND",
+   "732": "NEJI",
+   "733": "HINATA",
+   "734": "CELLFB",
+   "735": "PIKKON",
+   "736": "SPOPOVICH",
+   "737": "YAMCHA",
+   "738": "JUDGEMAN",
+   "739": "CAMMY",
+   "740": "ERASEMAN",
+   "741": "SLASHMAN",
+   "742": "BLASTMAN",
+   "743": "HEATMAN",
+   "744": "COLONEL",
+   "745": "TOMAHAWKMN",
+   "746": "CIRCUSMAN",
+   "747": "DIVEMAN",
+   "748": "CHARGEMAN",
+   "749": "ELECMAN",
+   "750": "CBEASTMANF",
+   "751": "METALMAN",
+   "752": "BOWLMAN",
+   "753": "JAPANMAN",
+   "754": "GUTSMAN",
+   "755": "GATEMAN",
+   "756": "DESERTMAN",
+   "757": "WGREYMON",
+   "758": "MGARURUMN",
+   "759": "VIKEMON",
+   "760": "PRESIOMON",
+   "761": "ROSEMON",
+   "762": "OPHANIMON",
+   "763": "IPDRAMONFM",
+   "764": "SAKUYAMON",
+   "765": "IPDRAMONDM",
+   "766": "VALKYRIMON",
+   "767": "SGARGOMON",
+   "768": "SNGREYMON",
+   "769": "MGAOGAMON",
+   "770": "RAVEMON",
+   "771": "BEZELMONBM",
+   "772": "GDRACMON",
+   "773": "VMYOTISMON",
+   "774": "METEMON",
+   "775": "SLEOMON",
+   "776": "HIANDROMON",
+   "777": "PHARAOHMON",
+   "778": "SMAMMOTMON",
+   "779": "MSEADRAMON",
+   "780": "GKUWAGAMON",
+   "781": "PARASIMON",
+   "782": "PIEDMON",
+   "783": "PUKUMON",
+   "784": "CHERUBIMNG",
+   "785": "SERAPHIMON",
+   "786": "CHERUBIMNE",
+   "787": "JUSTIMON",
+   "788": "LUCEMONCM",
+   "789": "JGAMEMON",
+   "790": "QCHESSMON",
+   "791": "APHAMON",
+   "792": "DARKDRAMON",
+   "793": "LILITHMON",
+   "794": "GRYFPHOMON",
+   "795": "ANUBISMON",
+   "796": "SMILENIUMN",
+   "797": "BWGREYMON",
+   "798": "CGALATMON",
+   "799": "MAGNADRAMN",
+   "800": "SNGREYMONB",
+   "801": "MGAOGAMONB",
+   "802": "ROSEMONBM",
+   "803": "CHRONOMOND",
+   "804": "RAVEMONBM",
+   "805": "BULFMON",
+   "806": "APOLLOMON",
+   "807": "DIANAMON",
+   "808": "ALRISMON",
+   "809": "ARGOMON",
+   "810": "BABAMON",
+   "811": "CANGEMON",
+   "812": "DAEMON",
+   "813": "HKUWAGAMON",
+   "814": "JIJIMON",
+   "815": "MANGEMON",
+   "816": "PHOENIXMON",
+   "817": "DKHIGTMON",
+   "818": "UVEEDRAMON",
+   "819": "ITACHI",
+   "820": "ROCKLEE",
+   "821": "DIABOROMON",
+   "822": "PHARAOHMAN",
+   "823": "BUBBLEMAN",
+   "824": "BEASTMAN",
+   "825": "TOADMAN",
+   "826": "GARLICF2",
+   "827": "NUBERMAN",
+   "828": "ICEMAN",
+   "829": "RING",
+   "830": "WOODMAN",
+   "831": "TURBOMAN",
+   "832": "MAGICMAN",
+   "833": "SHADOWMAN",
+   "834": "FLASHMAN",
+   "835": "COLORMAN",
+   "836": "NAPALMAN",
+   "837": "KENDOMAN",
+   "838": "SPARKMAN",
+   "839": "SHADEMAN",
+   "840": "VIDEOMAN",
+   "841": "BURNMAN",
+   "842": "TOPMAN",
+   "843": "SPOUTMMAN",
+   "844": "LASERMAN",
+   "845": "JUNKMAN",
+   "846": "COLDMAN",
+   "847": "SEARCHMAN",
+   "848": "WINDMAN",
+   "849": "BOWSER",
+   "850": "ASUMA",
+   "851": "HAN",
+   "852": "HIDAN",
+   "853": "HIRUZEN",
+   "854": "KISAME",
+   "855": "MIGHTGUY",
+   "856": "SASORI",
+   "857": "TOBI",
+   "858": "MBISON",
+   "859": "RYU",
+   "860": "JUNI",
+   "861": "JULI",
+   "862": "GROUNDMAN",
+   "863": "TENGUMAN",
+   "864": "DUSTMAN",
+   "865": "ADON",
+   "866": "AKUMA",
+   "867": "BALROG",
+   "868": "BIRDIE",
+   "869": "BLANKA",
+   "870": "CHARLIE",
+   "871": "CHUNLI",
+   "872": "CODY",
+   "873": "DAN",
+   "874": "EHONDA",
+   "875": "FENLONG",
+   "876": "GEN",
+   "877": "GUILE",
+   "878": "GUY",
+   "879": "KARIN",
+   "880": "KEN",
+   "881": "OHALSIM",
+   "882": "RMIKA",
+   "883": "ROLENTO",
+   "884": "ROSE",
+   "885": "SAGAT",
+   "886": "SAKURAS",
+   "887": "SODOM",
+   "888": "THAMK",
+   "889": "ZANGIEF",
+   "890": "WHIS",
+   "891": "PUIPUI",
+   "892": "RPICORRO",
+   "893": "DJANGO",
+   "894": "GRINDMAN",
+   "895": "COSMOMAN",
+   "896": "DARKMEGA",
+   "897": "LARKMAN",
+   "898": "CLOUNDMAN",
+   "899": "GYROMAN",
+   "900": "BOMBMAN",
+   "901": "PLANETMAN",
+   "902": "GOSPEL",
+   "903": "CBGREGAR",
+   "904": "VEGETA",
+   "905": "MVEGETA",
+   "906": "CDRAGON",
+   "907": "ALDAMON",
+   "908": "BWGREYMONX",
+   "909": "CRBRUMONWM",
+   "910": "CREPPYMON",
+   "911": "NEBULAG",
+   "912": "CBFALZAR",
+   "913": "AMTERIUMON",
+   "914": "DORBICKMON",
+   "915": "KAIOSHIN",
+   "916": "KCHESSMON",
+   "917": "LEDGIC",
+   "918": "MYSTIMON",
+   "919": "TROIAMON",
+   "920": "VELGEMON",
+   "921": "WISEMON",
+   "922": "CHOUJI",
+   "923": "CHYIO",
+   "924": "DANZOU",
+   "925": "FUU",
+   "926": "GAMABUNTA",
+   "927": "HAKU",
+   "928": "IRUKA",
+   "929": "KAKUZU",
+   "930": "KANKURO",
+   "931": "KARASU",
+   "932": "MEI",
+   "933": "NIIYUGITO",
+   "934": "OBITO",
+   "935": "ONOKI",
+   "936": "ROSHI",
+   "937": "TENTEN",
+   "938": "TOBIRAMA",
+   "939": "TSUNADE",
+   "940": "UTAKATA",
+   "941": "YAGURA",
+   "942": "ZABUZA",
+   "943": "HASHIMARA",
+   "944": "PANIMAL",
+   "945": "PASURA",
+   "946": "PDEVA",
+   "947": "FUUFC",
+   "948": "GARRAFSH",
+   "949": "GENGETSU",
+   "950": "PHUMAN",
+   "951": "ITACHIFSU",
+   "952": "JIROBO",
+   "953": "JIROBOCM",
+   "954": "KABUTON",
+   "955": "KAKUZUF2",
+   "956": "KIDOMARU",
+   "957": "KIDOMARUCM",
+   "958": "KIMIMARU",
+   "959": "KIMIMARUCM",
+   "960": "JUGO",
+   "961": "KOHAN",
+   "962": "KONOHAMARU",
+   "963": "KURENAI",
+   "964": "MADARA",
+   "965": "MUU",
+   "966": "NAGATO",
+   "967": "PNARAKA",
+   "968": "NARUTOFFK",
+   "969": "RASA",
+   "970": "ROCKLEE6G",
+   "971": "SAI",
+   "972": "SAKONUKON",
+   "973": "SAKONUKCM",
+   "974": "SASORIFP",
+   "975": "SASORIFR",
+   "976": "SASORIFS",
+   "977": "SHIKAMARU",
+   "978": "SUIGETSU",
+   "979": "TAYUYA",
+   "980": "TAYUYACM",
+   "981": "TEMARI",
+   "982": "UTAKATAFS",
+   "983": "YAMATO",
+   "984": "SASUKECM",
+   "985": "DEIDARAC2",
+   "986": "DPHAMTOM",
+   "987": "APOLLOF",
+   "988": "BASS",
+   "989": "BABYVEGETA",
+   "990": "BABYOSARU",
+   "991": "RILD",
+   "992": "MEGARILD",
+   "993": "METALRILD",
+   "994": "HOLLOW",
+   "995": "KUNFUKID",
+   "996": "TCONDOR",
+   "997": "QOPNIUCA",
+   "998": "GEMINIS",
+   "999": "MEGAMANBA",
+   "1000": "CANCERB",
+   "1001": "HARPNOTE",
+   "1002": "DIAMONDI",
+   "1003": "JACKCORVUS",
+   "1004": "ACIDACE",
+   "1005": "DREADJOKER",
+   "1006": "SIRIUS",
+   "1007": "SPADEM",
+   "1008": "TAURUSFIRE",
+   "1009": "ANDROMEDA",
+   "1010": "YETIB",
+   "1011": "CLUBSTRONG",
+   "1012": "CROWNT",
+   "1013": "BOJACK",
+   "1014": "VEGETASJ4",
+   "1015": "BASIL",
+   "1016": "LAVANDER",
+   "1017": "BERGAMO",
+   "1018": "VEGETO",
+   "1019": "WOLFWOODS",
+   "1020": "CYGNUSWING",
+   "1021": "FIREMAN",
+   "1022": "CHAOS",
+   "1023": "EGGMAN",
+   "1024": "BUUEVIL",
+   "1025": "GARLIC",
+   "1026": "GAURIGA",
+   "1027": "ROQUE",
+   "1028": "MEGAMANSF",
+   "1029": "MEGAMANBG",
+   "1030": "MEDDY",
+   "1031": "FEMAGE",
+   "1032": "LEMU",
+   "1033": "FEKHIGHT",
+   "1034": "FEFIGTHER",
+   "1035": "FEMOGALL",
+   "1036": "FESOLDIER",
+   "1037": "FEMONK",
+   "1038": "FECAVALIR",
+   "1039": "FEMERCENR",
+   "1040": "FEBAEL",
+   "1041": "FEBONEWLK",
+   "1042": "FEGARGOYL",
+   "1043": "FETARVOS",
+   "1044": "FEMAUTHED",
+   "1045": "FEACHER",
+   "1046": "FESHAMAN",
+   "1047": "FEPIRATE",
+   "1048": "FEWIVERNR",
+   "1049": "FEPEGASSK",
+   "1050": "FEPHANTOM",
+   "1051": "FEDRUID",
+   "1052": "FEHERO",
+   "1053": "FESAGE",
+   "1054": "FEGORGON",
+   "1055": "FEGENERAL",
+   "1056": "FEMAKANOV",
+   "1057": "FEREVENAT",
+   "1058": "FEGIWILGY",
+   "1059": "SLUG",
+   "1060": "BIOMEN",
+   "1061": "DRWILOW",
+   "1062": "FEPALADIN",
+   "1063": "FETROUBDR",
+   "1064": "DRAGONOID",
+   "1065": "WILDA",
+   "1066": "ELFFIN",
+   "1067": "INGRAM",
+   "1068": "NEMUS",
+   "1069": "PERCIVAL",
+   "1070": "VEKREX",
+   "1071": "KRAKENOID",
+   "1072": "RAMDOL",
+   "1073": "DARKMAGE",
+   "1074": "BFRIO",
+   "1075": "MMYOTISMON",
+   "1076": "DEMONKING",
+   "1077": "BROCA",
+   "1078": "ICHIGO",
+   "1079": "BPANTANO",
+   "1080": "BBIUP",
+   "1081": "BECOECO",
+   "1082": "BVOMITON",
+   "1083": "BMARAA",
+   "1084": "BCEREBRO",
+   "1085": "SAMUSF",
+   "1086": "SAMUSARAN",
+   "1087": "BTURBOR",
+   "1088": "JENOSA",
+   "1089": "ICHIGOSP",
+   "1090": "GUERREROC",
+   "1091": "SAMUSF3",
+   "1092": "SAMUSF4",
+   "1093": "STARMAN",
+   "1094": "COOLERFM",
+   "1095": "SAMUSFG",
+   "1096": "RANGIKU",
+   "1097": "URYO",
+   "1098": "STONEMAN",
+   "1099": "PURPLEGUY",
+   "1100": "FREDBEAR",
+   "1101": "SPRINBONNI",
+   "1102": "OFREDDY",
+   "1103": "OGFREDDY",
+   "1104": "SFREDDY",
+   "1105": "TBONNIE",
+   "1106": "TCHICA",
+   "1107": "OCHICA",
+   "1108": "TFREDDY",
+   "1109": "SBONNIE",
+   "1110": "BALLONBOY",
+   "1111": "PUPPET",
+   "1112": "BONNIE",
+   "1113": "CHICA",
+   "1114": "FREDDY",
+   "1115": "FOXY",
+   "1116": "GFREDDY",
+   "1117": "PFREDDY",
+   "1118": "PCHICA",
+   "1119": "PFOXY",
+   "1120": "GODZILA",
+   "1121": "RODAN",
+   "1122": "KGHIDORAN",
+   "1123": "MGODZILA",
+   "1124": "MOTHAN",
+   "1125": "MEGALODON",
+   "1126": "HITSUGAYA",
+   "1127": "SCREAMQ",
+   "1128": "KRKIVA",
+   "1129": "BCANARY",
+   "1130": "BBETTLE",
+   "1131": "KYORAKU",
+   "1132": "SPIDERMAN",
+   "1133": "KRFOURZE",
+   "1134": "PAPYRIUS",
+   "1135": "SANS",
+   "1136": "FLOWEY",
+   "1137": "SOMACRUZ",
+   "1138": "DIMITRI",
+   "1139": "EDWARD",
+   "1140": "VENEX",
+   "1141": "VEGETASB2",
+   "1142": "CHAD",
+   "1143": "HINAMORI",
+   "1144": "ORIHIME",
+   "1145": "SOIFON",
+   "1146": "YACHIRU",
+   "1147": "KENPACHI",
+   "1148": "RENJI",
+   "1149": "HISAGI",
+   "1150": "IKKARU",
+   "1151": "URAHARA",
+   "1152": "HANATARO",
+   "1153": "UKITAKE",
+   "1154": "IZURU",
+   "1155": "NEMU",
+   "1156": "MAYURI",
+   "1157": "KOMAMURA",
+   "1158": "BYAKUYA",
+   "1159": "PHAGE",
+   "1160": "RIOT",
+   "1161": "SCREAM",
+   "1162": "MUSTANG",
+   "1163": "GENOS",
+   "1164": "SAITAMA",
+   "1165": "GAROU",
+   "1166": "SOFSOUND",
+   "1167": "CMOSQUITO",
+   "1168": "SFANG",
+   "1169": "REYDELMP",
+   "1170": "HCANGREJO",
+   "1171": "TORNADOT",
+   "1172": "KRBUILD",
+   "1173": "KRBUILDH",
+   "1174": "KRW",
+   "1175": "KRWLT",
+   "1176": "KRWHM",
+   "1177": "KRWFJ",
+   "1178": "KRGHOST",
+   "1179": "KRWIZARD",
+   "1180": "VENOM",
+   "1181": "JOHANHEX",
+   "1182": "FFAUST",
+   "1183": "OCEANM",
+   "1184": "GUYG",
+   "1185": "BRONZET",
+   "1186": "WILDCAT",
+   "1187": "GGRODD",
+   "1188": "ATOM",
+   "1189": "DRPOLARIS",
+   "1190": "HUNTRESS",
+   "1191": "KRDRIVE",
+   "1192": "KATANA",
+   "1193": "DEADMAN",
+   "1194": "BABYFACE",
+   "1195": "GGHOST",
+   "1196": "BOOSTERG",
+   "1197": "BLACKL",
+   "1198": "HJORDAN",
+   "1199": "MMEISTER",
+   "1200": "ELOGANTM",
+   "1201": "KITEMAN",
+   "1202": "PLASTICMAN",
+   "1203": "CLOCKKING",
+   "1204": "RTORNADO",
+   "1205": "METAMORPHO",
+   "1206": "THEFLASH",
+   "1207": "BMANTA",
+   "1208": "MLEFEY",
+   "1209": "CATWOMAN",
+   "1210": "BANE",
+   "1211": "ROBIN",
+   "1212": "SCARECROW",
+   "1213": "JOKER",
+   "1214": "KRDUKE",
+   "1215": "BATMAN",
+   "1216": "ASRIELF2",
+   "1217": "CHARA",
+   "1218": "UNDYNE",
+   "1219": "UNDYNEUN",
+   "1220": "METTATON",
+   "1221": "TORIEL",
+   "1222": "ASGORE",
+   "1223": "FRISK",
+   "1224": "LEXAEUS",
+   "1225": "ASRIEL",
+   "1226": "KRIS",
+   "1227": "SUSIE",
+   "1228": "RALSEI",
+   "1229": "MUFFET",
+   "1230": "METTATONEX",
+   "1231": "BOROS",
+   "1232": "KEMPEROR",
+   "1233": "ZOMBIEMAN",
+   "1234": "DKHINGT",
+   "1235": "PIGGOD",
+   "1236": "DARKSHINE",
+   "1237": "WACTHDOGMN",
+   "1238": "FFLASH",
+   "1239": "TANKTOPM",
+   "1240": "METALBAT",
+   "1241": "PLINDO",
+   "1242": "FUBUKI",
+   "1243": "VACCINEMAN",
+   "1244": "RIDLER",
+   "1245": "GARROW",
+   "1246": "XGASTER",
+   "1247": "BSANS",
+   "1248": "CROSSSANS",
+   "1249": "DREAMSANS",
+   "1250": "ERRORSANS",
+   "1251": "FELLSANS",
+   "1252": "FRESHSANS",
+   "1253": "INKSANS",
+   "1254": "KSANS",
+   "1255": "NSANS",
+   "1256": "SPAPYRIUS",
+   "1257": "EPICSANS",
+   "1258": "GAROUMM",
+   "1259": "JULIUSB",
+   "1260": "WDGASTER",
+   "1261": "KOROCHI",
+   "1262": "SUIRYU",
+   "1263": "SATORU",
+   "1264": "LOVEQUEEN",
+   "1265": "AKABUTO",
+   "1266": "PSIKOS",
+   "1267": "OUTERSANS",
+   "1268": "METALK",
+   "1269": "TANJIRO",
+   "1270": "KYOJURO",
+   "1271": "GRAHAM",
+   "1272": "BILL",
+   "1273": "ZENITSU",
+   "1274": "INOSUKE",
+   "1275": "GIYU",
+   "1276": "MITSURI",
+   "1277": "OBANAI",
+   "1278": "SANEMI",
+   "1279": "GYOMEI",
+   "1280": "TENGEN",
+   "1281": "MUICHIRO",
+   "1282": "SHINOBU",
+   "1283": "KROMAZIO",
+   "1284": "SHANOA",
+   "1285": "ALBUS",
+   "1286": "CHARIZARDX",
+   "1287": "CHARIZARDY",
+   "1288": "MVENUSAUR",
+   "1289": "MBLASTOISE",
+   "1290": "MPIDGEOT",
+   "1291": "MHOUNDOOM",
+   "1292": "MGARDEVOIR",
+   "1293": "MAMPHAROS",
+   "1294": "MSCEPTILE",
+   "1295": "MBLAZIKEN",
+   "1296": "MMANECTRIC",
+   "1297": "MSHARPEDO",
+   "1298": "MALAKAZAM",
+   "1299": "MSCIZOR",
+   "1300": "MHERACROSS",
+   "1301": "MBANETTE",
+   "1302": "MGENGAR",
+   "1303": "MABSOL",
+   "1304": "MSALAMENCE",
+   "1305": "MMETAGROSS",
+   "1306": "MGYARADOS",
+   "1307": "MTYRANITAR",
+   "1308": "AGRENINJA",
+   "1309": "MEWTWOX",
+   "1310": "MEWTWOY",
+   "1311": "MGARCHOMP",
+   "1312": "MLUCARIO",
+   "1313": "MABOBASNOW",
+   "1314": "KRDIEND",
+   "1315": "KRZIO",
+   "1316": "KRBIRTH",
+   "1317": "KRHIBIKI",
+   "1318": "KRIXA",
+   "1319": "KRJOKER",
+   "1320": "KROOO",
+   "1321": "KRREVI",
+   "1322": "KRZEROONE",
+   "1323": "KRGAIMY",
+   "1324": "KRSKULL",
+   "1325": "KRKABUTO",
+   "1326": "KRGEIZ",
+   "1327": "KROGA",
+   "1328": "KRAGITO",
+   "1329": "KRBEAST",
+   "1330": "KRBLADE",
+   "1331": "KRDKABUTO",
+   "1332": "KRDELTA",
+   "1333": "KRRYUGA",
+   "1334": "KRFAIZ",
+   "1335": "KRFAIZAX",
+   "1336": "KRDENOR",
+   "1337": "RIOTROPPER",
+   "1338": "KRG3X",
+   "1339": "KRGALEN",
+   "1340": "KRGATACK",
+   "1341": "KRKAIXA",
+   "1342": "KRKUUGA",
+   "1343": "KRMAGE",
+   "1344": "KRTYGER",
+   "1345": "KRRYUKI",
+   "1346": "KRSASWORD",
+   "1347": "KRSCISSOR",
+   "1348": "KRZERONOS",
+   "1349": "KRZERONSZ",
+   "1350": "KRZOLDA",
+   "1351": "KRPARADXF",
+   "1352": "KRMETEOR"
+  },
+  "trainer_key": {
+   "25": [
+    "CLASS_23",
+    "SIDNEY",
+    0
+   ],
+   "26": [
+    "CLASS_23",
+    "PHOEBE",
+    0
+   ],
+   "27": [
+    "CLASS_24",
+    "ROXANNE",
+    0
+   ],
+   "28": [
+    "CLASS_24",
+    "BRAWLY",
+    0
+   ],
+   "29": [
+    "CLASS_24",
+    "TATE?LIZA",
+    0
+   ],
+   "78": [
+    "CLASS_55",
+    "MATT",
+    0
+   ],
+   "79": [
+    "CLASS_55",
+    "SHELLY",
+    0
+   ],
+   "80": [
+    "CLASS_56",
+    "TABITHA",
+    0
+   ],
+   "81": [
+    "CLASS_56",
+    "COURTNEY",
+    0
+   ],
+   "82": [
+    "CLASS_24",
+    "WATTSON",
+    0
+   ],
+   "83": [
+    "CLASS_24",
+    "FLANNERY",
+    0
+   ],
+   "84": [
+    "CLASS_24",
+    "NORMAN",
+    0
+   ],
+   "85": [
+    "CLASS_24",
+    "WINONA",
+    0
+   ],
+   "86": [
+    "CLASS_24",
+    "WALLACE",
+    0
+   ],
+   "87": [
+    "CLASS_23",
+    "GLACIA",
+    0
+   ],
+   "88": [
+    "CLASS_23",
+    "DRAKE",
+    0
+   ],
+   "89": [
+    "CLASS_57",
+    "BEN",
+    0
+   ],
+   "90": [
+    "CLASS_57",
+    "CALVIN",
+    0
+   ],
+   "91": [
+    "CLASS_57",
+    "JOSH",
+    0
+   ],
+   "92": [
+    "CLASS_57",
+    "TIMMY",
+    0
+   ],
+   "93": [
+    "CLASS_57",
+    "JOEY",
+    0
+   ],
+   "94": [
+    "CLASS_57",
+    "DAN",
+    0
+   ],
+   "95": [
+    "CLASS_57",
+    "CHAD",
+    0
+   ],
+   "96": [
+    "CLASS_57",
+    "TYLER",
+    0
+   ],
+   "97": [
+    "CLASS_57",
+    "EDDIE",
+    0
+   ],
+   "98": [
+    "CLASS_57",
+    "DILLON",
+    0
+   ],
+   "99": [
+    "CLASS_57",
+    "YASU",
+    0
+   ],
+   "100": [
+    "CLASS_57",
+    "DAVE",
+    0
+   ],
+   "101": [
+    "CLASS_57",
+    "BEN",
+    0
+   ],
+   "102": [
+    "CLASS_58",
+    "RICK",
+    0
+   ],
+   "103": [
+    "CLASS_58",
+    "DOUG",
+    0
+   ],
+   "104": [
+    "CLASS_58",
+    "SAMMY",
+    0
+   ],
+   "105": [
+    "CLASS_58",
+    "COLTON",
+    0
+   ],
+   "106": [
+    "CLASS_58",
+    "GREG",
+    0
+   ],
+   "107": [
+    "CLASS_58",
+    "JAMES",
+    0
+   ],
+   "108": [
+    "CLASS_58",
+    "KENT",
+    0
+   ],
+   "109": [
+    "CLASS_58",
+    "ROBBY",
+    0
+   ],
+   "110": [
+    "CLASS_58",
+    "CALE",
+    0
+   ],
+   "111": [
+    "CLASS_58",
+    "KEIGO",
+    0
+   ],
+   "112": [
+    "CLASS_58",
+    "ELIJAH",
+    0
+   ],
+   "114": [
+    "CLASS_58",
+    "BRENT",
+    0
+   ],
+   "115": [
+    "CLASS_58",
+    "CONNER",
+    0
+   ],
+   "116": [
+    "CLASS_30",
+    "DAGA",
+    0
+   ],
+   "117": [
+    "CLASS_59",
+    "SALLY",
+    0
+   ],
+   "118": [
+    "CLASS_59",
+    "ROBIN",
+    0
+   ],
+   "119": [
+    "CLASS_59",
+    "CRISSY",
+    0
+   ],
+   "120": [
+    "CLASS_59",
+    "MIRIAM",
+    0
+   ],
+   "121": [
+    "CLASS_59",
+    "IRIS",
+    0
+   ],
+   "122": [
+    "CLASS_59",
+    "RELI",
+    0
+   ],
+   "123": [
+    "CLASS_59",
+    "ALI",
+    0
+   ],
+   "125": [
+    "CLASS_59",
+    "HALEY",
+    0
+   ],
+   "126": [
+    "CLASS_59",
+    "ANN",
+    0
+   ],
+   "127": [
+    "CLASS_59",
+    "DAWN",
+    0
+   ],
+   "128": [
+    "CLASS_59",
+    "PAIGE",
+    0
+   ],
+   "129": [
+    "CLASS_59",
+    "ANDREA",
+    0
+   ],
+   "130": [
+    "CLASS_59",
+    "MEGAN",
+    0
+   ],
+   "131": [
+    "CLASS_59",
+    "JULIA",
+    0
+   ],
+   "132": [
+    "CLASS_59",
+    "KAY",
+    0
+   ],
+   "133": [
+    "CLASS_59",
+    "LISA",
+    0
+   ],
+   "134": [
+    "CLASS_60",
+    "EDMOND",
+    0
+   ],
+   "135": [
+    "CLASS_60",
+    "TREVOR",
+    0
+   ],
+   "136": [
+    "CLASS_60",
+    "LEONARD",
+    0
+   ],
+   "137": [
+    "CLASS_60",
+    "DUNCAN",
+    0
+   ],
+   "138": [
+    "CLASS_60",
+    "HUEY",
+    0
+   ],
+   "139": [
+    "CLASS_60",
+    "DYLAN",
+    0
+   ],
+   "140": [
+    "CLASS_60",
+    "PHILLIP",
+    0
+   ],
+   "141": [
+    "CLASS_60",
+    "DWAYNE",
+    0
+   ],
+   "142": [
+    "CLASS_61",
+    "LIAM",
+    0
+   ],
+   "143": [
+    "CLASS_61",
+    "SHANE",
+    0
+   ],
+   "144": [
+    "CLASS_61",
+    "ETHAN",
+    0
+   ],
+   "145": [
+    "CLASS_61",
+    "RICKY",
+    0
+   ],
+   "146": [
+    "CLASS_61",
+    "JEFF",
+    0
+   ],
+   "148": [
+    "CLASS_61",
+    "CHRIS",
+    0
+   ],
+   "149": [
+    "CLASS_61",
+    "DREW",
+    0
+   ],
+   "150": [
+    "CLASS_62",
+    "DIANA",
+    0
+   ],
+   "151": [
+    "CLASS_62",
+    "NANCY",
+    0
+   ],
+   "152": [
+    "CLASS_62",
+    "ISABELLE",
+    0
+   ],
+   "153": [
+    "CLASS_62",
+    "KELSEY",
+    0
+   ],
+   "154": [
+    "CLASS_62",
+    "ALICIA",
+    0
+   ],
+   "155": [
+    "CLASS_62",
+    "CAITLIN",
+    0
+   ],
+   "156": [
+    "CLASS_62",
+    "HEIDI",
+    0
+   ],
+   "157": [
+    "CLASS_62",
+    "CAROL",
+    0
+   ],
+   "158": [
+    "CLASS_62",
+    "SOFIA",
+    0
+   ],
+   "159": [
+    "CLASS_62",
+    "MARTHA",
+    0
+   ],
+   "160": [
+    "CLASS_62",
+    "TINA",
+    0
+   ],
+   "161": [
+    "CLASS_62",
+    "HANNAH",
+    0
+   ],
+   "162": [
+    "CLASS_63",
+    "MARK",
+    0
+   ],
+   "163": [
+    "CLASS_63",
+    "HERMAN",
+    0
+   ],
+   "164": [
+    "CLASS_63",
+    "COOPER",
+    0
+   ],
+   "165": [
+    "CLASS_63",
+    "STEVE",
+    0
+   ],
+   "166": [
+    "CLASS_63",
+    "WINSTON",
+    0
+   ],
+   "167": [
+    "CLASS_63",
+    "DAWSON",
+    0
+   ],
+   "168": [
+    "CLASS_63",
+    "ASHTON",
+    0
+   ],
+   "169": [
+    "CLASS_64",
+    "JOVAN",
+    0
+   ],
+   "170": [
+    "CLASS_64",
+    "MIGUEL",
+    0
+   ],
+   "171": [
+    "CLASS_64",
+    "AIDAN",
+    0
+   ],
+   "172": [
+    "CLASS_64",
+    "GLENN",
+    0
+   ],
+   "173": [
+    "CLASS_64",
+    "LESLIE",
+    0
+   ],
+   "177": [
+    "CLASS_64",
+    "ERIK",
+    0
+   ],
+   "178": [
+    "CLASS_64",
+    "AVERY",
+    0
+   ],
+   "179": [
+    "CLASS_64",
+    "DEREK",
+    0
+   ],
+   "180": [
+    "CLASS_64",
+    "ZAC",
+    0
+   ],
+   "181": [
+    "CLASS_65",
+    "MARCOS",
+    0
+   ],
+   "182": [
+    "CLASS_65",
+    "FRANKLIN",
+    0
+   ],
+   "183": [
+    "CLASS_65",
+    "NOB",
+    0
+   ],
+   "184": [
+    "CLASS_65",
+    "WAYNE",
+    0
+   ],
+   "185": [
+    "CLASS_65",
+    "ALAN",
+    0
+   ],
+   "186": [
+    "CLASS_65",
+    "BRICE",
+    0
+   ],
+   "187": [
+    "CLASS_65",
+    "CLARK",
+    0
+   ],
+   "188": [
+    "CLASS_65",
+    "TRENT",
+    0
+   ],
+   "189": [
+    "CLASS_65",
+    "DUDLEY",
+    0
+   ],
+   "190": [
+    "CLASS_65",
+    "ALLEN",
+    0
+   ],
+   "191": [
+    "CLASS_65",
+    "ERIC",
+    0
+   ],
+   "192": [
+    "CLASS_65",
+    "LENNY",
+    0
+   ],
+   "193": [
+    "CLASS_65",
+    "OLIVER",
+    0
+   ],
+   "194": [
+    "CLASS_65",
+    "LUCAS",
+    0
+   ],
+   "195": [
+    "CLASS_66",
+    "JARED",
+    0
+   ],
+   "196": [
+    "CLASS_66",
+    "MALIK",
+    0
+   ],
+   "197": [
+    "CLASS_66",
+    "ERNEST",
+    0
+   ],
+   "198": [
+    "CLASS_66",
+    "ALEX",
+    0
+   ],
+   "199": [
+    "CLASS_66",
+    "LAO",
+    0
+   ],
+   "201": [
+    "CLASS_66",
+    "HIDEO",
+    0
+   ],
+   "202": [
+    "CLASS_66",
+    "RUBEN",
+    0
+   ],
+   "203": [
+    "CLASS_66",
+    "BILLY",
+    0
+   ],
+   "204": [
+    "CLASS_66",
+    "NIKOLAS",
+    0
+   ],
+   "205": [
+    "CLASS_66",
+    "JAXON",
+    0
+   ],
+   "206": [
+    "CLASS_66",
+    "WILLIAM",
+    0
+   ],
+   "207": [
+    "CLASS_66",
+    "LUKAS",
+    0
+   ],
+   "208": [
+    "CLASS_66",
+    "ISAAC",
+    0
+   ],
+   "209": [
+    "CLASS_66",
+    "GERALD",
+    0
+   ],
+   "213": [
+    "CLASS_67",
+    "QUINN",
+    0
+   ],
+   "214": [
+    "CLASS_67",
+    "RAMON",
+    0
+   ],
+   "215": [
+    "CLASS_67",
+    "DUSTY",
+    0
+   ],
+   "216": [
+    "CLASS_67",
+    "ARNIE",
+    0
+   ],
+   "218": [
+    "CLASS_67",
+    "SIMON",
+    0
+   ],
+   "219": [
+    "CLASS_67",
+    "LEWIS",
+    0
+   ],
+   "220": [
+    "CLASS_68",
+    "BAILY",
+    0
+   ],
+   "221": [
+    "CLASS_68",
+    "BRAXTON",
+    0
+   ],
+   "222": [
+    "CLASS_68",
+    "BERNIE",
+    0
+   ],
+   "223": [
+    "CLASS_69",
+    "DALE",
+    0
+   ],
+   "224": [
+    "CLASS_69",
+    "BARNY",
+    0
+   ],
+   "225": [
+    "CLASS_69",
+    "NED",
+    0
+   ],
+   "226": [
+    "CLASS_69",
+    "CHIP",
+    0
+   ],
+   "227": [
+    "CLASS_69",
+    "HANK",
+    0
+   ],
+   "228": [
+    "CLASS_69",
+    "ELLIOT",
+    0
+   ],
+   "229": [
+    "CLASS_69",
+    "RONALD",
+    0
+   ],
+   "230": [
+    "CLASS_69",
+    "CLAUDE",
+    0
+   ],
+   "231": [
+    "CLASS_69",
+    "WADE",
+    0
+   ],
+   "232": [
+    "CLASS_69",
+    "NOLAN",
+    0
+   ],
+   "233": [
+    "CLASS_69",
+    "ANDREW",
+    0
+   ],
+   "234": [
+    "CLASS_70",
+    "LUIS",
+    0
+   ],
+   "235": [
+    "CLASS_70",
+    "RICHARD",
+    0
+   ],
+   "236": [
+    "CLASS_70",
+    "REECE",
+    0
+   ],
+   "237": [
+    "CLASS_70",
+    "MATTHEW",
+    0
+   ],
+   "238": [
+    "CLASS_70",
+    "DOUGLAS",
+    0
+   ],
+   "239": [
+    "CLASS_70",
+    "DAVID",
+    0
+   ],
+   "240": [
+    "CLASS_70",
+    "TONY",
+    0
+   ],
+   "241": [
+    "CLASS_70",
+    "AXLE",
+    0
+   ],
+   "242": [
+    "CLASS_70",
+    "BARRY",
+    0
+   ],
+   "243": [
+    "CLASS_70",
+    "DEAN",
+    0
+   ],
+   "244": [
+    "CLASS_70",
+    "DARRIN",
+    0
+   ],
+   "245": [
+    "CLASS_70",
+    "SPENCER",
+    0
+   ],
+   "246": [
+    "CLASS_70",
+    "JACK",
+    0
+   ],
+   "247": [
+    "CLASS_70",
+    "JEROME",
+    0
+   ],
+   "248": [
+    "CLASS_70",
+    "ROLAND",
+    0
+   ],
+   "249": [
+    "CLASS_71",
+    "KOJI",
+    0
+   ],
+   "250": [
+    "CLASS_71",
+    "LUKE",
+    0
+   ],
+   "251": [
+    "CLASS_71",
+    "CAMRON",
+    0
+   ],
+   "252": [
+    "CLASS_71",
+    "RAUL",
+    0
+   ],
+   "253": [
+    "CLASS_71",
+    "ISAIAH",
+    0
+   ],
+   "254": [
+    "CLASS_71",
+    "ZEEK",
+    0
+   ],
+   "255": [
+    "CLASS_71",
+    "JAMAL",
+    0
+   ],
+   "256": [
+    "CLASS_71",
+    "COREY",
+    0
+   ],
+   "257": [
+    "CLASS_71",
+    "CHASE",
+    0
+   ],
+   "258": [
+    "CLASS_72",
+    "HUGO",
+    0
+   ],
+   "259": [
+    "CLASS_72",
+    "JASPER",
+    0
+   ],
+   "260": [
+    "CLASS_72",
+    "DIRK",
+    0
+   ],
+   "261": [
+    "CLASS_72",
+    "DARIAN",
+    0
+   ],
+   "262": [
+    "CLASS_72",
+    "STAN",
+    0
+   ],
+   "264": [
+    "CLASS_72",
+    "RICH",
+    0
+   ],
+   "265": [
+    "CLASS_73",
+    "BRIDGET",
+    0
+   ],
+   "266": [
+    "CLASS_73",
+    "TAMIA",
+    0
+   ],
+   "267": [
+    "CLASS_73",
+    "LORI",
+    0
+   ],
+   "268": [
+    "CLASS_73",
+    "LOLA",
+    0
+   ],
+   "269": [
+    "CLASS_73",
+    "SHEILA",
+    0
+   ],
+   "270": [
+    "CLASS_74",
+    "TIFFANY",
+    0
+   ],
+   "271": [
+    "CLASS_74",
+    "NORA",
+    0
+   ],
+   "272": [
+    "CLASS_74",
+    "MELISSA",
+    0
+   ],
+   "273": [
+    "CLASS_73",
+    "GRACE",
+    0
+   ],
+   "274": [
+    "CLASS_73",
+    "OLIVIA",
+    0
+   ],
+   "275": [
+    "CLASS_73",
+    "LAUREN",
+    0
+   ],
+   "276": [
+    "CLASS_74",
+    "ANYA",
+    0
+   ],
+   "277": [
+    "CLASS_74",
+    "ALICE",
+    0
+   ],
+   "278": [
+    "CLASS_74",
+    "CONNIE",
+    0
+   ],
+   "279": [
+    "CLASS_74",
+    "SHIRLEY",
+    0
+   ],
+   "280": [
+    "CLASS_75",
+    "JOHAN",
+    0
+   ],
+   "281": [
+    "CLASS_75",
+    "TYRON",
+    0
+   ],
+   "282": [
+    "CLASS_75",
+    "CAMERON",
+    0
+   ],
+   "283": [
+    "CLASS_75",
+    "PRESTON",
+    0
+   ],
+   "284": [
+    "CLASS_76",
+    "RANDALL",
+    0
+   ],
+   "285": [
+    "CLASS_76",
+    "LUCA",
+    0
+   ],
+   "286": [
+    "CLASS_77",
+    "DALTON",
+    0
+   ],
+   "287": [
+    "CLASS_77",
+    "NELSON",
+    0
+   ],
+   "288": [
+    "CLASS_77",
+    "KIRK",
+    0
+   ],
+   "289": [
+    "CLASS_77",
+    "SHAWN",
+    0
+   ],
+   "290": [
+    "CLASS_77",
+    "GREGORY",
+    0
+   ],
+   "291": [
+    "CLASS_77",
+    "EDWARD",
+    0
+   ],
+   "292": [
+    "CLASS_77",
+    "KAYDEN",
+    0
+   ],
+   "293": [
+    "CLASS_77",
+    "NATE",
+    0
+   ],
+   "294": [
+    "CLASS_78",
+    "PHIL",
+    0
+   ],
+   "295": [
+    "CLASS_78",
+    "EDGAR",
+    0
+   ],
+   "296": [
+    "CLASS_78",
+    "JASON",
+    0
+   ],
+   "297": [
+    "CLASS_78",
+    "COLE",
+    0
+   ],
+   "298": [
+    "CLASS_78",
+    "VINCENT",
+    0
+   ],
+   "299": [
+    "CLASS_78",
+    "JOHN",
+    0
+   ],
+   "300": [
+    "CLASS_79",
+    "SEBASTIAN",
+    0
+   ],
+   "301": [
+    "CLASS_79",
+    "PERRY",
+    0
+   ],
+   "302": [
+    "CLASS_79",
+    "ROBERT",
+    0
+   ],
+   "303": [
+    "CLASS_79",
+    "DONALD",
+    0
+   ],
+   "304": [
+    "CLASS_79",
+    "BENNY",
+    0
+   ],
+   "305": [
+    "CLASS_79",
+    "EDWIN",
+    0
+   ],
+   "306": [
+    "CLASS_79",
+    "CHESTER",
+    0
+   ],
+   "307": [
+    "CLASS_79",
+    "WILTON",
+    0
+   ],
+   "308": [
+    "CLASS_79",
+    "RAMIRO",
+    0
+   ],
+   "309": [
+    "CLASS_79",
+    "JACOB",
+    0
+   ],
+   "310": [
+    "CLASS_79",
+    "ROGER",
+    0
+   ],
+   "311": [
+    "CLASS_79",
+    "REED",
+    0
+   ],
+   "312": [
+    "CLASS_79",
+    "KEITH",
+    0
+   ],
+   "313": [
+    "CLASS_79",
+    "CARTER",
+    0
+   ],
+   "314": [
+    "CLASS_79",
+    "MITCH",
+    0
+   ],
+   "315": [
+    "CLASS_79",
+    "BECK",
+    0
+   ],
+   "316": [
+    "CLASS_79",
+    "MARLON",
+    0
+   ],
+   "317": [
+    "CLASS_80",
+    "KOICHI",
+    0
+   ],
+   "318": [
+    "CLASS_80",
+    "MIKE",
+    0
+   ],
+   "319": [
+    "CLASS_80",
+    "HIDEKI",
+    0
+   ],
+   "320": [
+    "CLASS_80",
+    "AARON",
+    0
+   ],
+   "321": [
+    "CLASS_80",
+    "HITOSHI",
+    0
+   ],
+   "322": [
+    "CLASS_80",
+    "ATSUSHI",
+    0
+   ],
+   "323": [
+    "CLASS_80",
+    "KIYO",
+    0
+   ],
+   "324": [
+    "CLASS_80",
+    "TAKASHI",
+    0
+   ],
+   "325": [
+    "CLASS_80",
+    "DAISUKE",
+    0
+   ],
+   "326": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "327": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "328": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "329": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "330": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "331": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "332": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "333": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "334": [
+    "CLASS_81",
+    "TERRY",
+    0
+   ],
+   "335": [
+    "CLASS_82",
+    "TED",
+    0
+   ],
+   "336": [
+    "CLASS_82",
+    "CONNOR",
+    0
+   ],
+   "337": [
+    "CLASS_82",
+    "JERRY",
+    0
+   ],
+   "338": [
+    "CLASS_82",
+    "JOSE",
+    0
+   ],
+   "339": [
+    "CLASS_82",
+    "RODNEY",
+    0
+   ],
+   "340": [
+    "CLASS_82",
+    "BEAU",
+    0
+   ],
+   "341": [
+    "CLASS_82",
+    "TAYLOR",
+    0
+   ],
+   "342": [
+    "CLASS_82",
+    "JOSHUA",
+    0
+   ],
+   "343": [
+    "CLASS_82",
+    "PARKER",
+    0
+   ],
+   "344": [
+    "CLASS_82",
+    "ED",
+    0
+   ],
+   "345": [
+    "CLASS_82",
+    "TRAVIS",
+    0
+   ],
+   "346": [
+    "CLASS_82",
+    "BRAYDON",
+    0
+   ],
+   "347": [
+    "CLASS_82",
+    "IVAN",
+    0
+   ],
+   "348": [
+    "CLASS_83",
+    "GIOVANNI",
+    0
+   ],
+   "349": [
+    "CLASS_83",
+    "GIOVANNI",
+    0
+   ],
+   "350": [
+    "CLASS_84",
+    "GIOVANNI",
+    0
+   ],
+   "351": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "352": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "353": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "354": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "355": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "356": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "357": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "358": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "359": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "360": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "361": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "362": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "363": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "364": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "365": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "366": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "367": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "368": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "369": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "370": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "371": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "372": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "373": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "374": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "375": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "376": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "377": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "378": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "379": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "380": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "381": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "382": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "383": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "384": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "385": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "386": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "387": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "388": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "389": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "390": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "391": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "392": [
+    "CLASS_86",
+    "SAMUEL",
+    0
+   ],
+   "393": [
+    "CLASS_86",
+    "GEORGE",
+    0
+   ],
+   "394": [
+    "CLASS_86",
+    "COLBY",
+    0
+   ],
+   "395": [
+    "CLASS_86",
+    "PAUL",
+    0
+   ],
+   "396": [
+    "CLASS_86",
+    "ROLANDO",
+    0
+   ],
+   "397": [
+    "CLASS_86",
+    "GILBERT",
+    0
+   ],
+   "398": [
+    "CLASS_86",
+    "OWEN",
+    0
+   ],
+   "399": [
+    "CLASS_86",
+    "BERKE",
+    0
+   ],
+   "400": [
+    "CLASS_86",
+    "YUJI",
+    0
+   ],
+   "401": [
+    "CLASS_86",
+    "WARREN",
+    0
+   ],
+   "402": [
+    "CLASS_86",
+    "MARY",
+    0
+   ],
+   "403": [
+    "CLASS_86",
+    "CAROLINE",
+    0
+   ],
+   "404": [
+    "CLASS_86",
+    "ALEXA",
+    0
+   ],
+   "405": [
+    "CLASS_86",
+    "SHANNON",
+    0
+   ],
+   "406": [
+    "CLASS_86",
+    "NAOMI",
+    0
+   ],
+   "407": [
+    "CLASS_86",
+    "BROOKE",
+    0
+   ],
+   "408": [
+    "CLASS_86",
+    "AUSTINA",
+    0
+   ],
+   "409": [
+    "CLASS_86",
+    "JULIE",
+    0
+   ],
+   "410": [
+    "CLASS_87",
+    "LORELEI",
+    0
+   ],
+   "411": [
+    "CLASS_87",
+    "BRUNO",
+    0
+   ],
+   "412": [
+    "CLASS_87",
+    "AGATHA",
+    0
+   ],
+   "413": [
+    "CLASS_87",
+    "LANCE",
+    0
+   ],
+   "414": [
+    "CLASS_84",
+    "BROCK",
+    0
+   ],
+   "415": [
+    "CLASS_84",
+    "MISTY",
+    0
+   ],
+   "416": [
+    "CLASS_84",
+    "LT. SURGE",
+    0
+   ],
+   "417": [
+    "CLASS_84",
+    "ERIKA",
+    0
+   ],
+   "418": [
+    "CLASS_84",
+    "KOGA",
+    0
+   ],
+   "419": [
+    "CLASS_84",
+    "BLAINE",
+    0
+   ],
+   "420": [
+    "CLASS_84",
+    "SABRINA",
+    0
+   ],
+   "421": [
+    "CLASS_88",
+    "THOMAS",
+    0
+   ],
+   "422": [
+    "CLASS_88",
+    "ARTHUR",
+    0
+   ],
+   "423": [
+    "CLASS_88",
+    "TUCKER",
+    0
+   ],
+   "424": [
+    "CLASS_88",
+    "NORTON",
+    0
+   ],
+   "425": [
+    "CLASS_88",
+    "WALTER",
+    0
+   ],
+   "426": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "427": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "428": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "429": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "430": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "431": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "432": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "433": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "434": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "435": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "436": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "437": [
+    "CLASS_89",
+    "TERRY",
+    0
+   ],
+   "438": [
+    "CLASS_90",
+    "TERRY",
+    0
+   ],
+   "439": [
+    "CLASS_90",
+    "TERRY",
+    0
+   ],
+   "440": [
+    "CLASS_90",
+    "TERRY",
+    0
+   ],
+   "441": [
+    "CLASS_91",
+    "PATRICIA",
+    0
+   ],
+   "442": [
+    "CLASS_91",
+    "CARLY",
+    0
+   ],
+   "443": [
+    "CLASS_91",
+    "HOPE",
+    0
+   ],
+   "444": [
+    "CLASS_91",
+    "PAULA",
+    0
+   ],
+   "445": [
+    "CLASS_91",
+    "LAUREL",
+    0
+   ],
+   "446": [
+    "CLASS_91",
+    "JODY",
+    0
+   ],
+   "447": [
+    "CLASS_91",
+    "TAMMY",
+    0
+   ],
+   "448": [
+    "CLASS_91",
+    "RUTH",
+    0
+   ],
+   "449": [
+    "CLASS_91",
+    "KARINA",
+    0
+   ],
+   "450": [
+    "CLASS_91",
+    "JANAE",
+    0
+   ],
+   "451": [
+    "CLASS_91",
+    "ANGELICA",
+    0
+   ],
+   "452": [
+    "CLASS_91",
+    "EMILIA",
+    0
+   ],
+   "453": [
+    "CLASS_91",
+    "JENNIFER",
+    0
+   ],
+   "462": [
+    "CLASS_91",
+    "AMANDA",
+    0
+   ],
+   "463": [
+    "CLASS_91",
+    "STACY",
+    0
+   ],
+   "464": [
+    "CLASS_91",
+    "TASHA",
+    0
+   ],
+   "465": [
+    "CLASS_65",
+    "JEREMY",
+    0
+   ],
+   "466": [
+    "CLASS_62",
+    "ALMA",
+    0
+   ],
+   "467": [
+    "CLASS_62",
+    "SUSIE",
+    0
+   ],
+   "468": [
+    "CLASS_62",
+    "VALERIE",
+    0
+   ],
+   "469": [
+    "CLASS_62",
+    "GWEN",
+    0
+   ],
+   "470": [
+    "CLASS_66",
+    "VIRGIL",
+    0
+   ],
+   "471": [
+    "CLASS_61",
+    "FLINT",
+    0
+   ],
+   "472": [
+    "CLASS_62",
+    "MISSY",
+    0
+   ],
+   "473": [
+    "CLASS_62",
+    "IRENE",
+    0
+   ],
+   "474": [
+    "CLASS_62",
+    "DANA",
+    0
+   ],
+   "475": [
+    "CLASS_62",
+    "ARIANA",
+    0
+   ],
+   "476": [
+    "CLASS_62",
+    "LEAH",
+    0
+   ],
+   "477": [
+    "CLASS_61",
+    "JUSTIN",
+    0
+   ],
+   "478": [
+    "CLASS_62",
+    "YAZMIN",
+    0
+   ],
+   "479": [
+    "CLASS_62",
+    "KINDRA",
+    0
+   ],
+   "480": [
+    "CLASS_62",
+    "BECKY",
+    0
+   ],
+   "481": [
+    "CLASS_62",
+    "CELIA",
+    0
+   ],
+   "482": [
+    "CLASS_88",
+    "BROOKS",
+    0
+   ],
+   "483": [
+    "CLASS_88",
+    "LAMAR",
+    0
+   ],
+   "484": [
+    "CLASS_92",
+    "ELI ? ANNE",
+    0
+   ],
+   "485": [
+    "CLASS_93",
+    "RAY ? TYRA",
+    0
+   ],
+   "486": [
+    "CLASS_94",
+    "GIA ? JES",
+    0
+   ],
+   "487": [
+    "CLASS_92",
+    "KIRI ? JAN",
+    0
+   ],
+   "488": [
+    "CLASS_95",
+    "RON ? MYA",
+    0
+   ],
+   "489": [
+    "CLASS_94",
+    "LEA ? JED",
+    0
+   ],
+   "490": [
+    "CLASS_96",
+    "LIA ? LUC",
+    0
+   ],
+   "491": [
+    "CLASS_96",
+    "LIL ? IAN",
+    0
+   ],
+   "498": [
+    "CLASS_57",
+    "BEN",
+    0
+   ],
+   "499": [
+    "CLASS_57",
+    "BEN",
+    0
+   ],
+   "500": [
+    "CLASS_57",
+    "CHAD",
+    0
+   ],
+   "501": [
+    "CLASS_59",
+    "RELI",
+    0
+   ],
+   "502": [
+    "CLASS_59",
+    "RELI",
+    0
+   ],
+   "503": [
+    "CLASS_57",
+    "TIMMY",
+    0
+   ],
+   "504": [
+    "CLASS_57",
+    "TIMMY",
+    0
+   ],
+   "505": [
+    "CLASS_57",
+    "TIMMY",
+    0
+   ],
+   "506": [
+    "CLASS_57",
+    "CHAD",
+    0
+   ],
+   "507": [
+    "CLASS_30",
+    "DAGA",
+    0
+   ],
+   "508": [
+    "CLASS_30",
+    "DAGA",
+    0
+   ],
+   "509": [
+    "CLASS_57",
+    "CHAD",
+    0
+   ],
+   "510": [
+    "CLASS_65",
+    "FRANKLIN",
+    0
+   ],
+   "511": [
+    "CLASS_97",
+    "PROF. OAK",
+    0
+   ],
+   "512": [
+    "CLASS_98",
+    "BRENDAN",
+    0
+   ],
+   "513": [
+    "CLASS_98",
+    "MAY",
+    0
+   ],
+   "514": [
+    "CLASS_98",
+    "RED",
+    0
+   ],
+   "515": [
+    "CLASS_98",
+    "LEAF",
+    0
+   ],
+   "516": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "517": [
+    "CLASS_75",
+    "JACLYN",
+    0
+   ],
+   "518": [
+    "CLASS_99",
+    "SHARON",
+    0
+   ],
+   "519": [
+    "CLASS_100",
+    "AMIRA",
+    0
+   ],
+   "520": [
+    "CLASS_101",
+    "ALIZE",
+    0
+   ],
+   "521": [
+    "CLASS_102",
+    "NICOLAS",
+    0
+   ],
+   "522": [
+    "CLASS_102",
+    "MADELINE",
+    0
+   ],
+   "523": [
+    "CLASS_103",
+    "NIKKI",
+    0
+   ],
+   "524": [
+    "CLASS_104",
+    "STANLY",
+    0
+   ],
+   "525": [
+    "CLASS_105",
+    "JACKI",
+    0
+   ],
+   "526": [
+    "CLASS_106",
+    "DAISY",
+    0
+   ],
+   "527": [
+    "CLASS_66",
+    "GOON",
+    0
+   ],
+   "528": [
+    "CLASS_66",
+    "GOON",
+    0
+   ],
+   "529": [
+    "CLASS_66",
+    "GOON",
+    0
+   ],
+   "531": [
+    "CLASS_58",
+    "ANTHONY",
+    0
+   ],
+   "532": [
+    "CLASS_58",
+    "CHARLIE",
+    0
+   ],
+   "533": [
+    "CLASS_92",
+    "ELI ? ANNE",
+    0
+   ],
+   "534": [
+    "CLASS_57",
+    "JOHNSON",
+    0
+   ],
+   "535": [
+    "CLASS_66",
+    "RICARDO",
+    0
+   ],
+   "536": [
+    "CLASS_66",
+    "JAREN",
+    0
+   ],
+   "537": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "538": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "539": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "540": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "541": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "542": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "543": [
+    "CLASS_85",
+    "ADMIN",
+    0
+   ],
+   "544": [
+    "CLASS_85",
+    "ADMIN",
+    0
+   ],
+   "545": [
+    "CLASS_82",
+    "GIDEON",
+    0
+   ],
+   "546": [
+    "CLASS_74",
+    "AMARA",
+    0
+   ],
+   "547": [
+    "CLASS_74",
+    "MARIA",
+    0
+   ],
+   "548": [
+    "CLASS_74",
+    "ABIGAIL",
+    0
+   ],
+   "549": [
+    "CLASS_70",
+    "FINN",
+    0
+   ],
+   "550": [
+    "CLASS_70",
+    "GARRETT",
+    0
+   ],
+   "551": [
+    "CLASS_69",
+    "TOMMY",
+    0
+   ],
+   "552": [
+    "CLASS_99",
+    "TANYA",
+    0
+   ],
+   "553": [
+    "CLASS_80",
+    "SHEA",
+    0
+   ],
+   "554": [
+    "CLASS_80",
+    "HUGH",
+    0
+   ],
+   "555": [
+    "CLASS_61",
+    "BRYCE",
+    0
+   ],
+   "556": [
+    "CLASS_62",
+    "CLAIRE",
+    0
+   ],
+   "557": [
+    "CLASS_95",
+    "MIK ? KIA",
+    0
+   ],
+   "558": [
+    "CLASS_103",
+    "VIOLET",
+    0
+   ],
+   "559": [
+    "CLASS_100",
+    "ALEXIS",
+    0
+   ],
+   "560": [
+    "CLASS_92",
+    "JOY ? MEG",
+    0
+   ],
+   "561": [
+    "CLASS_74",
+    "TISHA",
+    0
+   ],
+   "562": [
+    "CLASS_106",
+    "CELINA",
+    0
+   ],
+   "563": [
+    "CLASS_106",
+    "RAYNA",
+    0
+   ],
+   "564": [
+    "CLASS_105",
+    "GILLIAN",
+    0
+   ],
+   "565": [
+    "CLASS_57",
+    "DESTIN",
+    0
+   ],
+   "566": [
+    "CLASS_70",
+    "TOBY",
+    0
+   ],
+   "567": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "568": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "569": [
+    "CLASS_85",
+    "GRUNT",
+    0
+   ],
+   "570": [
+    "CLASS_79",
+    "MILO",
+    0
+   ],
+   "571": [
+    "CLASS_79",
+    "CHAZ",
+    0
+   ],
+   "572": [
+    "CLASS_79",
+    "HAROLD",
+    0
+   ],
+   "573": [
+    "CLASS_69",
+    "TYLOR",
+    0
+   ],
+   "574": [
+    "CLASS_70",
+    "MYMO",
+    0
+   ],
+   "575": [
+    "CLASS_74",
+    "NICOLE",
+    0
+   ],
+   "576": [
+    "CLASS_96",
+    "AVA ? GEB",
+    0
+   ],
+   "577": [
+    "CLASS_103",
+    "ROSE",
+    0
+   ],
+   "578": [
+    "CLASS_70",
+    "SAMIR",
+    0
+   ],
+   "579": [
+    "CLASS_74",
+    "DENISE",
+    0
+   ],
+   "580": [
+    "CLASS_92",
+    "MIU ? MIA",
+    0
+   ],
+   "581": [
+    "CLASS_65",
+    "EARL",
+    0
+   ],
+   "582": [
+    "CLASS_104",
+    "FOSTER",
+    0
+   ],
+   "583": [
+    "CLASS_104",
+    "LARRY",
+    0
+   ],
+   "584": [
+    "CLASS_65",
+    "DARYL",
+    0
+   ],
+   "585": [
+    "CLASS_63",
+    "HECTOR",
+    0
+   ],
+   "586": [
+    "CLASS_75",
+    "DARIO",
+    0
+   ],
+   "587": [
+    "CLASS_75",
+    "RODETTE",
+    0
+   ],
+   "588": [
+    "CLASS_103",
+    "MIAH",
+    0
+   ],
+   "589": [
+    "CLASS_94",
+    "EVE ? JON",
+    0
+   ],
+   "590": [
+    "CLASS_77",
+    "MASON",
+    0
+   ],
+   "591": [
+    "CLASS_99",
+    "CYNDY",
+    0
+   ],
+   "592": [
+    "CLASS_99",
+    "JOCELYN",
+    0
+   ],
+   "593": [
+    "CLASS_78",
+    "EVAN",
+    0
+   ],
+   "594": [
+    "CLASS_63",
+    "MARK",
+    0
+   ],
+   "595": [
+    "CLASS_102",
+    "LOGAN",
+    0
+   ],
+   "596": [
+    "CLASS_102",
+    "JACKSON",
+    0
+   ],
+   "597": [
+    "CLASS_102",
+    "BETH",
+    0
+   ],
+   "598": [
+    "CLASS_102",
+    "KATELYN",
+    0
+   ],
+   "599": [
+    "CLASS_86",
+    "LEROY",
+    0
+   ],
+   "600": [
+    "CLASS_86",
+    "MICHELLE",
+    0
+   ],
+   "601": [
+    "CLASS_93",
+    "LEX ? NYA",
+    0
+   ],
+   "602": [
+    "CLASS_104",
+    "BRANDON",
+    0
+   ],
+   "603": [
+    "CLASS_104",
+    "BENJAMIN",
+    0
+   ],
+   "604": [
+    "CLASS_106",
+    "EDNA",
+    0
+   ],
+   "605": [
+    "CLASS_88",
+    "CLIFFORD",
+    0
+   ],
+   "606": [
+    "CLASS_105",
+    "SELPHY",
+    0
+   ],
+   "607": [
+    "CLASS_104",
+    "LAWSON",
+    0
+   ],
+   "608": [
+    "CLASS_75",
+    "LAURA",
+    0
+   ],
+   "609": [
+    "CLASS_101",
+    "BETHANY",
+    0
+   ],
+   "610": [
+    "CLASS_101",
+    "ALLISON",
+    0
+   ],
+   "611": [
+    "CLASS_58",
+    "GARRET",
+    0
+   ],
+   "612": [
+    "CLASS_58",
+    "JONAH",
+    0
+   ],
+   "613": [
+    "CLASS_58",
+    "VANCE",
+    0
+   ],
+   "614": [
+    "CLASS_57",
+    "NASH",
+    0
+   ],
+   "615": [
+    "CLASS_57",
+    "CORDELL",
+    0
+   ],
+   "616": [
+    "CLASS_59",
+    "DALIA",
+    0
+   ],
+   "617": [
+    "CLASS_59",
+    "JOANA",
+    0
+   ],
+   "618": [
+    "CLASS_61",
+    "RILEY",
+    0
+   ],
+   "619": [
+    "CLASS_62",
+    "MARCY",
+    0
+   ],
+   "620": [
+    "CLASS_104",
+    "LAYTON",
+    0
+   ],
+   "621": [
+    "CLASS_62",
+    "KELSEY",
+    0
+   ],
+   "622": [
+    "CLASS_62",
+    "KELSEY",
+    0
+   ],
+   "623": [
+    "CLASS_62",
+    "KELSEY",
+    0
+   ],
+   "624": [
+    "CLASS_61",
+    "RICKY",
+    0
+   ],
+   "625": [
+    "CLASS_61",
+    "RICKY",
+    0
+   ],
+   "626": [
+    "CLASS_61",
+    "RICKY",
+    0
+   ],
+   "627": [
+    "CLASS_61",
+    "JEFF",
+    0
+   ],
+   "628": [
+    "CLASS_61",
+    "JEFF",
+    0
+   ],
+   "629": [
+    "CLASS_61",
+    "JEFF",
+    0
+   ],
+   "630": [
+    "CLASS_62",
+    "ISABELLE",
+    0
+   ],
+   "631": [
+    "CLASS_62",
+    "ISABELLE",
+    0
+   ],
+   "632": [
+    "CLASS_62",
+    "ISABELLE",
+    0
+   ],
+   "633": [
+    "CLASS_57",
+    "YASU",
+    0
+   ],
+   "634": [
+    "CLASS_57",
+    "YASU",
+    0
+   ],
+   "635": [
+    "CLASS_68",
+    "BERNIE",
+    0
+   ],
+   "636": [
+    "CLASS_72",
+    "DARIAN",
+    0
+   ],
+   "637": [
+    "CLASS_61",
+    "CHRIS",
+    0
+   ],
+   "638": [
+    "CLASS_61",
+    "CHRIS",
+    0
+   ],
+   "639": [
+    "CLASS_61",
+    "CHRIS",
+    0
+   ],
+   "640": [
+    "CLASS_62",
+    "ALICIA",
+    0
+   ],
+   "641": [
+    "CLASS_62",
+    "ALICIA",
+    0
+   ],
+   "642": [
+    "CLASS_62",
+    "ALICIA",
+    0
+   ],
+   "643": [
+    "CLASS_65",
+    "JEREMY",
+    0
+   ],
+   "644": [
+    "CLASS_63",
+    "MARK",
+    0
+   ],
+   "645": [
+    "CLASS_63",
+    "HERMAN",
+    0
+   ],
+   "646": [
+    "CLASS_63",
+    "HERMAN",
+    0
+   ],
+   "647": [
+    "CLASS_65",
+    "TRENT",
+    0
+   ],
+   "648": [
+    "CLASS_59",
+    "MEGAN",
+    0
+   ],
+   "649": [
+    "CLASS_59",
+    "MEGAN",
+    0
+   ],
+   "650": [
+    "CLASS_64",
+    "GLENN",
+    0
+   ],
+   "651": [
+    "CLASS_72",
+    "RICH",
+    0
+   ],
+   "652": [
+    "CLASS_66",
+    "JAREN",
+    0
+   ],
+   "653": [
+    "CLASS_69",
+    "ELLIOT",
+    0
+   ],
+   "654": [
+    "CLASS_76",
+    "LUCA",
+    0
+   ],
+   "655": [
+    "CLASS_73",
+    "SHEILA",
+    0
+   ],
+   "656": [
+    "CLASS_79",
+    "ROBERT",
+    0
+   ],
+   "657": [
+    "CLASS_79",
+    "ROBERT",
+    0
+   ],
+   "658": [
+    "CLASS_62",
+    "SUSIE",
+    0
+   ],
+   "659": [
+    "CLASS_62",
+    "SUSIE",
+    0
+   ],
+   "660": [
+    "CLASS_62",
+    "SUSIE",
+    0
+   ],
+   "661": [
+    "CLASS_66",
+    "LUKAS",
+    0
+   ],
+   "662": [
+    "CLASS_79",
+    "BENNY",
+    0
+   ],
+   "663": [
+    "CLASS_79",
+    "BENNY",
+    0
+   ],
+   "664": [
+    "CLASS_79",
+    "MARLON",
+    0
+   ],
+   "665": [
+    "CLASS_79",
+    "MARLON",
+    0
+   ],
+   "666": [
+    "CLASS_73",
+    "GRACE",
+    0
+   ],
+   "667": [
+    "CLASS_79",
+    "CHESTER",
+    0
+   ],
+   "668": [
+    "CLASS_79",
+    "CHESTER",
+    0
+   ],
+   "669": [
+    "CLASS_62",
+    "BECKY",
+    0
+   ],
+   "670": [
+    "CLASS_62",
+    "BECKY",
+    0
+   ],
+   "671": [
+    "CLASS_62",
+    "BECKY",
+    0
+   ],
+   "672": [
+    "CLASS_95",
+    "RON ? MYA",
+    0
+   ],
+   "673": [
+    "CLASS_95",
+    "RON ? MYA",
+    0
+   ],
+   "674": [
+    "CLASS_95",
+    "RON ? MYA",
+    0
+   ],
+   "675": [
+    "CLASS_66",
+    "RUBEN",
+    0
+   ],
+   "676": [
+    "CLASS_71",
+    "CAMRON",
+    0
+   ],
+   "677": [
+    "CLASS_66",
+    "JAXON",
+    0
+   ],
+   "678": [
+    "CLASS_71",
+    "ISAIAH",
+    0
+   ],
+   "679": [
+    "CLASS_71",
+    "COREY",
+    0
+   ],
+   "680": [
+    "CLASS_79",
+    "JACOB",
+    0
+   ],
+   "681": [
+    "CLASS_79",
+    "JACOB",
+    0
+   ],
+   "682": [
+    "CLASS_74",
+    "ALICE",
+    0
+   ],
+   "683": [
+    "CLASS_70",
+    "DARRIN",
+    0
+   ],
+   "684": [
+    "CLASS_62",
+    "MISSY",
+    0
+   ],
+   "685": [
+    "CLASS_62",
+    "MISSY",
+    0
+   ],
+   "686": [
+    "CLASS_69",
+    "WADE",
+    0
+   ],
+   "687": [
+    "CLASS_70",
+    "JACK",
+    0
+   ],
+   "688": [
+    "CLASS_96",
+    "LIL ? IAN",
+    0
+   ],
+   "689": [
+    "CLASS_96",
+    "LIL ? IAN",
+    0
+   ],
+   "690": [
+    "CLASS_70",
+    "FINN",
+    0
+   ],
+   "691": [
+    "CLASS_99",
+    "SHARON",
+    0
+   ],
+   "692": [
+    "CLASS_99",
+    "SHARON",
+    0
+   ],
+   "693": [
+    "CLASS_99",
+    "TANYA",
+    0
+   ],
+   "694": [
+    "CLASS_99",
+    "TANYA",
+    0
+   ],
+   "695": [
+    "CLASS_80",
+    "SHEA",
+    0
+   ],
+   "696": [
+    "CLASS_80",
+    "SHEA",
+    0
+   ],
+   "697": [
+    "CLASS_80",
+    "HUGH",
+    0
+   ],
+   "698": [
+    "CLASS_80",
+    "HUGH",
+    0
+   ],
+   "699": [
+    "CLASS_95",
+    "MIK ? KIA",
+    0
+   ],
+   "700": [
+    "CLASS_95",
+    "MIK ? KIA",
+    0
+   ],
+   "701": [
+    "CLASS_100",
+    "AMIRA",
+    0
+   ],
+   "702": [
+    "CLASS_92",
+    "JOY ? MEG",
+    0
+   ],
+   "703": [
+    "CLASS_106",
+    "RAYNA",
+    0
+   ],
+   "704": [
+    "CLASS_57",
+    "DESTIN",
+    0
+   ],
+   "705": [
+    "CLASS_101",
+    "ALIZE",
+    0
+   ],
+   "706": [
+    "CLASS_94",
+    "GIA ? JES",
+    0
+   ],
+   "707": [
+    "CLASS_94",
+    "GIA ? JES",
+    0
+   ],
+   "708": [
+    "CLASS_79",
+    "MILO",
+    0
+   ],
+   "709": [
+    "CLASS_79",
+    "CHAZ",
+    0
+   ],
+   "710": [
+    "CLASS_79",
+    "HAROLD",
+    0
+   ],
+   "711": [
+    "CLASS_74",
+    "NICOLE",
+    0
+   ],
+   "712": [
+    "CLASS_75",
+    "JACLYN",
+    0
+   ],
+   "713": [
+    "CLASS_70",
+    "SAMIR",
+    0
+   ],
+   "714": [
+    "CLASS_65",
+    "EARL",
+    0
+   ],
+   "715": [
+    "CLASS_104",
+    "LARRY",
+    0
+   ],
+   "716": [
+    "CLASS_63",
+    "HECTOR",
+    0
+   ],
+   "717": [
+    "CLASS_75",
+    "DARIO",
+    0
+   ],
+   "718": [
+    "CLASS_75",
+    "RODETTE",
+    0
+   ],
+   "719": [
+    "CLASS_77",
+    "MASON",
+    0
+   ],
+   "720": [
+    "CLASS_102",
+    "NICOLAS",
+    0
+   ],
+   "721": [
+    "CLASS_102",
+    "MADELINE",
+    0
+   ],
+   "722": [
+    "CLASS_99",
+    "CYNDY",
+    0
+   ],
+   "723": [
+    "CLASS_78",
+    "EVAN",
+    0
+   ],
+   "724": [
+    "CLASS_102",
+    "JACKSON",
+    0
+   ],
+   "725": [
+    "CLASS_102",
+    "KATELYN",
+    0
+   ],
+   "726": [
+    "CLASS_86",
+    "LEROY",
+    0
+   ],
+   "727": [
+    "CLASS_86",
+    "MICHELLE",
+    0
+   ],
+   "728": [
+    "CLASS_93",
+    "LEX ? NYA",
+    0
+   ],
+   "729": [
+    "CLASS_58",
+    "COLTON",
+    0
+   ],
+   "730": [
+    "CLASS_58",
+    "COLTON",
+    0
+   ],
+   "731": [
+    "CLASS_58",
+    "COLTON",
+    0
+   ],
+   "732": [
+    "CLASS_70",
+    "MATTHEW",
+    0
+   ],
+   "733": [
+    "CLASS_70",
+    "TONY",
+    0
+   ],
+   "734": [
+    "CLASS_74",
+    "MELISSA",
+    0
+   ],
+   "735": [
+    "CLASS_87",
+    "LORELEI",
+    0
+   ],
+   "736": [
+    "CLASS_87",
+    "BRUNO",
+    0
+   ],
+   "737": [
+    "CLASS_87",
+    "AGATHA",
+    0
+   ],
+   "738": [
+    "CLASS_87",
+    "LANCE",
+    0
+   ],
+   "739": [
+    "CLASS_90",
+    "TERRY",
+    0
+   ],
+   "740": [
+    "CLASS_90",
+    "TERRY",
+    0
+   ],
+   "741": [
+    "CLASS_90",
+    "TERRY",
+    0
+   ],
+   "742": [
+    "CLASS_71",
+    "PAXTON",
+    0
+   ]
+  },
+  "item_sym": {
+   "1": "MASTERBALL",
+   "2": "ULTRABALL",
+   "5": "SAFARIBALL",
+   "36": "ELIXIR"
+  }
+ }
+}

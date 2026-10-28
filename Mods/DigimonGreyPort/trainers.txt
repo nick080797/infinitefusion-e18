@@ -1,0 +1,2007 @@
+[CLASS_57, ?en?, 0]
+Pokemon = D,11
+
+[CLASS_57, ?osh, 0]
+Pokemon = D,10
+Pokemon = X,10
+
+[CLASS_57, ?oey, 0]
+Pokemon = HSX,80
+Pokemon = N3X,80
+Pokemon = DX,80
+
+[CLASS_57, ?an?, 0]
+Pokemon = R,14
+
+[CLASS_57, ?had, 0]
+Pokemon = Y,15
+
+[CLASS_57, ?yler, 0]
+Pokemon = YÖ,21
+
+[CLASS_57, ?illon, 0]
+Pokemon = N9,19
+
+[CLASS_57, ?asu, 0]
+Pokemon = ÜS,17
+Pokemon = DP,17
+
+[CLASS_57, ?ave, 0]
+Pokemon = S,18
+Pokemon = S,18
+
+[CLASS_57, ?en?, 0]
+Pokemon = D,17
+
+[CLASS_58, ?ick, 0]
+Pokemon = C,6
+
+[CLASS_58, ?oug, 0]
+Pokemon = C,7
+Pokemon = C,7
+Pokemon = H,7
+
+[CLASS_58, ?ammy, 0]
+Pokemon = C,9
+
+[CLASS_58, ?olton, 0]
+Pokemon = C,10
+Pokemon = H,10
+
+[CLASS_58, ?reg, 0]
+Pokemon = C,9
+Pokemon = C,9
+Pokemon = H,9
+
+[CLASS_58, ?ames, 0]
+Pokemon = H,11
+
+[CLASS_58, ?ent, 0]
+Pokemon = C,11
+Pokemon = H,11
+
+[CLASS_58, ?obby, 0]
+Pokemon = C,10
+Pokemon = H,10
+
+[CLASS_58, ?ale, 0]
+Pokemon = C,10
+Pokemon = H,10
+
+[CLASS_58, ?eigo, 0]
+Pokemon = S,16
+
+[CLASS_58, ?rent, 0]
+Pokemon = S,19
+Pokemon = D,19
+
+[CLASS_59, ?ally, 0]
+Pokemon = Y,10
+Pokemon = Y,10
+
+[CLASS_59, ?iriam, 0]
+Pokemon = P,11
+
+[CLASS_59, ?ris, 0]
+Pokemon = LL,14
+
+[CLASS_59, ?eli, 0]
+Pokemon = U,14
+
+[CLASS_59, ?liö, 0]
+Pokemon = P,12
+
+[CLASS_59, ?aley, 0]
+Pokemon = U,15
+
+[CLASS_59, ?nnö, 0]
+Pokemon = T,18
+
+[CLASS_59, ?awn, 0]
+Pokemon = M,18
+Pokemon = DD,18
+
+[CLASS_59, ?aige, 0]
+Pokemon = T,23
+
+[CLASS_59, ?egan, 0]
+Pokemon = C,19
+Pokemon = YÖ,19
+Pokemon = N0S,19
+
+[CLASS_59, ?ulia, 0]
+Pokemon = DP,22
+Pokemon = DD,22
+
+[CLASS_59, ?isa, 0]
+Pokemon = Y,23
+Pokemon = Y,23
+
+[CLASS_60, ?dmond, 0]
+Pokemon = SJ,18
+Pokemon = A,18
+
+[CLASS_60, ?revor, 0]
+Pokemon = C,17
+Pokemon = N0,17
+
+[CLASS_60, ?eonard, 0]
+Pokemon = A,21
+
+[CLASS_60, ?uncan, 0]
+Pokemon = A,17
+Pokemon = A,17
+Pokemon = N0,17
+
+[CLASS_60, ?uey, 0]
+Pokemon = N0,18
+
+[CLASS_60, ?ylan, 0]
+Pokemon = A,17
+Pokemon = C,17
+Pokemon = C,17
+
+[CLASS_60, ?hillip, 0]
+Pokemon = OS,20
+
+[CLASS_61, ?iam, 0]
+Pokemon = W,11
+
+[CLASS_61, ?hane, 0]
+Pokemon = D,14
+
+[CLASS_61, ?than, 0]
+Pokemon = D,18
+
+[CLASS_61, ?eff, 0]
+Pokemon = A,14
+Pokemon = S,16
+
+[CLASS_61, ?hris, 0]
+Pokemon = C,21
+Pokemon = P,21
+
+[CLASS_61, ?rew, 0]
+Pokemon = H,19
+Pokemon = D,19
+
+[CLASS_62, ?sabelle, 0]
+Pokemon = ÜS,16
+
+[CLASS_62, ?elsey, 0]
+Pokemon = N0S,15
+
+[CLASS_62, ?licia, 0]
+Pokemon = Y,18
+Pokemon = DPP,18
+Pokemon = CQ,18
+
+[CLASS_62, ?eidi?, 0]
+Pokemon = N9,20
+
+[CLASS_62, ?arol, 0]
+Pokemon = T,21
+
+[CLASS_62, ?ofia?, 0]
+Pokemon = N9,21
+Pokemon = DD,21
+
+[CLASS_62, ?artha, 0]
+Pokemon = Y,22
+
+[CLASS_62, ?ina, 0]
+Pokemon = Y,24
+Pokemon = N0S,24
+
+[CLASS_62, ?annah, 0]
+Pokemon = D,24
+
+[CLASS_63, ?ark, 0]
+Pokemon = S,22
+
+[CLASS_63, ?ooper, 0]
+Pokemon = RS,20
+
+[CLASS_63, ?inston, 0]
+Pokemon = YS,25
+
+[CLASS_63, ?awson, 0]
+Pokemon = PS,40
+Pokemon = T,40
+
+[CLASS_64, ?idan, 0]
+Pokemon = Y,20
+Pokemon = N,20
+Pokemon = OP,20
+
+[CLASS_64, ?lenn, 0]
+Pokemon = V,22
+Pokemon = RS,22
+
+[CLASS_64, ?eslie, 0]
+Pokemon = Y,26
+
+[CLASS_64, ?rik, 0]
+Pokemon = RO,36
+Pokemon = TD,36
+
+[CLASS_64, ?very, 0]
+Pokemon = TD,35
+Pokemon = RO,34
+
+[CLASS_64, ?erek, 0]
+Pokemon = PL,41
+
+[CLASS_64, ?ac?, 0]
+Pokemon = U,37
+
+[CLASS_65, ?arcos, 0]
+Pokemon = W,10
+
+[CLASS_65, ?ranklin, 0]
+Pokemon = D,14
+
+[CLASS_65, ?ob?, 0]
+Pokemon = W,13
+Pokemon = N6,13
+
+[CLASS_65, ?ayne, 0]
+Pokemon = TS,89
+
+[CLASS_65, ?rice, 0]
+Pokemon = P,20
+
+[CLASS_65, ?rent, 0]
+Pokemon = RS,19
+Pokemon = OP,19
+
+[CLASS_65, ?ric, 0]
+Pokemon = P,20
+Pokemon = RS,20
+
+[CLASS_65, ?enny, 0]
+Pokemon = P,19
+Pokemon = OP,19
+
+[CLASS_65, ?liver, 0]
+Pokemon = RS,20
+Pokemon = N,20
+
+[CLASS_66, ?ared, 0]
+Pokemon = Y,28
+Pokemon = Y,28
+Pokemon = Y,28
+
+[CLASS_66, ?alik, 0]
+Pokemon = Y,29
+Pokemon = V,29
+
+[CLASS_66, ?rnest, 0]
+Pokemon = Y,25
+Pokemon = Ü,25
+Pokemon = V,25
+Pokemon = Y,25
+Pokemon = V,25
+
+[CLASS_66, ?lex, 0]
+Pokemon = Y,28
+Pokemon = V,28
+Pokemon = S,28
+
+[CLASS_66, ?ao?, 0]
+Pokemon = V,29
+Pokemon = Y,29
+
+[CLASS_66, ?uben, 0]
+Pokemon = S,28
+Pokemon = Y,28
+Pokemon = S,28
+
+[CLASS_66, ?illy, 0]
+Pokemon = V,33
+
+[CLASS_66, ?axon, 0]
+Pokemon = S,29
+Pokemon = V,29
+
+[CLASS_66, ?illiam, 0]
+Pokemon = Y,25
+Pokemon = C,25
+
+[CLASS_66, ?ukas, 0]
+Pokemon = Y,26
+Pokemon = Ü,26
+Pokemon = V,26
+Pokemon = Y,26
+
+[CLASS_66, ?saac, 0]
+Pokemon = V,28
+Pokemon = V,28
+Pokemon = Y,28
+
+[CLASS_66, ?erald, 0]
+Pokemon = Y,29
+Pokemon = A,29
+
+[CLASS_67, ?uinn, 0]
+Pokemon = U,36
+Pokemon = O,36
+
+[CLASS_67, ?amon, 0]
+Pokemon = RO,41
+
+[CLASS_67, ?rnie, 0]
+Pokemon = PGS,35
+Pokemon = PS,35
+
+[CLASS_67, ?imon, 0]
+Pokemon = T,38
+
+[CLASS_67, ?ewis, 0]
+Pokemon = UNKNOWN850,35
+Pokemon = UU,35
+
+[CLASS_68, ?aily, 0]
+Pokemon = N9,21
+Pokemon = N9,21
+
+[CLASS_68, ?raxton, 0]
+Pokemon = D,21
+
+[CLASS_68, ?ernie, 0]
+Pokemon = DD,18
+
+[CLASS_69, ?ale, 0]
+Pokemon = S,17
+Pokemon = N,17
+
+[CLASS_69, ?arny, 0]
+Pokemon = N0,17
+Pokemon = A,17
+
+[CLASS_69, ?edÜ, 0]
+Pokemon = C,22
+Pokemon = C,22
+
+[CLASS_69, ?hip, 0]
+Pokemon = N0,24
+Pokemon = C,24
+
+[CLASS_69, ?ank, 0]
+Pokemon = A,27
+
+[CLASS_69, ?lliot, 0]
+Pokemon = A,21
+Pokemon = C,21
+Pokemon = A,21
+
+[CLASS_69, ?onald, 0]
+Pokemon = C,28
+Pokemon = O9,28
+Pokemon = C,28
+
+[CLASS_69, ?laude, 0]
+Pokemon = A,31
+Pokemon = C,31
+
+[CLASS_69, ?ade, 0]
+Pokemon = OS,27
+Pokemon = C,27
+Pokemon = A,27
+Pokemon = OP,27
+Pokemon = SJ,27
+Pokemon = N0,27
+
+[CLASS_69, ?olan, 0]
+Pokemon = C,33
+Pokemon = N0,33
+
+[CLASS_69, ?ndrew, 0]
+Pokemon = OS,24
+Pokemon = O9,24
+
+[CLASS_70, ?uis, 0]
+Pokemon = A,16
+Pokemon = A,16
+
+[CLASS_70, ?ichard, 0]
+Pokemon = N0,30
+Pokemon = A,30
+
+[CLASS_70, ?eece, 0]
+Pokemon = C,29
+Pokemon = A,29
+
+[CLASS_70, ?atthew, 0]
+Pokemon = SJ,30
+
+[CLASS_70, ?ouglas, 0]
+Pokemon = A,27
+Pokemon = N0,27
+Pokemon = N0,27
+Pokemon = C,27
+
+[CLASS_70, ?avid, 0]
+Pokemon = C,29
+Pokemon = A,29
+Pokemon = C,29
+
+[CLASS_70, ?ony, 0]
+Pokemon = A,30
+Pokemon = A,30
+
+[CLASS_70, ?xle, 0]
+Pokemon = N0,27
+Pokemon = N0,27
+Pokemon = A,27
+Pokemon = N0,27
+
+[CLASS_70, ?arry, 0]
+Pokemon = A,31
+Pokemon = C,31
+
+[CLASS_70, ?ean, 0]
+Pokemon = TD,35
+
+[CLASS_70, ?arrin, 0]
+Pokemon = A,28
+Pokemon = A,28
+Pokemon = N0,28
+Pokemon = SJ,28
+
+[CLASS_70, ?pencer, 0]
+Pokemon = A,33
+Pokemon = N0,33
+
+[CLASS_70, ?erome, 0]
+Pokemon = OS,33
+
+[CLASS_70, ?oland, 0]
+Pokemon = N0,32
+Pokemon = A,32
+
+[CLASS_71, ?oji, 0]
+Pokemon = P,28
+Pokemon = D,28
+Pokemon = N0,28
+
+[CLASS_71, ?uke, 0]
+Pokemon = D,29
+Pokemon = U,29
+
+[CLASS_71, ?amron, 0]
+Pokemon = D,29
+Pokemon = P,29
+
+[CLASS_71, ?aul, 0]
+Pokemon = D,29
+
+[CLASS_71, ?saiah, 0]
+Pokemon = P,29
+
+[CLASS_71, ?eek, 0]
+Pokemon = P,35
+
+[CLASS_71, ?amal, 0]
+Pokemon = D,26
+Pokemon = ÜS,26
+Pokemon = P,26
+Pokemon = N0,26
+
+[CLASS_71, ?orey, 0]
+Pokemon = D,29
+Pokemon = P,29
+
+[CLASS_71, ?hase, 0]
+Pokemon = N0,31
+Pokemon = N0,31
+Pokemon = O,31
+
+[CLASS_72, ?ugo, 0]
+Pokemon = OS,18
+
+[CLASS_72, ?asper, 0]
+Pokemon = Y,18
+
+[CLASS_72, ?arian, 0]
+Pokemon = B,18
+
+[CLASS_73, ?ridget, 0]
+Pokemon = Y,21
+Pokemon = Y,21
+
+[CLASS_73, ?amia, 0]
+Pokemon = N0S,24
+
+[CLASS_73, ?ori, 0]
+Pokemon = N,24
+
+[CLASS_73, ?ola, 0]
+Pokemon = T,27
+
+[CLASS_73, ?heila, 0]
+Pokemon = DP,29
+
+[CLASS_74, ?ora, 0]
+Pokemon = A,30
+Pokemon = OP,30
+Pokemon = O9,30
+
+[CLASS_74, ?elissa, 0]
+Pokemon = C,31
+
+[CLASS_73, ?race, 0]
+Pokemon = N9,29
+
+[CLASS_73, ?livia, 0]
+Pokemon = T,29
+
+[CLASS_74, ?nya, 0]
+Pokemon = C,27
+Pokemon = O9,27
+Pokemon = DD,30
+
+[CLASS_74, ?lice, 0]
+Pokemon = C,30
+Pokemon = DD,30
+
+[CLASS_74, ?onnie, 0]
+Pokemon = O9,29
+Pokemon = DD,29
+
+[CLASS_74, ?hirley, 0]
+Pokemon = A,30
+Pokemon = DD,30
+Pokemon = N0,30
+
+[CLASS_75, ?ohan, 0]
+Pokemon = Y,35
+
+[CLASS_75, ?yron, 0]
+Pokemon = U,35
+
+[CLASS_75, ?ameron, 0]
+Pokemon = Y,35
+
+[CLASS_75, ?reston, 0]
+Pokemon = MYÖ,38
+
+[CLASS_76, ?uca, 0]
+Pokemon = S,29
+
+[CLASS_77, ?alton, 0]
+Pokemon = N3I,29
+
+[CLASS_77, ?elson, 0]
+Pokemon = SEX,41
+
+[CLASS_77, ?irk, 0]
+Pokemon = N9,33
+Pokemon = N9,33
+
+[CLASS_77, ?hawn, 0]
+Pokemon = S,35
+Pokemon = S,35
+
+[CLASS_77, ?regory, 0]
+Pokemon = U,48
+
+[CLASS_77, ?dward, 0]
+Pokemon = S,50
+Pokemon = Z,50
+
+[CLASS_77, ?ayden, 0]
+Pokemon = S,38
+
+[CLASS_77, ?ate, 0]
+Pokemon = T,35
+
+[CLASS_78, ?hil, 0]
+Pokemon = VS,35
+Pokemon = E,35
+
+[CLASS_78, ?dgar, 0]
+Pokemon = Y,35
+
+[CLASS_78, ?ason, 0]
+Pokemon = S,43
+
+[CLASS_78, ?ole, 0]
+Pokemon = S,39
+Pokemon = S,39
+
+[CLASS_78, ?incent, 0]
+Pokemon = S,44
+Pokemon = A,44
+
+[CLASS_78, ?ohn, 0]
+Pokemon = S,42
+Pokemon = D,42
+Pokemon = Y,42
+
+[CLASS_79, ?erry, 0]
+Pokemon = ÜS,25
+Pokemon = YÖ,25
+
+[CLASS_79, ?obert, 0]
+Pokemon = ÜS,26
+
+[CLASS_79, ?enny, 0]
+Pokemon = Y,29
+
+[CLASS_79, ?dwin, 0]
+Pokemon = ÜS,26
+
+[CLASS_79, ?hester, 0]
+Pokemon = OP,28
+Pokemon = RS,28
+
+[CLASS_79, ?acob, 0]
+Pokemon = ÜS,26
+
+[CLASS_79, ?oger, 0]
+Pokemon = H,30
+
+[CLASS_79, ?itch, 0]
+Pokemon = ÜS,26
+
+[CLASS_80, ?ike, 0]
+Pokemon = D,31
+
+[CLASS_80, ?ideki, 0]
+Pokemon = P,32
+
+[CLASS_80, ?aron, 0]
+Pokemon = D,36
+
+[CLASS_80, ?itoshi, 0]
+Pokemon = D,31
+
+[CLASS_80, ?tsushi, 0]
+Pokemon = S,40
+Pokemon = YD,40
+
+[CLASS_80, ?iyo, 0]
+Pokemon = VS,43
+
+[CLASS_80, ?akashi, 0]
+Pokemon = S,38
+
+[CLASS_80, ?aisuke, 0]
+Pokemon = P,43
+Pokemon = DPP,43
+Pokemon = N9,43
+
+[CLASS_81, ????, 0]
+Pokemon = UNKNOWN850,16
+Pokemon = D,15
+
+[CLASS_81, ????, 0]
+Pokemon = UNKNOWN850,16
+Pokemon = D,15
+
+[CLASS_81, ????, 0]
+Pokemon = P,17
+Pokemon = N3I,16
+Pokemon = DPP,18
+
+[CLASS_82, ?ed?, 0]
+Pokemon = S,34
+
+[CLASS_82, ?ose, 0]
+Pokemon = Y,29
+
+[CLASS_82, ?eau, 0]
+Pokemon = Y,26
+Pokemon = T,26
+
+[CLASS_82, ?aylor, 0]
+Pokemon = Y,25
+
+[CLASS_82, ?oshua, 0]
+Pokemon = S,29
+
+[CLASS_82, ?arker, 0]
+Pokemon = S,29
+
+[CLASS_82, ?d??, 0]
+Pokemon = Y,28
+
+[CLASS_82, ?ravis, 0]
+Pokemon = S,29
+
+[CLASS_82, ?raydon, 0]
+Pokemon = T,35
+
+[CLASS_82, ?van, 0]
+Pokemon = S,35
+Pokemon = Y,35
+
+[CLASS_83, ?iovanni, 0]
+Pokemon = S,25
+Pokemon = VEX,24
+
+[CLASS_83, ?iovanni, 0]
+Pokemon = PS,37
+Pokemon = YD,35
+Pokemon = HS,37
+
+[CLASS_84, ?iovanni, 0]
+Pokemon = PS,45
+Pokemon = HS,45
+Pokemon = S,50
+Pokemon = FL,50
+
+[CLASS_85, ?runt, 0]
+Pokemon = D,13
+
+[CLASS_85, ?runt, 0]
+Pokemon = D,11
+
+[CLASS_85, ?runt, 0]
+Pokemon = D,13
+
+[CLASS_85, ?runt, 0]
+Pokemon = CQ,17
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,15
+
+[CLASS_85, ?runt, 0]
+Pokemon = CQ,21
+
+[CLASS_85, ?runt, 0]
+Pokemon = V,20
+Pokemon = Y,20
+Pokemon = Y,20
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,19
+
+[CLASS_85, ?runt, 0]
+Pokemon = V,22
+Pokemon = Y,22
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,17
+Pokemon = V,17
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,20
+Pokemon = CQ,20
+
+[CLASS_85, ?runt, 0]
+Pokemon = D,21
+Pokemon = P,21
+
+[CLASS_85, ?runt, 0]
+Pokemon = H,23
+Pokemon = H,23
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,23
+Pokemon = H,23
+Pokemon = Y,23
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,21
+
+[CLASS_85, ?runt, 0]
+Pokemon = D,25
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,26
+Pokemon = CQ,26
+
+[CLASS_85, ?runt, 0]
+Pokemon = P,23
+
+[CLASS_85, ?runt, 0]
+Pokemon = CQ,26
+Pokemon = Y,26
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,25
+
+[CLASS_85, ?runt, 0]
+Pokemon = C,28
+
+[CLASS_85, ?runt, 0]
+Pokemon = P,29
+Pokemon = CQ,29
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,28
+Pokemon = S,28
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,33
+
+[CLASS_85, ?runt, 0]
+Pokemon = CQ,33
+
+[CLASS_85, ?runt, 0]
+Pokemon = D,29
+Pokemon = N0,29
+
+[CLASS_85, ?runt, 0]
+Pokemon = N,28
+Pokemon = DPP,28
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,26
+
+[CLASS_85, ?runt, 0]
+Pokemon = N,29
+Pokemon = S,29
+
+[CLASS_85, ?runt, 0]
+Pokemon = H,29
+Pokemon = X,29
+
+[CLASS_85, ?runt, 0]
+Pokemon = T,26
+
+[CLASS_85, ?runt, 0]
+Pokemon = Y,28
+
+[CLASS_85, ?runt, 0]
+Pokemon = CQ,28
+Pokemon = V,28
+Pokemon = Y,28
+
+[CLASS_85, ?runt, 0]
+Pokemon = CQ,28
+Pokemon = D,28
+
+[CLASS_85, ?runt, 0]
+Pokemon = S,25
+Pokemon = Y,25
+
+[CLASS_85, ?runt, 0]
+Pokemon = N,32
+Pokemon = CQ,32
+Pokemon = D,32
+
+[CLASS_86, ?amuel, 0]
+Pokemon = PS,37
+Pokemon = HS,37
+Pokemon = N4U,38
+Pokemon = S,39
+Pokemon = RO,39
+
+[CLASS_86, ?eorge, 0]
+Pokemon = YD,42
+Pokemon = T,42
+
+[CLASS_86, ?olby, 0]
+Pokemon = O,42
+Pokemon = U,42
+Pokemon = U,43
+
+[CLASS_86, ?aul, 0]
+Pokemon = A,42
+Pokemon = TD,42
+
+[CLASS_86, ?olando, 0]
+Pokemon = BU,42
+Pokemon = S,42
+Pokemon = UU,42
+Pokemon = MYÖ,42
+Pokemon = PGS,42
+
+[CLASS_86, ?ilbert, 0]
+Pokemon = SEX,42
+
+[CLASS_86, ?wen, 0]
+Pokemon = YÖ,42
+Pokemon = T,42
+Pokemon = H,42
+Pokemon = S,42
+
+[CLASS_86, ?erke, 0]
+Pokemon = A,42
+Pokemon = TD,42
+Pokemon = RS,42
+Pokemon = A,42
+
+[CLASS_86, ?uji, 0]
+Pokemon = S,38
+Pokemon = VS,38
+Pokemon = S,38
+Pokemon = S,38
+Pokemon = OS,38
+
+[CLASS_86, ????, 0]
+Pokemon = C,37
+Pokemon = S,37
+Pokemon = SEX,38
+Pokemon = TS,39
+Pokemon = YD,39
+
+[CLASS_86, ?Ä??, 0]
+Pokemon = Y,22
+Pokemon = N,22
+Pokemon = Y,22
+Pokemon = N0S,22
+
+[CLASS_86, ?Ö??, 0]
+Pokemon = Ö,42
+Pokemon = S,42
+Pokemon = N4U,42
+
+[CLASS_86, ?q??, 0]
+Pokemon = Y,42
+Pokemon = S,42
+
+[CLASS_86, ??????, 0]
+Pokemon = S,42
+Pokemon = PS,42
+Pokemon = Ü,42
+Pokemon = H,42
+
+[CLASS_86, ???J??, 0]
+Pokemon = P,42
+
+[CLASS_86, ?????…, 0]
+Pokemon = Y,42
+Pokemon = Ö,42
+Pokemon = S,42
+Pokemon = S,42
+
+[CLASS_86, ?h??, 0]
+Pokemon = S,42
+Pokemon = T,42
+Pokemon = Y,42
+Pokemon = YÖ,42
+Pokemon = MYÖ,42
+
+[CLASS_86, ?i?T, 0]
+Pokemon = UU,42
+Pokemon = R,42
+
+[CLASS_87, ????, 0]
+Pokemon = CS,52
+Pokemon = U,51
+Pokemon = C,52
+Pokemon = Ö,54
+Pokemon = D,54
+
+[CLASS_87, ?Y??, 0]
+Pokemon = N9U,51
+Pokemon = YÖ,53
+Pokemon = MS,54
+Pokemon = S,56
+
+[CLASS_87, ????, 0]
+Pokemon = N8,54
+Pokemon = YÖ,53
+Pokemon = T,56
+Pokemon = UNKNOWN850,58
+
+[CLASS_87, ??, 0]
+Pokemon = C,56
+Pokemon = DD,54
+Pokemon = UNKNOWN850,54
+Pokemon = N9S,60
+
+[CLASS_84, ????, 0]
+Pokemon = H,15
+
+[CLASS_84, ???D, 0]
+Pokemon = UP,19
+Pokemon = C,21
+
+[CLASS_84, ???v??, 0]
+Pokemon = DP,22
+
+[CLASS_84, ????, 0]
+Pokemon = Y,31
+Pokemon = N,31
+Pokemon = Ö,35
+
+[CLASS_84, ????, 0]
+Pokemon = S,37
+Pokemon = S,39
+Pokemon = PGS,37
+Pokemon = Z,43
+
+[CLASS_84, ????, 0]
+Pokemon = O,42
+Pokemon = OS,42
+
+[CLASS_84, ???9, 0]
+Pokemon = Ä,41
+Pokemon = U,42
+Pokemon = Y,42
+Pokemon = MYÖ,43
+
+[CLASS_88, ???Z?e, 0]
+Pokemon = N,18
+
+[CLASS_88, ?v?(, 0]
+Pokemon = T,19
+
+[CLASS_88, ???O?e, 0]
+Pokemon = C,17
+Pokemon = U,17
+
+[CLASS_89, ????, 0]
+Pokemon = N3I,18
+
+[CLASS_89, ????, 0]
+Pokemon = N3I,18
+Pokemon = S,20
+
+[CLASS_89, ????, 0]
+Pokemon = P,19
+Pokemon = N3I,16
+Pokemon = OS,18
+Pokemon = DPP,20
+
+[CLASS_89, ????, 0]
+Pokemon = C,23
+Pokemon = N,22
+Pokemon = N3I,20
+
+[CLASS_89, ????, 0]
+Pokemon = OS,23
+Pokemon = C,22
+Pokemon = N3I,20
+Pokemon = S,25
+
+[CLASS_89, ????, 0]
+Pokemon = P,25
+Pokemon = N3I,23
+Pokemon = OS,22
+Pokemon = DPP,25
+
+[CLASS_89, ????, 0]
+Pokemon = BU,37
+Pokemon = C,38
+Pokemon = N,35
+Pokemon = Y,40
+
+[CLASS_89, ????, 0]
+Pokemon = BU,37
+Pokemon = OS,38
+Pokemon = C,35
+Pokemon = S,40
+
+[CLASS_89, ????, 0]
+Pokemon = P,37
+Pokemon = OS,35
+Pokemon = N0,40
+
+[CLASS_89, ????, 0]
+Pokemon = BU,47
+Pokemon = S,45
+Pokemon = C,45
+Pokemon = N,45
+Pokemon = Y,53
+
+[CLASS_89, ????, 0]
+Pokemon = BU,47
+Pokemon = S,45
+Pokemon = OS,45
+Pokemon = C,45
+Pokemon = S,53
+
+[CLASS_89, ????, 0]
+Pokemon = P,47
+Pokemon = S,45
+Pokemon = OS,47
+Pokemon = O,53
+
+[CLASS_90, ????, 0]
+Pokemon = BU,59
+Pokemon = S,59
+Pokemon = C,59
+Pokemon = Y,63
+
+[CLASS_90, ????, 0]
+Pokemon = BU,59
+Pokemon = S,59
+Pokemon = OS,59
+Pokemon = C,61
+Pokemon = S,63
+
+[CLASS_90, ????, 0]
+Pokemon = P,59
+Pokemon = S,59
+Pokemon = U,59
+Pokemon = OS,61
+Pokemon = O,63
+
+[CLASS_91, ????, 0]
+Pokemon = J,23
+
+[CLASS_91, ?B??, 0]
+Pokemon = J,23
+
+[CLASS_91, ????, 0]
+Pokemon = J,23
+
+[CLASS_91, ???d??, 0]
+Pokemon = J,24
+
+[CLASS_91, ????, 0]
+Pokemon = C,35
+
+[CLASS_91, ?‘??, 0]
+Pokemon = U,38
+
+[CLASS_91, ????, 0]
+Pokemon = CO,35
+
+[CLASS_65, ????, 0]
+Pokemon = P,20
+Pokemon = RS,20
+
+[CLASS_62, ????, 0]
+Pokemon = C,28
+Pokemon = P,28
+
+[CLASS_62, ???3, 0]
+Pokemon = D,24
+Pokemon = N9,24
+Pokemon = T,24
+
+[CLASS_62, ????, 0]
+Pokemon = N3I,30
+
+[CLASS_62, ????, 0]
+Pokemon = C,27
+Pokemon = DD,27
+
+[CLASS_66, ????, 0]
+Pokemon = Y,28
+Pokemon = Y,28
+
+[CLASS_61, ???ö, 0]
+Pokemon = D,14
+Pokemon = DD,15
+
+[CLASS_62, ??????, 0]
+Pokemon = C,31
+Pokemon = S,31
+
+[CLASS_62, ???’, 0]
+Pokemon = N0,30
+Pokemon = O9,30
+Pokemon = N,30
+
+[CLASS_62, ????, 0]
+Pokemon = T,20
+Pokemon = T,20
+
+[CLASS_62, ?v?I, 0]
+Pokemon = DP,19
+
+[CLASS_62, ????, 0]
+Pokemon = N9,22
+
+[CLASS_61, ????, 0]
+Pokemon = YÖ,29
+
+[CLASS_62, ?9????, 0]
+Pokemon = N9,90
+Pokemon = S9,98
+Pokemon = N9,98
+
+[CLASS_62, ??????, 0]
+Pokemon = Y,28
+
+[CLASS_62, ????, 0]
+Pokemon = N9,29
+
+[CLASS_62, ????, 0]
+Pokemon = DP,33
+
+[CLASS_88, ?Ü???(, 0]
+Pokemon = DPP,23
+
+[CLASS_88, ???e, 0]
+Pokemon = VEX,17
+
+[CLASS_92, ???D???♀?D, 0]
+Pokemon = DP,22
+Pokemon = N9,22
+
+[CLASS_93, ???????B?f, 0]
+Pokemon = Y,45
+Pokemon = MYÖ,45
+
+[CLASS_94, ?????????8, 0]
+Pokemon = YÖ,24
+Pokemon = T,24
+
+[CLASS_92, ?m?e??????, 0]
+Pokemon = ME,100
+Pokemon = E,100
+
+[CLASS_95, ???9???×??, 0]
+Pokemon = UMY,80
+Pokemon = YÖ,80
+Pokemon = YÖ,85
+Pokemon = YÖ,85
+
+[CLASS_94, ?×???????U, 0]
+Pokemon = N3I,29
+
+[CLASS_96, ???????Y?”, 0]
+Pokemon = L,90
+Pokemon = X7,90
+
+[CLASS_96, ?F???????l, 0]
+Pokemon = DD,33
+Pokemon = O9,33
+
+[CLASS_57, ????, 0]
+Pokemon = Y,28
+
+[CLASS_57, ????, 0]
+Pokemon = N9,48
+Pokemon = ZRS,48
+
+[CLASS_57, ?l?), 0]
+Pokemon = Y,20
+Pokemon = H,20
+
+[CLASS_59, ?…??, 0]
+Pokemon = T,20
+
+[CLASS_59, ?…??, 0]
+Pokemon = T,28
+
+[CLASS_57, ??? , 0]
+Pokemon = Y,27
+
+[CLASS_57, ??? , 0]
+Pokemon = O,52
+
+[CLASS_57, ?l?), 0]
+Pokemon = Y,28
+Pokemon = H,28
+
+[CLASS_57, ?l?), 0]
+Pokemon = S,48
+Pokemon = Z,48
+
+[CLASS_65, ????, 0]
+Pokemon = P,25
+
+[CLASS_85, ???C, 0]
+Pokemon = IE,70
+
+[CLASS_75, ??????, 0]
+Pokemon = NYÖ,50
+Pokemon = N9U,50
+
+[CLASS_100, ????, 0]
+Pokemon = RO,35
+
+[CLASS_101, ????, 0]
+Pokemon = YÖ,50
+Pokemon = FQ,51
+
+[CLASS_102, ????, 0]
+Pokemon = FY1,51
+Pokemon = PS,51
+
+[CLASS_103, ????, 0]
+Pokemon = Ö,37
+
+[CLASS_104, ?y??, 0]
+Pokemon = P,50
+Pokemon = PS,50
+Pokemon = FY1,50
+
+[CLASS_105, ??????, 0]
+Pokemon = C,50
+
+[CLASS_106, ????, 0]
+Pokemon = OYÖ,50
+
+[CLASS_66, ????, 0]
+Pokemon = V,37
+
+[CLASS_66, ????, 0]
+Pokemon = V,38
+
+[CLASS_92, ???D???♀?D, 0]
+Pokemon = DP,28
+Pokemon = N9,28
+
+[CLASS_57, ????, 0]
+Pokemon = Y,33
+Pokemon = H,33
+
+[CLASS_66, ?I??, 0]
+Pokemon = Y,22
+Pokemon = OS,23
+
+[CLASS_66, ????, 0]
+Pokemon = V,24
+Pokemon = S,24
+
+[CLASS_85, ???C, 0]
+Pokemon = G,37
+
+[CLASS_85, ???C, 0]
+Pokemon = O,35
+Pokemon = H,35
+Pokemon = T,35
+
+[CLASS_85, ???C, 0]
+Pokemon = Z,50
+Pokemon = I,50
+
+[CLASS_85, ???C, 0]
+Pokemon = I,70
+Pokemon = FP,70
+Pokemon = C,70
+
+[CLASS_85, ???C, 0]
+Pokemon = KH,70
+Pokemon = H,70
+Pokemon = N6H,70
+Pokemon = Y,70
+
+[CLASS_85, ???C, 0]
+Pokemon = Ö,70
+Pokemon = P,70
+
+[CLASS_85, ???f, 0]
+Pokemon = CX,73
+Pokemon = P,70
+
+[CLASS_85, ???f, 0]
+Pokemon = S,73
+Pokemon = A,74
+Pokemon = N5S,75
+Pokemon = Y,70
+
+[CLASS_82, ????, 0]
+Pokemon = Y9,80
+Pokemon = S9,82
+Pokemon = N5FL,85
+
+[CLASS_74, ???r, 0]
+Pokemon = PL,36
+
+[CLASS_74, ??????, 0]
+Pokemon = U,37
+
+[CLASS_74, ????, 0]
+Pokemon = PL,37
+
+[CLASS_70, ???), 0]
+Pokemon = TD,35
+Pokemon = U,38
+
+[CLASS_69, ?l??, 0]
+Pokemon = C,33
+Pokemon = SJ,33
+Pokemon = TD,35
+Pokemon = O,35
+Pokemon = OS,35
+
+[CLASS_80, ?l??, 0]
+Pokemon = S,38
+
+[CLASS_80, ???O, 0]
+Pokemon = P,37
+Pokemon = AP,37
+
+[CLASS_61, ? ??, 0]
+Pokemon = MYÖ,36
+Pokemon = T,36
+
+[CLASS_95, ???Ü?????), 0]
+Pokemon = P,39
+
+[CLASS_103, ?F??, 0]
+Pokemon = K,36
+
+[CLASS_100, ?J?J??, 0]
+Pokemon = Y,34
+Pokemon = ZZ,35
+
+[CLASS_92, ??????????, 0]
+Pokemon = S,37
+Pokemon = S,37
+
+[CLASS_74, ???B??, 0]
+Pokemon = TD,38
+
+[CLASS_106, ??????, 0]
+Pokemon = XP,50
+
+[CLASS_105, ???, 0]
+Pokemon = U,50
+Pokemon = DPP,50
+Pokemon = YÖZ,50
+
+[CLASS_57, ?v??, 0]
+Pokemon = Z,50
+
+[CLASS_70, ?t??, 0]
+Pokemon = N9,50
+Pokemon = OS,50
+
+[CLASS_85, ???C, 0]
+Pokemon = U,70
+Pokemon = U,70
+Pokemon = VU,70
+
+[CLASS_85, ???C, 0]
+Pokemon = S,70
+Pokemon = S,70
+
+[CLASS_85, ???C, 0]
+Pokemon = C,70
+Pokemon = N9U,70
+
+[CLASS_79, ????, 0]
+Pokemon = BU,47
+Pokemon = T,49
+
+[CLASS_79, ????, 0]
+Pokemon = C,47
+
+[CLASS_69, ????, 0]
+Pokemon = N9,50
+
+[CLASS_70, ???l, 0]
+Pokemon = CS,50
+Pokemon = OS,49
+
+[CLASS_74, ????, 0]
+Pokemon = F,54
+
+[CLASS_96, ?????????-, 0]
+Pokemon = OYÖ,50
+
+[CLASS_103, ???d, 0]
+Pokemon = N9,52
+
+[CLASS_70, ????, 0]
+Pokemon = OS,50
+
+[CLASS_74, ????, 0]
+Pokemon = CS,50
+
+[CLASS_92, ??????????, 0]
+Pokemon = S,50
+Pokemon = S,50
+
+[CLASS_65, ????, 0]
+Pokemon = Y,50
+Pokemon = N3S,50
+
+[CLASS_104, ?=??, 0]
+Pokemon = F,53
+
+[CLASS_104, ????, 0]
+Pokemon = FP,51
+
+[CLASS_65, ????, 0]
+Pokemon = T,52
+
+[CLASS_63, ????, 0]
+Pokemon = V,51
+Pokemon = E,51
+
+[CLASS_75, ???♀, 0]
+Pokemon = X,55
+
+[CLASS_75, ???, 0]
+Pokemon = NYÖ,50
+Pokemon = FDPP,50
+Pokemon = FÄ,51
+
+[CLASS_103, ??????, 0]
+Pokemon = C,50
+
+[CLASS_77, ????, 0]
+Pokemon = RP,50
+Pokemon = Ö,50
+
+[CLASS_99, ?????D, 0]
+Pokemon = Ö,50
+Pokemon = Ö,51
+Pokemon = T,53
+
+[CLASS_99, ????, 0]
+Pokemon = SEX,38
+
+[CLASS_78, ????, 0]
+Pokemon = N3S,50
+Pokemon = N5S,54
+
+[CLASS_63, ????, 0]
+Pokemon = S,33
+Pokemon = SEX,35
+
+[CLASS_102, ????, 0]
+Pokemon = D,50
+Pokemon = VS,53
+
+[CLASS_102, ? ??, 0]
+Pokemon = S,38
+
+[CLASS_102, ?t??, 0]
+Pokemon = FS,53
+
+[CLASS_86, ????, 0]
+Pokemon = Z,50
+Pokemon = I,50
+Pokemon = FP,50
+
+[CLASS_86, ?Ü??, 0]
+Pokemon = S,50
+Pokemon = N9,50
+Pokemon = D,50
+Pokemon = US,51
+Pokemon = MS,51
+
+[CLASS_104, ????, 0]
+Pokemon = V,51
+
+[CLASS_106, ??????, 0]
+Pokemon = XP,52
+
+[CLASS_88, ????, 0]
+Pokemon = S,52
+
+[CLASS_105, ????, 0]
+Pokemon = D,50
+
+[CLASS_104, ????, 0]
+Pokemon = F,50
+Pokemon = E,50
+
+[CLASS_75, ????, 0]
+Pokemon = C,50
+Pokemon = FQ,50
+Pokemon = X,52
+
+[CLASS_101, ?)??, 0]
+Pokemon = US,50
+
+[CLASS_101, ????, 0]
+Pokemon = DD,48
+Pokemon = PGS,48
+
+[CLASS_58, ?B? , 0]
+Pokemon = YD,47
+Pokemon = D,50
+
+[CLASS_58, ???x, 0]
+Pokemon = U,50
+
+[CLASS_57, ?Ü??, 0]
+Pokemon = Y,47
+
+[CLASS_59, ????, 0]
+Pokemon = S,47
+
+[CLASS_59, ????, 0]
+Pokemon = DD,50
+
+[CLASS_61, ?2??, 0]
+Pokemon = YD,49
+Pokemon = D,50
+
+[CLASS_62, ?Y??, 0]
+Pokemon = S,48
+Pokemon = DD,49
+
+[CLASS_104, ????, 0]
+Pokemon = U,48
+Pokemon = Z,48
+
+[CLASS_62, ????, 0]
+Pokemon = YÖ,21
+Pokemon = T,21
+
+[CLASS_62, ????, 0]
+Pokemon = YÖ,29
+Pokemon = T,29
+
+[CLASS_62, ????, 0]
+Pokemon = MYÖ,49
+Pokemon = Y,49
+
+[CLASS_61, ????, 0]
+Pokemon = YS,22
+
+[CLASS_61, ????, 0]
+Pokemon = VS,55
+
+[CLASS_61, ?x??, 0]
+Pokemon = FP,54
+Pokemon = FDPP,54
+
+[CLASS_62, ???5, 0]
+Pokemon = BU,47
+Pokemon = V,50
+
+[CLASS_57, ?J??, 0]
+Pokemon = ÜS,22
+
+[CLASS_57, ?J??, 0]
+Pokemon = T,47
+Pokemon = K,47
+
+[CLASS_68, ???T, 0]
+Pokemon = M,28
+
+[CLASS_72, ?v??, 0]
+Pokemon = C,29
+Pokemon = N9,29
+
+[CLASS_61, ????, 0]
+Pokemon = C,24
+
+[CLASS_61, ????, 0]
+Pokemon = C,29
+Pokemon = YS,29
+
+[CLASS_61, ????, 0]
+Pokemon = I,54
+Pokemon = FÄ,54
+
+[CLASS_62, ?????B, 0]
+Pokemon = DD,30
+
+[CLASS_62, ?????B, 0]
+Pokemon = I,55
+
+[CLASS_65, ????, 0]
+Pokemon = P,30
+Pokemon = RS,28
+
+[CLASS_63, ????, 0]
+Pokemon = F,54
+
+[CLASS_63, ?Y?Q, 0]
+Pokemon = N,29
+
+[CLASS_63, ?Y?Q, 0]
+Pokemon = PS,54
+Pokemon = FS,54
+
+[CLASS_65, ?v??, 0]
+Pokemon = RS,31
+
+[CLASS_59, ????, 0]
+Pokemon = YÖ,23
+
+[CLASS_59, ????, 0]
+Pokemon = BU,46
+Pokemon = O,47
+Pokemon = R,48
+
+[CLASS_64, ????, 0]
+Pokemon = V,28
+Pokemon = V,28
+Pokemon = V,28
+
+[CLASS_72, ?Ü??, 0]
+Pokemon = C,30
+Pokemon = R,30
+
+[CLASS_66, ????, 0]
+Pokemon = V,28
+Pokemon = V,30
+
+[CLASS_69, ???T, 0]
+Pokemon = A,28
+Pokemon = C,28
+Pokemon = A,28
+
+[CLASS_73, ????, 0]
+Pokemon = N8,50
+
+[CLASS_79, ????, 0]
+Pokemon = BU,47
+
+[CLASS_62, ???3, 0]
+Pokemon = BU,47
+Pokemon = CO,47
+Pokemon = S,47
+Pokemon = R,47
+
+[CLASS_62, ???3, 0]
+Pokemon = T,52
+Pokemon = D,52
+Pokemon = OYÖ,52
+Pokemon = N9U,52
+
+[CLASS_66, ????, 0]
+Pokemon = V,47
+Pokemon = V,47
+
+[CLASS_79, ????, 0]
+Pokemon = Y,32
+
+[CLASS_79, ????, 0]
+Pokemon = V,50
+
+[CLASS_79, ????, 0]
+Pokemon = RP,50
+
+[CLASS_73, ????, 0]
+Pokemon = Ö,50
+Pokemon = D,50
+
+[CLASS_79, ?Y??, 0]
+Pokemon = Y,30
+
+[CLASS_79, ?Y??, 0]
+Pokemon = P,48
+Pokemon = BU,48
+
+[CLASS_62, ????, 0]
+Pokemon = N9,32
+
+[CLASS_62, ????, 0]
+Pokemon = YÖZ,50
+
+[CLASS_62, ????, 0]
+Pokemon = OYÖ,54
+Pokemon = C,54
+
+[CLASS_95, ?????????v, 0]
+Pokemon = P,33
+
+[CLASS_95, ??????????, 0]
+Pokemon = Ö,51
+
+[CLASS_95, ??????????, 0]
+Pokemon = X,56
+Pokemon = E,56
+
+[CLASS_66, ????, 0]
+Pokemon = H,48
+
+[CLASS_71, ????, 0]
+Pokemon = YÖZ,50
+
+[CLASS_66, ????, 0]
+Pokemon = Z,50
+
+[CLASS_71, ????, 0]
+Pokemon = Y,51
+
+[CLASS_71, ?F??, 0]
+Pokemon = V,50
+
+[CLASS_79, ????, 0]
+Pokemon = Y,28
+
+[CLASS_79, ????, 0]
+Pokemon = BU,47
+
+[CLASS_74, ?U??, 0]
+Pokemon = F,50
+
+[CLASS_70, ???), 0]
+Pokemon = N9,52
+Pokemon = N9,52
+Pokemon = OS,52
+
+[CLASS_62, ??????, 0]
+Pokemon = CO,49
+Pokemon = XP,50
+
+[CLASS_62, ??????, 0]
+Pokemon = MS,54
+Pokemon = Ö,54
+
+[CLASS_69, ????, 0]
+Pokemon = OS,47
+Pokemon = PL,47
+Pokemon = RO,47
+Pokemon = U,47
+Pokemon = O,47
+
+[CLASS_70, ????, 0]
+Pokemon = N9,50
+
+[CLASS_96, ?F???????l, 0]
+Pokemon = F,50
+Pokemon = N9,50
+
+[CLASS_96, ?F???????l, 0]
+Pokemon = OS,55
+
+[CLASS_99, ?q??, 0]
+Pokemon = D,50
+
+[CLASS_99, ?q??, 0]
+Pokemon = N9U,55
+Pokemon = E,55
+
+[CLASS_99, ????, 0]
+Pokemon = FQ,50
+
+[CLASS_99, ????, 0]
+Pokemon = Ö,55
+Pokemon = N9U,55
+
+[CLASS_80, ?l??, 0]
+Pokemon = X,50
+Pokemon = S,50
+
+[CLASS_80, ?l??, 0]
+Pokemon = Z,55
+
+[CLASS_80, ???O, 0]
+Pokemon = N9U,55
+Pokemon = S,55
+
+[CLASS_95, ???Ü?????), 0]
+Pokemon = Ö,56
+Pokemon = P,56
+
+[CLASS_100, ????, 0]
+Pokemon = OS,47
+
+[CLASS_106, ??????, 0]
+Pokemon = XP,54
+
+[CLASS_57, ?v??, 0]
+Pokemon = RP,53
+
+[CLASS_101, ????, 0]
+Pokemon = FY1,53
+Pokemon = D,53
+
+[CLASS_94, ?????????8, 0]
+Pokemon = T,30
+Pokemon = YÖ,30
+
+[CLASS_79, ????, 0]
+Pokemon = RP,53
+Pokemon = UNKNOWN850,55
+
+[CLASS_79, ????, 0]
+Pokemon = Ö,53
+Pokemon = RP,55
+
+[CLASS_79, ????, 0]
+Pokemon = Ö,53
+Pokemon = C,55
+
+[CLASS_74, ????, 0]
+Pokemon = F,54
+
+[CLASS_75, ??????, 0]
+Pokemon = NYÖ,52
+Pokemon = YÖ,52
+Pokemon = N8,54
+
+[CLASS_70, ????, 0]
+Pokemon = OS,55
+
+[CLASS_65, ????, 0]
+Pokemon = S,54
+Pokemon = DD,54
+
+[CLASS_104, ????, 0]
+Pokemon = F,54
+
+[CLASS_63, ????, 0]
+Pokemon = V,55
+
+[CLASS_75, ???, 0]
+Pokemon = FDPP,53
+Pokemon = NYÖ,53
+Pokemon = US,53
+
+[CLASS_77, ????, 0]
+Pokemon = PS,52
+Pokemon = Z,52
+Pokemon = I,52
+
+[CLASS_102, ???v, 0]
+Pokemon = N9,55
+
+[CLASS_102, ????, 0]
+Pokemon = OYÖ,55
+Pokemon = DPP,55
+
+[CLASS_99, ?????B, 0]
+Pokemon = Ö,54
+Pokemon = X,54
+
+[CLASS_78, ????, 0]
+Pokemon = T,52
+Pokemon = N3S,52
+
+[CLASS_102, ????, 0]
+Pokemon = D,55
+
+[CLASS_102, ?t??, 0]
+Pokemon = CS,56
+
+[CLASS_86, ????, 0]
+Pokemon = T,52
+Pokemon = XP,52
+Pokemon = S,55
+
+[CLASS_86, ?Ü??, 0]
+Pokemon = FQ,54
+Pokemon = UMY,56
+
+[CLASS_93, ??????????, 0]
+Pokemon = NYÖ,57
+
+[CLASS_58, ????, 0]
+Pokemon = S,19
+
+[CLASS_58, ????, 0]
+Pokemon = S,27
+
+[CLASS_58, ????, 0]
+Pokemon = D,51
+Pokemon = S,54
+Pokemon = U,51
+
+[CLASS_70, ????, 0]
+Pokemon = U,49
+Pokemon = U,49
+
+[CLASS_74, ????, 0]
+Pokemon = N9,50
+
+[CLASS_87, ????, 0]
+Pokemon = Ö,84
+Pokemon = MS,83
+Pokemon = CX,86
+Pokemon = DX,86
+
+[CLASS_87, ?Y??, 0]
+Pokemon = N9U,85
+Pokemon = YÖ,85
+Pokemon = YÖ,85
+Pokemon = UMY,86
+Pokemon = S9,88
+
+[CLASS_87, ????, 0]
+Pokemon = N8,86
+Pokemon = YÖ,85
+Pokemon = Y9,88
+Pokemon = R3,90
+
+[CLASS_87, ??, 0]
+Pokemon = TDD,88
+Pokemon = C,86
+Pokemon = N3BM,86
+Pokemon = P,88
+Pokemon = N9SBM,90
+
+[CLASS_90, ????, 0]
+Pokemon = YD,72
+Pokemon = S,72
+Pokemon = C,73
+Pokemon = Y,75
+
+[CLASS_90, ????, 0]
+Pokemon = YD,72
+Pokemon = S,72
+Pokemon = OS,73
+Pokemon = C,73
+Pokemon = S,75
+
+[CLASS_90, ????, 0]
+Pokemon = N5,92
+Pokemon = C,92
+Pokemon = VOS,90
+Pokemon = NO,94
+
+[CLASS_71, ???Y, 0]
+Pokemon = V,39

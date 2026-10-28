@@ -108,7 +108,18 @@ class Player < Trainer
       return num >= Settings::ZAPMOLCUNO_NB
     end
 
+    # GHOST/QOL: stale duplicate of the (already-fixed) global isFusion in
+    # FusionUtils.rb - it never learned about the 600000-699999 reserved
+    # standalone-species band (AnimeFusionMerge etc.), so any species given
+    # a dex number in that band (e.g. NARUTO=601054, LUFFY=601056) was
+    # wrongly treated as a fusion here. That routed set_seen/seen? into
+    # @seen_fusion at garbage head/body indices decoded from a number that
+    # was never actually a fusion, so the species never got marked seen in
+    # @seen_standard and never appeared in the normal Pokedex list. Mirror
+    # the global function's exception so standalone species are tracked
+    # (and thus shown) correctly.
     def isFusion(num)
+      return false if is_reserved_standalone_dex?(num)
       return num > Settings::NB_POKEMON && !isTripleFusion(num)
     end
 

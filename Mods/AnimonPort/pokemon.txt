@@ -1,0 +1,20 @@
+[601327]
+Name = AQUA
+InternalName = AQUA
+Type1 = WATER
+Type2 = CUSTOM_TYPE_23_2
+BaseStats = 100,10,30,40,90,60
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 137
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = NATURALCURE,SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+Moves = 0,DOUBLESLAP,0,FAKETEARS,7,WATERGUN,10,TACKLE,16,REFLECT,21,LIGHTSCREEN,23,TRICK,26,ROLEPLAY,33,RECOVER,41,BUBBLEBEAM,46,DIVINESTRIKE,55,HYDROPUMP,99,TRICK

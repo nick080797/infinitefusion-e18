@@ -1,0 +1,2979 @@
+[CLASS_23, SIDNEY, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_23, PHOEBE, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, ROXANNE, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, BRAWLY, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, TATE?LIZA, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_55, MATT, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_55, SHELLY, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_56, TABITHA, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_56, COURTNEY, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, WATTSON, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, FLANNERY, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, NORMAN, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, WINONA, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_24, WALLACE, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_23, GLACIA, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_23, DRAKE, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_57, BEN, 0]
+Pokemon = OLDTAILS,11
+Pokemon = OKNUCKLES,11
+
+[CLASS_57, CALVIN, 0]
+Pokemon = AEON,14
+
+[CLASS_57, JOSH, 0]
+Pokemon = GROUNDER,10
+Pokemon = METALKNUX,10
+Pokemon = GROUNDER,10
+
+[CLASS_57, TIMMY, 0]
+Pokemon = BARK,14
+Pokemon = OLDCREAM,14
+
+[CLASS_57, JOEY, 0]
+Pokemon = VANILLA,15
+Pokemon = BARK,15
+
+[CLASS_57, DAN, 0]
+Pokemon = BARK,17
+
+[CLASS_57, CHAD, 0]
+Pokemon = OLDCREAM,14
+Pokemon = VANILLA,14
+
+[CLASS_57, TYLER, 0]
+Pokemon = OLDTAILS,21
+
+[CLASS_57, EDDIE, 0]
+Pokemon = OKNUCKLES,21
+
+[CLASS_57, DILLON, 0]
+Pokemon = SHADE,19
+Pokemon = OKNUCKLES,19
+
+[CLASS_57, YASU, 0]
+Pokemon = ECHIDNA,17
+Pokemon = TIKAL,17
+Pokemon = ECHIDNA,17
+
+[CLASS_57, DAVE, 0]
+Pokemon = TIKAL,18
+Pokemon = SHADE,18
+
+[CLASS_57, BEN, 0]
+Pokemon = BEAN,17
+Pokemon = BUNNIE,17
+
+[CLASS_58, RICK, 0]
+Pokemon = LEON,6
+Pokemon = NEUTRON,6
+
+[CLASS_58, DOUG, 0]
+Pokemon = BATBRAIN,7
+Pokemon = BUZZBOMBER,7
+Pokemon = BATBRAIN,7
+
+[CLASS_58, SAMMY, 0]
+Pokemon = BURROBOT,9
+
+[CLASS_58, COLTON, 0]
+Pokemon = BALLHOG,10
+Pokemon = ROLLER,10
+Pokemon = BALLHOG,10
+
+[CLASS_58, GREG, 0]
+Pokemon = SPIKE,9
+Pokemon = MOTOBUG,9
+Pokemon = BUZZBOMBER,9
+Pokemon = BATBRAIN,9
+
+[CLASS_58, JAMES, 0]
+Pokemon = SPLATS,11
+Pokemon = BURROBOT,11
+
+[CLASS_58, KENT, 0]
+Pokemon = LEON,11
+Pokemon = NEUTRON,11
+
+[CLASS_58, ROBBY, 0]
+Pokemon = SPIKE,10
+Pokemon = MOTOBUG,10
+Pokemon = SPLATS,10
+
+[CLASS_58, CALE, 0]
+Pokemon = ROLLER,10
+Pokemon = SPIKE,10
+Pokemon = BALLHOG,10
+Pokemon = BUZZBOMBER,10
+
+[CLASS_58, KEIGO, 0]
+Pokemon = BATBRAIN,16
+Pokemon = BUZZBOMBER,16
+Pokemon = MOTOBUG,16
+
+[CLASS_58, ELIJAH, 0]
+Pokemon = MOTOBUG,20
+
+[CLASS_58, BRENT, 0]
+Pokemon = BALLHOG,19
+Pokemon = MOTOBUG,19
+
+[CLASS_58, CONNER, 0]
+Pokemon = SPLATS,20
+Pokemon = LEON,20
+Pokemon = NEUTRON,20
+
+[CLASS_59, JANICE, 0]
+Pokemon = OLDAMY,9
+Pokemon = OKNUCKLES,9
+
+[CLASS_59, SALLY, 0]
+Pokemon = OLDAMY,10
+Pokemon = OLDTAILS,10
+
+[CLASS_59, ROBIN, 0]
+Pokemon = AEON,14
+
+[CLASS_59, CRISSY, 0]
+Pokemon = AEON,31
+Pokemon = AEON,31
+Pokemon = OPAEON,31
+
+[CLASS_59, MIRIAM, 0]
+Pokemon = COCONUTS,11
+Pokemon = COCONUTS,11
+
+[CLASS_59, IRIS, 0]
+Pokemon = SLVRSONIC,14
+
+[CLASS_59, RELI, 0]
+Pokemon = OLDCREAM,16
+Pokemon = VANILLA,16
+
+[CLASS_59, ALI, 0]
+Pokemon = BARK,12
+Pokemon = VANILLA,12
+Pokemon = ROUGE,12
+
+[CLASS_59, HALEY, 0]
+Pokemon = VANILLA,13
+Pokemon = OLDCREAM,13
+Pokemon = VANILLA,13
+
+[CLASS_59, ANN, 0]
+Pokemon = AEON,18
+Pokemon = BARK,18
+
+[CLASS_59, DAWN, 0]
+Pokemon = OLDAMY,18
+Pokemon = OLDAMY,18
+
+[CLASS_59, PAIGE, 0]
+Pokemon = CHARMYBEE,23
+Pokemon = OLDESPIO,23
+
+[CLASS_59, ANDREA, 0]
+Pokemon = CHARMYBEE,24
+Pokemon = CHARMYBEE,24
+Pokemon = CHARMYBEE,24
+
+[CLASS_59, MEGAN, 0]
+Pokemon = CHARMYBEE,19
+Pokemon = CHARMYBEE,19
+Pokemon = OLDESPIO,19
+Pokemon = VECTOR,19
+Pokemon = CHARMYBEE,19
+
+[CLASS_59, JULIA, 0]
+Pokemon = VECTOR,22
+Pokemon = VECTOR,22
+
+[CLASS_59, KAY, 0]
+Pokemon = E100ALPHA,23
+Pokemon = E100ALPHA,23
+
+[CLASS_59, LISA, 0]
+Pokemon = E100ALPHA,23
+Pokemon = E100ALPHA,23
+
+[CLASS_60, EDMOND, 0]
+Pokemon = CRABMEAT,18
+Pokemon = JAWS,18
+
+[CLASS_60, TREVOR, 0]
+Pokemon = CHOPPER,17
+Pokemon = JAWS,17
+
+[CLASS_60, LEONARD, 0]
+Pokemon = E103DELTA,21
+
+[CLASS_60, DUNCAN, 0]
+Pokemon = E103DELTA,17
+Pokemon = CRABMEAT,17
+Pokemon = CRABMEAT,17
+
+[CLASS_60, HUEY, 0]
+Pokemon = JAWS,18
+Pokemon = CHOPPER,18
+
+[CLASS_60, DYLAN, 0]
+Pokemon = CHOPPER,17
+Pokemon = E103DELTA,17
+Pokemon = JAWS,17
+
+[CLASS_60, PHILLIP, 0]
+Pokemon = E103DELTA,20
+
+[CLASS_60, DWAYNE, 0]
+Pokemon = E103DELTA,21
+Pokemon = CHOPPER,21
+
+[CLASS_61, LIAM, 0]
+Pokemon = SCRATCH,10
+    Moves = TACKLE,DEFENSECURL
+Pokemon = COCONUTS,11
+    Moves = SCRATCH,DEFENSECURL,SANDATTACK
+
+[CLASS_61, SHANE, 0]
+Pokemon = VANILLA,14
+Pokemon = BARK,14
+
+[CLASS_61, ETHAN, 0]
+Pokemon = ROUGE,18
+
+[CLASS_61, RICKY, 0]
+Pokemon = OLDTAILS,20
+
+[CLASS_61, JEFF, 0]
+Pokemon = OLDCREAM,16
+Pokemon = BARK,16
+
+[CLASS_61, CHRIS, 0]
+Pokemon = NACK,21
+Pokemon = CHIP,21
+
+[CLASS_61, DREW, 0]
+Pokemon = CHIP,19
+Pokemon = NACK,19
+Pokemon = CHIP,19
+Pokemon = OLDAMY,19
+
+[CLASS_62, DIANA, 0]
+Pokemon = E103DELTA,19
+
+[CLASS_62, NANCY, 0]
+Pokemon = OLDTAILS,16
+Pokemon = VANILLA,16
+
+[CLASS_62, ISABELLE, 0]
+Pokemon = OLDCREAM,16
+Pokemon = VANILLA,16
+Pokemon = OLDCREAM,16
+
+[CLASS_62, KELSEY, 0]
+Pokemon = VANILLA,15
+Pokemon = ROUGE,15
+
+[CLASS_62, ALICIA, 0]
+Pokemon = CHIP,18
+Pokemon = OLDAMY,18
+Pokemon = CHIP,18
+Pokemon = OLDAMY,18
+
+[CLASS_62, CAITLIN, 0]
+Pokemon = OLDAMY,23
+
+[CLASS_62, HEIDI, 0]
+Pokemon = CHIP,20
+Pokemon = MARINE,20
+
+[CLASS_62, CAROL, 0]
+Pokemon = MARINE,21
+Pokemon = OLDAMY,21
+
+[CLASS_62, SOFIA, 0]
+Pokemon = E100ALPHA,21
+Pokemon = E108IOTA,21
+Pokemon = E105ZETA,21
+
+[CLASS_62, MARTHA, 0]
+Pokemon = N104EPSILON,22
+Pokemon = E106ETA,22
+
+[CLASS_62, TINA, 0]
+Pokemon = E100ALPHA,24
+Pokemon = E100ALPHA,24
+
+[CLASS_62, HANNAH, 0]
+Pokemon = E100ALPHA,24
+Pokemon = E102GAMMA,24
+Pokemon = E105ZETA,24
+Pokemon = E107THETA,24
+Pokemon = E109KAPPA,24
+
+[CLASS_63, MARK, 0]
+Pokemon = CHIP,29
+Pokemon = MARINE,29
+
+[CLASS_63, HERMAN, 0]
+Pokemon = NACK,20
+Pokemon = CHIP,20
+
+[CLASS_63, COOPER, 0]
+Pokemon = E102GAMMA,20
+Pokemon = E107THETA,20
+Pokemon = E109KAPPA,20
+
+[CLASS_63, STEVE, 0]
+Pokemon = E100ALPHA,22
+Pokemon = E101BETA,22
+
+[CLASS_63, WINSTON, 0]
+Pokemon = E123OMEGA,25
+
+[CLASS_63, DAWSON, 0]
+Pokemon = ORBOT,40
+Pokemon = MECHASONIC,40
+Pokemon = E101BETA,40
+
+[CLASS_63, ASHTON, 0]
+Pokemon = E105ZETA,23
+Pokemon = E108IOTA,23
+
+[CLASS_64, JOVAN, 0]
+Pokemon = SCRATCH,11
+Pokemon = GROUNDER,11
+
+[CLASS_64, MIGUEL, 0]
+Pokemon = COCONUTS,12
+Pokemon = METALSONIC,12
+Pokemon = METALKNUX,12
+
+[CLASS_64, AIDAN, 0]
+Pokemon = VECTOR,20
+Pokemon = OLDESPIO,20
+Pokemon = VECTOR,20
+Pokemon = OLDESPIO,20
+
+[CLASS_64, GLENN, 0]
+Pokemon = VECTOR,22
+Pokemon = OLDESPIO,22
+Pokemon = VECTOR,22
+
+[CLASS_64, LESLIE, 0]
+Pokemon = OLDESPIO,26
+
+[CLASS_64, ERIK, 0]
+Pokemon = N104EPSILON,36
+Pokemon = NACK,36
+Pokemon = N104EPSILON,36
+
+[CLASS_64, AVERY, 0]
+Pokemon = BLAZE,34
+Pokemon = NACK,34
+Pokemon = N104EPSILON,34
+Pokemon = NACK,34
+
+[CLASS_64, DEREK, 0]
+Pokemon = N104EPSILON,41
+
+[CLASS_64, ZAC, 0]
+Pokemon = N104EPSILON,37
+Pokemon = NACK,37
+
+[CLASS_65, MARCOS, 0]
+Pokemon = METALSONIC,10
+Pokemon = SLVRSONIC,10
+Pokemon = SLVRSONIC,10
+
+[CLASS_65, FRANKLIN, 0]
+Pokemon = ROUGE,15
+Pokemon = OLDCREAM,15
+
+[CLASS_65, NOB, 0]
+Pokemon = ROUGE,13
+Pokemon = BARK,13
+Pokemon = OLDCREAM,13
+Pokemon = BARK,13
+
+[CLASS_65, WAYNE, 0]
+Pokemon = OLDCREAM,17
+
+[CLASS_65, ALAN, 0]
+Pokemon = NACK,21
+Pokemon = NACK,21
+
+[CLASS_65, BRICE, 0]
+Pokemon = NACK,20
+Pokemon = OLDAMY,20
+Pokemon = NACK,20
+
+[CLASS_65, CLARK, 0]
+Pokemon = OLDAMY,21
+Pokemon = NACK,21
+
+[CLASS_65, TRENT, 0]
+Pokemon = NACK,19
+Pokemon = CHIP,19
+
+[CLASS_65, DUDLEY, 0]
+Pokemon = E102GAMMA,21
+Pokemon = E100ALPHA,21
+Pokemon = E101BETA,21
+
+[CLASS_65, ALLEN, 0]
+Pokemon = E123OMEGA,25
+
+[CLASS_65, ERIC, 0]
+Pokemon = E107THETA,20
+Pokemon = E108IOTA,20
+
+[CLASS_65, LENNY, 0]
+Pokemon = E109KAPPA,19
+Pokemon = E107THETA,19
+Pokemon = E105ZETA,19
+Pokemon = E106ETA,19
+
+[CLASS_65, OLIVER, 0]
+Pokemon = N104EPSILON,20
+Pokemon = E102GAMMA,20
+Pokemon = E106ETA,20
+
+[CLASS_65, LUCAS, 0]
+Pokemon = E101BETA,21
+Pokemon = E109KAPPA,21
+
+[CLASS_66, JARED, 0]
+Pokemon = NACK,28
+Pokemon = ROUGE,28
+Pokemon = NACK,28
+
+[CLASS_66, MALIK, 0]
+Pokemon = NACK,29
+Pokemon = NACK,29
+
+[CLASS_66, ERNEST, 0]
+Pokemon = TAILS,25
+Pokemon = NACK,25
+Pokemon = SALLY,25
+Pokemon = NACK,25
+Pokemon = SALLY,25
+
+[CLASS_66, ALEX, 0]
+Pokemon = SALLY,28
+Pokemon = SALLY,28
+Pokemon = COSMO,28
+
+[CLASS_66, LAO, 0]
+Pokemon = JET,29
+Pokemon = WAVE,29
+
+[CLASS_66, HIDEO, 0]
+Pokemon = STORM,33
+
+[CLASS_66, RUBEN, 0]
+Pokemon = JET,28
+Pokemon = WAVE,28
+Pokemon = STORM,28
+
+[CLASS_66, BILLY, 0]
+Pokemon = WAVE,33
+
+[CLASS_66, NIKOLAS, 0]
+Pokemon = JET,29
+Pokemon = JET,29
+
+[CLASS_66, JAXON, 0]
+Pokemon = WAVE,29
+Pokemon = JET,29
+
+[CLASS_66, WILLIAM, 0]
+Pokemon = STORM,25
+Pokemon = WAVE,25
+Pokemon = WAVE,25
+Pokemon = JET,25
+Pokemon = STORM,25
+
+[CLASS_66, LUKAS, 0]
+Pokemon = COSMO,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = TAILS,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = NACK,26
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+Pokemon = SALLY,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+
+[CLASS_66, ISAAC, 0]
+Pokemon = SALLY,28
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+Pokemon = COSMO,28
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+Pokemon = SALLY,28
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+
+[CLASS_66, GERALD, 0]
+Pokemon = TAILS,29
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = TAILS,29
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+
+[CLASS_67, QUINN, 0]
+Pokemon = BLAZE,36
+Pokemon = NACK,36
+Pokemon = BLAZE,36
+
+[CLASS_67, RAMON, 0]
+Pokemon = N104EPSILON,41
+
+[CLASS_67, DUSTY, 0]
+Pokemon = NACK,37
+Pokemon = BLAZE,37
+
+[CLASS_67, ARNIE, 0]
+Pokemon = SONICEXE,34
+Pokemon = KNUXEXE,34
+
+[CLASS_67, SIMON, 0]
+Pokemon = TAILSEXE,38
+
+[CLASS_67, LEWIS, 0]
+Pokemon = TAILSEXE,34
+Pokemon = SONICEXE,34
+
+[CLASS_68, BAILY, 0]
+Pokemon = E102GAMMA,21
+Pokemon = E102GAMMA,21
+
+[CLASS_68, BRAXTON, 0]
+Pokemon = OKNUCKLES,21
+
+[CLASS_68, BERNIE, 0]
+Pokemon = ECHIDNA,18
+Pokemon = ECHIDNA,18
+Pokemon = OKNUCKLES,18
+
+[CLASS_69, DALE, 0]
+Pokemon = CHOPPER,17
+Pokemon = JAWS,17
+Pokemon = CRABMEAT,17
+
+[CLASS_69, BARNY, 0]
+Pokemon = OLDAMY,17
+Pokemon = JAWS,17
+Pokemon = CHOPPER,17
+
+[CLASS_69, NED, 0]
+Pokemon = E103DELTA,22
+Pokemon = CHOPPER,22
+Pokemon = E103DELTA,22
+
+[CLASS_69, CHIP, 0]
+Pokemon = CRABMEAT,24
+Pokemon = E103DELTA,24
+
+[CLASS_69, HANK, 0]
+Pokemon = E103DELTA,27
+
+[CLASS_69, ELLIOT, 0]
+Pokemon = E103DELTA,21
+Pokemon = JAWS,21
+Pokemon = E103DELTA,21
+Pokemon = JAWS,21
+
+[CLASS_69, RONALD, 0]
+Pokemon = CHOPPER,28
+Pokemon = JAWS,28
+Pokemon = CRABMEAT,28
+Pokemon = SCOURGE,28
+
+[CLASS_69, CLAUDE, 0]
+Pokemon = WATERCHAO,31
+Pokemon = SCOURGE,31
+
+[CLASS_69, WADE, 0]
+Pokemon = JAWS,27
+Pokemon = JAWS,27
+Pokemon = CHOPPER,27
+Pokemon = CHOPPER,27
+Pokemon = CRABMEAT,27
+Pokemon = CRABMEAT,27
+
+[CLASS_69, NOLAN, 0]
+Pokemon = E103DELTA,33
+Pokemon = E103DELTA,33
+
+[CLASS_69, ANDREW, 0]
+Pokemon = WATERPHI,24
+Pokemon = WATERPHI,24
+
+[CLASS_70, LUIS, 0]
+Pokemon = CHOPPER,16
+Pokemon = JAWS,16
+
+[CLASS_70, RICHARD, 0]
+Pokemon = CHOPPER,30
+Pokemon = JAWS,30
+
+[CLASS_70, REECE, 0]
+Pokemon = CRABMEAT,29
+Pokemon = E103DELTA,29
+Pokemon = JAWS,29
+
+[CLASS_70, MATTHEW, 0]
+Pokemon = CRABMEAT,30
+Pokemon = WATERCHAO,30
+
+[CLASS_70, DOUGLAS, 0]
+Pokemon = E103DELTA,27
+Pokemon = CHOPPER,27
+Pokemon = E103DELTA,27
+Pokemon = JAWS,27
+
+[CLASS_70, DAVID, 0]
+Pokemon = CRABMEAT,29
+Pokemon = JAWS,29
+Pokemon = CHOPPER,29
+
+[CLASS_70, TONY, 0]
+Pokemon = WATERCHAO,30
+Pokemon = CHOPPER,30
+
+[CLASS_70, AXLE, 0]
+Pokemon = E103DELTA,27
+Pokemon = CHOPPER,27
+Pokemon = CRABMEAT,27
+Pokemon = E103DELTA,27
+Pokemon = E103DELTA,27
+
+[CLASS_70, BARRY, 0]
+Pokemon = JAWS,31
+Pokemon = CHOPPER,31
+
+[CLASS_70, DEAN, 0]
+Pokemon = WATERCHAO,35
+
+[CLASS_70, DARRIN, 0]
+Pokemon = CRABMEAT,28
+Pokemon = JAWS,28
+Pokemon = E103DELTA,28
+Pokemon = CHOPPER,28
+
+[CLASS_70, SPENCER, 0]
+Pokemon = CHOPPER,33
+Pokemon = JAWS,33
+
+[CLASS_70, JACK, 0]
+Pokemon = WATERCHAO,37
+
+[CLASS_70, JEROME, 0]
+Pokemon = E103DELTA,33
+Pokemon = WATERCHAO,33
+
+[CLASS_70, ROLAND, 0]
+Pokemon = E103DELTA,32
+Pokemon = CRABMEAT,32
+Pokemon = E103DELTA,32
+
+[CLASS_71, KOJI, 0]
+Pokemon = WAVE,28
+Pokemon = STORM,28
+Pokemon = WAVE,28
+
+[CLASS_71, LUKE, 0]
+Pokemon = STORM,29
+Pokemon = STORM,29
+
+[CLASS_71, CAMRON, 0]
+Pokemon = JET,29
+Pokemon = STORM,29
+
+[CLASS_71, RAUL, 0]
+Pokemon = JET,29
+Pokemon = WAVE,29
+
+[CLASS_71, ISAIAH, 0]
+Pokemon = STORM,29
+Pokemon = STORM,29
+
+[CLASS_71, ZEEK, 0]
+Pokemon = STORM,33
+
+[CLASS_71, JAMAL, 0]
+Pokemon = JET,26
+Pokemon = WAVE,26
+Pokemon = STORM,26
+Pokemon = STORM,26
+
+[CLASS_71, COREY, 0]
+Pokemon = JET,29
+Pokemon = STORM,29
+
+[CLASS_71, CHASE, 0]
+Pokemon = OLDESPIO,31
+Pokemon = OLDESPIO,31
+Pokemon = ESPIO,31
+
+[CLASS_72, HUGO, 0]
+Pokemon = TIKAL,18
+Pokemon = ECHIDNA,18
+
+[CLASS_72, JASPER, 0]
+Pokemon = SHADE,18
+Pokemon = ECHIDNA,18
+
+[CLASS_72, DIRK, 0]
+Pokemon = ECHIDNA,18
+Pokemon = OKNUCKLES,18
+
+[CLASS_72, DARIAN, 0]
+Pokemon = SHADE,18
+Pokemon = SHADE,18
+
+[CLASS_72, STAN, 0]
+Pokemon = OLDESPIO,22
+Pokemon = CHARMYBEE,22
+Pokemon = OLDESPIO,22
+
+[CLASS_72, RICH, 0]
+Pokemon = OLDESPIO,24
+Pokemon = OLDESPIO,24
+
+[CLASS_73, BRIDGET, 0]
+Pokemon = E100ALPHA,21
+Pokemon = E100ALPHA,21
+Pokemon = E100ALPHA,21
+Pokemon = COSMO,21
+
+[CLASS_73, TAMIA, 0]
+Pokemon = E100ALPHA,24
+Pokemon = E100ALPHA,24
+
+[CLASS_73, LORI, 0]
+Pokemon = COSMO,24
+
+[CLASS_73, LOLA, 0]
+Pokemon = NACK,27
+Pokemon = ROUGE,27
+Pokemon = ROUGE,27
+
+[CLASS_73, SHEILA, 0]
+Pokemon = ROUGE,29
+Pokemon = NACK,29
+
+[CLASS_74, TIFFANY, 0]
+Pokemon = WATERCHAO,35
+
+[CLASS_74, NORA, 0]
+Pokemon = CRABMEAT,30
+Pokemon = JAWS,30
+Pokemon = CHOPPER,30
+
+[CLASS_74, MELISSA, 0]
+Pokemon = E103DELTA,31
+Pokemon = E103DELTA,31
+
+[CLASS_73, GRACE, 0]
+Pokemon = COSMO,29
+Pokemon = NACK,29
+
+[CLASS_73, OLIVIA, 0]
+Pokemon = TAILS,29
+Pokemon = SALLY,29
+
+[CLASS_73, LAUREN, 0]
+Pokemon = CHARMYBEE,33
+Pokemon = E123OMEGA,33
+Pokemon = CHARMYBEE,33
+
+[CLASS_74, ANYA, 0]
+Pokemon = CRABMEAT,27
+Pokemon = E103DELTA,27
+Pokemon = CRABMEAT,27
+Pokemon = E103DELTA,27
+Pokemon = WATERCHAO,27
+
+[CLASS_74, ALICE, 0]
+Pokemon = JAWS,30
+Pokemon = CHOPPER,30
+
+[CLASS_74, CONNIE, 0]
+Pokemon = E103DELTA,29
+Pokemon = E103DELTA,29
+Pokemon = E103DELTA,29
+
+[CLASS_74, SHIRLEY, 0]
+Pokemon = E103DELTA,30
+Pokemon = JAWS,30
+Pokemon = E103DELTA,30
+
+[CLASS_75, JOHAN, 0]
+Pokemon = ESPIO,31
+Pokemon = WAVE,31
+Pokemon = E123OMEGA,31
+Pokemon = ESPIO,31
+
+[CLASS_75, TYRON, 0]
+Pokemon = ESPIO,34
+Pokemon = E123OMEGA,34
+
+[CLASS_75, CAMERON, 0]
+Pokemon = E123OMEGA,33
+Pokemon = WAVE,33
+Pokemon = WAVE,33
+
+[CLASS_75, PRESTON, 0]
+Pokemon = WAVE,38
+
+[CLASS_76, RANDALL, 0]
+Pokemon = VANILLA,20
+Pokemon = WAVEBOARD,20
+Pokemon = VANILLA,20
+
+[CLASS_76, LUCA, 0]
+Pokemon = ROUGE,29
+Pokemon = ROUGE,29
+
+[CLASS_77, DALTON, 0]
+Pokemon = ROLLER,29
+Pokemon = MOTOBUG,29
+
+[CLASS_77, NELSON, 0]
+Pokemon = BOCOE,41
+Pokemon = MECHASONIC,41
+Pokemon = SHARD,41
+Pokemon = E105ZETA,41
+
+[CLASS_77, KIRK, 0]
+Pokemon = E108IOTA,31
+Pokemon = BOKKUN,31
+Pokemon = E108IOTA,31
+Pokemon = BOKKUN,31
+
+[CLASS_77, SHAWN, 0]
+Pokemon = E108IOTA,34
+Pokemon = BOKKUN,34
+
+[CLASS_77, GREGORY, 0]
+Pokemon = METALKNUX,48
+Pokemon = CUBOT,44
+Pokemon = ORBOT,44
+
+[CLASS_77, EDWARD, 0]
+Pokemon = BLAZE,46
+Pokemon = AMY,46
+Pokemon = AMY,47
+Pokemon = ROUGE,48
+
+[CLASS_77, KAYDEN, 0]
+Pokemon = E108IOTA,38
+
+[CLASS_77, NATE, 0]
+Pokemon = BOKKUN,34
+Pokemon = E108IOTA,34
+
+[CLASS_78, PHIL, 0]
+Pokemon = E108IOTA,34
+Pokemon = BOKKUN,34
+
+[CLASS_78, EDGAR, 0]
+Pokemon = BOKKUN,33
+Pokemon = E108IOTA,33
+Pokemon = BOKKUN,33
+
+[CLASS_78, JASON, 0]
+Pokemon = MSCOURGE,43
+
+[CLASS_78, COLE, 0]
+Pokemon = SCRATCH,39
+Pokemon = GROUNDER,39
+
+[CLASS_78, VINCENT, 0]
+Pokemon = E105ZETA,44
+Pokemon = DECOE,44
+Pokemon = MSCOURGE,44
+
+[CLASS_78, JOHN, 0]
+Pokemon = SHADE,42
+Pokemon = MSCOURGE,42
+Pokemon = BOCOE,42
+Pokemon = PCYBNAZO,42
+
+[CLASS_79, SEBASTIAN, 0]
+Pokemon = BEANTNT,29
+Pokemon = NACK,29
+
+[CLASS_79, PERRY, 0]
+Pokemon = BEANTNT,25
+Pokemon = NACK,25
+Pokemon = BEANTNT,25
+Pokemon = BEANTNT,25
+Pokemon = AMY,25
+
+[CLASS_79, ROBERT, 0]
+Pokemon = NACK,26
+Pokemon = AMY,26
+Pokemon = BEANTNT,26
+Pokemon = NACK,26
+
+[CLASS_79, DONALD, 0]
+Pokemon = COSMO,33
+
+[CLASS_79, BENNY, 0]
+Pokemon = SALLY,29
+Pokemon = TAILS,29
+
+[CLASS_79, EDWIN, 0]
+Pokemon = TAILS,26
+Pokemon = SALLY,26
+Pokemon = TAILS,26
+Pokemon = TAILS,26
+
+[CLASS_79, CHESTER, 0]
+Pokemon = SALLY,28
+Pokemon = NACK,28
+Pokemon = NACK,28
+
+[CLASS_79, WILTON, 0]
+Pokemon = CREAM,29
+Pokemon = ESPIO,29
+
+[CLASS_79, RAMIRO, 0]
+Pokemon = CHARMYBEE,34
+
+[CLASS_79, JACOB, 0]
+Pokemon = CHARMYBEE,26
+Pokemon = CREAM,26
+Pokemon = VECTOR,26
+Pokemon = ESPIO,26
+
+[CLASS_79, ROGER, 0]
+Pokemon = E103DELTA,30
+Pokemon = CRABMEAT,30
+Pokemon = CRABMEAT,30
+
+[CLASS_79, REED, 0]
+Pokemon = OPAEON,39
+Pokemon = OPAEON,39
+Pokemon = AEON,39
+Pokemon = OPAEON,39
+
+[CLASS_79, KEITH, 0]
+Pokemon = FLYGEMERL,39
+Pokemon = BLAZE,39
+
+[CLASS_79, CARTER, 0]
+Pokemon = COSMO,28
+Pokemon = TAILS,28
+Pokemon = TAILS,28
+
+[CLASS_79, MITCH, 0]
+Pokemon = NACK,26
+Pokemon = SALLY,26
+Pokemon = TAILS,26
+Pokemon = SALLY,26
+
+[CLASS_79, BECK, 0]
+Pokemon = TAILS,29
+Pokemon = NACK,29
+
+[CLASS_79, MARLON, 0]
+Pokemon = NACK,28
+Pokemon = SALLY,28
+Pokemon = COSMO,28
+
+[CLASS_80, KOICHI, 0]
+Pokemon = E109KAPPA,37
+Pokemon = SPKNUX,37
+Pokemon = FIGHTEMERL,37
+
+[CLASS_80, MIKE, 0]
+Pokemon = E109KAPPA,31
+Pokemon = KNUCKLES,31
+Pokemon = JET,31
+
+[CLASS_80, HIDEKI, 0]
+Pokemon = KNUCKLES,32
+Pokemon = KNUCKLES,32
+
+[CLASS_80, AARON, 0]
+Pokemon = SCOURGE,36
+
+[CLASS_80, HITOSHI, 0]
+Pokemon = JET,31
+Pokemon = E109KAPPA,31
+Pokemon = E109KAPPA,31
+
+[CLASS_80, ATSUSHI, 0]
+Pokemon = CUBOT,40
+Pokemon = ORBOT,40
+
+[CLASS_80, KIYO, 0]
+Pokemon = METALSONIC,43
+
+[CLASS_80, TAKASHI, 0]
+Pokemon = BOCOE,38
+Pokemon = DECOE,38
+Pokemon = BOKKUN,38
+
+[CLASS_80, DAISUKE, 0]
+Pokemon = E108IOTA,43
+Pokemon = E107THETA,43
+Pokemon = METALSONIC,43
+
+[CLASS_81, TERRY, 0]
+Pokemon = SONIC,5
+
+[CLASS_81, TERRY, 0]
+Pokemon = SHADOW,5
+
+[CLASS_81, TERRY, 0]
+Pokemon = SHADOW,5
+
+[CLASS_81, TERRY, 0]
+Pokemon = OKNUCKLES,9
+Pokemon = SONIC,9
+
+[CLASS_81, TERRY, 0]
+Pokemon = OKNUCKLES,9
+Pokemon = SHADOW,9
+
+[CLASS_81, TERRY, 0]
+Pokemon = OKNUCKLES,9
+Pokemon = SHADOW,9
+
+[CLASS_81, TERRY, 0]
+Pokemon = OKNUCKLES,17
+Pokemon = AEON,16
+Pokemon = BEAN,15
+Pokemon = SONIC,18
+
+[CLASS_81, TERRY, 0]
+Pokemon = OKNUCKLES,17
+Pokemon = AEON,16
+Pokemon = BEAN,15
+Pokemon = SHADOW,18
+
+[CLASS_81, TERRY, 0]
+Pokemon = OKNUCKLES,17
+Pokemon = AEON,16
+Pokemon = BEAN,15
+Pokemon = SHADOW,18
+
+[CLASS_82, TED, 0]
+Pokemon = KNUXEXE,29
+Pokemon = KNUXEXE,29
+
+[CLASS_82, CONNOR, 0]
+Pokemon = NACK,26
+Pokemon = SHADE,26
+Pokemon = ECHIDNA,26
+Pokemon = SHADE,26
+
+[CLASS_82, JERRY, 0]
+Pokemon = BALLHOG,28
+Pokemon = BUZZBOMBER,28
+Pokemon = MOTOBUG,28
+
+[CLASS_82, JOSE, 0]
+Pokemon = SPLATS,29
+Pokemon = ROLLER,29
+
+[CLASS_82, RODNEY, 0]
+Pokemon = BURROBOT,33
+
+[CLASS_82, BEAU, 0]
+Pokemon = LEON,26
+Pokemon = NEUTRON,26
+Pokemon = CRABMEAT,26
+Pokemon = MOTOBUG,26
+
+[CLASS_82, TAYLOR, 0]
+Pokemon = BUZZBOMBER,25
+Pokemon = BATBRAIN,25
+Pokemon = SPIKE,25
+Pokemon = JAWS,25
+Pokemon = SPIKE,25
+
+[CLASS_82, JOSHUA, 0]
+Pokemon = CRABMEAT,29
+Pokemon = SPLATS,29
+
+[CLASS_82, PARKER, 0]
+Pokemon = ROLLER,29
+Pokemon = CHOPPER,29
+
+[CLASS_82, ED, 0]
+Pokemon = BATBRAIN,28
+Pokemon = BUZZBOMBER,28
+Pokemon = NEUTRON,28
+
+[CLASS_82, TRAVIS, 0]
+Pokemon = LEON,29
+Pokemon = SPIKE,29
+
+[CLASS_82, BRAYDON, 0]
+Pokemon = TAILSEXE,33
+Pokemon = KNUXEXE,33
+Pokemon = FLEETWAYS,33
+
+[CLASS_82, IVAN, 0]
+Pokemon = FLEETWAYS,34
+Pokemon = SONICEXE,34
+
+[CLASS_83, EGGMAN, 0]
+Pokemon = BOCOE,25
+Pokemon = DECOE,24
+Pokemon = BOKKUN,29
+Pokemon = METALSONIC,26
+
+[CLASS_83, EGGMAN, 0]
+Pokemon = CUBOT,37
+Pokemon = ORBOT,35
+Pokemon = METALSONIC,37
+Pokemon = MECHASONIC,41
+
+[CLASS_83, EGGMAN, 0]
+Pokemon = NEOMSONIC,45
+Pokemon = METALKNUX,42
+Pokemon = MSCOURGE,44
+Pokemon = MECHASONIC,45
+Pokemon = SPMSONIC,50
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BUZZBOMBER,13
+Pokemon = BURROBOT,13
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BATBRAIN,11
+Pokemon = BURROBOT,11
+Pokemon = BALLHOG,11
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BATBRAIN,11
+Pokemon = SPIKE,11
+
+[CLASS_85, GRUNT, 0]
+Pokemon = ROLLER,13
+Pokemon = BURROBOT,13
+
+[CLASS_85, GRUNT, 0]
+Pokemon = MOTOBUG,17
+Pokemon = BUZZBOMBER,17
+
+[CLASS_85, GRUNT, 0]
+Pokemon = NEUTRON,15
+Pokemon = LEON,15
+
+[CLASS_85, GRUNT, 0]
+Pokemon = ROLLER,20
+Pokemon = SPLATS,20
+
+[CLASS_85, GRUNT, 0]
+Pokemon = MOTOBUG,21
+Pokemon = MOTOBUG,21
+
+[CLASS_85, GRUNT, 0]
+Pokemon = SPIKE,21
+Pokemon = BURROBOT,21
+
+[CLASS_85, GRUNT, 0]
+Pokemon = SPLATS,20
+Pokemon = CRABMEAT,20
+Pokemon = CRABMEAT,20
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BUZZBOMBER,19
+Pokemon = BATBRAIN,19
+Pokemon = BATBRAIN,19
+Pokemon = BUZZBOMBER,19
+
+[CLASS_85, GRUNT, 0]
+Pokemon = MOTOBUG,22
+Pokemon = JAWS,22
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BALLHOG,17
+Pokemon = BUZZBOMBER,17
+Pokemon = BURROBOT,17
+Pokemon = CHOPPER,17
+Pokemon = BUZZBOMBER,17
+
+[CLASS_85, GRUNT, 0]
+Pokemon = SPIKE,20
+Pokemon = NEUTRON,20
+Pokemon = ROLLER,20
+
+[CLASS_85, GRUNT, 0]
+Pokemon = MOTOBUG,21
+Pokemon = BATBRAIN,21
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BURROBOT,23
+Pokemon = SPLATS,23
+Pokemon = BUZZBOMBER,23
+
+[CLASS_85, GRUNT, 0]
+Pokemon = CHOPPER,23
+Pokemon = BURROBOT,23
+Pokemon = BURROBOT,23
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BUZZBOMBER,21
+Pokemon = BALLHOG,21
+
+[CLASS_85, GRUNT, 0]
+Pokemon = LEON,25
+Pokemon = SPLATS,25
+Pokemon = MOTOBUG,25
+
+[CLASS_85, GRUNT, 0]
+Pokemon = JAWS,26
+Pokemon = BATBRAIN,26
+
+[CLASS_85, GRUNT, 0]
+Pokemon = CRABMEAT,23
+Pokemon = BUZZBOMBER,23
+Pokemon = LEON,23
+Pokemon = ROLLER,23
+
+[CLASS_85, GRUNT, 0]
+Pokemon = SPIKE,26
+Pokemon = BATBRAIN,26
+
+[CLASS_85, GRUNT, 0]
+Pokemon = ROLLER,29
+Pokemon = MOTOBUG,29
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BURROBOT,25
+Pokemon = BALLHOG,25
+Pokemon = CRABMEAT,25
+Pokemon = CHOPPER,25
+Pokemon = BUZZBOMBER,25
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BURROBOT,28
+Pokemon = JAWS,28
+Pokemon = BALLHOG,28
+
+[CLASS_85, GRUNT, 0]
+Pokemon = ROLLER,29
+Pokemon = SPLATS,29
+
+[CLASS_85, GRUNT, 0]
+Pokemon = MOTOBUG,28
+Pokemon = CHOPPER,28
+Pokemon = LEON,28
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BURROBOT,33
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BUZZBOMBER,33
+
+[CLASS_85, GRUNT, 0]
+Pokemon = LEON,29
+Pokemon = NEUTRON,29
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BALLHOG,28
+Pokemon = CRABMEAT,28
+Pokemon = ROLLER,28
+
+[CLASS_85, GRUNT, 0]
+Pokemon = JAWS,26
+Pokemon = SPIKE,26
+Pokemon = BATBRAIN,26
+Pokemon = BUZZBOMBER,26
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BALLHOG,29
+Pokemon = MOTOBUG,29
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BURROBOT,29
+Pokemon = BUZZBOMBER,29
+
+[CLASS_85, GRUNT, 0]
+Pokemon = CHOPPER,26
+Pokemon = LEON,26
+Pokemon = BUZZBOMBER,26
+Pokemon = NEUTRON,26
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BATBRAIN,28
+Pokemon = MOTOBUG,28
+Pokemon = SPLATS,28
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BURROBOT,28
+Pokemon = SPLATS,28
+Pokemon = ROLLER,28
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BATBRAIN,28
+Pokemon = BALLHOG,28
+Pokemon = BALLHOG,28
+
+[CLASS_85, GRUNT, 0]
+Pokemon = ROLLER,33
+
+[CLASS_85, GRUNT, 0]
+Pokemon = CHOPPER,25
+Pokemon = SPIKE,25
+Pokemon = BALLHOG,25
+Pokemon = JAWS,25
+Pokemon = BATBRAIN,25
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BURROBOT,32
+Pokemon = MOTOBUG,32
+Pokemon = CRABMEAT,32
+
+[CLASS_86, SAMUEL, 0]
+Pokemon = COCONUTS,37
+Pokemon = SCRATCH,37
+Pokemon = GROUNDER,38
+Pokemon = COCONUTS,39
+Pokemon = SCRATCH,39
+
+[CLASS_86, GEORGE, 0]
+Pokemon = METALSONIC,42
+Pokemon = SHARD,42
+Pokemon = BOCOE,42
+Pokemon = DECOE,42
+Pokemon = BOKKUN,42
+
+[CLASS_86, COLBY, 0]
+Pokemon = METALSONIC,41
+Pokemon = E102GAMMA,42
+Pokemon = CUBOT,42
+Pokemon = E108IOTA,42
+Pokemon = BOKKUN,43
+
+[CLASS_86, PAUL, 0]
+Pokemon = JETBOARD,42
+Pokemon = MIGHTY,42
+Pokemon = OKNUXEXE,42
+Pokemon = MARINE,42
+Pokemon = NEOMSONIC,42
+
+[CLASS_86, ROLANDO, 0]
+Pokemon = CUBOT,42
+Pokemon = ORBOT,42
+Pokemon = METALKNUX,42
+Pokemon = MSCOURGE,42
+Pokemon = BOKKUN,42
+
+[CLASS_86, GILBERT, 0]
+Pokemon = OPAEON,42
+Pokemon = BLAZE,42
+Pokemon = TAILSEXE,42
+Pokemon = FIREEMERL,42
+Pokemon = PCYBNAZO,42
+
+[CLASS_86, OWEN, 0]
+Pokemon = JAWS,42
+Pokemon = GHOSTPHI,42
+Pokemon = BEANTNT,42
+Pokemon = BUZZBOMBER,42
+Pokemon = SHADE,42
+
+[CLASS_86, BERKE, 0]
+Pokemon = ROCKGEMERL,42
+Pokemon = CHIP,42
+Pokemon = OKNUXEXE,42
+Pokemon = TORNADOX,42
+Pokemon = RAY,42
+
+[CLASS_86, YUJI, 0]
+Pokemon = METALSONIC,38
+Pokemon = METALKNUX,38
+Pokemon = MSCOURGE,38
+Pokemon = SLVRSONIC,38
+Pokemon = E106ETA,38
+
+[CLASS_86, WARREN, 0]
+Pokemon = SLVRSONIC,37
+Pokemon = DECOE,37
+Pokemon = BOCOE,38
+Pokemon = CUBOT,39
+Pokemon = ORBOT,39
+
+[CLASS_86, MARY, 0]
+Pokemon = E100ALPHA,22
+Pokemon = E100ALPHA,22
+Pokemon = E100ALPHA,22
+Pokemon = E100ALPHA,22
+Pokemon = E100ALPHA,22
+
+[CLASS_86, CAROLINE, 0]
+Pokemon = E123OMEGA,42
+Pokemon = METALKNUX,42
+Pokemon = BOCOE,42
+Pokemon = SHARD,42
+Pokemon = ORBOT,42
+
+[CLASS_86, ALEXA, 0]
+Pokemon = E100ALPHA,42
+Pokemon = E102GAMMA,42
+Pokemon = N104EPSILON,42
+Pokemon = MECHASONIC,42
+Pokemon = SHARD,42
+
+[CLASS_86, SHANNON, 0]
+Pokemon = AMYHAMMER,42
+Pokemon = BALLHOG,42
+Pokemon = ORBOT,42
+Pokemon = SLVRSONIC,42
+Pokemon = SHARD,42
+
+[CLASS_86, NAOMI, 0]
+Pokemon = BOCOE,42
+Pokemon = DECOE,42
+Pokemon = BOKKUN,42
+Pokemon = SLVRSONIC,42
+Pokemon = MECHASONIC,42
+
+[CLASS_86, BROOKE, 0]
+Pokemon = ELECEMERL,42
+Pokemon = COCONUTS,42
+Pokemon = COCONUTS,42
+Pokemon = SPSONIC,42
+Pokemon = HYPSONIC,42
+
+[CLASS_86, AUSTINA, 0]
+Pokemon = SHADE,42
+Pokemon = GHOSTPHI,42
+Pokemon = CRABMEAT,42
+Pokemon = JAWS,42
+Pokemon = LEON,42
+
+[CLASS_86, JULIE, 0]
+Pokemon = TAILSEXE,42
+Pokemon = SPIKE,42
+Pokemon = JET,42
+Pokemon = DECOE,42
+Pokemon = BOKKUN,42
+
+[CLASS_87, LORELEI, 0]
+Pokemon = E103DELTA,52
+Pokemon = WATERPHI,51
+Pokemon = CHAOS,52
+Pokemon = WATERCHAO,54
+Pokemon = CHAOS4,54
+
+[CLASS_87, BRUNO, 0]
+Pokemon = KNUCKLES,51
+Pokemon = E109KAPPA,53
+Pokemon = FIGHTEMERL,53
+Pokemon = SPSONIC,54
+Pokemon = SPSONIC,56
+
+[CLASS_87, AGATHA, 0]
+Pokemon = KNUXEXE,54
+Pokemon = TAILSEXE,54
+Pokemon = SONICEXE,54
+Pokemon = DARKSHADOW,56
+Pokemon = MEPHILES,58
+
+[CLASS_87, LANCE, 0]
+Pokemon = DRAGONPHI,56
+Pokemon = DRAGONPHI,54
+Pokemon = NAZO,54
+Pokemon = FLEETWAYS,58
+Pokemon = PFCTNAZO,60
+
+[CLASS_84, BROCK, 0]
+Pokemon = GROUNDER,12
+Pokemon = SCRATCH,14
+Pokemon = ROCKGEMERL,15
+
+[CLASS_84, MISTY, 0]
+Pokemon = E103DELTA,18
+Pokemon = WATERPHI,21
+Pokemon = WATERCHAO,20
+
+[CLASS_84, LT. SURGE, 0]
+Pokemon = ELECEMERL,21
+Pokemon = E102GAMMA,18
+Pokemon = ELETCCHAO,24
+
+[CLASS_84, ERIKA, 0]
+Pokemon = E100ALPHA,24
+Pokemon = COSMO,29
+Pokemon = GRSSGEMERL,29
+Pokemon = GRSSGEMERL,29
+
+[CLASS_84, KOGA, 0]
+Pokemon = E108IOTA,37
+Pokemon = DARKSONIC,39
+Pokemon = DARKGEMERL,37
+Pokemon = DARKGEMERL,43
+
+[CLASS_84, BLAINE, 0]
+Pokemon = BLAZE,42
+Pokemon = N104EPSILON,40
+Pokemon = FIREEMERL,42
+Pokemon = FIREEMERL,47
+Pokemon = FIRECHAO,47
+
+[CLASS_84, SABRINA, 0]
+Pokemon = E123OMEGA,38
+Pokemon = SPSILVER,37
+Pokemon = PSYCEMERL,38
+Pokemon = PSYCEMERL,43
+
+[CLASS_88, THOMAS, 0]
+Pokemon = BARK,18
+Pokemon = OLDTAILS,18
+
+[CLASS_88, ARTHUR, 0]
+Pokemon = AEON,19
+Pokemon = OLDAMY,19
+
+[CLASS_88, TUCKER, 0]
+Pokemon = E102GAMMA,23
+
+[CLASS_88, NORTON, 0]
+Pokemon = TAILSEXE,48
+
+[CLASS_88, WALTER, 0]
+Pokemon = OLDTAILS,17
+Pokemon = OLDAMY,17
+
+[CLASS_89, TERRY, 0]
+Pokemon = OKNUCKLES,19
+Pokemon = BEAN,16
+Pokemon = AEON,18
+Pokemon = SPSONIC,20
+
+[CLASS_89, TERRY, 0]
+Pokemon = OKNUCKLES,19
+Pokemon = BEAN,16
+Pokemon = AEON,18
+Pokemon = SPSHADOW,20
+
+[CLASS_89, TERRY, 0]
+Pokemon = OKNUCKLES,19
+Pokemon = BEAN,16
+Pokemon = AEON,18
+Pokemon = SPSHADOW,20
+
+[CLASS_89, TERRY, 0]
+Pokemon = KNUCKLES,25
+Pokemon = MECHASONIC,23
+Pokemon = OSONICEXE,22
+Pokemon = AEON,20
+Pokemon = SPSONIC,25
+
+[CLASS_89, TERRY, 0]
+Pokemon = KNUCKLES,25
+Pokemon = MECHASONIC,23
+Pokemon = OSONICEXE,22
+Pokemon = AEON,20
+Pokemon = SPSHADOW,25
+
+[CLASS_89, TERRY, 0]
+Pokemon = KNUCKLES,25
+Pokemon = OSONICEXE,23
+Pokemon = MECHASONIC,22
+Pokemon = AEON,20
+Pokemon = SPSHADOW,25
+
+[CLASS_89, TERRY, 0]
+Pokemon = KNUCKLES,37
+Pokemon = MECHASONIC,38
+Pokemon = SONICEXE,35
+Pokemon = OPAEON,35
+Pokemon = HYPSONIC,40
+
+[CLASS_89, TERRY, 0]
+Pokemon = KNUCKLES,37
+Pokemon = MECHASONIC,38
+Pokemon = SONICEXE,35
+Pokemon = OPAEON,35
+Pokemon = HYPSHADOW,40
+
+[CLASS_89, TERRY, 0]
+Pokemon = KNUCKLES,37
+Pokemon = MECHASONIC,38
+Pokemon = SONICEXE,35
+Pokemon = OPAEON,35
+Pokemon = HYPSHADOW,40
+
+[CLASS_89, TERRY, 0]
+Pokemon = SPKNUX,47
+Pokemon = SCOURGE,45
+Pokemon = MECHASONIC,45
+Pokemon = SONICEXE,45
+Pokemon = OPAEON,47
+Pokemon = HYPSONIC,53
+
+[CLASS_89, TERRY, 0]
+Pokemon = SPKNUX,47
+Pokemon = SCOURGE,45
+Pokemon = MECHASONIC,45
+Pokemon = SONICEXE,45
+Pokemon = OPAEON,47
+Pokemon = HYPSHADOW,53
+
+[CLASS_89, TERRY, 0]
+Pokemon = SPKNUX,47
+Pokemon = SCOURGE,45
+Pokemon = MECHASONIC,45
+Pokemon = SONICEXE,45
+Pokemon = OPAEON,47
+Pokemon = HYPSHADOW,53
+
+[CLASS_90, TERRY, 0]
+Pokemon = SPKNUX,59
+Pokemon = INFINITE,57
+Pokemon = SPMSONIC,59
+Pokemon = SHADIC,59
+Pokemon = SPSCOURGE,61
+Pokemon = HYPSONIC,63
+
+[CLASS_90, TERRY, 0]
+Pokemon = SPKNUX,59
+Pokemon = INFINITE,57
+Pokemon = SPMSONIC,59
+Pokemon = SHADIC,59
+Pokemon = SPSCOURGE,61
+Pokemon = HYPSHADOW,63
+
+[CLASS_90, TERRY, 0]
+Pokemon = SPKNUX,59
+Pokemon = INFINITE,57
+Pokemon = SPMSONIC,59
+Pokemon = SHADIC,59
+Pokemon = SPSCOURGE,61
+Pokemon = HYPSHADOW,63
+
+[CLASS_91, PATRICIA, 0]
+Pokemon = OKNUXEXE,22
+
+[CLASS_91, CARLY, 0]
+Pokemon = OSONICEXE,24
+
+[CLASS_91, HOPE, 0]
+Pokemon = OTAILSEXE,23
+
+[CLASS_91, PAULA, 0]
+Pokemon = TAILSDOLL,24
+
+[CLASS_91, LAUREL, 0]
+Pokemon = OSONICEXE,23
+Pokemon = OSONICEXE,23
+
+[CLASS_91, JODY, 0]
+Pokemon = OTAILSEXE,22
+
+[CLASS_91, TAMMY, 0]
+Pokemon = OKNUXEXE,23
+
+[CLASS_91, RUTH, 0]
+Pokemon = TAILSDOLL,22
+
+[CLASS_91, KARINA, 0]
+Pokemon = OTAILSEXE,24
+
+[CLASS_91, JANAE, 0]
+Pokemon = OKNUXEXE,22
+
+[CLASS_91, ANGELICA, 0]
+Pokemon = OTAILSEXE,22
+Pokemon = OSONICEXE,22
+Pokemon = OKNUXEXE,22
+
+[CLASS_91, EMILIA, 0]
+Pokemon = OSONICEXE,24
+
+[CLASS_91, JENNIFER, 0]
+Pokemon = TAILSDOLL,24
+
+[CLASS_91, AMANDA, 0]
+Pokemon = ESPIO,34
+Pokemon = WAVE,34
+
+[CLASS_91, STACY, 0]
+Pokemon = ESPIO,38
+
+[CLASS_91, TASHA, 0]
+Pokemon = ESPIO,33
+Pokemon = WAVE,33
+Pokemon = E123OMEGA,33
+
+[CLASS_65, JEREMY, 0]
+Pokemon = E107THETA,20
+Pokemon = TORNADOX,20
+
+[CLASS_62, ALMA, 0]
+Pokemon = NACK,28
+Pokemon = AMY,28
+Pokemon = NACK,28
+
+[CLASS_62, SUSIE, 0]
+Pokemon = AMY,24
+Pokemon = BEANTNT,24
+Pokemon = ROUGE,24
+Pokemon = AMY,24
+Pokemon = ROUGE,24
+
+[CLASS_62, VALERIE, 0]
+Pokemon = AMY,30
+Pokemon = ROUGE,30
+
+[CLASS_62, GWEN, 0]
+Pokemon = AEON,27
+Pokemon = MOTOBUG,27
+Pokemon = AEON,27
+Pokemon = OPAEON,27
+
+[CLASS_66, VIRGIL, 0]
+Pokemon = STORM,28
+Pokemon = JET,28
+Pokemon = WAVE,28
+
+[CLASS_61, FLINT, 0]
+Pokemon = ROUGE,14
+Pokemon = BARK,14
+
+[CLASS_62, MISSY, 0]
+Pokemon = CRABMEAT,31
+Pokemon = WATERCHAO,31
+
+[CLASS_62, IRENE, 0]
+Pokemon = E103DELTA,30
+Pokemon = E103DELTA,30
+Pokemon = JAWS,30
+
+[CLASS_62, DANA, 0]
+Pokemon = E101BETA,20
+Pokemon = E106ETA,20
+Pokemon = E107THETA,20
+
+[CLASS_62, ARIANA, 0]
+Pokemon = E102GAMMA,19
+Pokemon = E105ZETA,19
+Pokemon = N104EPSILON,19
+Pokemon = E108IOTA,19
+
+[CLASS_62, LEAH, 0]
+Pokemon = E123OMEGA,22
+Pokemon = E100ALPHA,22
+
+[CLASS_61, JUSTIN, 0]
+Pokemon = MIGHTY,29
+Pokemon = RAY,29
+
+[CLASS_62, YAZMIN, 0]
+Pokemon = TAILS,29
+Pokemon = COSMO,29
+Pokemon = COSMO,29
+
+[CLASS_62, KINDRA, 0]
+Pokemon = TAILS,28
+Pokemon = NACK,28
+Pokemon = TAILS,28
+
+[CLASS_62, BECKY, 0]
+Pokemon = SALLY,29
+Pokemon = SALLY,29
+
+[CLASS_62, CELIA, 0]
+Pokemon = COSMO,33
+
+[CLASS_88, BROOKS, 0]
+Pokemon = DECOE,23
+
+[CLASS_88, LAMAR, 0]
+Pokemon = E100ALPHA,17
+Pokemon = COSMO,17
+
+[CLASS_92, ELI ? ANNE, 0]
+Pokemon = CHARMYBEE,22
+Pokemon = OLDESPIO,22
+
+[CLASS_93, RAY ? TYRA, 0]
+Pokemon = MSCOURGE,45
+Pokemon = BOKKUN,45
+Pokemon = MECHASONIC,45
+Pokemon = ORBOT,45
+Pokemon = SLVRSONIC,45
+Pokemon = E109KAPPA,45
+
+[CLASS_94, GIA ? JES, 0]
+Pokemon = RAY,24
+Pokemon = MIGHTY,24
+
+[CLASS_92, KIRI ? JAN, 0]
+Pokemon = TAILS,29
+Pokemon = COSMO,29
+
+[CLASS_95, RON ? MYA, 0]
+Pokemon = SALLY,29
+Pokemon = NACK,29
+
+[CLASS_94, LEA ? JED, 0]
+Pokemon = ESPIO,29
+Pokemon = KNUCKLES,29
+Pokemon = VECTOR,29
+Pokemon = CHARMYBEE,29
+
+[CLASS_96, LIA ? LUC, 0]
+Pokemon = WATERCHAO,30
+Pokemon = WATERCHAO,30
+
+[CLASS_96, LIL ? IAN, 0]
+Pokemon = E103DELTA,33
+Pokemon = E103DELTA,33
+
+[CLASS_57, BEN, 0]
+Pokemon = BEANTNT,28
+Pokemon = BUNNIE,28
+
+[CLASS_57, BEN, 0]
+Pokemon = BEANTNT,48
+Pokemon = BOCOE,48
+
+[CLASS_57, CHAD, 0]
+Pokemon = BUNNIE,20
+Pokemon = BURROBOT,20
+
+[CLASS_59, RELI, 0]
+Pokemon = AEON,20
+Pokemon = BUGGEMERL,20
+
+[CLASS_59, RELI, 0]
+Pokemon = OPAEON,28
+Pokemon = GHOSTPHI,28
+
+[CLASS_57, TIMMY, 0]
+Pokemon = BEANTNT,19
+Pokemon = BUNNIE,19
+Pokemon = SCRATCH,19
+
+[CLASS_57, TIMMY, 0]
+Pokemon = BEANTNT,27
+Pokemon = BUNNIE,27
+Pokemon = SCRATCH,27
+
+[CLASS_57, TIMMY, 0]
+Pokemon = BEANTNT,52
+Pokemon = BOCOE,52
+Pokemon = SCRATCH,52
+
+[CLASS_57, CHAD, 0]
+Pokemon = BOCOE,28
+Pokemon = BURROBOT,28
+
+[CLASS_59, JANICE, 0]
+Pokemon = OPAEON,20
+Pokemon = OPAEON,20
+
+[CLASS_59, JANICE, 0]
+Pokemon = OPAEON,28
+Pokemon = OPAEON,28
+
+[CLASS_57, CHAD, 0]
+Pokemon = BOCOE,48
+Pokemon = BUZZBOMBER,48
+
+[CLASS_65, FRANKLIN, 0]
+Pokemon = E108IOTA,25
+Pokemon = CHIP,25
+
+[CLASS_97, PROF. OAK, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_98, BRENDAN, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_98, MAY, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_98, RED, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_98, LEAF, 0]
+Pokemon = BUNNIE,5
+
+[CLASS_85, GRUNT, 0]
+Pokemon = HOUNDOUR,49
+Pokemon = HOUNDOUR,49
+
+[CLASS_75, JACLYN, 0]
+Pokemon = WATERCHAO,48
+Pokemon = CHOPPER,48
+Pokemon = E103DELTA,49
+
+[CLASS_99, SHARON, 0]
+Pokemon = BLAZE,37
+Pokemon = BEANTNT,37
+
+[CLASS_100, AMIRA, 0]
+Pokemon = OPAEON,34
+Pokemon = AMY,35
+Pokemon = BEANTNT,34
+
+[CLASS_101, ALIZE, 0]
+Pokemon = WATERCHAO,48
+Pokemon = E103DELTA,48
+Pokemon = E103DELTA,48
+
+[CLASS_102, NICOLAS, 0]
+Pokemon = OPAEON,51
+Pokemon = BLAZE,51
+
+[CLASS_102, MADELINE, 0]
+Pokemon = BLAZE,51
+Pokemon = SCOURGE,51
+
+[CLASS_103, NIKKI, 0]
+Pokemon = SALLY,37
+Pokemon = OPAEON,37
+
+[CLASS_104, STANLY, 0]
+Pokemon = ESPIO,48
+Pokemon = CHARMYBEE,48
+Pokemon = VECTOR,48
+
+[CLASS_105, JACKI, 0]
+Pokemon = E103DELTA,48
+Pokemon = WATERCHAO,50
+
+[CLASS_106, DAISY, 0]
+Pokemon = WATERCHAO,50
+
+[CLASS_66, GOON, 0]
+Pokemon = BEANTNT,37
+Pokemon = SALLY,37
+
+[CLASS_66, GOON, 0]
+Pokemon = AMY,38
+
+[CLASS_66, GOON, 0]
+Pokemon = OPAEON,38
+
+[CLASS_58, ANTHONY, 0]
+Pokemon = MOTOBUG,7
+Pokemon = ROLLER,8
+
+[CLASS_58, CHARLIE, 0]
+Pokemon = BALLHOG,7
+Pokemon = SPIKE,7
+Pokemon = BATBRAIN,7
+
+[CLASS_92, ELI ? ANNE, 0]
+Pokemon = NEUTRON,28
+Pokemon = OTAILSEXE,28
+
+[CLASS_57, JOHNSON, 0]
+Pokemon = SONICEXE,33
+Pokemon = TAILSEXE,33
+Pokemon = SONICEXE,34
+
+[CLASS_66, RICARDO, 0]
+Pokemon = CHARMYBEE,22
+Pokemon = OLDESPIO,22
+Pokemon = VECTOR,23
+
+[CLASS_66, JAREN, 0]
+Pokemon = VECTOR,24
+Pokemon = VECTOR,24
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BALLHOG,37
+Pokemon = BUZZBOMBER,37
+
+[CLASS_85, GRUNT, 0]
+Pokemon = LEON,35
+Pokemon = NEUTRON,35
+Pokemon = BURROBOT,35
+Pokemon = BUZZBOMBER,35
+
+[CLASS_85, GRUNT, 0]
+Pokemon = CRABMEAT,38
+Pokemon = CHOPPER,38
+Pokemon = JAWS,38
+
+[CLASS_85, GRUNT, 0]
+Pokemon = SPLATS,48
+Pokemon = MOTOBUG,48
+Pokemon = SPIKE,48
+
+[CLASS_85, GRUNT, 0]
+Pokemon = SPIKE,48
+Pokemon = JAWS,48
+Pokemon = BATBRAIN,48
+
+[CLASS_85, GRUNT, 0]
+Pokemon = ROLLER,49
+Pokemon = ROLLER,49
+
+[CLASS_85, ADMIN, 0]
+Pokemon = SCRATCH,52
+Pokemon = SCRATCH,53
+Pokemon = COCONUTS,54
+
+[CLASS_85, ADMIN, 0]
+Pokemon = GROUNDER,53
+Pokemon = GROUNDER,54
+Pokemon = COCONUTS,55
+
+[CLASS_82, GIDEON, 0]
+Pokemon = SPIKE,46
+Pokemon = SPLATS,46
+Pokemon = BUZZBOMBER,46
+Pokemon = BURROBOT,46
+Pokemon = MOTOBUG,46
+
+[CLASS_74, AMARA, 0]
+Pokemon = E103DELTA,36
+Pokemon = CRABMEAT,36
+Pokemon = SCOURGE,36
+
+[CLASS_74, MARIA, 0]
+Pokemon = WATERCHAO,37
+Pokemon = CRABMEAT,37
+
+[CLASS_74, ABIGAIL, 0]
+Pokemon = E103DELTA,35
+Pokemon = CHOPPER,36
+Pokemon = WATERCHAO,37
+
+[CLASS_70, FINN, 0]
+Pokemon = E103DELTA,38
+
+[CLASS_70, GARRETT, 0]
+Pokemon = CHOPPER,35
+Pokemon = JAWS,35
+Pokemon = CRABMEAT,38
+
+[CLASS_69, TOMMY, 0]
+Pokemon = WATERCHAO,33
+Pokemon = CHOPPER,33
+Pokemon = JAWS,35
+Pokemon = E103DELTA,35
+Pokemon = CRABMEAT,35
+
+[CLASS_99, TANYA, 0]
+Pokemon = SCOURGE,38
+Pokemon = BLAZE,38
+
+[CLASS_80, SHEA, 0]
+Pokemon = TAILS,38
+Pokemon = BEANTNT,38
+
+[CLASS_80, HUGH, 0]
+Pokemon = SCOURGE,37
+Pokemon = TAILS,37
+
+[CLASS_61, BRYCE, 0]
+Pokemon = BLAZE,36
+Pokemon = BEANTNT,36
+Pokemon = BLAZE,36
+
+[CLASS_62, CLAIRE, 0]
+Pokemon = SCOURGE,35
+Pokemon = TAILS,35
+Pokemon = TAILS,35
+Pokemon = BEANTNT,35
+
+[CLASS_95, MIK ? KIA, 0]
+Pokemon = SCOURGE,39
+Pokemon = TAILS,39
+
+[CLASS_103, VIOLET, 0]
+Pokemon = SALLY,36
+Pokemon = AMY,36
+Pokemon = AMY,36
+
+[CLASS_100, ALEXIS, 0]
+Pokemon = BEANTNT,34
+Pokemon = AMY,34
+Pokemon = AMY,34
+Pokemon = SALLY,34
+
+[CLASS_92, JOY ? MEG, 0]
+Pokemon = SALLY,37
+Pokemon = BEANTNT,37
+
+[CLASS_74, TISHA, 0]
+Pokemon = SALLY,38
+
+[CLASS_106, CELINA, 0]
+Pokemon = WATERCHAO,50
+
+[CLASS_106, RAYNA, 0]
+Pokemon = WATERCHAO,50
+
+[CLASS_105, GILLIAN, 0]
+Pokemon = JAWS,47
+Pokemon = CHOPPER,48
+Pokemon = E103DELTA,49
+
+[CLASS_57, DESTIN, 0]
+Pokemon = E103DELTA,48
+Pokemon = CRABMEAT,48
+
+[CLASS_70, TOBY, 0]
+Pokemon = E102GAMMA,48
+Pokemon = OLDESPIO,48
+Pokemon = ESPIO,48
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BATBRAIN,48
+Pokemon = BUZZBOMBER,48
+Pokemon = BALLHOG,48
+
+[CLASS_85, GRUNT, 0]
+Pokemon = BALLHOG,49
+Pokemon = MOTOBUG,49
+
+[CLASS_85, GRUNT, 0]
+Pokemon = ROLLER,48
+Pokemon = CHOPPER,48
+Pokemon = SPIKE,48
+
+[CLASS_79, MILO, 0]
+Pokemon = CHIP,47
+Pokemon = KNUCKLES,49
+
+[CLASS_79, CHAZ, 0]
+Pokemon = CHIP,47
+Pokemon = CHIP,49
+
+[CLASS_79, HAROLD, 0]
+Pokemon = ECHIDNA,47
+Pokemon = KNUCKLES,49
+
+[CLASS_69, TYLOR, 0]
+Pokemon = CHOPPER,49
+Pokemon = JAWS,49
+
+[CLASS_70, MYMO, 0]
+Pokemon = CRABMEAT,49
+Pokemon = E103DELTA,49
+
+[CLASS_74, NICOLE, 0]
+Pokemon = WATERCHAO,50
+
+[CLASS_96, AVA ? GEB, 0]
+Pokemon = E103DELTA,50
+Pokemon = E103DELTA,50
+
+[CLASS_103, ROSE, 0]
+Pokemon = ROUGE,49
+Pokemon = BLAZE,49
+
+[CLASS_70, SAMIR, 0]
+Pokemon = WATERCHAO,50
+
+[CLASS_74, DENISE, 0]
+Pokemon = CRABMEAT,49
+Pokemon = E103DELTA,49
+
+[CLASS_92, MIU ? MIA, 0]
+Pokemon = NACK,50
+Pokemon = NACK,50
+
+[CLASS_65, EARL, 0]
+Pokemon = NACK,49
+Pokemon = ROUGE,49
+
+[CLASS_104, FOSTER, 0]
+Pokemon = TORNADOX,50
+
+[CLASS_104, LARRY, 0]
+Pokemon = VECTOR,49
+Pokemon = CHARMYBEE,49
+Pokemon = ESPIO,49
+
+[CLASS_65, DARYL, 0]
+Pokemon = CREAM,50
+
+[CLASS_63, HECTOR, 0]
+Pokemon = AMY,49
+Pokemon = CREAM,49
+
+[CLASS_75, DARIO, 0]
+Pokemon = WATERCHAO,52
+    Moves = CHAOSBLAST,TELEKINESIS,ODORSLEUTH,AGILITY
+
+[CLASS_75, RODETTE, 0]
+Pokemon = CRABMEAT,48
+Pokemon = CHOPPER,48
+Pokemon = E103DELTA,50
+
+[CLASS_103, MIAH, 0]
+Pokemon = BLAZE,50
+Pokemon = NACK,50
+
+[CLASS_94, EVE ? JON, 0]
+Pokemon = NACK,50
+Pokemon = SCOURGE,50
+
+[CLASS_77, MASON, 0]
+Pokemon = OPAEON,47
+Pokemon = SCOURGE,47
+Pokemon = OPAEON,47
+Pokemon = SCOURGE,47
+
+[CLASS_99, CYNDY, 0]
+Pokemon = KNUCKLES,48
+Pokemon = KNUCKLES,48
+Pokemon = COSMO,48
+
+[CLASS_99, JOCELYN, 0]
+Pokemon = DECOE,38
+Pokemon = BOKKUN,38
+
+[CLASS_78, EVAN, 0]
+Pokemon = BEANTNT,48
+Pokemon = BEANTNT,48
+Pokemon = KNUCKLES,49
+
+[CLASS_63, MARK, 0]
+Pokemon = SHADE,33
+Pokemon = FIREEMERL,33
+
+[CLASS_102, LOGAN, 0]
+Pokemon = GROUNDER,37
+Pokemon = SILVER,40
+
+[CLASS_102, JACKSON, 0]
+Pokemon = KNUCKLES,49
+Pokemon = TAILS,49
+Pokemon = BEANTNT,49
+
+[CLASS_102, BETH, 0]
+Pokemon = SILVER,38
+Pokemon = SCRATCH,38
+Pokemon = COCONUTS,38
+
+[CLASS_102, KATELYN, 0]
+Pokemon = COSMO,52
+
+[CLASS_86, LEROY, 0]
+Pokemon = BEANTNT,47
+Pokemon = KNUCKLES,48
+Pokemon = BEANTNT,47
+Pokemon = TAILS,48
+Pokemon = COSMO,50
+
+[CLASS_86, MICHELLE, 0]
+Pokemon = BEANTNT,47
+Pokemon = KNUCKLES,47
+Pokemon = TAILS,48
+Pokemon = TAILS,48
+Pokemon = COSMO,50
+
+[CLASS_93, LEX ? NYA, 0]
+Pokemon = TAILS,52
+Pokemon = COSMO,52
+
+[CLASS_104, BRANDON, 0]
+Pokemon = WATERCHAO,50
+
+[CLASS_104, BENJAMIN, 0]
+Pokemon = CRABMEAT,48
+Pokemon = JAWS,48
+Pokemon = CHOPPER,48
+
+[CLASS_106, EDNA, 0]
+Pokemon = E103DELTA,50
+
+[CLASS_88, CLIFFORD, 0]
+Pokemon = E103DELTA,49
+Pokemon = WATERCHAO,49
+
+[CLASS_105, SELPHY, 0]
+Pokemon = TAILSEXE,49
+Pokemon = TAILSEXE,49
+
+[CLASS_104, LAWSON, 0]
+Pokemon = TORNADOX,47
+Pokemon = CHIP,48
+Pokemon = KNUCKLES,49
+
+[CLASS_75, LAURA, 0]
+Pokemon = TAILSEXE,48
+Pokemon = KNUXEXE,48
+Pokemon = SONICEXE,49
+
+[CLASS_101, BETHANY, 0]
+Pokemon = SHADE,50
+
+[CLASS_101, ALLISON, 0]
+Pokemon = TIKAL,48
+Pokemon = ECHIDNA,48
+Pokemon = TIKAL,48
+
+[CLASS_58, GARRET, 0]
+Pokemon = ROLLER,49
+
+[CLASS_58, JONAH, 0]
+Pokemon = BALLHOG,45
+Pokemon = BATBRAIN,45
+Pokemon = BUZZBOMBER,46
+Pokemon = BUZZBOMBER,47
+
+[CLASS_58, VANCE, 0]
+Pokemon = LEON,48
+Pokemon = NEUTRON,48
+
+[CLASS_57, NASH, 0]
+Pokemon = ECHIDNA,47
+Pokemon = ECHIDNA,47
+Pokemon = KNUCKLES,49
+
+[CLASS_57, CORDELL, 0]
+Pokemon = SHADE,48
+Pokemon = TIKAL,48
+
+[CLASS_59, DALIA, 0]
+Pokemon = SHADE,46
+Pokemon = TIKAL,47
+Pokemon = TIKAL,47
+Pokemon = ECHIDNA,48
+
+[CLASS_59, JOANA, 0]
+Pokemon = KNUCKLES,49
+
+[CLASS_61, RILEY, 0]
+Pokemon = ECHIDNA,49
+Pokemon = KNUCKLES,50
+
+[CLASS_62, MARCY, 0]
+Pokemon = TIKAL,48
+Pokemon = TIKAL,48
+Pokemon = KNUCKLES,49
+
+[CLASS_104, LAYTON, 0]
+Pokemon = KNUCKLES,48
+Pokemon = SHADE,48
+Pokemon = KNUCKLES,48
+
+[CLASS_62, KELSEY, 0]
+Pokemon = DARKSHADOW,21
+Pokemon = BUGGEMERL,21
+
+[CLASS_62, KELSEY, 0]
+Pokemon = JAWS,29
+Pokemon = GHOSTPHI,29
+
+[CLASS_62, KELSEY, 0]
+Pokemon = JAWS,49
+Pokemon = GHOSTPHI,49
+
+[CLASS_61, RICKY, 0]
+Pokemon = SILVER,22
+
+[CLASS_61, RICKY, 0]
+Pokemon = SPSILVER,30
+
+[CLASS_61, RICKY, 0]
+Pokemon = SPSILVER,55
+
+[CLASS_61, JEFF, 0]
+Pokemon = BATBRAIN,21
+Pokemon = BEANTNT,21
+
+[CLASS_61, JEFF, 0]
+Pokemon = BLAZE,29
+Pokemon = BEANTNT,29
+
+[CLASS_61, JEFF, 0]
+Pokemon = BLAZE,54
+Pokemon = BEANTNT,54
+
+[CLASS_62, ISABELLE, 0]
+Pokemon = OPAEON,21
+Pokemon = OPAEON,21
+Pokemon = AEON,18
+
+[CLASS_62, ISABELLE, 0]
+Pokemon = OPAEON,29
+Pokemon = OPAEON,29
+Pokemon = OPAEON,26
+
+[CLASS_62, ISABELLE, 0]
+Pokemon = OPAEON,47
+Pokemon = OPAEON,47
+Pokemon = BARK,50
+
+[CLASS_57, YASU, 0]
+Pokemon = BEAN,22
+Pokemon = BEANTNT,22
+Pokemon = BEANTNT,22
+
+[CLASS_57, YASU, 0]
+Pokemon = BEANTNT,47
+Pokemon = BEANTNT,47
+Pokemon = BEANTNT,47
+
+[CLASS_68, BERNIE, 0]
+Pokemon = STORM,28
+Pokemon = STORM,28
+Pokemon = STORM,28
+
+[CLASS_72, DARIAN, 0]
+Pokemon = E100ALPHA,29
+Pokemon = MEPHILESD,29
+
+[CLASS_61, CHRIS, 0]
+Pokemon = E100ALPHA,24
+Pokemon = SHADOW,24
+
+[CLASS_61, CHRIS, 0]
+Pokemon = E100ALPHA,29
+Pokemon = SPSHADOW,29
+
+[CLASS_61, CHRIS, 0]
+Pokemon = E101BETA,54
+Pokemon = SPSHADOW,54
+
+[CLASS_62, ALICIA, 0]
+Pokemon = MOTOBUG,25
+
+[CLASS_62, ALICIA, 0]
+Pokemon = TAILSEXE,30
+
+[CLASS_62, ALICIA, 0]
+Pokemon = TAILSEXE,55
+
+[CLASS_65, JEREMY, 0]
+Pokemon = E108IOTA,30
+Pokemon = TORNADOX,28
+
+[CLASS_63, MARK, 0]
+Pokemon = DARKSHADIC,54
+Pokemon = FIREEMERL,54
+
+[CLASS_63, HERMAN, 0]
+Pokemon = KNUCKLES,29
+Pokemon = WAVE,29
+
+[CLASS_63, HERMAN, 0]
+Pokemon = KNUCKLES,54
+Pokemon = WAVE,54
+
+[CLASS_65, TRENT, 0]
+Pokemon = TORNADOX,31
+Pokemon = CHIP,31
+
+[CLASS_59, MEGAN, 0]
+Pokemon = OPAEON,22
+Pokemon = BEANTNT,22
+Pokemon = DARKSHADOW,23
+Pokemon = MOTOBUG,21
+Pokemon = DECOE,22
+
+[CLASS_59, MEGAN, 0]
+Pokemon = BARK,46
+Pokemon = BEANTNT,47
+Pokemon = JAWS,47
+Pokemon = TAILSEXE,47
+Pokemon = BOKKUN,48
+
+[CLASS_64, GLENN, 0]
+Pokemon = NACK,28
+Pokemon = NACK,28
+Pokemon = NACK,28
+
+[CLASS_72, RICH, 0]
+Pokemon = E100ALPHA,30
+Pokemon = MEPHILESD,30
+
+[CLASS_66, JAREN, 0]
+Pokemon = NACK,28
+Pokemon = NACK,30
+
+[CLASS_69, ELLIOT, 0]
+Pokemon = E102GAMMA,28
+Pokemon = RAY,28
+Pokemon = SPSHADIC,28
+Pokemon = CHAOS4,28
+
+[CLASS_76, LUCA, 0]
+Pokemon = DRAGONPHI,33
+Pokemon = DRAGONPHI,33
+
+[CLASS_73, SHEILA, 0]
+Pokemon = NEUTRON,49
+Pokemon = TAILSEXE,49
+
+[CLASS_79, ROBERT, 0]
+Pokemon = OPAEON,28
+Pokemon = OPAEON,28
+Pokemon = BLAZE,28
+Pokemon = BLAZE,28
+
+[CLASS_79, ROBERT, 0]
+Pokemon = BARK,47
+Pokemon = BARK,47
+Pokemon = BLAZE,47
+Pokemon = BLAZE,47
+
+[CLASS_62, SUSIE, 0]
+Pokemon = OPAEON,27
+Pokemon = MOTOBUG,27
+Pokemon = BEANTNT,27
+Pokemon = DECOE,27
+Pokemon = MOTOBUG,27
+
+[CLASS_62, SUSIE, 0]
+Pokemon = OPAEON,47
+Pokemon = TAILSEXE,47
+Pokemon = BEANTNT,47
+Pokemon = DECOE,47
+Pokemon = TAILSEXE,47
+
+[CLASS_62, SUSIE, 0]
+Pokemon = BARK,52
+Pokemon = TAILSEXE,52
+Pokemon = BEANTNT,52
+Pokemon = BOKKUN,52
+Pokemon = TAILSEXE,52
+
+[CLASS_66, LUKAS, 0]
+Pokemon = ECHIDNA,47
+Pokemon = ECHIDNA,47
+Pokemon = NACK,47
+Pokemon = SHADE,47
+
+[CLASS_79, BENNY, 0]
+Pokemon = BLAZE,32
+Pokemon = BLAZE,32
+
+[CLASS_79, BENNY, 0]
+Pokemon = BLAZE,49
+Pokemon = BLAZE,49
+
+[CLASS_79, MARLON, 0]
+Pokemon = BLAZE,30
+Pokemon = STORMBOARD,30
+Pokemon = BLAZE,30
+
+[CLASS_79, MARLON, 0]
+Pokemon = BLAZE,48
+Pokemon = OLDCREAM,48
+Pokemon = BLAZE,48
+
+[CLASS_73, GRACE, 0]
+Pokemon = BARK,49
+Pokemon = SPLATS,49
+
+[CLASS_79, CHESTER, 0]
+Pokemon = OLDCREAM,30
+Pokemon = OLDCREAM,30
+Pokemon = STORMBOARD,30
+
+[CLASS_79, CHESTER, 0]
+Pokemon = OLDCREAM,48
+Pokemon = OLDCREAM,48
+Pokemon = OLDCREAM,48
+
+[CLASS_62, BECKY, 0]
+Pokemon = DECOE,32
+Pokemon = BOKKUN,32
+
+[CLASS_62, BECKY, 0]
+Pokemon = DECOE,49
+Pokemon = BOKKUN,49
+
+[CLASS_62, BECKY, 0]
+Pokemon = BOKKUN,54
+Pokemon = BOKKUN,54
+
+[CLASS_95, RON ? MYA, 0]
+Pokemon = TIKAL,33
+Pokemon = SPKNUX,33
+
+[CLASS_95, RON ? MYA, 0]
+Pokemon = TIKAL,51
+Pokemon = SPKNUX,51
+
+[CLASS_95, RON ? MYA, 0]
+Pokemon = TIKAL,56
+Pokemon = SPKNUX,56
+
+[CLASS_66, RUBEN, 0]
+Pokemon = SHADE,48
+Pokemon = SHADE,48
+Pokemon = SHADE,48
+
+[CLASS_71, CAMRON, 0]
+Pokemon = MSCOURGE,49
+Pokemon = E108IOTA,49
+
+[CLASS_66, JAXON, 0]
+Pokemon = SHADE,49
+Pokemon = NACK,49
+
+[CLASS_71, ISAIAH, 0]
+Pokemon = E108IOTA,49
+Pokemon = E109KAPPA,49
+
+[CLASS_71, COREY, 0]
+Pokemon = MSCOURGE,49
+Pokemon = E109KAPPA,49
+
+[CLASS_79, JACOB, 0]
+Pokemon = BLAZE,28
+Pokemon = BATBRAIN,28
+Pokemon = BLAZE,28
+Pokemon = BATBRAIN,28
+
+[CLASS_79, JACOB, 0]
+Pokemon = BLAZE,47
+Pokemon = BLAZE,47
+Pokemon = BLAZE,47
+Pokemon = BLAZE,47
+
+[CLASS_74, ALICE, 0]
+Pokemon = SPSHADIC,49
+Pokemon = SPSHADIC,49
+
+[CLASS_70, DARRIN, 0]
+Pokemon = CHAOS4,52
+Pokemon = CHAOS4,52
+Pokemon = CHAOS4,52
+Pokemon = CHAOS4,52
+
+[CLASS_62, MISSY, 0]
+Pokemon = SPSHADIC,49
+Pokemon = SPSHADIC,49
+
+[CLASS_62, MISSY, 0]
+Pokemon = SPSHADIC,54
+Pokemon = SPSHADIC,54
+
+[CLASS_69, WADE, 0]
+Pokemon = WATERPHI,47
+Pokemon = WATERPHI,47
+Pokemon = WATERPHI,47
+Pokemon = WATERPHI,47
+Pokemon = WATERPHI,47
+Pokemon = WATERPHI,47
+
+[CLASS_70, JACK, 0]
+Pokemon = MARINE,50
+
+[CLASS_96, LIL ? IAN, 0]
+Pokemon = CHAOS4,50
+Pokemon = MARINE,50
+
+[CLASS_96, LIL ? IAN, 0]
+Pokemon = CHAOS4,55
+Pokemon = MARINE,55
+
+[CLASS_70, FINN, 0]
+Pokemon = MARINE,50
+
+[CLASS_99, SHARON, 0]
+Pokemon = METALKNUX,50
+Pokemon = MSCOURGE,50
+
+[CLASS_99, SHARON, 0]
+Pokemon = MSCOURGE,55
+Pokemon = MSCOURGE,55
+
+[CLASS_99, TANYA, 0]
+Pokemon = SPKNUX,50
+Pokemon = TIKAL,50
+
+[CLASS_99, TANYA, 0]
+Pokemon = SPKNUX,55
+Pokemon = TIKAL,55
+
+[CLASS_80, SHEA, 0]
+Pokemon = E108IOTA,50
+Pokemon = E108IOTA,50
+
+[CLASS_80, SHEA, 0]
+Pokemon = E108IOTA,55
+Pokemon = E109KAPPA,55
+
+[CLASS_80, HUGH, 0]
+Pokemon = E108IOTA,50
+Pokemon = E108IOTA,50
+
+[CLASS_80, HUGH, 0]
+Pokemon = E108IOTA,55
+Pokemon = E109KAPPA,55
+
+[CLASS_95, MIK ? KIA, 0]
+Pokemon = E108IOTA,51
+Pokemon = MSCOURGE,51
+
+[CLASS_95, MIK ? KIA, 0]
+Pokemon = E109KAPPA,56
+Pokemon = MSCOURGE,56
+
+[CLASS_100, AMIRA, 0]
+Pokemon = E102GAMMA,47
+Pokemon = E102GAMMA,47
+Pokemon = E102GAMMA,47
+
+[CLASS_92, JOY ? MEG, 0]
+Pokemon = NEUTRON,49
+Pokemon = NEUTRON,49
+
+[CLASS_106, RAYNA, 0]
+Pokemon = SMEARGLE,54
+
+[CLASS_57, DESTIN, 0]
+Pokemon = BEANTNT,53
+Pokemon = BARK,53
+
+[CLASS_101, ALIZE, 0]
+Pokemon = DECOE,53
+Pokemon = NEUTRON,53
+Pokemon = MARILL,53
+
+[CLASS_94, GIA ? JES, 0]
+Pokemon = GHOSTPHI,30
+Pokemon = JAWS,30
+
+[CLASS_94, GIA ? JES, 0]
+Pokemon = LEON,55
+Pokemon = CRABMEAT,55
+
+[CLASS_79, MILO, 0]
+Pokemon = OPAEON,53
+Pokemon = BARK,55
+
+[CLASS_79, CHAZ, 0]
+Pokemon = BLAZE,53
+Pokemon = BLAZE,55
+
+[CLASS_79, HAROLD, 0]
+Pokemon = NOCTOWL,53
+Pokemon = NOCTOWL,55
+
+[CLASS_74, NICOLE, 0]
+Pokemon = MARILL,54
+
+[CLASS_75, JACLYN, 0]
+Pokemon = NATU,52
+    Moves = CHAOSBURST,CONFUSERAY,FUTURESIGHT,WISH
+Pokemon = WAVE,52
+    Moves = CHAOSBURST,HEADBUTT,AMNESIA,YAWN
+Pokemon = E105ZETA,54
+    Moves = CHAOSBURST,FUTURESIGHT,RECOVER,REFLECT
+
+[CLASS_70, SAMIR, 0]
+Pokemon = HPCNAZO,55
+
+[CLASS_65, EARL, 0]
+Pokemon = TORNADOX,54
+Pokemon = E109KAPPA,54
+
+[CLASS_104, LARRY, 0]
+Pokemon = E108IOTA,54
+Pokemon = E108IOTA,54
+
+[CLASS_63, HECTOR, 0]
+Pokemon = DARKSHADIC,55
+Pokemon = SCOURGE,55
+
+[CLASS_75, DARIO, 0]
+Pokemon = GIRAFARIG,56
+    Moves = CHAOSBLAST,TELEKINESIS,ODORSLEUTH,AGILITY
+
+[CLASS_75, RODETTE, 0]
+Pokemon = NATU,53
+    Moves = CHAOSBURST,CONFUSERAY,WISH,FUTURESIGHT
+Pokemon = FIGHTEMERL,53
+    Moves = CHAOSBURST,DISABLE,PSYCHUP,FUTURESIGHT
+Pokemon = FIGHTEMERL,53
+    Moves = CHAOSBURST,HYPNOSIS,PSYCHUP,FUTURESIGHT
+
+[CLASS_77, MASON, 0]
+Pokemon = DRAGONPHI,52
+Pokemon = PINECO,52
+Pokemon = DRAGONPHI,52
+Pokemon = PINECO,52
+
+[CLASS_102, NICOLAS, 0]
+Pokemon = CHARMYBEE,55
+Pokemon = CHARMYBEE,55
+
+[CLASS_102, MADELINE, 0]
+Pokemon = COCONUTS,55
+Pokemon = COCONUTS,55
+
+[CLASS_99, CYNDY, 0]
+Pokemon = MSCOURGE,54
+Pokemon = HITMONTOP,54
+Pokemon = E109KAPPA,54
+
+[CLASS_78, EVAN, 0]
+Pokemon = BUZZBOMBER,52
+Pokemon = FIREEMERL,52
+Pokemon = URSARING,55
+
+[CLASS_102, JACKSON, 0]
+Pokemon = ELECEMERL,53
+    Moves = SLAM,MEGADRAIN,BIND,INGRAIN
+Pokemon = SONICEXE,54
+    Moves = CONFUSION,EGGBOMB,STUNSPORE,REFLECT
+Pokemon = SONICEXE,55
+    Moves = CONFUSION,EGGBOMB,SLEEPPOWDER,STOMP
+
+[CLASS_102, KATELYN, 0]
+Pokemon = ROUGE,56
+    Moves = EGGBOMB,DEFENSECURL,MINIMIZE,SOFTBOILED
+
+[CLASS_86, LEROY, 0]
+Pokemon = DARKSHADIC,52
+    Moves = EARTHQUAKE,HORNDRILL,ROCKBLAST,SCARYFACE
+Pokemon = WAVE,54
+    Moves = CHAOSBURST,HEADBUTT,AMNESIA,DISABLE
+Pokemon = SCOURGE,52
+    Moves = DIZZYPUNCH,CHAOSSNAP,ENDURE,REVERSAL
+Pokemon = E109KAPPA,52
+    Moves = HYPERATTACK,VITALTHROW,REVENGE,CHAOSATK
+Pokemon = URSARING,55
+    Moves = SLASH,FAINTATTACK_2,SNORE,REST
+
+[CLASS_86, MICHELLE, 0]
+Pokemon = TAILSEXE,53
+    Moves = SLASH,SCREECH,FAINTATTACK_2,CHAOSSNAP
+Pokemon = CREAM,53
+    Moves = ICEBEAM,TAKEDOWN,ICYWIND,SHEERCOLD
+Pokemon = SPIKE,54
+    Moves = FLAMETHROWER,CONFUSERAY,WILLOWISP,GRUDGE
+Pokemon = JET,54
+    Moves = BOUNCE,AGILITY,FIRESPIN,TAKEDOWN
+Pokemon = GIRAFARIG,56
+    Moves = CHAOSBLAST,TELEKINESIS,STOMP,ODORSLEUTH
+
+[CLASS_93, LEX ? NYA, 0]
+Pokemon = MILTANK,57
+    Moves = BODYSLAM,MILKDRINK,GROWL,DEFENSECURL
+Pokemon = PCYBNAZO,57
+    Moves = TAKEDOWN,SCARYFACE,CHAOSSPEAR,SWAGGER
+
+[CLASS_58, COLTON, 0]
+Pokemon = DARKSONIC,19
+Pokemon = OLDAMY,19
+Pokemon = DARKSONIC,19
+
+[CLASS_58, COLTON, 0]
+Pokemon = BALLHOG,27
+Pokemon = AMY,27
+Pokemon = BALLHOG,27
+
+[CLASS_58, COLTON, 0]
+Pokemon = BALLHOG,51
+Pokemon = AMYHAMMER,54
+Pokemon = BALLHOG,51
+
+[CLASS_70, MATTHEW, 0]
+Pokemon = E102GAMMA,49
+Pokemon = E103DELTA,49
+
+[CLASS_70, TONY, 0]
+Pokemon = CHAOS4,49
+Pokemon = CHAOS4,49
+
+[CLASS_74, MELISSA, 0]
+Pokemon = E102GAMMA,49
+Pokemon = SPSHADIC,49
+
+[CLASS_87, LORELEI, 0]
+Pokemon = WATERPHI,64
+Pokemon = WATERPHI,63
+Pokemon = CHAOS,63
+Pokemon = WATERCHAO,66
+Pokemon = CHAOS4,66
+Pokemon = PFCTCHAOS,68
+
+[CLASS_87, BRUNO, 0]
+Pokemon = SPKNUX,65
+Pokemon = FIGHTEMERL,65
+Pokemon = FIGHTEMERL,65
+Pokemon = SPSONIC,66
+Pokemon = HYPSONIC,68
+Pokemon = HYPSONIC,68
+
+[CLASS_87, AGATHA, 0]
+Pokemon = KNUXEXE,66
+Pokemon = TAILSEXE,66
+Pokemon = SONICEXE,66
+Pokemon = DARKSHADOW,68
+Pokemon = INFINITE,70
+Pokemon = MEPHILESD,70
+
+[CLASS_87, LANCE, 0]
+Pokemon = DRAGONPHI,68
+Pokemon = TORNADOX,66
+Pokemon = FLEETWAYS,66
+Pokemon = CYBERNAZO,66
+Pokemon = HYPPNAZO,70
+Pokemon = HYPPNAZO,72
+
+[CLASS_90, TERRY, 0]
+Pokemon = SPKNUX,72
+Pokemon = INFINITE,72
+Pokemon = DARKGEMERL,72
+Pokemon = SPSCOURGE,73
+Pokemon = HYPSONIC,75
+Pokemon = HYPSHADIC,72
+
+[CLASS_90, TERRY, 0]
+Pokemon = SPKNUX,72
+Pokemon = INFINITE,72
+Pokemon = DARKGEMERL,72
+Pokemon = SPSCOURGE,73
+Pokemon = HYPSHADOW,75
+Pokemon = HYPSHADIC,72
+
+[CLASS_90, TERRY, 0]
+Pokemon = SPKNUX,72
+Pokemon = INFINITE,72
+Pokemon = DARKGEMERL,72
+Pokemon = SPSCOURGE,73
+Pokemon = HYPSHADOW,75
+Pokemon = HYPSHADIC,72
+
+[CLASS_71, PAXTON, 0]
+Pokemon = OPAEON,39
+Pokemon = AMYHAMMER,39

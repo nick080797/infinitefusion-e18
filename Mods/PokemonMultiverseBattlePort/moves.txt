@@ -1,0 +1,2 @@
+60621,ABANDONO,Abandono,0C0,100,PSYCHIC,Special,255,10,255,NearOther,0,abef,""
+60622,DMIST,D-Mist,007,100,ICE,Special,255,25,255,NearOther,0,abef,""

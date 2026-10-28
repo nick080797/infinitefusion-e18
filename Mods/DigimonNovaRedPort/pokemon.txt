@@ -1,0 +1,6764 @@
+[607991]
+Name = kamon
+InternalName = KAMON
+Type1 = FIRE
+BaseStats = 40,55,50,55,50,50
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OVERGROW
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607992]
+Name = mamon
+InternalName = MAMON
+Type1 = FIRE
+BaseStats = 60,70,60,70,60,60
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607993]
+Name = kakumon
+InternalName = KAKUMON
+Type1 = FIRE
+BaseStats = 80,85,70,85,70,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607994]
+Name = domon
+InternalName = DOMON
+Type1 = FIRE
+Type2 = STEEL
+BaseStats = 100,100,80,100,80,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607995]
+Name = kemon
+InternalName = KEMON
+Type1 = FIRE
+Type2 = STEEL
+BaseStats = 120,115,90,115,90,90
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[607996]
+Name = unomon
+InternalName = UNOMON
+Type1 = FIRE
+Type2 = DARK
+BaseStats = 85,100,75,90,75,75
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = BLAZE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[607997]
+Name = bumon
+InternalName = BUMON
+Type1 = WATER
+BaseStats = 60,50,60,30,50,60
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[607998]
+Name = rurumon
+InternalName = RURUMON
+Type1 = WATER
+BaseStats = 60,60,80,40,50,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[607999]
+Name = arurumon
+InternalName = ARURUMON
+Type1 = WATER
+BaseStats = 70,70,100,50,60,100
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[607999]
+Name = arurumon
+InternalName = ARURUMON
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 80,80,120,60,60,110
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608000]
+Name = komon
+InternalName = KOMON
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 90,90,130,60,60,130
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = TORRENT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608001]
+Name = tamon
+InternalName = TAMON
+Type1 = ICE
+BaseStats = 40,55,40,70,55,40
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608002]
+Name = gemon
+InternalName = GEMON
+Type1 = ICE
+BaseStats = 60,70,50,85,65,50
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608003]
+Name = raphimon
+InternalName = RAPHIMON
+Type1 = ICE
+BaseStats = 100,100,70,115,85,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 127
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608000]
+Name = komon
+InternalName = KOMON
+Type1 = ICE
+Type2 = STEEL
+BaseStats = 120,115,80,130,95,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608004]
+Name = yomon
+InternalName = YOMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 40,40,40,50,65,65
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608005]
+Name = rdramon
+InternalName = RDRAMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 60,50,50,60,80,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608006]
+Name = rudamon
+InternalName = RUDAMON
+Type1 = CUSTOM_TYPE_23_17
+Type2 = FLYING
+BaseStats = 80,60,60,70,95,95
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608007]
+Name = uoumon
+InternalName = UOUMON
+Type1 = CUSTOM_TYPE_23_17
+Type2 = FLYING
+BaseStats = 100,70,70,80,110,110
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608008]
+Name = timon
+InternalName = TIMON
+Type1 = CUSTOM_TYPE_23_17
+Type2 = FLYING
+BaseStats = 120,80,80,90,125,125
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SERENEGRACE
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608009]
+Name = ntomon
+InternalName = NTOMON
+Type1 = NORMAL
+BaseStats = 40,50,50,60,50,50
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608010]
+Name = buterimo
+InternalName = BUTERIMO
+Type1 = FLYING
+BaseStats = 60,60,60,80,60,60
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608011]
+Name = aromon
+InternalName = AROMON
+Type1 = FLYING
+Type2 = FIRE
+BaseStats = 120,90,90,140,90,90
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = KEENEYE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608012]
+Name = lamon
+InternalName = LAMON
+Type1 = BUG
+BaseStats = 55,50,55,55,60,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608013]
+Name = tomon
+InternalName = TOMON
+Type1 = BUG
+Type2 = ELECTRIC
+BaseStats = 65,60,65,65,70,65
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608014]
+Name = gewomon
+InternalName = GEWOMON
+Type1 = BUG
+Type2 = ELECTRIC
+BaseStats = 75,70,75,75,80,75
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608015]
+Name = hanimon
+InternalName = HANIMON
+Type1 = BUG
+Type2 = ELECTRIC
+BaseStats = 110,70,95,80,105,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608016]
+Name = ibomon
+InternalName = IBOMON
+Type1 = BUG
+Type2 = ELECTRIC
+BaseStats = 130,80,110,90,120,90
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = COMPOUNDEYES
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608017]
+Name = miVeemon
+InternalName = MIVEEMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 55,35,35,55,75,75
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608018]
+Name = emon
+InternalName = EMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 65,45,45,65,85,85
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608019]
+Name = gnamon
+InternalName = GNAMON
+Type1 = CUSTOM_TYPE_23_17
+Type2 = FLYING
+BaseStats = 85,65,65,85,105,105
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608020]
+Name = amedramo
+InternalName = AMEDRAMO
+Type1 = CUSTOM_TYPE_23_17
+Type2 = FLYING
+BaseStats = 95,65,65,95,125,125
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = CUTECHARM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608021]
+Name = idramon
+InternalName = IDRAMON
+Type1 = NORMAL
+BaseStats = 30,30,30,30,30,30
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608022]
+Name = amon
+InternalName = AMON
+Type1 = NORMAL
+BaseStats = 55,55,55,55,55,55
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 220
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608023]
+Name = madilomo
+InternalName = MADILOMO
+Type1 = NORMAL
+BaseStats = 65,65,65,65,65,65
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608024]
+Name = kylomon
+InternalName = KYLOMON
+Type1 = DRAGON
+BaseStats = 75,75,75,75,75,75
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608025]
+Name = akkoumon
+InternalName = AKKOUMON
+Type1 = DRAGON
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 85,85,85,85,85,85
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608026]
+Name = gmon
+InternalName = GMON
+Type1 = DRAGON
+Type2 = FIRE
+BaseStats = 75,80,70,75,80,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608027]
+Name = romon
+InternalName = ROMON
+Type1 = DRAGON
+Type2 = ELECTRIC
+BaseStats = 75,75,70,85,75,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608028]
+Name = wkmon
+InternalName = WKMON
+Type1 = NORMAL
+BaseStats = 55,55,70,45,50,55
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 220
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SANDFORCE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608029]
+Name = uilamon
+InternalName = UILAMON
+Type1 = GROUND
+BaseStats = 65,65,80,55,60,65
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SANDFORCE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608030]
+Name = lphymon
+InternalName = LPHYMON
+Type1 = GROUND
+BaseStats = 75,75,90,65,70,75
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SANDFORCE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608031]
+Name = urimon
+InternalName = URIMON
+Type1 = GROUND
+Type2 = PSYCHIC
+BaseStats = 85,80,100,75,85,85
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDFORCE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608032]
+Name = nomon
+InternalName = NOMON
+Type1 = GROUND
+Type2 = BUG
+BaseStats = 75,75,85,75,65,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDFORCE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608033]
+Name = rmmon
+InternalName = RMMON
+Type1 = FLYING
+BaseStats = 50,55,50,65,55,55
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 220
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608034]
+Name = ingmon
+InternalName = INGMON
+Type1 = FLYING
+BaseStats = 60,65,60,75,65,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608035]
+Name = ildramon
+InternalName = ILDRAMON
+Type1 = FLYING
+BaseStats = 70,75,70,85,75,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608036]
+Name = p.Dramon
+InternalName = PDRAMON
+Type1 = FLYING
+Type2 = PSYCHIC
+BaseStats = 80,80,80,95,90,85
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608000]
+Name = komon
+InternalName = KOMON
+Type1 = FLYING
+Type2 = GRASS
+BaseStats = 70,85,65,90,70,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608037]
+Name = pmon
+InternalName = PMON
+Type1 = BUG
+Type2 = POISON
+BaseStats = 50,65,45,70,55,45
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608038]
+Name = ruiemon
+InternalName = RUIEMON
+Type1 = BUG
+Type2 = POISON
+BaseStats = 60,75,55,80,65,55
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608039]
+Name = tylamon
+InternalName = TYLAMON
+Type1 = BUG
+Type2 = POISON
+BaseStats = 70,85,65,90,75,65
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608040]
+Name = erubimon
+InternalName = ERUBIMON
+Type1 = DRAGON
+Type2 = POISON
+BaseStats = 80,95,75,100,85,75
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608041]
+Name = mmymon
+InternalName = MMYMON
+Type1 = DRAGON
+BaseStats = 110,105,85,110,95,85
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SHEDSKIN
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608042]
+Name = rriermon
+InternalName = RRIERMON
+Type1 = NORMAL
+BaseStats = 50,60,50,50,50,50
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608043]
+Name = rgomon
+InternalName = RGOMON
+Type1 = FIGHTING
+BaseStats = 60,80,60,70,60,60
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608044]
+Name = pidmon
+InternalName = PIDMON
+Type1 = FIGHTING
+BaseStats = 70,100,70,90,70,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608045]
+Name = ximon
+InternalName = XIMON
+Type1 = FIGHTING
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 110,130,100,100,110,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608046]
+Name = namon
+InternalName = NAMON
+Type1 = NORMAL
+BaseStats = 65,65,65,65,65,65
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 240
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608047]
+Name = ubimon
+InternalName = UBIMON
+Type1 = NORMAL
+BaseStats = 75,75,75,75,75,75
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608048]
+Name = omon
+InternalName = OMON
+Type1 = NORMAL
+BaseStats = 85,85,85,85,85,85
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608049]
+Name = kuyamon
+InternalName = KUYAMON
+Type1 = STEEL
+BaseStats = 95,95,95,95,95,95
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608050]
+Name = gimon
+InternalName = GIMON
+Type1 = STEEL
+BaseStats = 105,105,105,105,105,105
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = STURDY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608051]
+Name = ilmon
+InternalName = ILMON
+Type1 = FIRE
+BaseStats = 50,50,40,60,60,50
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608052]
+Name = llantmon
+InternalName = LLANTMON
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 90,80,70,110,110,90
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608013]
+Name = tomon
+InternalName = TOMON
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 100,100,80,120,130,100
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = FLASHFIRE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608037]
+Name = pmon
+InternalName = PMON
+Type1 = FIRE
+BaseStats = 55,55,50,50,50,50
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 134
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608053]
+Name = nodramon
+InternalName = NODRAMON
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 75,75,60,60,60,60
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608005]
+Name = r.Dramon
+InternalName = RDRAMON
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 95,90,70,70,75,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608054]
+Name = berdramo
+InternalName = BERDRAMO
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 115,105,80,80,90,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608055]
+Name = lumon
+InternalName = LUMON
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 130,125,90,90,105,90
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608056]
+Name = miDevimo
+InternalName = MIDEVIMO
+Type1 = DRAGON
+BaseStats = 30,30,30,20,20,30
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608057]
+Name = vimon
+InternalName = VIMON
+Type1 = DRAGON
+BaseStats = 40,40,40,30,30,40
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608058]
+Name = otismon
+InternalName = OTISMON
+Type1 = DRAGON
+BaseStats = 60,60,60,50,50,60
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608059]
+Name = edmon
+InternalName = EDMON
+Type1 = DRAGON
+Type2 = DARK
+BaseStats = 75,75,75,65,65,75
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608060]
+Name = ramon
+InternalName = RAMON
+Type1 = DRAGON
+Type2 = DARK
+BaseStats = 100,110,90,80,80,80
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = MARVELSCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608061]
+Name = umemon
+InternalName = UMEMON
+Type1 = PSYCHIC
+BaseStats = 70,50,60,80,90,130
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SYNCHRONIZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608060]
+Name = ramon
+InternalName = RAMON
+Type1 = DARK
+BaseStats = 35,50,45,50,55,55
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608062]
+Name = rysalimo
+InternalName = RYSALIMO
+Type1 = DARK
+BaseStats = 50,65,60,65,70,70
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608063]
+Name = fermon
+InternalName = FERMON
+Type1 = DARK
+BaseStats = 65,80,75,80,85,85
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608064]
+Name = aboromon
+InternalName = ABOROMON
+Type1 = DARK
+Type2 = PSYCHIC
+BaseStats = 80,95,90,95,100,100
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608037]
+Name = pmon
+InternalName = PMON
+Type1 = DARK
+Type2 = POISON
+BaseStats = 25,35,25,50,40,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INFILTRATOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608065]
+Name = elzemon
+InternalName = ELZEMON
+Type1 = DARK
+Type2 = POISON
+BaseStats = 35,45,35,60,50,40
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = INFILTRATOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608045]
+Name = ximon
+InternalName = XIMON
+Type1 = DARK
+Type2 = POISON
+BaseStats = 45,55,45,70,60,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INFILTRATOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608066]
+Name = r.Angemo
+InternalName = RANGEMO
+Type1 = DARK
+Type2 = POISON
+BaseStats = 60,70,60,85,75,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INFILTRATOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608067]
+Name = narizamo
+InternalName = NARIZAMO
+Type1 = DARK
+Type2 = POISON
+BaseStats = 75,85,75,100,90,80
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = INFILTRATOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608068]
+Name = rtomon
+InternalName = RTOMON
+Type1 = DARK
+Type2 = POISON
+BaseStats = 95,105,95,120,110,100
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = INFILTRATOR
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608069]
+Name = inomon
+InternalName = INOMON
+Type1 = DARK
+BaseStats = 55,55,45,80,55,50
+GenderRate = AlwaysMale
+GrowthRate = Fast
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608070]
+Name = rimon
+InternalName = RIMON
+Type1 = DARK
+BaseStats = 95,100,85,100,100,85
+GenderRate = AlwaysMale
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608071]
+Name = rumon
+InternalName = RUMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 80,60,50,90,110,90
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608072]
+Name = memon
+InternalName = MEMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 90,65,55,95,130,110
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = NATURALCURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608073]
+Name = appamon
+InternalName = APPAMON
+Type1 = GROUND
+BaseStats = 40,40,60,40,30,50
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ARENATRAP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608074]
+Name = awjamon
+InternalName = AWJAMON
+Type1 = GROUND
+BaseStats = 90,75,100,65,50,85
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ARENATRAP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608075]
+Name = nimon
+InternalName = NIMON
+Type1 = GROUND
+Type2 = DRAGON
+BaseStats = 110,95,110,75,60,90
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ARENATRAP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608018]
+Name = emon
+InternalName = EMON
+Type1 = NORMAL
+BaseStats = 40,45,35,90,40,40
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = FILTER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608076]
+Name = ndamon
+InternalName = NDAMON
+Type1 = NORMAL
+BaseStats = 65,70,60,115,65,65
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = FILTER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608077]
+Name = gumon
+InternalName = GUMON
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 55,45,65,25,35,35
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = DAMP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608078]
+Name = zimon
+InternalName = ZIMON
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 95,85,85,35,65,65
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = DAMP
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608079]
+Name = vidramon
+InternalName = VIDRAMON
+Type1 = WATER
+Type2 = GROUND
+BaseStats = 105,95,95,65,75,75
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = DAMP
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608080]
+Name = rberumon
+InternalName = RBERUMON
+Type1 = FIGHTING
+BaseStats = 50,70,60,70,60,50
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608081]
+Name = mbmon
+InternalName = MBMON
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 70,90,80,80,70,60
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 130
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608082]
+Name = undermon
+InternalName = UNDERMON
+Type1 = FIGHTING
+Type2 = GROUND
+BaseStats = 100,100,90,90,80,80
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 70
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = VITALSPIRIT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608001]
+Name = tamon
+InternalName = TAMON
+Type1 = DARK
+BaseStats = 75,75,55,65,75,55
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RECKLESS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608083]
+Name = zardmon
+InternalName = ZARDMON
+Type1 = DARK
+BaseStats = 90,90,70,80,90,60
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RECKLESS
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608084]
+Name = semon
+InternalName = SEMON
+Type1 = DARK
+BaseStats = 100,105,75,100,95,65
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RECKLESS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608085]
+Name = yAgumon
+InternalName = YAGUMON
+Type1 = NORMAL
+BaseStats = 40,30,40,80,45,45
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SOUNDPROOF
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608086]
+Name = Tyranomo
+InternalName = TYRANOMO
+Type1 = ELECTRIC
+BaseStats = 60,50,50,100,65,65
+GenderRate = AlwaysMale
+GrowthRate = Fluctuating
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SOUNDPROOF,STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608087]
+Name = Knightmo
+InternalName = KNIGHTMO
+Type1 = ELECTRIC
+BaseStats = 80,60,80,150,90,90
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 207
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SOUNDPROOF,STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608088]
+Name = nitamon
+InternalName = NITAMON
+Type1 = PSYCHIC
+BaseStats = 25,20,15,90,105,55
+GenderRate = AlwaysMale
+GrowthRate = Fast
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = TRACE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608089]
+Name = putymon
+InternalName = PUTYMON
+Type1 = PSYCHIC
+BaseStats = 80,35,30,105,120,90
+GenderRate = AlwaysMale
+GrowthRate = Fast
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = TRACE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608090]
+Name = stimon
+InternalName = STIMON
+Type1 = PSYCHIC
+BaseStats = 100,40,35,115,140,110
+GenderRate = AlwaysMale
+GrowthRate = Fast
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 30
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = TRACE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[607991]
+Name = kamon
+InternalName = KAMON
+Type1 = NORMAL
+BaseStats = 40,40,60,25,35,40
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608018]
+Name = emon
+InternalName = EMON
+Type1 = GROUND
+BaseStats = 60,60,95,40,45,60
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SANDVEIL
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608091]
+Name = kuwamon
+InternalName = KUWAMON
+Type1 = NORMAL
+BaseStats = 80,70,60,75,65,65
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = LIMBER
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[608092]
+Name = dromon
+InternalName = DROMON
+Type1 = FIGHTING
+BaseStats = 95,100,75,90,85,75
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = LIMBER
+Compatibility = Undiscovered
+StepsToHatch = 1275
+Shape = Head
+
+[608093]
+Name = titmon
+InternalName = TITMON
+Type1 = NORMAL
+BaseStats = 40,55,50,1,25,60
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 220
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RIVALRY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608094]
+Name = acomon
+InternalName = ACOMON
+Type1 = FIGHTING
+BaseStats = 50,95,80,75,35,80
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 80
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RIVALRY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608005]
+Name = rdramon
+InternalName = RDRAMON
+Type1 = FIGHTING
+Type2 = STEEL
+BaseStats = 65,115,100,80,40,120
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RIVALRY
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608095]
+Name = ngDramon
+InternalName = NGDRAMON
+Type1 = STEEL
+Type2 = ELECTRIC
+BaseStats = 25,35,50,35,50,35
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = MAGNETPULL
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608096]
+Name = lphmon
+InternalName = LPHMON
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 45,45,70,45,95,55
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 219
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = MAGNETPULL
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608097]
+Name = vermon
+InternalName = VERMON
+Type1 = ELECTRIC
+Type2 = STEEL
+BaseStats = 80,80,95,70,120,70
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MAGNETPULL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608098]
+Name = kumon
+InternalName = KUMON
+Type1 = DRAGON
+BaseStats = 40,55,40,50,50,55
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 240
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608099]
+Name = ptunemon
+InternalName = PTUNEMON
+Type1 = DRAGON
+BaseStats = 60,65,50,60,60,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 30
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608100]
+Name = ldramon
+InternalName = LDRAMON
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 75,80,65,75,75,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608101]
+Name = gidramon
+InternalName = GIDRAMON
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 95,90,75,85,85,90
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608102]
+Name = lemon
+InternalName = LEMON
+Type1 = WATER
+BaseStats = 65,45,55,45,45,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = HYDRATION
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608103]
+Name = chinedra
+InternalName = CHINEDRA
+Type1 = WATER
+BaseStats = 75,65,70,60,65,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = HYDRATION
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608104]
+Name = nemon
+InternalName = NEMON
+Type1 = WATER
+Type2 = FIGHTING
+BaseStats = 100,95,95,70,70,95
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = HYDRATION
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608105]
+Name = cemon X
+InternalName = CEMONX
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 100,100,90,90,150,140
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608106]
+Name = cemon
+InternalName = CEMON
+Type1 = ELECTRIC
+Type2 = DRAGON
+BaseStats = 105,150,90,95,150,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = AIRLOCK
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608107]
+Name = wagamon
+InternalName = WAGAMON
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 100,150,140,90,100,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = DROUGHT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608108]
+Name = roromon
+InternalName = ROROMON
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 35,45,160,70,30,45
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WHITESMOKE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608109]
+Name = nbeemon
+InternalName = NBEEMON
+Type1 = STEEL
+Type2 = GROUND
+BaseStats = 75,85,200,30,55,65
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WHITESMOKE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608110]
+Name = neybeemo
+InternalName = NEYBEEMO
+Type1 = BUG
+BaseStats = 45,55,45,35,45,45
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608111]
+Name = tterflym
+InternalName = TTERFLYM
+Type1 = CUSTOM_TYPE_23_17
+Type2 = PSYCHIC
+BaseStats = 130,130,130,130,130,130
+GenderRate = AlwaysMale
+GrowthRate = Erratic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608112]
+Name = nmamon
+InternalName = NMAMON
+Type1 = CUSTOM_TYPE_23_17
+Type2 = PSYCHIC
+BaseStats = 125,125,125,125,125,125
+GenderRate = AlwaysMale
+GrowthRate = Erratic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SYNCHRONIZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608113]
+Name = kugumon
+InternalName = KUGUMON
+Type1 = BUG
+Type2 = FIGHTING
+BaseStats = 75,90,85,70,65,65
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SWARM
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608114]
+Name = pirmon
+InternalName = PIRMON
+Type1 = BUG
+BaseStats = 40,40,40,40,40,40
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608004]
+Name = yomon
+InternalName = YOMON
+Type1 = BUG
+BaseStats = 80,80,80,80,80,80
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 64
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608115]
+Name = nbomon
+InternalName = NBOMON
+Type1 = BUG
+Type2 = PSYCHIC
+BaseStats = 80,65,65,80,95,95
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SHIELDDUST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608001]
+Name = tamon
+InternalName = TAMON
+Type1 = BUG
+Type2 = DARK
+BaseStats = 100,80,80,60,80,80
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608018]
+Name = emon
+InternalName = EMON
+Type1 = PSYCHIC
+BaseStats = 85,73,70,67,73,115
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 220
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = INSOMNIA
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608116]
+Name = etzalmon
+InternalName = ETZALMON
+Type1 = NORMAL
+BaseStats = 48,48,48,48,48,48
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 57
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608117]
+Name = orpiomon
+InternalName = ORPIOMON
+Type1 = WATER
+BaseStats = 20,10,55,80,15,20
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 20
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608118]
+Name = .Scorpio
+InternalName = SCORPIO
+Type1 = WATER
+Type2 = FLYING
+BaseStats = 95,125,79,81,60,100
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608119]
+Name = rvomon
+InternalName = RVOMON
+Type1 = STEEL
+BaseStats = 65,60,70,40,85,75
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 130
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = DOWNLOAD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608120]
+Name = vogarita
+InternalName = VOGARITA
+Type1 = ROCK
+Type2 = WATER
+BaseStats = 35,40,100,35,90,55
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608100]
+Name = l.Dramon
+InternalName = LDRAMON
+Type1 = ROCK
+Type2 = WATER
+BaseStats = 70,60,125,55,115,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608121]
+Name = nzaemon
+InternalName = NZAEMON
+Type1 = ROCK
+Type2 = WATER
+BaseStats = 30,80,90,55,55,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SANDRUSH
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608122]
+Name = okimon
+InternalName = OKIMON
+Type1 = ROCK
+Type2 = WATER
+BaseStats = 60,115,105,80,65,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SANDRUSH
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608123]
+Name = oramon
+InternalName = ORAMON
+Type1 = ROCK
+BaseStats = 55,45,55,55,45,35
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608124]
+Name = bukimon
+InternalName = BUKIMON
+Type1 = ROCK
+BaseStats = 70,65,75,70,55,45
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608125]
+Name = fflesimo
+InternalName = FFLESIMO
+Type1 = ROCK
+Type2 = FLYING
+BaseStats = 80,85,95,90,65,55
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608126]
+Name = rcmon
+InternalName = RCMON
+Type1 = ROCK
+Type2 = FLYING
+BaseStats = 90,105,115,110,75,65
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608127]
+Name = lkyrimon
+InternalName = LKYRIMON
+Type1 = NORMAL
+BaseStats = 160,110,65,30,65,110
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = IMMUNITY,THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608128]
+Name = zamon
+InternalName = ZAMON
+Type1 = GRASS
+BaseStats = 50,30,30,40,50,40
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608129]
+Name = elamon
+InternalName = ELAMON
+Type1 = GRASS
+BaseStats = 70,40,40,60,70,60
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608130]
+Name = galecus
+InternalName = GALECUS
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 80,50,50,70,100,90
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608131]
+Name = tsumon
+InternalName = TSUMON
+Type1 = GRASS
+Type2 = PSYCHIC
+BaseStats = 100,70,70,80,110,110
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CHLOROPHYLL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608132]
+Name = gemogumo
+InternalName = GEMOGUMO
+Type1 = ELECTRIC
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 65,83,57,105,95,85
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = LIGHTNINGROD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608133]
+Name = gamon
+InternalName = GAMON
+Type1 = ELECTRIC
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 85,90,65,115,115,95
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = LIGHTNINGROD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608134]
+Name = rbamon
+InternalName = RBAMON
+Type1 = WATER
+BaseStats = 60,60,60,55,50,55
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608135]
+Name = oopmon
+InternalName = OOPMON
+Type1 = WATER
+Type2 = STEEL
+BaseStats = 80,90,80,65,60,65
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608136]
+Name = nochromo
+InternalName = NOCHROMO
+Type1 = WATER
+Type2 = STEEL
+BaseStats = 100,110,100,75,80,75
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = WATERVEIL
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608137]
+Name = skmon
+InternalName = SKMON
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 40,80,100,20,30,30
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SOLIDROCK
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608138]
+Name = lomon
+InternalName = LOMON
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 55,95,115,35,45,45
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SOLIDROCK
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608139]
+Name = gitamamo
+InternalName = GITAMAMO
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 80,120,130,45,55,65
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SOLIDROCK
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608140]
+Name = vitamamo
+InternalName = VITAMAMO
+Type1 = POISON
+BaseStats = 40,65,65,35,65,65
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 240
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = STENCH
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608141]
+Name = abmon
+InternalName = ABMON
+Type1 = POISON
+BaseStats = 75,85,85,50,85,85
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = STENCH,TECHNICIAN
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608021]
+Name = idramon
+InternalName = IDRAMON
+Type1 = ROCK
+BaseStats = 80,85,95,25,30,30
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608142]
+Name = sokumon
+InternalName = SOKUMON
+Type1 = ROCK
+Type2 = GROUND
+BaseStats = 75,150,100,70,45,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608143]
+Name = armon
+InternalName = ARMON
+Type1 = ROCK
+Type2 = DRAGON
+BaseStats = 105,130,120,40,45,45
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608144]
+Name = izzmon
+InternalName = IZZMON
+Type1 = NORMAL
+Type2 = GHOST
+BaseStats = 250,5,5,50,35,105
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608145]
+Name = apleomon
+InternalName = APLEOMON
+Type1 = DARK
+Type2 = GHOST
+BaseStats = 255,50,50,50,50,105
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[607995]
+Name = kemon
+InternalName = KEMON
+Type1 = WATER
+BaseStats = 30,105,90,50,25,25
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = HYPERCUTTER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608146]
+Name = itch
+InternalName = ITCH
+Type1 = WATER
+BaseStats = 55,130,115,75,50,50
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = HYPERCUTTER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608147]
+Name = Phantomo
+InternalName = PHANTOMO
+Type1 = WATER
+BaseStats = 90,140,125,80,60,60
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = HYPERCUTTER
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608102]
+Name = lemon
+InternalName = LEMON
+Type1 = FIGHTING
+BaseStats = 70,80,50,35,35,35
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SCRAPPY
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608148]
+Name = dydevimo
+InternalName = DYDEVIMO
+Type1 = FIGHTING
+BaseStats = 80,100,70,45,50,65
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SCRAPPY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608149]
+Name = lithmon
+InternalName = LITHMON
+Type1 = FIGHTING
+Type2 = STEEL
+BaseStats = 90,130,80,55,65,85
+GenderRate = AlwaysMale
+GrowthRate = Medium
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SCRAPPY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608150]
+Name = blimon
+InternalName = BLIMON
+Type1 = GHOST
+BaseStats = 45,50,45,75,90,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608151]
+Name = remon
+InternalName = REMON
+Type1 = GHOST
+BaseStats = 60,65,60,95,110,75
+GenderRate = FemaleOneEighth
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = SYNCHRONIZE
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608152]
+Name = tumon
+InternalName = TUMON
+Type1 = GHOST
+Type2 = STEEL
+BaseStats = 70,75,70,115,120,85
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608153]
+Name = ollmon
+InternalName = OLLMON
+Type1 = POISON
+Type2 = FLYING
+BaseStats = 40,45,35,55,30,40
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 240
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = PRANKSTER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608048]
+Name = omon
+InternalName = OMON
+Type1 = POISON
+Type2 = FLYING
+BaseStats = 75,80,70,90,65,75
+GenderRate = AlwaysFemale
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = PRANKSTER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608154]
+Name = ecmon
+InternalName = ECMON
+Type1 = POISON
+BaseStats = 35,60,44,55,40,54
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 177
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608155]
+Name = imon
+InternalName = IMON
+Type1 = POISON
+Type2 = GROUND
+BaseStats = 60,95,69,80,65,79
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 149
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608075]
+Name = nimon
+InternalName = NIMON
+Type1 = POISON
+Type2 = GROUND
+BaseStats = 80,105,79,90,75,90
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608156]
+Name = ossmon
+InternalName = OSSMON
+Type1 = NORMAL
+BaseStats = 55,75,55,65,35,45
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608157]
+Name = rannomon
+InternalName = RANNOMON
+Type1 = NORMAL
+BaseStats = 65,100,65,95,45,55
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608158]
+Name = aosDramo
+InternalName = AOSDRAMO
+Type1 = NORMAL
+BaseStats = 85,125,85,115,55,65
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608159]
+Name = Tyranno
+InternalName = TYRANNO
+Type1 = ELECTRIC
+BaseStats = 45,80,50,120,75,60
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608160]
+Name = sTyranno
+InternalName = STYRANNO
+Type1 = ELECTRIC
+Type2 = FLYING
+BaseStats = 60,90,55,110,90,80
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STATIC
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608161]
+Name = amamon
+InternalName = AMAMON
+Type1 = NORMAL
+BaseStats = 55,50,50,40,40,40
+GenderRate = Female75Percent
+GrowthRate = Fast
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = GUTS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608000]
+Name = komon
+InternalName = KOMON
+Type1 = NORMAL
+BaseStats = 70,65,70,60,55,55
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 130
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608162]
+Name = ogunGeko
+InternalName = OGUNGEKO
+Type1 = FIRE
+BaseStats = 85,85,85,75,85,85
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 130
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = TOUGHCLAWS,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608163]
+Name = purimon
+InternalName = PURIMON
+Type1 = FIRE
+BaseStats = 100,95,100,75,95,95
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = TOUGHCLAWS,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608164]
+Name = temon
+InternalName = TEMON
+Type1 = DARK
+BaseStats = 75,105,75,75,100,70
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MOXIE,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608165]
+Name = syamon
+InternalName = SYAMON
+Type1 = DARK
+BaseStats = 90,115,85,80,110,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MOXIE,HUGEPOWER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608166]
+Name = uramon
+InternalName = URAMON
+Type1 = WATER
+BaseStats = 40,50,40,90,40,40
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 240
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = WATERABSORB
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608167]
+Name = nbamon
+InternalName = NBAMON
+Type1 = WATER
+BaseStats = 65,65,65,90,50,50
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = WATERABSORB
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608168]
+Name = nyamon
+InternalName = NYAMON
+Type1 = WATER
+BaseStats = 130,85,85,90,75,75
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = WATERABSORB
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608048]
+Name = omon
+InternalName = OMON
+Type1 = NORMAL
+BaseStats = 35,55,40,70,25,25
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608169]
+Name = ogamon
+InternalName = OGAMON
+Type1 = FIGHTING
+BaseStats = 55,65,70,85,40,60
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 75
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608170]
+Name = ch.Gaoga
+InternalName = CHGAOGA
+Type1 = FIGHTING
+BaseStats = 65,75,80,95,50,70
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608171]
+Name = r.Gaoga
+InternalName = RGAOGA
+Type1 = FIGHTING
+BaseStats = 75,85,90,105,60,80
+GenderRate = Female75Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608172]
+Name = jyamon
+InternalName = JYAMON
+Type1 = FIGHTING
+BaseStats = 105,105,110,130,80,100
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = INNERFOCUS
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608173]
+Name = jimon
+InternalName = JIMON
+Type1 = NORMAL
+BaseStats = 35,55,40,70,25,25
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = AFTERMATH
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608174]
+Name = bamon
+InternalName = BAMON
+Type1 = FIGHTING
+BaseStats = 55,65,50,80,35,35
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = AFTERMATH
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608175]
+Name = nkermon
+InternalName = NKERMON
+Type1 = FIGHTING
+BaseStats = 65,75,60,90,45,45
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = AFTERMATH
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608176]
+Name = zemon
+InternalName = ZEMON
+Type1 = FIGHTING
+BaseStats = 85,95,70,100,55,55
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = AFTERMATH
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608177]
+Name = ikurimon
+InternalName = IKURIMON
+Type1 = NORMAL
+BaseStats = 70,70,70,70,70,70
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = HEALER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608178]
+Name = gurumon
+InternalName = GURUMON
+Type1 = PSYCHIC
+BaseStats = 75,70,70,75,90,90
+GenderRate = AlwaysMale
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = HEALER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608179]
+Name = ekamon
+InternalName = EKAMON
+Type1 = DARK
+BaseStats = 75,70,70,75,90,90
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = HEALER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608180]
+Name = ackmon
+InternalName = ACKMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 65,70,70,60,90,80
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = ILLUMINATE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608181]
+Name = igimon
+InternalName = IGIMON
+Type1 = CUSTOM_TYPE_23_17
+Type2 = PSYCHIC
+BaseStats = 80,75,75,70,125,115
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = ILLUMINATE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608182]
+Name = xeblaumo
+InternalName = XEBLAUMO
+Type1 = STEEL
+BaseStats = 35,35,230,5,10,50
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 240
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608183]
+Name = icchimon
+InternalName = ICCHIMON
+Type1 = STEEL
+BaseStats = 55,50,240,10,25,75
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608184]
+Name = okomon
+InternalName = OKOMON
+Type1 = STEEL
+BaseStats = 65,60,250,20,45,85
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608185]
+Name = raimon
+InternalName = RAIMON
+Type1 = ICE
+BaseStats = 50,50,50,50,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608186]
+Name = wimon
+InternalName = WIMON
+Type1 = ICE
+BaseStats = 67,67,67,67,67,67
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608060]
+Name = ramon
+InternalName = RAMON
+Type1 = ICE
+BaseStats = 84,84,84,84,84,84
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608187]
+Name = lmonANK
+InternalName = LMONANK
+Type1 = ICE
+Type2 = DRAGON
+BaseStats = 100,100,100,100,100,100
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608188]
+Name = vemon
+InternalName = VEMON
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608189]
+Name = chomon
+InternalName = CHOMON
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608190]
+Name = katorimo
+InternalName = KATORIMO
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608098]
+Name = kumon
+InternalName = KUMON
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608191]
+Name = miMeramo
+InternalName = MIMERAMO
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608192]
+Name = ndlemon
+InternalName = NDLEMON
+Type1 = NORMAL
+BaseStats = 50,150,50,150,150,50
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608060]
+Name = ramon
+InternalName = RAMON
+Type1 = FLYING
+Type2 = STEEL
+BaseStats = 90,90,85,100,80,80
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608143]
+Name = armon
+InternalName = ARMON
+Type1 = FLYING
+Type2 = GROUND
+BaseStats = 85,95,90,95,80,80
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = EARLYBIRD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608193]
+Name = nxmon
+InternalName = NXMON
+Type1 = FIRE
+BaseStats = 30,30,30,30,40,40
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608194]
+Name = adramon
+InternalName = ADRAMON
+Type1 = FIRE
+BaseStats = 40,40,40,40,50,50
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608195]
+Name = Lizamon
+InternalName = LIZAMON
+Type1 = FIRE
+BaseStats = 50,50,50,50,70,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608196]
+Name = chimon
+InternalName = CHIMON
+Type1 = FIRE
+BaseStats = 80,80,50,80,90,80
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608197]
+Name = apmon
+InternalName = APMON
+Type1 = FIRE
+Type2 = GHOST
+BaseStats = 90,100,70,80,100,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = FLAMEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608194]
+Name = adramon
+InternalName = ADRAMON
+Type1 = FIRE
+BaseStats = 75,100,85,80,55,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = DROUGHT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608198]
+Name = Seadramo
+InternalName = SEADRAMO
+Type1 = FIRE
+BaseStats = 75,60,70,80,100,80
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = DROUGHT
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608143]
+Name = armon
+InternalName = ARMON
+Type1 = FIRE
+Type2 = BUG
+BaseStats = 85,75,65,85,75,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 128
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608001]
+Name = tamon
+InternalName = TAMON
+Type1 = WATER
+BaseStats = 30,30,30,30,30,30
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608199]
+Name = somon
+InternalName = SOMON
+Type1 = WATER
+BaseStats = 35,40,70,60,70,30
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SWIFTSWIM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608200]
+Name = rmaimon
+InternalName = RMAIMON
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 35,45,55,85,70,55
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = VOLTABSORB
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608201]
+Name = Mermaimo
+InternalName = MERMAIMO
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 60,75,85,115,100,115
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = VOLTABSORB
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608202]
+Name = akomon
+InternalName = AKOMON
+Type1 = WATER
+Type2 = POISON
+BaseStats = 40,40,35,70,50,100
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = LIQUIDOOZE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608203]
+Name = ellmon
+InternalName = ELLMON
+Type1 = WATER
+Type2 = POISON
+BaseStats = 80,70,65,100,80,120
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = LIQUIDOOZE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608204]
+Name = esiGlitc
+InternalName = ESIGLITC
+Type1 = WATER
+Type2 = POISON
+BaseStats = 90,80,75,110,90,130
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = LIQUIDOOZE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608060]
+Name = ramon
+InternalName = RAMON
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 90,56,56,15,40,40
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608205]
+Name = dmon
+InternalName = DMON
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 95,80,65,70,100,100
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608012]
+Name = lamon
+InternalName = LAMON
+Type1 = WATER
+Type2 = PSYCHIC
+BaseStats = 105,85,70,80,110,110
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608206]
+Name = nflowmon
+InternalName = NFLOWMON
+Type1 = WATER
+Type2 = ICE
+BaseStats = 30,65,100,40,45,25
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 190
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608012]
+Name = lamon
+InternalName = LAMON
+Type1 = WATER
+Type2 = ICE
+BaseStats = 50,95,180,70,85,45
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608207]
+Name = tusmon
+InternalName = TUSMON
+Type1 = WATER
+Type2 = ICE
+BaseStats = 75,100,180,70,90,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608208]
+Name = odmon
+InternalName = ODMON
+Type1 = GRASS
+BaseStats = 43,43,43,43,43,43
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 220
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SOLARPOWER
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608209]
+Name = mpkinmon
+InternalName = MPKINMON
+Type1 = GRASS
+BaseStats = 53,53,53,53,53,53
+GenderRate = Genderless
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SOLARPOWER
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608059]
+Name = edmon
+InternalName = EDMON
+Type1 = GRASS
+BaseStats = 63,63,63,63,63,63
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SOLARPOWER
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608210]
+Name = ossomon
+InternalName = OSSOMON
+Type1 = GRASS
+BaseStats = 80,70,73,73,73,73
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SOLARPOWER
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608211]
+Name = hemon
+InternalName = HEMON
+Type1 = GRASS
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 90,75,75,75,95,90
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SOLARPOWER
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608212]
+Name = ppetmon
+InternalName = PPETMON
+Type1 = GRASS
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 100,80,80,80,115,105
+GenderRate = AlwaysFemale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SOLARPOWER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608213]
+Name = nmon
+InternalName = NMON
+Type1 = GRASS
+Type2 = DARK
+BaseStats = 70,80,70,70,80,70
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = POISONHEAL
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608072]
+Name = memon
+InternalName = MEMON
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 95,70,75,55,70,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = EFFECTSPORE
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608214]
+Name = meTyramo
+InternalName = METYRAMO
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 70,85,60,70,85,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 100
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = NOGUARD
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608215]
+Name = n.Mamemo
+InternalName = NMAMEMO
+Type1 = GRASS
+Type2 = GHOST
+BaseStats = 80,105,70,80,105,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = NOGUARD
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608216]
+Name = aomon
+InternalName = AOMON
+Type1 = GRASS
+Type2 = FIGHTING
+BaseStats = 70,100,60,90,60,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608217]
+Name = bramon
+InternalName = BRAMON
+Type1 = GRASS
+Type2 = FIGHTING
+BaseStats = 80,135,65,110,65,65
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608218]
+Name = asarmon
+InternalName = ASARMON
+Type1 = STEEL
+BaseStats = 65,65,65,65,65,65
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 175
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608219]
+Name = Sphinxmo
+InternalName = SPHINXMO
+Type1 = STEEL
+Type2 = FIRE
+BaseStats = 80,90,70,70,90,70
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608220]
+Name = cchiemon
+InternalName = CCHIEMON
+Type1 = STEEL
+Type2 = FIRE
+BaseStats = 70,95,70,95,70,70
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = PICKUP
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608221]
+Name = amelemon
+InternalName = AMELEMON
+Type1 = NORMAL
+BaseStats = 35,35,35,50,35,35
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608222]
+Name = icoomon
+InternalName = ICOOMON
+Type1 = NORMAL
+BaseStats = 55,55,55,75,55,55
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608223]
+Name = astmon
+InternalName = ASTMON
+Type1 = NORMAL
+BaseStats = 75,75,75,95,75,75
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608224]
+Name = nervamon
+InternalName = NERVAMON
+Type1 = NORMAL
+BaseStats = 95,95,95,115,95,95
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608225]
+Name = ostmon
+InternalName = OSTMON
+Type1 = FIGHTING
+BaseStats = 75,95,85,95,75,75
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608226]
+Name = .Baluchi
+InternalName = BALUCHI
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 75,75,75,95,95,85
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = CLOUDNINE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608227]
+Name = ukenimon
+InternalName = UKENIMON
+Type1 = NORMAL
+BaseStats = 70,90,70,40,60,120
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 175
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = COLORCHANGE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608041]
+Name = mmymon
+InternalName = MMYMON
+Type1 = DARK
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 65,75,45,95,65,55
+GenderRate = AlwaysFemale
+GrowthRate = Fast
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SNIPER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608228]
+Name = tirimon
+InternalName = TIRIMON
+Type1 = DARK
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 85,95,55,115,75,65
+GenderRate = AlwaysFemale
+GrowthRate = Fast
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = SNIPER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608229]
+Name = rasaurmo
+InternalName = RASAURMO
+Type1 = DARK
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 105,115,65,125,95,75
+GenderRate = AlwaysFemale
+GrowthRate = Fast
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SNIPER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608230]
+Name = ropiamon
+InternalName = ROPIAMON
+Type1 = GHOST
+BaseStats = 55,55,45,70,70,70
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = CURSEDBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608231]
+Name = dramon
+InternalName = DRAMON
+Type1 = GHOST
+Type2 = ROCK
+BaseStats = 80,85,85,90,90,90
+GenderRate = Genderless
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = CURSEDBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608232]
+Name = acmon
+InternalName = ACMON
+Type1 = BUG
+Type2 = POISON
+BaseStats = 80,100,70,75,100,70
+GenderRate = AlwaysFemale
+GrowthRate = Fluctuating
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608233]
+Name = Monzaemo
+InternalName = MONZAEMO
+Type1 = GHOST
+Type2 = POISON
+BaseStats = 80,70,100,75,70,100
+GenderRate = AlwaysMale
+GrowthRate = Fluctuating
+BaseEXP = 175
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = MUMMY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608234]
+Name = surimon
+InternalName = SURIMON
+Type1 = GRASS
+BaseStats = 35,35,35,35,35,35
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SAPSIPPER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608235]
+Name = rissmon
+InternalName = RISSMON
+Type1 = GRASS
+BaseStats = 57,57,57,57,57,57
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SAPSIPPER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608236]
+Name = lmon
+InternalName = LMON
+Type1 = GRASS
+Type2 = DRAGON
+BaseStats = 100,78,78,60,78,78
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SAPSIPPER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608237]
+Name = efilmon
+InternalName = EFILMON
+Type1 = GRASS
+Type2 = DRAGON
+BaseStats = 120,110,100,60,110,100
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = SAPSIPPER
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608238]
+Name = senmon
+InternalName = SENMON
+Type1 = DARK
+BaseStats = 60,70,55,30,55,70
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = IMMUNITY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608164]
+Name = temon
+InternalName = TEMON
+Type1 = DARK
+BaseStats = 160,110,65,30,65,110
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = IMMUNITY,THICKFAT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608239]
+Name = mbhiramo
+InternalName = MBHIRAMO
+Type1 = ELECTRIC
+BaseStats = 40,30,40,50,50,40
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608240]
+Name = ihumon
+InternalName = IHUMON
+Type1 = ELECTRIC
+BaseStats = 50,40,50,70,60,50
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608241]
+Name = Chessmon
+InternalName = CHESSMON
+Type1 = ELECTRIC
+BaseStats = 70,50,60,90,70,60
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608242]
+Name = .Chessmo
+InternalName = CHESSMO
+Type1 = ELECTRIC
+Type2 = FIGHTING
+BaseStats = 90,70,70,100,80,70
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608241]
+Name = Chessmon
+InternalName = CHESSMON
+Type1 = ELECTRIC
+Type2 = FIGHTING
+BaseStats = 100,90,80,120,90,80
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = SPEEDBOOST
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608241]
+Name = Chessmon
+InternalName = CHESSMON
+Type1 = NORMAL
+BaseStats = 60,60,60,60,60,60
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 250
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608243]
+Name = outmon
+InternalName = OUTMON
+Type1 = NORMAL
+BaseStats = 76,76,76,76,76,76
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608244]
+Name = .Shoutmo
+InternalName = SHOUTMO
+Type1 = NORMAL
+BaseStats = 90,90,90,90,90,90
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = OWNTEMPO
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608070]
+Name = rimon
+InternalName = RIMON
+Type1 = STEEL
+BaseStats = 40,50,70,30,20,20
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 225
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 2550
+Shape = Head
+
+[608070]
+Name = rimon
+InternalName = RIMON
+Type1 = STEEL
+BaseStats = 60,70,90,35,25,25
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608245]
+Name = mmamon
+InternalName = MMAMON
+Type1 = STEEL
+BaseStats = 70,90,90,90,75,75
+GenderRate = AlwaysFemale
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608246]
+Name = Weissmon
+InternalName = WEISSMON
+Type1 = STEEL
+BaseStats = 120,90,120,50,50,60
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608247]
+Name = eptomon
+InternalName = EPTOMON
+Type1 = FIRE
+BaseStats = 60,60,60,60,60,60
+GenderRate = AlwaysMale
+GrowthRate = Fluctuating
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = ADAPTABILITY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608248]
+Name = onmon
+InternalName = ONMON
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 75,90,90,75,75,75
+GenderRate = AlwaysMale
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 140
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = ADAPTABILITY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608046]
+Name = namon
+InternalName = NAMON
+Type1 = NORMAL
+BaseStats = 80,45,65,80,90,110
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 180
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608249]
+Name = anamon
+InternalName = ANAMON
+Type1 = NORMAL
+BaseStats = 60,58,58,58,58,58
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Red
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608213]
+Name = nmon
+InternalName = NMON
+Type1 = DRAGON
+BaseStats = 90,72,72,72,72,72
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 125
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608250]
+Name = ronamon
+InternalName = RONAMON
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 100,90,90,90,90,90
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = MULTISCALE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608251]
+Name = ollomon
+InternalName = OLLOMON
+Type1 = GHOST
+BaseStats = 80,50,50,100,90,80
+GenderRate = Female50Percent
+GrowthRate = Fluctuating
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 175
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SHADOWTAG
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608252]
+Name = ttimon
+InternalName = TTIMON
+Type1 = PSYCHIC
+BaseStats = 30,30,30,30,40,40
+GenderRate = AlwaysFemale
+GrowthRate = Erratic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 200
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = ICEBODY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608253]
+Name = upimon
+InternalName = UPIMON
+Type1 = PSYCHIC
+BaseStats = 60,60,60,60,80,80
+GenderRate = AlwaysFemale
+GrowthRate = Fast
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = ICEBODY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608254]
+Name = nusmon
+InternalName = NUSMON
+Type1 = PSYCHIC
+Type2 = ICE
+BaseStats = 110,80,80,110,140,140
+GenderRate = AlwaysFemale
+GrowthRate = Fast
+BaseEXP = 250
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = ICEBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608255]
+Name = stake
+InternalName = STAKE
+Type1 = FIRE
+BaseStats = 30,40,40,30,30,30
+GenderRate = AlwaysMale
+GrowthRate = Erratic
+BaseEXP = 25
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Brown
+Abilities = SOLARPOWER
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608256]
+Name = dLucemon
+InternalName = DLUCEMON
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 41,64,45,50,50,50
+GenderRate = AlwaysFemale
+GrowthRate = Erratic
+BaseEXP = 50
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608257]
+Name = ror
+InternalName = ROR
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 55,50,60,65,65,65
+GenderRate = AlwaysFemale
+GrowthRate = Erratic
+BaseEXP = 100
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608258]
+Name = llenium
+InternalName = LLENIUM
+Type1 = CUSTOM_TYPE_23_17
+BaseStats = 120,130,95,90,150,150
+GenderRate = AlwaysFemale
+GrowthRate = Erratic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608258]
+Name = llenium
+InternalName = LLENIUM
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 100,150,140,90,100,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = DROUGHT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608259]
+Name = ladinMod
+InternalName = LADINMOD
+Type1 = WATER
+Type2 = DRAGON
+BaseStats = 100,100,90,90,150,140
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = DRIZZLE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608075]
+Name = nimon
+InternalName = NIMON
+Type1 = ELECTRIC
+Type2 = DRAGON
+BaseStats = 105,150,90,95,150,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = AIRLOCK
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608260]
+Name = phamon
+InternalName = PHAMON
+Type1 = CUSTOM_TYPE_23_17
+Type2 = PSYCHIC
+BaseStats = 125,125,125,125,125,125
+GenderRate = AlwaysMale
+GrowthRate = Erratic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = SYNCHRONIZE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608261]
+Name = outmonX3
+InternalName = OUTMONX3
+Type1 = CUSTOM_TYPE_23_17
+Type2 = PSYCHIC
+BaseStats = 130,130,130,130,130,130
+GenderRate = AlwaysMale
+GrowthRate = Erratic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 25
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = PRESSURE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608262]
+Name = magotchi
+InternalName = MAGOTCHI
+Type1 = QMARKS
+BaseStats = 66,66,66,66,66,66
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608263]
+Name = iPui
+InternalName = IPUI
+Type1 = QMARKS
+BaseStats = 255,255,255,255,255,255
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 1
+EffortPoints = 0,0,0,0,0,0
+Rareness = 255
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = RUNAWAY
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608264]
+Name = antomon
+InternalName = ANTOMON
+Type1 = DRAGON
+BaseStats = 200,200,200,200,200,200
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608072]
+Name = memon
+InternalName = MEMON
+Type1 = STEEL
+BaseStats = 200,200,200,200,200,200
+GenderRate = AlwaysMale
+GrowthRate = Parabolic
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 6375
+Shape = Head
+
+[608151]
+Name = remon
+InternalName = REMON
+Type1 = STEEL
+BaseStats = 150,150,150,150,150,150
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 90
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608265]
+Name = agomon
+InternalName = AGOMON
+Type1 = FIRE
+Type2 = FIGHTING
+BaseStats = 150,150,150,150,150,150
+GenderRate = AlwaysMale
+GrowthRate = Fluctuating
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = ADAPTABILITY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608266]
+Name = ymon
+InternalName = YMON
+Type1 = GRASS
+Type2 = CUSTOM_TYPE_23_17
+BaseStats = 10,10,10,10,10,10
+GenderRate = AlwaysMale
+GrowthRate = Slow
+BaseEXP = 96
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 140
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = WATERABSORB
+Compatibility = Undiscovered
+StepsToHatch = 8925
+Shape = Head
+
+[608267]
+Name = esiomon
+InternalName = ESIOMON
+Type1 = GHOST
+BaseStats = 60,65,60,95,110,75
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Black
+Abilities = LEVITATE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608268]
+Name = orith
+InternalName = ORITH
+Type1 = POISON
+BaseStats = 80,80,50,25,40,50
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 75
+EffortPoints = 0,0,0,0,0,0
+Rareness = 240
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = STENCH,STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608269]
+Name = maldo
+InternalName = MALDO
+Type1 = POISON
+BaseStats = 100,90,60,45,60,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STENCH,STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608270]
+Name = ltsN
+InternalName = LTSN
+Type1 = POISON
+Type2 = DARK
+BaseStats = 110,100,85,65,85,80
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Yellow
+Abilities = STENCH,STICKYHOLD
+Compatibility = Undiscovered
+StepsToHatch = 20400
+Shape = Head
+
+[608271]
+Name = rliaON
+InternalName = RLIAON
+Type1 = BUG
+Type2 = FLYING
+BaseStats = 70,90,60,100,70,60
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 100
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = SWARM
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608272]
+Name = rdevoir
+InternalName = RDEVOIR
+Type1 = BUG
+Type2 = POISON
+BaseStats = 75,85,75,85,65,65
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 150
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 0
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = POISONPOINT
+Compatibility = Undiscovered
+StepsToHatch = 30600
+Shape = Head
+
+[608273]
+Name = gonTFORM
+InternalName = GONTFORM
+Type1 = WATER
+Type2 = ICE
+BaseStats = 75,100,180,70,90,60
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 225
+EffortPoints = 0,0,0,0,0,0
+Rareness = 60
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SHELLARMOR
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608274]
+Name = elgon
+InternalName = ELGON
+Type1 = BUG
+BaseStats = 65,73,55,85,47,75
+GenderRate = AlwaysMale
+GrowthRate = Erratic
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = ILLUMINATE,SWARM
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608275]
+Name = lamence
+InternalName = LAMENCE
+Type1 = BUG
+BaseStats = 65,47,55,85,73,75
+GenderRate = AlwaysFemale
+GrowthRate = Fluctuating
+BaseEXP = 146
+EffortPoints = 0,0,0,0,0,0
+Rareness = 150
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = OBLIVIOUS
+Compatibility = Undiscovered
+StepsToHatch = 3825
+Shape = Head
+
+[608276]
+Name = ldumEP
+InternalName = LDUMEP
+Type1 = ROCK
+Type2 = GRASS
+BaseStats = 66,41,77,23,61,87
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 121
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Purple
+Abilities = SUCTIONCUPS
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608277]
+Name = tangILY
+InternalName = TANGILY
+Type1 = ROCK
+Type2 = GRASS
+BaseStats = 86,81,97,43,81,107
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 201
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Green
+Abilities = SUCTIONCUPS
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608278]
+Name = tagross
+InternalName = TAGROSS
+Type1 = ROCK
+Type2 = BUG
+BaseStats = 45,95,50,75,40,50
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 119
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608279]
+Name = girock
+InternalName = GIROCK
+Type1 = ROCK
+Type2 = BUG
+BaseStats = 75,125,100,45,70,80
+GenderRate = FemaleOneEighth
+GrowthRate = Erratic
+BaseEXP = 200
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Gray
+Abilities = BATTLEARMOR
+Compatibility = Undiscovered
+StepsToHatch = 7650
+Shape = Head
+
+[608280]
+Name = giceS
+InternalName = GICES
+Type1 = PSYCHIC
+BaseStats = 28,25,25,40,45,35
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 70
+EffortPoints = 0,0,0,0,0,0
+Rareness = 235
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SYNCHRONIZE,TRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608281]
+Name = gisteel
+InternalName = GISTEEL
+Type1 = PSYCHIC
+BaseStats = 38,35,35,50,65,55
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 140
+EffortPoints = 0,0,0,0,0,0
+Rareness = 120
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SYNCHRONIZE,TRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608282]
+Name = ogre
+InternalName = OGRE
+Type1 = PSYCHIC
+BaseStats = 68,65,65,80,125,115
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 208
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = SYNCHRONIZE,TRACE
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608283]
+Name = oudon
+InternalName = OUDON
+Type1 = DRAGON
+BaseStats = 45,75,60,50,40,30
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 89
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608284]
+Name = yquaza
+InternalName = YQUAZA
+Type1 = DRAGON
+BaseStats = 65,95,100,50,60,50
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 144
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = White
+Abilities = ROCKHEAD
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608285]
+Name = tiasMENCE
+InternalName = TIASMENCE
+Type1 = DRAGON
+Type2 = FLYING
+BaseStats = 95,135,80,100,110,80
+GenderRate = Female50Percent
+GrowthRate = Slow
+BaseEXP = 218
+EffortPoints = 0,0,0,0,0,0
+Rareness = 45
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = INTIMIDATE
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608286]
+Name = tiosUM
+InternalName = TIOSUM
+Type1 = STEEL
+Type2 = PSYCHIC
+BaseStats = 40,55,80,30,35,60
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 103
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608287]
+Name = rachi
+InternalName = RACHI
+Type1 = STEEL
+Type2 = PSYCHIC
+BaseStats = 60,75,100,50,55,80
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 153
+EffortPoints = 0,0,0,0,0,0
+Rareness = 3
+Happiness = 35
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 10200
+Shape = Head
+
+[608288]
+Name = itchLuce
+InternalName = ITCHLUCE
+Type1 = STEEL
+Type2 = DRAGON
+BaseStats = 80,135,130,70,95,90
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Blue
+Abilities = CLEARBODY
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head
+
+[608289]
+Name = imecho
+InternalName = IMECHO
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 80,100,200,50,50,100
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 255
+EffortPoints = 0,0,0,0,0,0
+Rareness = 50
+Happiness = 70
+Height = 1.0
+Weight = 10.0
+Color = Pink
+Abilities = DROUGHT
+Compatibility = Undiscovered
+StepsToHatch = 5100
+Shape = Head

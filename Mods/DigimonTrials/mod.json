@@ -1,0 +1,12 @@
+{
+  "name": "Digimon Trials",
+  "id": "DigimonTrials",
+  "version": "1.0.0",
+  "author": "nickohlmeier",
+  "description": ["Additively merges species, movesets, moves, and evolution items from Digimon Trials into the dex, without touching the base game's PBS files or AnimeFusionMerge's."],
+  "tags": ["Content", "Species", "Moves"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["Bootstrap.rb"]
+}

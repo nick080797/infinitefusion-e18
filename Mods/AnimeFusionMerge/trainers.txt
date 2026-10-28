@@ -1,0 +1,4409 @@
+# Anime Fusion Merge - additive trainer entries sourced from DBZ Infinite Fusion's
+# PBS/trainers.txt (old pre-v19 format), diffed against this game's own PBS/trainers.txt.
+# Every entry below is a WHOLLY SEPARATE GameData::Trainer record - none of IF1's own
+# trainers.txt entries are modified. For a trainer that exists in both files with a
+# different party, the DBZ version is registered under the same TrainerType+Name but
+# with version number (original_dbz_version + 900) so it cannot collide with the
+# vanilla entry. For trainers that only exist in the DBZ file, they're registered as-is.
+#-------------------------------
+[CHANNELER,Carrietta,900]
+Pokemon = B92H61,32
+#-------------------------------
+[CHANNELER,Morgan,900]
+Pokemon = B92H140,34
+#-------------------------------
+[CHANNELER,Ruth,900]
+Pokemon = B40H92,33
+#-------------------------------
+[HAUNTEDGIRL_YOUNG,Regan,900]
+Pokemon = B93H26,33
+#-------------------------------
+[CHANNELER,Karina,900]
+Pokemon = B92H73,32
+#-------------------------------
+[HAUNTEDGIRL,Carol Anne,900]
+Pokemon = B28H93,34
+#-------------------------------
+[CHANNELER,Angelica,900]
+Pokemon = GASTLY,32
+Pokemon = GASTLY,33
+Pokemon = B13H94,33
+#-------------------------------
+[HAUNTEDGIRL_YOUNG,Jennifer,900]
+Pokemon = B101H93,34
+#-------------------------------
+[CHANNELER,Emilia,900]
+Pokemon = B128H93,34
+#-------------------------------
+[SUPERNERD,Glenn,900]
+Pokemon = GRIMER,23
+Pokemon = GRIMER,23
+Pokemon = B233H201,23
+#-------------------------------
+[FISHERMAN,Ned,900]
+Pokemon = GOLDEEN,22
+Pokemon = POLIWAG,22
+Pokemon = B118H100,22
+#-------------------------------
+[FISHERMAN,Elliot,900]
+Pokemon = POLIWAG,26
+Pokemon = KRABBY,26
+Pokemon = HORSEA,26
+Pokemon = B118H96,26
+#-------------------------------
+[CAMPER,Liam,900]
+Pokemon = B74H27,7
+    Moves = POISONSTING,SANDATTACK,DEFENSECURL,ROCKPOLISH
+Pokemon = B27H74,8
+    Moves = TACKLE,ROCKPOLISH,ROCKTHROW,SCRATCH
+#-------------------------------
+[LASS,Janice,900]
+Pokemon = SPEAROW,10
+Pokemon = B27H41,12
+#-------------------------------
+[BUGCATCHER_F,Sally,900]
+Pokemon = SPINARAK,10
+Pokemon = B29H25,10
+    Item = ORANBERRY
+#-------------------------------
+[BUGCATCHER,James,900]
+Pokemon = B46H10,11
+Pokemon = B46H11,11
+#-------------------------------
+[YOUNGSTER,Ben,900]
+Pokemon = B19H79,14
+#-------------------------------
+[CUEBALL,Isaiah,900]
+Pokemon = MACHOP,34
+Pokemon = B68H76,34
+#-------------------------------
+[SWIMMER_M,Richard,900]
+Pokemon = CHINCHOU,36
+Pokemon = B72H90,36
+#-------------------------------
+[SWIMMER_M,Reece,900]
+Pokemon = GOLDEEN,34
+Pokemon = HORSEA,34
+Pokemon = B222H120,34
+#-------------------------------
+[BURGLAR,Simon,900]
+Pokemon = B59H38,45
+#-------------------------------
+[SCIENTIST,Ivan,900]
+Pokemon = B80H81,43
+Pokemon = B93H101,43
+#-------------------------------
+[BURGLAR,Ramon,900]
+Pokemon = B77H5,49
+#-------------------------------
+[BUGCATCHER,Rick,900]
+Pokemon = B41H13,6
+Pokemon = B41H10,6
+#-------------------------------
+[BUGCATCHER_F,Lana,900]
+Pokemon = CATERPIE,7
+Pokemon = B56H13,7
+#-------------------------------
+[PICNICKER,Ariana,900]
+Pokemon = RATTATA,19
+Pokemon = B16H109,19
+Pokemon = RATTATA,19
+Pokemon = B69H100,19
+#-------------------------------
+[BUGCATCHER,Cale,900]
+Pokemon = WEEDLE,10
+Pokemon = KAKUNA,10
+Pokemon = B41H11,10
+Pokemon = B10H74,10
+#-------------------------------
+[YOUNGSTER,Joey,900]
+Pokemon = B19H20,17
+#-------------------------------
+[YOUNGSTER,Dan,900]
+Pokemon = B79H46,15
+Pokemon = B21H60,15
+#-------------------------------
+[BLACKBELT,Hitoshi,900]
+Pokemon = B56H52,34
+Pokemon = B127H56,34
+Pokemon = B67H56,34
+#-------------------------------
+[CRUSHGIRL,Yoshimi,900]
+Pokemon = B67H81,39
+#-------------------------------
+[BLACKBELT,Hideki,900]
+Pokemon = B66H83,38
+Pokemon = B67H111,38
+#-------------------------------
+[CRUSHGIRL,Lucy,900]
+Pokemon = B57H214,35
+Pokemon = B62H75,38
+#-------------------------------
+[POKEMONBREEDER,Maude,900]
+Pokemon = TOGEPI,14
+Pokemon = B173H172,14
+Pokemon = B257H260,14
+Pokemon = B239H240,14
+#-------------------------------
+[BUGCATCHER,Conner,900]
+Pokemon = VENONAT,20
+Pokemon = VENONAT,20
+Pokemon = B218H10,25
+#-------------------------------
+[HIKER,Brice,900]
+Pokemon = GEODUDE,18
+Pokemon = DIGLETT,18
+Pokemon = B76H129,20
+#-------------------------------
+[TEAMROCKET_M,Francis,900]
+Pokemon = ZUBAT,11
+Pokemon = B41H88,11
+#-------------------------------
+[SUPERNERD,Miguel,900]
+Pokemon = B88H109,12
+Pokemon = B109H41,12
+Pokemon = B100H43,12
+#-------------------------------
+[ENGINEER,Bernie,900]
+Pokemon = B109H81,21
+#-------------------------------
+[BEAUTY,Tamia,900]
+Pokemon = B102H69,34
+Pokemon = B69H41,34
+#-------------------------------
+[BEAUTY,Bridget,900]
+Pokemon = B43H102,31
+Pokemon = B92H43,31
+Pokemon = B69H116,31
+Pokemon = B69H83,31
+#-------------------------------
+[PICNICKER,Tina,900]
+Pokemon = B1H111,34
+Pokemon = B2H104,34
+#-------------------------------
+[LASS,Lisa,900]
+Pokemon = B120H43,33
+Pokemon = B44H50,33
+#-------------------------------
+[COOLTRAINER_F,Mary,900]
+Pokemon = B69H108,32
+Pokemon = B72H43,32
+Pokemon = B17H70,32
+Pokemon = B40H44,32
+Pokemon = B2H58,32
+#-------------------------------
+[PICNICKER,Martine,900]
+Pokemon = B7H43,34
+Pokemon = B153H1,34
+#-------------------------------
+[SAILOR,Dwayne,900]
+Pokemon = B25H1,20
+Pokemon = B25H4,20
+Pokemon = B25H7,20
+#-------------------------------
+[ENGINEER,Baily,900]
+Pokemon = B100H14,21
+Pokemon = B81H11,21
+#-------------------------------
+[GENTLEMAN,Tucker,900]
+Pokemon = B25H81,23
+#-------------------------------
+[JUGGLER,Kayden,900]
+Pokemon = B97H94,39
+#-------------------------------
+[JUGGLER,Nate,900]
+Pokemon = B96H42,36
+Pokemon = B64H73,36
+#-------------------------------
+[JUGGLER,Kirk,900]
+Pokemon = B96H15,32
+Pokemon = B109H96,32
+Pokemon = B64H24,32
+Pokemon = B93H64,32
+#-------------------------------
+[TAMER,Edgar,900]
+Pokemon = B24H113,34
+Pokemon = B24H82,34
+Pokemon = B28H48,34
+#-------------------------------
+[TAMER,Phil,900]
+Pokemon = B28H33,35
+Pokemon = B24H110,35
+#-------------------------------
+[JUGGLER,Shawn,900]
+Pokemon = B96H45,35
+Pokemon = B12H97,35
+#-------------------------------
+[PLAYER,Martin,900]
+Pokemon = B28H28,56
+    Moves = ICESHARD,DIG,FURYSWIPES,SANDATTACK
+Pokemon = B38H38,59
+    Moves = AURORABEAM,FAIRYWIND,WILLOWISP,CONFUSERAY
+    AbilityIndex = 0
+#-------------------------------
+[PLAYER,Sidney,900]
+Pokemon = B208H221,62
+#-------------------------------
+[PLAYER,Maurice,900]
+Pokemon = B241H124,57
+Pokemon = B128H124,57
+#-------------------------------
+[PLAYER,Wayne,900]
+Pokemon = B332H272,62
+#-------------------------------
+[TEAMROCKET_M,Phillip,900]
+Pokemon = B20H96,28
+Pokemon = B88H42,28
+#-------------------------------
+[TEAMROCKET_M,Paul,900]
+Pokemon = B20H66,28
+Pokemon = B109H33,28
+#-------------------------------
+[TEAMROCKET_M,Joffrey,900]
+Pokemon = KOFFING,21
+Pokemon = KOFFING,21
+Pokemon = RATICATE,25
+Pokemon = B20H73,25
+#-------------------------------
+[TEAMROCKET_F,Virginia,900]
+Pokemon = GRIMER,28
+Pokemon = KOFFING,28
+Pokemon = B109H101,28
+#-------------------------------
+[TEAMROCKET_F,Kaitlin,900]
+Pokemon = B100H132,28
+    Moves = TRANSFORM,CHARGEBEAM,LIGHTSCREEN
+    Gender = 0
+Pokemon = B147H88,29
+#-------------------------------
+[TEAMROCKET_M,Omar,900]
+Pokemon = B17H109,28
+Pokemon = B137H42,29
+#-------------------------------
+[TEAMROCKET_M,Max,900]
+Pokemon = KOFFING,24
+Pokemon = B110H100,27
+#-------------------------------
+[ELITEFOUR_Lance,Lance,900]
+Pokemon = DRAGONITE,50
+#-------------------------------
+[TEAMROCKET_M,Dennis,900]
+Pokemon = B126H42,38
+Pokemon = B135H20,38
+#-------------------------------
+[TEAMROCKET_M,Cyrus,900]
+Pokemon = B141H105,39
+#-------------------------------
+[SUPERNERD,Miguel,903]
+Pokemon = B88H109,23
+Pokemon = B301H140,25
+#-------------------------------
+[SUPERNERD,Miguel,904]
+Pokemon = B88H109,23
+Pokemon = B301H138,25
+#-------------------------------
+[SUPERNERD,Miguel,905]
+Pokemon = B88H109,23
+Pokemon = B303H138,25
+#-------------------------------
+[SUPERNERD,Miguel,906]
+Pokemon = B139H141,46
+Pokemon = B302H304,48
+Pokemon = B308H306,48
+Pokemon = B142H142,51
+#-------------------------------
+[LEADER_Brock,Brock,900]
+Pokemon = B16H74,11
+    Moves = GUST,SANDATTACK,ROCKTOMB,ROCKPOLISH
+Pokemon = B95H56,14
+    Moves = ROCKTOMB,BIND,KARATECHOP,RAGE
+#-------------------------------
+[LEADER_Brock,Brock,901]
+Pokemon = B76H17,68
+    Item = HARDSTONE
+Pokemon = B208H95,70
+    Item = HARDSTONE
+Pokemon = B304H300,71
+    Item = HARDSTONE
+Pokemon = B139H270,68
+    Item = HARDSTONE
+Pokemon = B141H212,71
+    Item = HARDSTONE
+Pokemon = B308H142,70
+    Item = HARDSTONE
+#-------------------------------
+[LEADER_Misty,Misty,900]
+Pokemon = B118H39,19
+    Item = MYSTICWATER
+    Moves = WATERPULSE,DISARMINGVOICE,SING,HORNATTACK
+Pokemon = B121H120,24
+    Item = MYSTICWATER
+    Moves = WATERPULSE,RECOVER,SWIFT,RAPIDSPIN
+    AbilityIndex = 1
+#-------------------------------
+[LEADER_Surge,Lt. Surge,900]
+Pokemon = B98H100,24
+    Item = MAGNET
+    Moves = METALCLAW,BUBBLEBEAM,LIGHTSCREEN,SPARK
+    AbilityIndex = 1
+Pokemon = B17H25,24
+    Item = MAGNET
+    Moves = GUST,SANDATTACK,QUICKATTACK,ELECTROBALL
+    AbilityIndex = 1
+Pokemon = B125H26,26
+    Item = SITRUSBERRY
+    Moves = THUNDERPUNCH,THUNDERWAVE,QUICKATTACK,DOUBLETEAM
+    AbilityIndex = 0
+#-------------------------------
+[LEADER_Erika,Erika,900]
+Pokemon = B71H55,37
+    Item = MIRACLESEED
+    Moves = AQUAJET,GIGADRAIN,SUNNYDAY,SLEEPPOWDER
+    AbilityIndex = 1
+Pokemon = B75H114,37
+    Item = MIRACLESEED
+    Moves = INGRAIN,GROWTH,SMACKDOWN,CONSTRICT
+    AbilityIndex = 0
+Pokemon = B182H78,41
+    Item = MIRACLESEED
+    Moves = SUNNYDAY,FLAMECHARGE,SPORE,GIGADRAIN
+    AbilityIndex = 1
+#-------------------------------
+[LEADER_Koga,Koga,900]
+Pokemon = B193H109,39
+    Item = POISONBARB
+    Moves = SELFDESTRUCT,DESTINYBOND,SUCKERPUNCH,SHADOWBALL
+Pokemon = B197H169,39
+    Item = BLACKGLASSES
+    Moves = POWERGEM,FAINTATTACK,TOXIC,SLUDGEBOMB
+    AbilityIndex = 0
+Pokemon = B119H110,41
+    Item = POISONBARB
+    Moves = AQUARING,WATERFALL,SLUDGE,HORNATTACK
+    AbilityIndex = 0
+Pokemon = B47H89,42
+    Item = BLACKSLUDGE
+    Moves = POISONPOWDER,SPORE,SLUDGEBOMB,DISABLE
+    AbilityIndex = 0
+#-------------------------------
+[LEADER_Blaine,Blaine,900]
+Pokemon = B82H58,49
+    Item = CHARCOAL
+    Moves = THUNDERBOLT,MAGNETRISE,HEATWAVE,ROAR
+Pokemon = B78H44,49
+    Item = CHARCOAL
+    Moves = SUNNYDAY,SOLARBEAM,FLAMETHROWER,TOXIC
+Pokemon = B38H73,51
+    Item = CHARCOAL
+    Moves = BUBBLEBEAM,FLAMETHROWER,WILLOWISP,PROTECT
+Pokemon = B142H6,53
+    Item = CHARCOAL
+    Moves = CRUNCH,SKYDROP,FIREBLAST,HYPERBEAM
+#-------------------------------
+[LEADER_Giovanni,Giovanni,900]
+Pokemon = B131H265,55
+    Item = SOFTSAND
+    Moves = SURF,BULLDOZE,SANDSTORM,SING
+Pokemon = B51H125,53
+    Item = SOFTSAND
+    Moves = BULLDOZE,LIGHTSCREEN,THUNDERWAVE,DISCHARGE
+Pokemon = B68H76,56
+    Item = SOFTSAND
+    Moves = EARTHQUAKE,DYNAMICPUNCH,COUNTER,SCARYFACE
+Pokemon = B248H273,59
+    Item = SOFTSAND
+    Moves = EARTHQUAKE,THRASH,MEGAHORN,POISONJAB
+Pokemon = B143H112,61
+    Item = SOFTSAND
+    Moves = EARTHQUAKE,REST,SNORE,HORNDRILL
+#-------------------------------
+[ELITEFOUR_Lorelei,Lorelei,900]
+Pokemon = B87H268,59
+    Item = NEVERMELTICE
+    Moves = BUBBLEBEAM,FLAMETHROWER,HAIL,PROTECT
+    AbilityIndex = 1
+Pokemon = B80H274,59
+    Item = NEVERMELTICE
+    Moves = HAIL,SLACKOFF,TAKEDOWN,ICEFANG
+    AbilityIndex = 1
+Pokemon = B91H73,58
+    Item = NEVERMELTICE
+    Moves = SPIKES,STEALTHROCK,WATERPULSE,ICICLECRASH
+    AbilityIndex = 0
+Pokemon = B266H124,61
+    Item = NEVERMELTICE
+    Moves = LEECHSEED,DRAININGKISS,SLEEPPOWDER,ICEPUNCH
+    AbilityIndex = 1
+Pokemon = B131H262,61
+    Item = NEVERMELTICE
+    Moves = PERISHSONG,NIGHTSLASH,SURF,EMBARGO
+    AbilityIndex = 1
+#-------------------------------
+[ELITEFOUR_Bruno,Bruno,900]
+Pokemon = B267H68,58
+    Item = BLACKBELT
+    Moves = THUNDERPUNCH,CROSSCHOP,DISCHARGE,FOCUSENERGY
+    AbilityIndex = 1
+Pokemon = B214H212,61
+    Item = BLACKBELT
+    Moves = XSCISSOR,SWORDSDANCE,CLOSECOMBAT,AGILITY
+    AbilityIndex = 1
+Pokemon = B107H105,59
+    Item = BLACKBELT
+    Moves = DYNAMICPUNCH,BONEMERANG,DOUBLETEAM,COUNTER
+    AbilityIndex = 0
+Pokemon = B68H208,58
+    Item = BLACKBELT
+    Moves = SANDSTORM,IRONTAIL,SUBMISSION,CRUNCH
+    AbilityIndex = 1
+Pokemon = B95H263,61
+    Item = BLACKBELT
+    Moves = ZAPCANNON,MAGNETRISE,LOCKON,IRONTAIL
+    AbilityIndex = 1
+#-------------------------------
+[CHAMPION,Blue,900]
+Pokemon = B18H105,64
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,64
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,65
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,66
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H121,63
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B6H9,69
+    Item = LEFTOVERS
+    Moves = HYDROCANNON,FLAREBLITZ,PROTECT,FLY
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,903]
+Pokemon = B18H105,75
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,75
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,76
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,75
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H121,76
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B6H9,82
+    Item = LEFTOVERS
+    Moves = HYDROCANNON,FLAREBLITZ,PROTECT,FLY
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,906]
+Pokemon = B18H105,85
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,85
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,86
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,85
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H121,86
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B6H9,92
+    Item = LEFTOVERS
+    Moves = HYDROCANNON,FLAREBLITZ,PROTECT,FLY
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,901]
+Pokemon = B18H105,64
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,64
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,65
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,66
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H120,63
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B9H3,69
+    Item = LEFTOVERS
+    Moves = POWERWHIP,HYDROCANNON,SLEEPPOWDER,PROTECT
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,904]
+Pokemon = B18H105,75
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,75
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,76
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,75
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H120,76
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B9H3,82
+    Item = LEFTOVERS
+    Moves = POWERWHIP,HYDROCANNON,SLEEPPOWDER,PROTECT
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,907]
+Pokemon = B18H105,85
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,85
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,86
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,85
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H120,86
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B9H3,92
+    Item = LEFTOVERS
+    Moves = POWERWHIP,HYDROCANNON,SLEEPPOWDER,PROTECT
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,902]
+Pokemon = B18H105,64
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,64
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,65
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,66
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H120,63
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B3H6,69
+    Item = LEFTOVERS
+    Moves = SLEEPPOWDER,POWERWHIP,FLAREBLITZ,FLY
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,905]
+Pokemon = B18H105,75
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,75
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,76
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,75
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H120,76
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B3H6,82
+    Item = LEFTOVERS
+    Moves = SLEEPPOWDER,POWERWHIP,FLAREBLITZ,FLY
+    AbilityIndex = 0
+#-------------------------------
+[CHAMPION,Blue,908]
+Pokemon = B18H105,85
+    Item = LAXINCENSE
+    Moves = EARTHQUAKE,WINGATTACK,DOUBLETEAM,SWORDSDANCE
+    AbilityIndex = 1
+Pokemon = B103H128,85
+    Item = KINGSROCK
+    Moves = ZENHEADBUTT,GIGAIMPACT,SCARYFACE,SWAGGER
+    AbilityIndex = 2
+Pokemon = B268H265,86
+    Item = ABSORBBULB
+    Moves = FIREBLAST,DRILLRUN,WILLOWISP,STONEEDGE
+    AbilityIndex = 1
+Pokemon = B130H267,85
+    Item = DAMPROCK
+    Moves = RAINDANCE,THUNDERPUNCH,WATERFALL,DRAGONDANCE
+    AbilityIndex = 2
+Pokemon = B65H120,86
+    Item = WISEGLASSES
+    Moves = PSYCHIC,REFLECT,SURF,COSMICPOWER
+    AbilityIndex = 1
+Pokemon = B3H6,92
+    Item = LEFTOVERS
+    Moves = SLEEPPOWDER,POWERWHIP,FLAREBLITZ,FLY
+    AbilityIndex = 0
+#-------------------------------
+[RIVAL1,Blue,900]
+Pokemon = B4H7,5
+#-------------------------------
+[RIVAL1,Blue,901]
+Pokemon = B7H1,5
+#-------------------------------
+[RIVAL1,Blue,902]
+Pokemon = B1H4,5
+#-------------------------------
+[RIVAL1,Blue,903]
+Pokemon = PIDGEY,7
+Pokemon = B4H7,8
+#-------------------------------
+[RIVAL1,Blue,904]
+Pokemon = PIDGEY,7
+Pokemon = B7H1,8
+#-------------------------------
+[RIVAL1,Blue,905]
+Pokemon = PIDGEY,7
+Pokemon = B1H4,8
+#-------------------------------
+[RIVAL1,Blue,906]
+Pokemon = PIDGEOTTO,18
+Pokemon = ABRA,15
+Pokemon = B19H56,16
+Pokemon = B5H7,19
+    Moves = SCARYFACE,WATERGUN,EMBER,SLASH
+#-------------------------------
+[RIVAL1,Blue,907]
+Pokemon = PIDGEOTTO,18
+Pokemon = ABRA,15
+Pokemon = B19H56,16
+Pokemon = B8H1,19
+    Moves = WITHDRAW,WATERGUN,RAZORLEAF,TAKEDOWN
+#-------------------------------
+[RIVAL1,Blue,908]
+Pokemon = PIDGEOTTO,18
+Pokemon = ABRA,15
+Pokemon = B19H56,16
+Pokemon = B2H4,19
+    Moves = RAZORLEAF,EMBER,BITE,SLEEPPOWDER
+#-------------------------------
+[RIVAL1,Blue,909]
+Pokemon = PIDGEOTTO,22
+Pokemon = B20H56,20
+Pokemon = B64H120,18
+Pokemon = B5H8,22
+#-------------------------------
+[RIVAL1,Blue,910]
+Pokemon = PIDGEOTTO,22
+Pokemon = B20H56,20
+Pokemon = B64H120,18
+Pokemon = B8H2,22
+#-------------------------------
+[RIVAL1,Blue,911]
+Pokemon = PIDGEOTTO,22
+Pokemon = B20H56,20
+Pokemon = B64H120,18
+Pokemon = B2H5,22
+#-------------------------------
+[RIVAL1,Blue,912]
+Pokemon = B17H104,25
+Pokemon = EXEGGCUTE,24
+Pokemon = GYARADOS,23
+Pokemon = B64H120,22
+Pokemon = B5H8,25
+#-------------------------------
+[RIVAL1,Blue,913]
+Pokemon = B17H104,25
+Pokemon = EXEGGCUTE,24
+Pokemon = GYARADOS,23
+Pokemon = B64H120,22
+Pokemon = B8H2,25
+#-------------------------------
+[RIVAL1,Blue,914]
+Pokemon = B17H104,25
+Pokemon = EXEGGCUTE,24
+Pokemon = GYARADOS,23
+Pokemon = B64H120,22
+Pokemon = B2H5,25
+#-------------------------------
+[RIVAL1,Blue,915]
+Pokemon = B18H104,42
+Pokemon = TAUROS,43
+Pokemon = B130H125,40
+Pokemon = B65H120,40
+Pokemon = B6H8,44
+#-------------------------------
+[RIVAL1,Blue,916]
+Pokemon = B18H104,42
+Pokemon = TAUROS,43
+Pokemon = B130H125,40
+Pokemon = B65H120,40
+Pokemon = B9H2,44
+#-------------------------------
+[RIVAL1,Blue,917]
+Pokemon = B18H104,42
+Pokemon = TAUROS,43
+Pokemon = B130H125,40
+Pokemon = B65H120,40
+Pokemon = B3H5,44
+#-------------------------------
+[RIVAL1,Blue,918]
+Pokemon = B18H104,44
+Pokemon = TAUROS,45
+Pokemon = B130H125,42
+Pokemon = B65H120,42
+Pokemon = B6H9,45
+#-------------------------------
+[RIVAL1,Blue,919]
+Pokemon = B18H104,44
+Pokemon = TAUROS,45
+Pokemon = B130H125,42
+Pokemon = B65H120,42
+Pokemon = B9H3,45
+#-------------------------------
+[RIVAL1,Blue,920]
+Pokemon = B18H104,44
+Pokemon = TAUROS,45
+Pokemon = B130H125,42
+Pokemon = B65H120,42
+Pokemon = B3H6,45
+#-------------------------------
+[RIVAL1,Blue,921]
+Pokemon = B18H105,47
+Pokemon = B102H128,45
+Pokemon = B111H126,45
+Pokemon = B130H125,47
+Pokemon = B65H120,50
+Pokemon = B6H9,53
+#-------------------------------
+[RIVAL1,Blue,922]
+Pokemon = B18H105,47
+Pokemon = B102H128,45
+Pokemon = B111H126,45
+Pokemon = B130H125,47
+Pokemon = B65H120,50
+Pokemon = B9H3,53
+#-------------------------------
+[RIVAL1,Blue,923]
+Pokemon = B18H105,47
+Pokemon = B102H128,45
+Pokemon = B111H126,45
+Pokemon = B130H125,47
+Pokemon = B65H120,50
+Pokemon = B3H6,53
+#-------------------------------
+[PICNICKER,Kim,900]
+Pokemon = B38H26,39
+#-------------------------------
+[POKEMANIAC,Larry,900]
+Pokemon = SLOWKING,47
+#-------------------------------
+[SWIMMER_F,Abigail,900]
+Pokemon = PSYDUCK,35
+Pokemon = PSYDUCK,35
+Pokemon = B55H24,36
+#-------------------------------
+[SWIMMER_M,Raphael,900]
+Pokemon = GRAVELER,49
+Pokemon = TENTACRUEL,49
+Pokemon = B176H127,53
+#-------------------------------
+[FISHERMAN,Tommy,900]
+Pokemon = GOLDEEN,51
+Pokemon = GOLDEEN,51
+Pokemon = B86H298,54
+#-------------------------------
+[POKEMONRANGER_M,Steve,900]
+Pokemon = B7H316,54
+Pokemon = B6H301,53
+Pokemon = B4H336,53
+Pokemon = B158H159,57
+#-------------------------------
+[POKEMONRANGER_F,Jane,900]
+Pokemon = B56H320,54
+Pokemon = B56H232,54
+Pokemon = B215H262,54
+#-------------------------------
+[POKEMONRANGER_M,Osman,900]
+Pokemon = B56H316,58
+#-------------------------------
+[HAUNTEDGIRL,Samara]
+Pokemon = B105H93,40
+#-------------------------------
+[LASS,Marina]
+Pokemon = FARFETCHD,24
+Pokemon = KADABRA,24
+Pokemon = B77H84,24
+#-------------------------------
+[BEAUTY,Olivia]
+Pokemon = BULBASAUR,34
+Pokemon = B2H110,34
+#-------------------------------
+[BURGLAR,Jamal]
+Pokemon = VULPIX,34
+Pokemon = B26H52,34
+#-------------------------------
+[LASS,Ali]
+Pokemon = ABRA,12
+Pokemon = B21H16,12
+Pokemon = B43H56,12
+#-------------------------------
+[LASS,Reli]
+Pokemon = RATTATA,14
+Pokemon = B100H109,14
+#-------------------------------
+[FISHERMAN,Dale]
+Pokemon = GOLDEEN,16
+Pokemon = B129H118,17
+Pokemon = B72H129,17
+#-------------------------------
+[HIPSTER,Jerry]
+Pokemon = B24H120,25
+#-------------------------------
+[HIPSTER,Jerry,1]
+Pokemon = B24H121,32
+Pokemon = B91H97,32
+#-------------------------------
+[LASS,Haley]
+Pokemon = ODDISH,13
+Pokemon = PIDGEY,13
+Pokemon = B46H43,15
+#-------------------------------
+[PICNICKER,Diana]
+Pokemon = B50H120,19
+#-------------------------------
+[BUGCATCHER,Nelson]
+Pokemon = B141H123,51
+#-------------------------------
+[TEAMROCKET_M,Ritchie]
+Pokemon = B73H109,25
+Pokemon = B89H11,25
+#-------------------------------
+[TEAMROCKET_M,Sam]
+Pokemon = B139H97,39
+#-------------------------------
+[POKEMANIAC,Guy]
+Pokemon = B57H12,50
+Pokemon = B99H106,50
+Pokemon = B44H84,50
+Pokemon = B93H83,50
+Pokemon = B88H104,50
+Pokemon = B31H7,50
+#-------------------------------
+[ROBOT,KILLBOT]
+Pokemon = B131H49,50
+Pokemon = B18H34,50
+Pokemon = B145H139,50
+#-------------------------------
+[ROBOT,RED]
+Pokemon = B132H242,100
+    Item = LEFTOVERS
+    Moves = TOXIC,COSMICPOWER,SOFTBOILED,TRANSFORM
+    AbilityIndex = 0
+    Shiny = shiny
+    Nature = IMPISH
+    IV = 31
+    Ball = 4
+#-------------------------------
+[WORKER,Angus]
+Pokemon = HERACROSS,37
+Pokemon = B217H202,39
+#-------------------------------
+[WORKER,Silvio]
+Pokemon = DUGTRIO,37
+Pokemon = B26H180,39
+#-------------------------------
+[WORKER,Hermann]
+Pokemon = MAGNETON,38
+Pokemon = MAGNETON,38
+Pokemon = B205H82,38
+#-------------------------------
+[WORKER,John]
+Pokemon = B137H233,44
+#-------------------------------
+[WORKER,Felix]
+Pokemon = MACHOP,39
+Pokemon = MACHOKE,39
+Pokemon = B67H212,39
+#-------------------------------
+[WORKER,Kevin]
+Pokemon = ELECTRODE,42
+Pokemon = B210H82,42
+#-------------------------------
+[WORKER,Mark]
+Pokemon = MACHOKE,42
+Pokemon = B205H106,44
+#-------------------------------
+[ROCKETEXEC_M,Archer]
+Pokemon = B57H228,44
+Pokemon = B168H110,44
+Pokemon = B229H208,44
+#-------------------------------
+[COOLTRAINER_F,Rike]
+Pokemon = SKARMORY,45
+Pokemon = B53H87,45
+#-------------------------------
+[ROCKETEXEC_F,Ariana]
+Pokemon = B45H266,65
+Pokemon = B256H227,65
+Pokemon = B229H24,65
+#-------------------------------
+#-------------------------------
+# Animon trainers (sourced from ANIMON(V-1.13).gba via PGE trainer dump,
+# decoded+diffed against this game's own PBS/trainers.txt). Wholly separate
+# GameData::Trainer records - none of IF1's own trainers.txt entries touched.
+# For a (TrainerType,Name) pair that also exists in IF1 with a different party,
+# the Animon version is registered under version (800 + n) so it cannot
+# collide with the vanilla entry or with DBZ's own 900-923 alt band. For names
+# only in Animon, they're registered as new entries (version 0, 1, 2... per dup).
+#-------------------------------
+[YOUNGSTER,Ben,800]
+Pokemon = RAPHTALIA,38
+Pokemon = KRILLIN,38
+#-------------------------------
+[YOUNGSTER,Calvin,800]
+Pokemon = ASTA,35
+#-------------------------------
+[YOUNGSTER,Josh,800]
+Pokemon = USOPP,32
+Pokemon = USOPP2,34
+Pokemon = ASTA,34
+#-------------------------------
+[YOUNGSTER,Timmy,800]
+Pokemon = KIDGAARA,45
+Pokemon = GON,45
+#-------------------------------
+[YOUNGSTER,Joey,800]
+Pokemon = KRAPHTALIA,22
+Pokemon = KIDKRILLIN,22
+#-------------------------------
+[YOUNGSTER,Dan,800]
+Pokemon = KILLUA,17
+#-------------------------------
+[YOUNGSTER,Chad,800]
+Pokemon = KILLUA,14
+Pokemon = KIDGAARA,14
+#-------------------------------
+[YOUNGSTER,Tyler,800]
+Pokemon = STAMPEDE,21
+#-------------------------------
+[YOUNGSTER,Eddie,800]
+Pokemon = COCODEMON,52
+#-------------------------------
+[YOUNGSTER,Dave,800]
+Pokemon = TRUEAPUS,50
+Pokemon = STRELIZIA,50
+#-------------------------------
+[YOUNGSTER,Ben,801]
+Pokemon = KRAPHTALIA,17
+Pokemon = COCO,17
+#-------------------------------
+[BUGCATCHER,Colton,800]
+Pokemon = CELL,32
+Pokemon = CELL2,36
+Pokemon = CELL3,40
+#-------------------------------
+[BUGCATCHER,Greg,800]
+Pokemon = GREGORY,36
+Pokemon = ENJU,36
+Pokemon = CELL,34
+Pokemon = REIJU,36
+#-------------------------------
+[BUGCATCHER,James,800]
+Pokemon = CELL2,36
+Pokemon = ENTOMA2,36
+#-------------------------------
+[BUGCATCHER,Kent,800]
+Pokemon = ENTOMA,34
+Pokemon = ENTOMA2,34
+#-------------------------------
+[BUGCATCHER,Robby,800]
+Pokemon = CELL,33
+Pokemon = CELL2,35
+Pokemon = CELL2,35
+#-------------------------------
+[BUGCATCHER,Cale,800]
+Pokemon = CELL,40
+Pokemon = CELL2,42
+Pokemon = CELL3,44
+Pokemon = MERUEM,44
+#-------------------------------
+[BUGCATCHER,Elijah,800]
+Pokemon = CELL2,20
+#-------------------------------
+[BUGCATCHER,Brent,800]
+Pokemon = PITOU,36
+Pokemon = MERUEM,35
+#-------------------------------
+[BUGCATCHER,Conner,800]
+Pokemon = CELL,34
+Pokemon = ENTOMA2,36
+Pokemon = ENJU,37
+#-------------------------------
+[LASS,Janice,800]
+Pokemon = CROW,35
+Pokemon = GODBIRD,35
+#-------------------------------
+[LASS,Robin,800]
+Pokemon = AANG,36
+#-------------------------------
+[LASS,Crissy,800]
+Pokemon = HASHIRAMA,38
+Pokemon = HASHIRAMA,38
+Pokemon = VEGETA,38
+#-------------------------------
+[LASS,Miriam,800]
+Pokemon = PITOU,34
+Pokemon = KIDSASUKE,35
+#-------------------------------
+[LASS,Iris,800]
+Pokemon = GON,36
+#-------------------------------
+[LASS,Ann,800]
+Pokemon = FILOLIAL,18
+Pokemon = RYUKO,18
+#-------------------------------
+[LASS,Dawn,800]
+Pokemon = KRAPHTALIA,18
+Pokemon = PIKACHU,18
+#-------------------------------
+[LASS,Kay,800]
+Pokemon = MIMOSA,43
+Pokemon = USOPP2,43
+#-------------------------------
+[LASS,Lisa,800]
+Pokemon = MIMOSA,42
+Pokemon = USOPP2,42
+#-------------------------------
+[SAILOR,Edmond,800]
+Pokemon = KIDVEGETA,18
+Pokemon = KISAME,18
+#-------------------------------
+[SAILOR,Trevor,800]
+Pokemon = KIDVEGETA,17
+Pokemon = DEKU,17
+#-------------------------------
+[SAILOR,Leonard,800]
+Pokemon = KISAME,21
+#-------------------------------
+[SAILOR,Duncan,800]
+Pokemon = SLIME,17
+Pokemon = KISAME,17
+Pokemon = DEKU,17
+#-------------------------------
+[SAILOR,Huey,800]
+Pokemon = DEKU,18
+Pokemon = TOSHIRO,18
+#-------------------------------
+[SAILOR,Dylan,800]
+Pokemon = SLIME,17
+Pokemon = SLIME,17
+Pokemon = SLIME,17
+#-------------------------------
+[CAMPER,Liam,800]
+Pokemon = AGUMON,10
+    Moves = TACKLE,DEFENSECURL
+Pokemon = KIDGAARA,11
+    Moves = SCRATCH,DEFENSECURL,SANDATTACK
+#-------------------------------
+[CAMPER,Shane,800]
+Pokemon = RAPHTALIA,43
+Pokemon = KRILLIN,44
+#-------------------------------
+[CAMPER,Ethan,800]
+Pokemon = RAIZEN,46
+#-------------------------------
+[CAMPER,Ricky,800]
+Pokemon = GON,20
+#-------------------------------
+[CAMPER,Jeff,800]
+Pokemon = KIDKRILLIN,19
+Pokemon = RAPHTALIA,20
+#-------------------------------
+[CAMPER,Chris,800]
+Pokemon = ZUKO,35
+Pokemon = KIDGOKU,33
+#-------------------------------
+[CAMPER,Drew,800]
+Pokemon = KRAPHTALIA,35
+Pokemon = KIDGAARA,35
+Pokemon = KIDSASUKE,35
+Pokemon = KIDVEGETA,35
+#-------------------------------
+[PICNICKER,Nancy,800]
+Pokemon = KRAPHTALIA,18
+Pokemon = PIKACHU,20
+#-------------------------------
+[PICNICKER,Isabelle,800]
+Pokemon = FILOLIAL,16
+Pokemon = FILOLIAL,18
+Pokemon = GODBIRD,20
+#-------------------------------
+[PICNICKER,Kelsey,800]
+Pokemon = AKAME,15
+Pokemon = ENTOMA,15
+#-------------------------------
+[PICNICKER,Alicia,800]
+Pokemon = PITOU,35
+Pokemon = KIDSASUKE,38
+Pokemon = USOPP,36
+Pokemon = WENDY,35
+#-------------------------------
+[PICNICKER,Caitlin,800]
+Pokemon = PIKACHU,40
+#-------------------------------
+[PICNICKER,Sofia,800]
+Pokemon = AANG,34
+Pokemon = FILOLIAL,32
+Pokemon = SHIROU,34
+#-------------------------------
+[PICNICKER,Tina,800]
+Pokemon = MIMOSA,42
+Pokemon = USOPP2,42
+#-------------------------------
+[SUPERNERD,Jovan,800]
+Pokemon = YURUICHI,34
+Pokemon = KIDKAKASHI,34
+#-------------------------------
+[SUPERNERD,Miguel,800]
+Pokemon = STAMPEDE,33
+Pokemon = STRELIZIA,36
+Pokemon = GURENMK2,36
+#-------------------------------
+[SUPERNERD,Aidan,800]
+Pokemon = KIDKAKASHI,20
+    Moves = SONICBOOM,SCREECH,TACKLE,CHARGE
+Pokemon = ASTA,20
+    Moves = SLUDGE,SMOG,TACKLE,POISONGAS
+Pokemon = KIDKAKASHI,20
+    Moves = SONICBOOM,SCREECH,TACKLE,CHARGE
+Pokemon = YURUICHI,20
+    Moves = SONICBOOM,SUPERSONIC,THUNDERSHOCK,TACKLE
+#-------------------------------
+[SUPERNERD,Glenn,800]
+Pokemon = AKAME,22
+Pokemon = AKAME2,22
+Pokemon = AKAME,22
+#-------------------------------
+[SUPERNERD,Leslie,800]
+Pokemon = AQUADBZ,13
+    Moves = WATERGUN,RECOVER,MIST,DIZZYPUNCH
+#-------------------------------
+[SUPERNERD,Erik,800]
+Pokemon = ZUKO,40
+Pokemon = ZUKO2,40
+Pokemon = GURENMK2,40
+#-------------------------------
+[SUPERNERD,Avery,800]
+Pokemon = GENOS,38
+Pokemon = BAKUGOU,40
+Pokemon = TODOROKI,38
+Pokemon = GURENMK2,42
+#-------------------------------
+[SUPERNERD,Derek,800]
+Pokemon = TODOROKI,43
+#-------------------------------
+[SUPERNERD,Zac,800]
+Pokemon = ZUKO,38
+Pokemon = MUSTANG,42
+#-------------------------------
+[HIKER,Marcos,800]
+Pokemon = KIRISHIMA,33
+Pokemon = ARMSTRONG,33
+Pokemon = REDRIOT,36
+#-------------------------------
+[HIKER,Franklin,800]
+Pokemon = KILLUA,15
+Pokemon = CELL,15
+#-------------------------------
+[HIKER,Wayne,800]
+Pokemon = ARMSTRONG,17
+#-------------------------------
+[HIKER,Alan,800]
+Pokemon = PICA,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+Pokemon = PICAGOLEM,38
+    Moves = HARDEN,ROCKTHROW,BIND,SCREECH
+#-------------------------------
+[HIKER,Brice,800]
+Pokemon = KIRISHIMA,34
+Pokemon = PICA,34
+Pokemon = REDRIOT,38
+#-------------------------------
+[HIKER,Dudley,800]
+Pokemon = ARMSTRONG,36
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+Pokemon = PICA,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+Pokemon = PICAGOLEM,35
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+#-------------------------------
+[HIKER,Allen,800]
+Pokemon = REDRIOT,36
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+#-------------------------------
+[HIKER,Lenny,800]
+Pokemon = PICA,33
+Pokemon = KIRISHIMA,33
+Pokemon = CROCODILE,34
+Pokemon = PICA,34
+#-------------------------------
+[HIKER,Oliver,800]
+Pokemon = ARMSTRONG,34
+Pokemon = ARMSTRONG,34
+Pokemon = KIRISHIMA,34
+#-------------------------------
+[HIKER,Lucas,800]
+Pokemon = ARMSTRONG,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+Pokemon = TOPH,34
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+#-------------------------------
+[BIKER,Malik,800]
+Pokemon = ASTA,36
+Pokemon = AKAME,36
+#-------------------------------
+[BIKER,Jaxon,800]
+Pokemon = BLACKASTA,29
+    Moves = SLUDGE,SMOKESCREEN,SMOG,TACKLE
+Pokemon = AKAME2,29
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+#-------------------------------
+[BIKER,Lukas,800]
+Pokemon = ASTA,35
+Pokemon = ASTA,35
+Pokemon = AKAME,35
+Pokemon = BAKUGOU,38
+#-------------------------------
+[BIKER,Isaac,800]
+Pokemon = AKAME,35
+Pokemon = AKAME,36
+Pokemon = ASTA,36
+#-------------------------------
+[BIKER,Gerald,800]
+Pokemon = NATSU,36
+Pokemon = ZUKO,38
+#-------------------------------
+[BURGLAR,Quinn,800]
+Pokemon = ZUKO,40
+Pokemon = NATSU,40
+Pokemon = GURENMK2,40
+#-------------------------------
+[BURGLAR,Ramon,800]
+Pokemon = BAKUGOU,43
+#-------------------------------
+[BURGLAR,Dusty,800]
+Pokemon = BAKUGOU,40
+Pokemon = NATSU,40
+#-------------------------------
+[BURGLAR,Arnie,800]
+Pokemon = KIDGOKU,34
+Pokemon = GOKU,34
+#-------------------------------
+[BURGLAR,Simon,800]
+Pokemon = GURENMK2,38
+#-------------------------------
+[BURGLAR,Lewis,800]
+Pokemon = ZUKO,34
+Pokemon = SESSHOMARU,34
+#-------------------------------
+[ENGINEER,Baily,800]
+Pokemon = KIDKAKASHI,21
+Pokemon = YURUICHI,21
+#-------------------------------
+[ENGINEER,Braxton,800]
+Pokemon = YURUICHI,50
+#-------------------------------
+[ENGINEER,Bernie,800]
+Pokemon = FLASHGOD,50
+Pokemon = FLASHGOD,18
+Pokemon = GODSPEED,50
+#-------------------------------
+[FISHERMAN,Barny,800]
+Pokemon = DEKU,17
+Pokemon = TOSHIRO,17
+Pokemon = KISAME,17
+#-------------------------------
+[FISHERMAN,Ned,800]
+Pokemon = YATO,22
+Pokemon = LAGANN,22
+Pokemon = YATO,22
+#-------------------------------
+[FISHERMAN,Chip,800]
+Pokemon = DEKU,24
+Pokemon = YATO,24
+#-------------------------------
+[FISHERMAN,Hank,800]
+Pokemon = YATO,27
+#-------------------------------
+[FISHERMAN,Elliot,800]
+Pokemon = LAGANN,21
+Pokemon = KISAME,21
+Pokemon = YATO,21
+Pokemon = SLIME,21
+#-------------------------------
+[FISHERMAN,Ronald,800]
+Pokemon = HAFURIYATO,28
+Pokemon = YATO,28
+Pokemon = HAFURIYATO,28
+Pokemon = HAFURIYATO,28
+#-------------------------------
+[FISHERMAN,Claude,800]
+Pokemon = KISAME,31
+Pokemon = KISAME2,31
+#-------------------------------
+[FISHERMAN,Wade,800]
+Pokemon = EREN,27
+Pokemon = EREN,27
+Pokemon = EREN,27
+Pokemon = EREN,27
+Pokemon = EREN,27
+Pokemon = EREN,27
+#-------------------------------
+[FISHERMAN,Andrew,800]
+Pokemon = EREN,24
+Pokemon = EREN,24
+#-------------------------------
+[SWIMMER_M,Luis,800]
+Pokemon = SLIME,11
+Pokemon = AQUADBZ,11
+#-------------------------------
+[SWIMMER_M,Richard,800]
+Pokemon = AQUADBZ,11
+Pokemon = KISAME,30
+#-------------------------------
+[SWIMMER_M,Matthew,800]
+Pokemon = LAGANN,30
+Pokemon = GURREN,30
+#-------------------------------
+[SWIMMER_M,David,800]
+Pokemon = YATO,29
+Pokemon = KISAME,29
+Pokemon = HAFURIYATO,29
+#-------------------------------
+[SWIMMER_M,Tony,800]
+Pokemon = SLIME,30
+Pokemon = SLIME,30
+#-------------------------------
+[SWIMMER_M,Spencer,800]
+Pokemon = RIMURU,33
+Pokemon = FULLCOWL,33
+#-------------------------------
+[SWIMMER_M,Jerome,800]
+Pokemon = TOSHIRO,33
+Pokemon = LUFFYGEAR2,33
+#-------------------------------
+[BLACKBELT,Koichi,800]
+Pokemon = VEGETA,28
+Pokemon = YUSUKE,28
+#-------------------------------
+[CUEBALL,Zeek,800]
+Pokemon = VEGETA,33
+#-------------------------------
+[CUEBALL,Corey,800]
+Pokemon = RAIZEN,29
+Pokemon = VEGETA,29
+#-------------------------------
+[BEAUTY,Bridget,800]
+Pokemon = MIMOSA,42
+Pokemon = USOPP2,42
+Pokemon = HASHIRAMA,42
+Pokemon = MIMOSA,42
+#-------------------------------
+[BEAUTY,Tamia,800]
+Pokemon = HAKURYUU,43
+Pokemon = HAKURYUU,43
+#-------------------------------
+[BEAUTY,Lori,800]
+Pokemon = HAKURYUU,44
+#-------------------------------
+[BEAUTY,Lola,800]
+Pokemon = KRAPHTALIA,27
+Pokemon = PIKACHU,27
+Pokemon = KRAPHTALIA,27
+#-------------------------------
+[SWIMMER_F,Melissa,800]
+Pokemon = LAGANN,31
+Pokemon = HAFURIYATO,31
+#-------------------------------
+[BEAUTY,Grace,800]
+Pokemon = RIAS,46
+Pokemon = TSUKIUMI,46
+#-------------------------------
+[SWIMMER_F,Anya,800]
+Pokemon = LAGANN,27
+Pokemon = YATO,27
+Pokemon = HAFURIYATO,27
+Pokemon = YATO,27
+Pokemon = LAGANN,27
+#-------------------------------
+[SWIMMER_F,Alice,800]
+Pokemon = YATO,30
+Pokemon = HAFURIYATO,30
+#-------------------------------
+[SWIMMER_F,Connie,800]
+Pokemon = TOSHIRO,29
+Pokemon = TOSHIRO,29
+Pokemon = TOSHIRO,29
+#-------------------------------
+[PSYCHIC_M,Johan,800]
+Pokemon = FRIEZA,31
+Pokemon = CC,31
+Pokemon = KYUBEY,31
+Pokemon = ARCHER,33
+#-------------------------------
+[PSYCHIC_M,Cameron,800]
+Pokemon = FRIEZA,33
+Pokemon = FRIEZA,33
+Pokemon = FRIEZA2,33
+#-------------------------------
+[PSYCHIC_M,Preston,800]
+Pokemon = DMAGICIAN,38
+#-------------------------------
+[JUGGLER,Nelson,800]
+Pokemon = DMAGICIAN,47
+Pokemon = DPALADIN,50
+Pokemon = FRIEZA2,47
+Pokemon = FRIEZA3,50
+#-------------------------------
+[JUGGLER,Kirk,800]
+Pokemon = DMAGICIAN,45
+Pokemon = HISOKA,45
+Pokemon = MAGICIAN,45
+Pokemon = DMAGICIAN,45
+#-------------------------------
+[JUGGLER,Shawn,800]
+Pokemon = DMAGICIAN,34
+Pokemon = DPALADIN,34
+#-------------------------------
+[JUGGLER,Kayden,800]
+Pokemon = DPALADIN,38
+#-------------------------------
+[JUGGLER,Nate,800]
+Pokemon = DMAGICIAN,50
+Pokemon = MAGICIAN,50
+#-------------------------------
+[TAMER,Phil,800]
+Pokemon = SESSHOMARU,46
+Pokemon = TRUEFORM,50
+#-------------------------------
+[TAMER,Edgar,800]
+Pokemon = COCODEMON,33
+Pokemon = GAARA,33
+Pokemon = COCODEMON,33
+#-------------------------------
+[TAMER,Vincent,800]
+Pokemon = ARCHER,50
+Pokemon = TIERHUNT,50
+#-------------------------------
+[BIRDKEEPER,Sebastian,800]
+Pokemon = FILOLIAL,32
+Pokemon = GODBIRD,36
+#-------------------------------
+[BIRDKEEPER,Perry,800]
+Pokemon = YUNO,36
+Pokemon = GODBIRD,36
+Pokemon = FILOLIAL,34
+Pokemon = WENDY,34
+Pokemon = AIS,36
+#-------------------------------
+[BIRDKEEPER,Donald,800]
+Pokemon = AIS,40
+#-------------------------------
+[BIRDKEEPER,Benny,800]
+Pokemon = YUNO,38
+Pokemon = SPIRITDIVE,40
+#-------------------------------
+[BIRDKEEPER,Chester,800]
+Pokemon = WENDYFORCE,46
+Pokemon = WENDY,34
+Pokemon = GODBIRD,46
+#-------------------------------
+[BIRDKEEPER,Carter,800]
+Pokemon = FILOLIAL,34
+Pokemon = WENDY,38
+Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,Mitch,800]
+Pokemon = FILOLIAL,35
+Pokemon = WENDY,35
+Pokemon = FILOLIAL,38
+Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,Beck,800]
+Pokemon = GODBIRD,36
+Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,Marlon,800]
+Pokemon = FILOLIAL,35
+Pokemon = GODBIRD,38
+Pokemon = FILO,40
+#-------------------------------
+[BLACKBELT,Koichi,801]
+Pokemon = STARPLAT,35
+Pokemon = THEWORLD,35
+#-------------------------------
+[BLACKBELT,Mike,800]
+Pokemon = YUSUKE,31
+Pokemon = YUSUKE,31
+Pokemon = RAIZEN,31
+#-------------------------------
+[BLACKBELT,Hideki,800]
+Pokemon = KIDVEGETA,32
+Pokemon = VEGETA,32
+#-------------------------------
+[BLACKBELT,Hitoshi,800]
+Pokemon = KIDVEGETA,31
+Pokemon = YUSUKE,31
+Pokemon = RAIZEN,31
+#-------------------------------
+[BLACKBELT,Atsushi,800]
+Pokemon = KIDVEGETA,40
+Pokemon = VEGETA,40
+#-------------------------------
+[BLACKBELT,Kiyo,800]
+Pokemon = VEGETA,43
+#-------------------------------
+[BLACKBELT,Takashi,800]
+Pokemon = VEGETA,38
+Pokemon = KIDVEGETA,38
+Pokemon = VEGETA,38
+#-------------------------------
+[BLACKBELT,Daisuke,800]
+Pokemon = VEGETA,47
+Pokemon = SSJVEGETA,50
+Pokemon = VEGETA,46
+#-------------------------------
+[SCIENTIST,Connor,800]
+Pokemon = AKAME,26
+    Moves = SCREECH,MINIMIZE,SLUDGE,DISABLE
+Pokemon = BLACKASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = ASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,SELFDESTRUCT
+Pokemon = BLACKASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+#-------------------------------
+[SCIENTIST,Jerry,800]
+Pokemon = YURUICHI,28
+Pokemon = KIDKAKASHI,28
+Pokemon = FLASHGOD,28
+#-------------------------------
+[SCIENTIST,Jose,800]
+Pokemon = KAKASHI,29
+    Moves = SPARK,SONICBOOM,SCREECH,TACKLE
+Pokemon = BLACKASTA,29
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+#-------------------------------
+[SCIENTIST,Rodney,800]
+Pokemon = KAKASHI,33
+#-------------------------------
+[SCIENTIST,Beau,800]
+Pokemon = FLASHGOD,26
+    Moves = SPARK,THUNDERWAVE,SONICBOOM,SUPERSONIC
+Pokemon = ASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = BLACKASTA,26
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = YURUICHI,26
+    Moves = SPARK,THUNDERWAVE,SONICBOOM,SUPERSONIC
+#-------------------------------
+[SCIENTIST,Taylor,800]
+Pokemon = KIDKAKASHI,25
+    Moves = SPARK,SONICBOOM,SCREECH,TACKLE
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = FLASHGOD,25
+    Moves = THUNDERWAVE,SONICBOOM,SUPERSONIC,THUNDERSHOCK
+Pokemon = YURUICHI,25
+    Moves = THUNDERWAVE,SONICBOOM,SUPERSONIC,THUNDERSHOCK
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,SELFDESTRUCT
+#-------------------------------
+[SCIENTIST,Joshua,800]
+Pokemon = KAKASHI,29
+Pokemon = AKAME2,29
+#-------------------------------
+[SCIENTIST,Travis,800]
+Pokemon = YURUICHI,29
+Pokemon = ASTA,29
+#-------------------------------
+[SCIENTIST,Braydon,800]
+Pokemon = YURUICHI,33
+Pokemon = FLASHGOD,33
+Pokemon = KIDKAKASHI,33
+#-------------------------------
+[SCIENTIST,Ivan,800]
+Pokemon = YURUICHI,34
+Pokemon = KAKASHI,34
+#-------------------------------
+[ROCKETBOSS,Giovanni,800]
+Pokemon = STRELIZIA,37
+Pokemon = GURENMK2,35
+Pokemon = KIRISHIMA,37
+Pokemon = TRUESYNC,41
+#-------------------------------
+[COOLTRAINER_M,Samuel,800]
+Pokemon = CROW,48
+Pokemon = KYUBEY,47
+Pokemon = DEMONSLAY,48
+Pokemon = ITACHI,48
+Pokemon = SHIKAMARU,48
+#-------------------------------
+[COOLTRAINER_M,George,800]
+Pokemon = NOFACE2,50
+    Moves = SCARYFACE,SPITUP,SWALLOW,PAYDAY
+Pokemon = GAARA,48
+    Moves = PROTECT,EARTHQUAKE,SANDTOMB,SANDATTACK
+Pokemon = KISAME2,50
+    Moves = SPIKECANNON,SPIKES,AURORABEAM,SUPERSONIC
+Pokemon = KAKASHI,50
+    Moves = SPARK,SONICBOOM,DIG,LIGHTSCREEN
+Pokemon = ZUKO2,50
+    Moves = FLAMEWHEEL,ROAR,DRAGONRAGE,TAKEDOWN
+#-------------------------------
+[COOLTRAINER_M,Colby,800]
+Pokemon = WHITEHAZE,48
+    Moves = ICEBEAM,STOMP,KARATECHOP,LEER
+Pokemon = GURREN,48
+    Moves = BODYSLAM,HEADBUTT,METALCLAW,TAKEDOWN
+Pokemon = FULLCOWL,48
+    Moves = DOUBLEEDGE,BOUNCE,BULKUP,TRIPLEKICK
+Pokemon = RIMURU,50
+    Moves = WATERGUN,SMOKESCREEN,TWISTER,LEER
+Pokemon = LUFFYGEAR4,52
+    Moves = MEGAPUNCH,BITE,RAPIDSPIN,DEFENSECURL
+#-------------------------------
+[COOLTRAINER_M,Paul,800]
+Pokemon = GRAY,42
+    Moves = HEADBUTT,CONFUSION,WATERGUN,DISABLE
+Pokemon = KISAME,42
+    Moves = AURORABEAM,CLAMP,SUPERSONIC,LEER
+Pokemon = WHITEHAZE,42
+    Moves = GUILLOTINE,STOMP,MUDSHOT,BUBBLE
+Pokemon = ICERING,42
+    Moves = BUBBLEBEAM,SWIFT,RECOVER,RAPIDSPIN
+Pokemon = TIERHUNT,42
+    Moves = CONFUSION,SCRATCH,SCREECH,DISABLE
+#-------------------------------
+[COOLTRAINER_M,Rolando,800]
+Pokemon = RAPHTALIA,50
+Pokemon = NARUTO,50
+Pokemon = LUFFYGEAR2,50
+Pokemon = GOKU,50
+Pokemon = KURAMAMODE,50
+#-------------------------------
+[COOLTRAINER_M,Yuji,800]
+Pokemon = KANEKI,45
+Pokemon = KAKUJA,48
+Pokemon = NOFACE2,48
+Pokemon = NATSU,45
+Pokemon = END,48
+#-------------------------------
+[GENTLEMAN,Thomas,800]
+Pokemon = ZUKO,18
+Pokemon = ZUKO,18
+#-------------------------------
+[GENTLEMAN,Arthur,800]
+Pokemon = STAMPEDE,19
+Pokemon = RYUKO,19
+#-------------------------------
+[CHANNELER,Hope,800]
+Pokemon = RUKIA,45
+#-------------------------------
+[CHANNELER,Ruth,800]
+Pokemon = VIZARD,45
+#-------------------------------
+[CHANNELER,Karina,800]
+Pokemon = TIERHUNT,46
+#-------------------------------
+[CHANNELER,Angelica,800]
+Pokemon = ICHIGO,45
+Pokemon = VIZARD,45
+Pokemon = NOFACE2,46
+#-------------------------------
+[CHANNELER,Emilia,800]
+Pokemon = HAKUDRAGON,45
+#-------------------------------
+[CHANNELER,Amanda,800]
+Pokemon = NOFACE,34
+Pokemon = TOSHIRO,34
+#-------------------------------
+[CHANNELER,Stacy,800]
+Pokemon = YURUICHI,38
+#-------------------------------
+[HIKER,Jeremy,800]
+Pokemon = VEGETA,38
+Pokemon = ARMSTRONG,36
+#-------------------------------
+[PICNICKER,Alma,800]
+Pokemon = YATO,32
+Pokemon = AQUADBZ,34
+Pokemon = SLIME,39
+#-------------------------------
+[PICNICKER,Gwen,800]
+Pokemon = FILOLIAL,34
+Pokemon = SHIROU,34
+Pokemon = WENDY,34
+Pokemon = ENJU,35
+#-------------------------------
+[BIKER,Virgil,800]
+Pokemon = BLACKASTA,28
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = ASTA,28
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = BLACKASTA,28
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+#-------------------------------
+[CAMPER,Flint,800]
+Pokemon = KRAPHTALIA,14
+Pokemon = COCO,14
+#-------------------------------
+[PICNICKER,Dana,800]
+Pokemon = SHIROU,32
+Pokemon = PITOU,33
+Pokemon = FILOLIAL,33
+#-------------------------------
+[PICNICKER,Ariana,800]
+Pokemon = FILOLIAL,33
+Pokemon = KRAPHTALIA,32
+Pokemon = RAPHTALIA,34
+Pokemon = GODBIRD,34
+#-------------------------------
+[PICNICKER,Leah,800]
+Pokemon = KIDSASUKE,34
+Pokemon = GON,34
+#-------------------------------
+[CAMPER,Justin,800]
+Pokemon = STAMPEDE,29
+Pokemon = STRELIZIA,29
+#-------------------------------
+[PICNICKER,Kindra,800]
+Pokemon = USOPP,44
+Pokemon = USOPP2,46
+Pokemon = ASTA,46
+#-------------------------------
+[GENTLEMAN,Brooks,800]
+Pokemon = PIKACHU,23
+#-------------------------------
+[GENTLEMAN,Lamar,800]
+Pokemon = ZUKO,17
+Pokemon = SESSHOMARU,17
+#-------------------------------
+[TWINS,Eli & Anne,800]
+Pokemon = GON,22
+Pokemon = AANG,22
+#-------------------------------
+[YOUNGCOUPLE,Gia & Jes,800]
+Pokemon = STAMPEDE,24
+Pokemon = RYUKO,24
+#-------------------------------
+[TWINS,Kiri & Jan,800]
+Pokemon = KIDGOKU,40
+Pokemon = LUFFY,40
+#-------------------------------
+[CRUSHKIN,Ron & Mya,800]
+Pokemon = AVATARAANG,48
+Pokemon = ZUKO2,48
+#-------------------------------
+[YOUNGSTER,Ben,802]
+Pokemon = RAPHTALIA,28
+Pokemon = COCO,28
+#-------------------------------
+[YOUNGSTER,Ben,803]
+Pokemon = RAPHTALIA,48
+Pokemon = COCODEMON,48
+#-------------------------------
+[YOUNGSTER,Chad,801]
+Pokemon = COCO,20
+Pokemon = KIDGAARA,20
+#-------------------------------
+[YOUNGSTER,Timmy,801]
+Pokemon = RAPHTALIA,19
+Pokemon = COCO,19
+Pokemon = SUZAKU,19
+#-------------------------------
+[YOUNGSTER,Timmy,802]
+Pokemon = RAPHTALIA,27
+Pokemon = COCO,27
+Pokemon = LANCELOT,27
+#-------------------------------
+[YOUNGSTER,Timmy,803]
+Pokemon = RAPHTALIA,52
+Pokemon = COCODEMON,52
+Pokemon = LANCELOT,52
+#-------------------------------
+[YOUNGSTER,Chad,802]
+Pokemon = COCODEMON,28
+Pokemon = KIDGAARA,28
+#-------------------------------
+[LASS,Janice,801]
+Pokemon = GODBIRD,20
+Pokemon = GODBIRD,20
+#-------------------------------
+[LASS,Janice,802]
+Pokemon = GODBIRD,28
+Pokemon = GODBIRD,28
+#-------------------------------
+[YOUNGSTER,Chad,803]
+Pokemon = COCODEMON,48
+Pokemon = GAARA,48
+#-------------------------------
+[HIKER,Franklin,801]
+Pokemon = VEGETA,25
+Pokemon = GREYMON,25
+#-------------------------------
+[CRUSHGIRL,Sharon,800]
+Pokemon = KRILLIN,25
+Pokemon = YUSUKE,25
+#-------------------------------
+[TWINS,Eli & Anne,801]
+Pokemon = GON,28
+Pokemon = AANG,28
+#-------------------------------
+[BIKER,Jaren,800]
+Pokemon = COCO,24
+Pokemon = AKAME,24
+#-------------------------------
+[SWIMMER_F,Maria,800]
+Pokemon = RIMURU,37
+Pokemon = RIMURU,37
+#-------------------------------
+[SWIMMER_F,Abigail,800]
+Pokemon = TIER,35
+Pokemon = TIER,36
+Pokemon = TIERHUNT,37
+#-------------------------------
+[SWIMMER_M,Finn,800]
+Pokemon = ICERING,38
+#-------------------------------
+[FISHERMAN,Tommy,800]
+Pokemon = YATO,33
+Pokemon = YATO,33
+Pokemon = HAFURIYATO,35
+Pokemon = HAFURIYATO,35
+Pokemon = HAFURIYATO,35
+#-------------------------------
+[BLACKBELT,Hugh,800]
+Pokemon = KIDVEGETA,37
+Pokemon = VEGETA,37
+#-------------------------------
+[CRUSHGIRL,Jocelyn,800]
+Pokemon = TOPH,38
+Pokemon = TOPH,38
+#-------------------------------
+[POKEMONRANGER_M,Logan,800]
+Pokemon = NOFACE,37
+    Moves = SLEEPPOWDER,POISONPOWDER,STUNSPORE,CONFUSION
+Pokemon = NOFACE2,40
+    Moves = EGGBOMB,STOMP,CONFUSION,HYPNOSIS
+#-------------------------------
+[PICNICKER,Kelsey,801]
+Pokemon = STAMPEDE,21
+Pokemon = RYUKO,21
+#-------------------------------
+[PICNICKER,Kelsey,802]
+Pokemon = STRELIZIA,29
+Pokemon = SENKETSU,29
+#-------------------------------
+[PICNICKER,Kelsey,803]
+Pokemon = STRELIZIA,49
+Pokemon = SENKETSU,49
+#-------------------------------
+[CAMPER,Ricky,801]
+Pokemon = LUFFY,22
+#-------------------------------
+[CAMPER,Ricky,802]
+Pokemon = LUFFYGEAR2,30
+#-------------------------------
+[CAMPER,Ricky,803]
+Pokemon = LUFFYGEAR2,55
+#-------------------------------
+[CAMPER,Jeff,801]
+Pokemon = KIDKRILLIN,21
+Pokemon = RAPHTALIA,21
+#-------------------------------
+[CAMPER,Jeff,802]
+Pokemon = KRILLIN,29
+Pokemon = RAPHTALIA,29
+#-------------------------------
+[CAMPER,Jeff,803]
+Pokemon = KRILLIN,54
+Pokemon = RAPHTALIA,54
+#-------------------------------
+[PICNICKER,Isabelle,801]
+Pokemon = GODBIRD,21
+Pokemon = GODBIRD,21
+Pokemon = FILOLIAL,18
+#-------------------------------
+[PICNICKER,Isabelle,802]
+Pokemon = GODBIRD,29
+Pokemon = GODBIRD,29
+Pokemon = GODBIRD,26
+#-------------------------------
+[PICNICKER,Isabelle,803]
+Pokemon = GODBIRD,47
+Pokemon = GODBIRD,47
+Pokemon = FILO,50
+#-------------------------------
+[ENGINEER,Bernie,801]
+Pokemon = FLASHGOD,28
+Pokemon = FLASHGOD,28
+Pokemon = FLASHGOD,28
+#-------------------------------
+[CAMPER,Chris,801]
+Pokemon = ZUKO,24
+Pokemon = KIDGOKU,24
+#-------------------------------
+[CAMPER,Chris,802]
+Pokemon = ZUKO,29
+Pokemon = GOKU,29
+#-------------------------------
+[CAMPER,Chris,803]
+Pokemon = ZUKO2,54
+Pokemon = GOKU,54
+#-------------------------------
+[PICNICKER,Alicia,801]
+Pokemon = SHIROU,25
+#-------------------------------
+[PICNICKER,Alicia,802]
+Pokemon = ARCHER,30
+#-------------------------------
+[PICNICKER,Alicia,803]
+Pokemon = ARCHER,55
+#-------------------------------
+[HIKER,Jeremy,801]
+Pokemon = VEGETA,30
+Pokemon = ARMSTRONG,28
+#-------------------------------
+[SUPERNERD,Glenn,801]
+Pokemon = AKAME2,28
+Pokemon = AKAME2,28
+Pokemon = AKAME2,28
+#-------------------------------
+[BIKER,Jaren,801]
+Pokemon = AKAME2,28
+Pokemon = AKAME2,30
+#-------------------------------
+[FISHERMAN,Elliot,801]
+Pokemon = GURREN,28
+Pokemon = KISAME2,28
+Pokemon = HAFURIYATO,28
+Pokemon = RIMURU,28
+#-------------------------------
+[BIKER,Lukas,801]
+Pokemon = ASTA,47
+Pokemon = ASTA,47
+Pokemon = AKAME2,47
+Pokemon = BLACKASTA,47
+#-------------------------------
+[BIRDKEEPER,Benny,801]
+Pokemon = KRILLIN,32
+Pokemon = KRILLIN,32
+#-------------------------------
+[BIRDKEEPER,Benny,802]
+Pokemon = KRILLIN,49
+Pokemon = KRILLIN,49
+#-------------------------------
+[BIRDKEEPER,Marlon,801]
+Pokemon = KRILLIN,30
+Pokemon = WENDY,30
+Pokemon = KRILLIN,30
+#-------------------------------
+[BIRDKEEPER,Marlon,802]
+Pokemon = KRILLIN,48
+Pokemon = WENDYFORCE,48
+Pokemon = KRILLIN,48
+#-------------------------------
+[BEAUTY,Grace,801]
+Pokemon = FILO,49
+Pokemon = AVATARAANG,49
+#-------------------------------
+[BIRDKEEPER,Chester,801]
+Pokemon = WENDYFORCE,30
+Pokemon = WENDYFORCE,30
+Pokemon = WENDY,30
+#-------------------------------
+[BIRDKEEPER,Chester,802]
+Pokemon = WENDYFORCE,48
+Pokemon = WENDYFORCE,48
+Pokemon = WENDYFORCE,48
+#-------------------------------
+[CRUSHKIN,Ron & Mya,801]
+Pokemon = TOPH,33
+Pokemon = MUSTANG,33
+#-------------------------------
+[CRUSHKIN,Ron & Mya,802]
+Pokemon = TOPH,51
+Pokemon = MUSTANG,51
+#-------------------------------
+[CRUSHKIN,Ron & Mya,803]
+Pokemon = TOPH,56
+Pokemon = MUSTANG,56
+#-------------------------------
+[BIKER,Jaxon,801]
+Pokemon = BLACKASTA,49
+Pokemon = AKAME2,49
+#-------------------------------
+[CUEBALL,Isaiah,800]
+Pokemon = VEGETA,49
+Pokemon = SSJVEGETA,49
+#-------------------------------
+[CUEBALL,Corey,801]
+Pokemon = RAIZEN,49
+Pokemon = SSJVEGETA,49
+#-------------------------------
+[SWIMMER_F,Alice,801]
+Pokemon = HAFURIYATO,49
+Pokemon = HAFURIYATO,49
+#-------------------------------
+[FISHERMAN,Wade,801]
+Pokemon = EREN,47
+Pokemon = EREN,47
+Pokemon = EREN,47
+Pokemon = EREN,47
+Pokemon = EREN,47
+Pokemon = EREN,47
+#-------------------------------
+[SWIMMER_M,Finn,801]
+Pokemon = ICERING,50
+#-------------------------------
+[CRUSHGIRL,Sharon,801]
+Pokemon = YUSUKE,50
+Pokemon = RAIZEN,50
+#-------------------------------
+[CRUSHGIRL,Sharon,802]
+Pokemon = RAIZEN,55
+Pokemon = RAIZEN,55
+#-------------------------------
+[BLACKBELT,Hugh,801]
+Pokemon = VEGETA,50
+Pokemon = VEGETA,50
+#-------------------------------
+[BLACKBELT,Hugh,802]
+Pokemon = VEGETA,55
+Pokemon = SSJVEGETA,55
+#-------------------------------
+[YOUNGCOUPLE,Gia & Jes,801]
+Pokemon = SENKETSU,30
+Pokemon = STRELIZIA,30
+#-------------------------------
+[YOUNGCOUPLE,Gia & Jes,802]
+Pokemon = TRUEAPUS,55
+Pokemon = TRUESYNC,55
+#-------------------------------
+[BUGCATCHER,Colton,801]
+Pokemon = CELL2,19
+Pokemon = ENTOMA,19
+Pokemon = CELL2,19
+#-------------------------------
+[BUGCATCHER,Colton,802]
+Pokemon = CELL3,27
+Pokemon = MEGUMIN,27
+Pokemon = CELL3,27
+#-------------------------------
+[BUGCATCHER,Colton,803]
+Pokemon = CELL3,51
+Pokemon = ENTOMA2,54
+Pokemon = CELL3,51
+#-------------------------------
+[SWIMMER_M,Matthew,801]
+Pokemon = GURREN,49
+Pokemon = GURENRAGAN,49
+#-------------------------------
+[SWIMMER_M,Tony,801]
+Pokemon = RIMURU,49
+Pokemon = RIMURU,49
+#-------------------------------
+[SWIMMER_F,Melissa,801]
+Pokemon = GURREN,49
+Pokemon = HAFURIYATO,49
+#-------------------------------
+[BUGMANIAC,Weevil]
+Pokemon = CELL,12
+    Moves = ABSORB,QUICKATTACK,LEECHLIFE
+Pokemon = ENTOMA,12
+    Moves = ABSORB,STRINGSHOT
+#-------------------------------
+[ELITEFOUR,Kaiba]
+Pokemon = OBELISK,80
+#-------------------------------
+[CHAMPION,Zero]
+Pokemon = MERUEM,64
+    Moves = BRICKBREAK,EARTHQUAKE,AERIALACE,FURYCUTTER
+Pokemon = GURENMK2,65
+    Moves = VICEGRIP,STEELWING,HEATWAVE,QUICKATTACK
+Pokemon = LANCELOT,65
+    Moves = FLY,EXTREMESPEED,METEORMASH,SLASH
+Pokemon = ITACHI,64
+    Moves = HYPNOSIS,SANDATTACK,DREAMEATER,SHADOWPUNCH
+Pokemon = TRUEFORM,64
+    Moves = CRUNCH,ROAR,SHADOWBALL,TOXIC
+Pokemon = CC,68
+    Moves = PSYCHIC,AMNESIA,ATTRACT,CONFUSERAY
+#-------------------------------
+[BUGMANIAC,Weevil,1]
+Pokemon = CELL3,66
+Pokemon = ENTOMA2,65
+Pokemon = KAKUJA,65
+Pokemon = PITOU,64
+Pokemon = REIJU,63
+Pokemon = MERUEM,67
+#-------------------------------
+[LEADER,Nami]
+Pokemon = KISAME2,68
+Pokemon = TSUKIUMI,65
+Pokemon = TIERHUNT,66
+Pokemon = AQUADBZ,65
+Pokemon = RIMURU,67
+Pokemon = JINBE,70
+#-------------------------------
+[LEADER,Denki]
+Pokemon = FLASHGOD,68
+Pokemon = PIKACHU,68
+Pokemon = GODSPEED,66
+Pokemon = KAKASHI,66
+Pokemon = SUSANOO,68
+Pokemon = AKENO,70
+#-------------------------------
+[LEADER,Jackie]
+Pokemon = KRILLIN,68
+Pokemon = YAMCHA,80
+Pokemon = SSJVEGETA,70
+Pokemon = FRIEZA3,68
+Pokemon = RAIZEN,67
+Pokemon = SSJGOKU,72
+#-------------------------------
+[LEADER,Reigan]
+Pokemon = MOB100,70
+Pokemon = TORNADO,69
+Pokemon = FRIEZA3,68
+Pokemon = DPALADIN,68
+Pokemon = KYUBEY,68
+#-------------------------------
+[LEADER,Winry]
+Pokemon = GURENMK2,69
+Pokemon = STRELIZIA,69
+Pokemon = GURENRAGAN,70
+Pokemon = GENOS,68
+Pokemon = ALPHONSE,72
+Pokemon = EDWARD,73
+#-------------------------------
+[LEADER,Shiemi]
+Pokemon = MIMOSA,70
+Pokemon = USOPP2,70
+Pokemon = HAKURYUU,69
+Pokemon = KING,69
+Pokemon = HAFURIYATO,68
+Pokemon = THOUSANDHANDS,73
+#-------------------------------
+[LEADER,Anna]
+Pokemon = BAKUGOU,71
+Pokemon = TODOROKI,71
+Pokemon = ZUKO2,70
+Pokemon = NATSUFORCE,70
+Pokemon = ESCANOR,73
+Pokemon = MIKOTO,75
+#-------------------------------
+[LEADER,Yugi]
+Pokemon = DMAGICIAN,70
+Pokemon = MAGICIAN,70
+Pokemon = GETSUGA,73
+Pokemon = VASTOLORDE,72
+Pokemon = MAGICIAND,74
+Pokemon = DPALADIN,75
+#-------------------------------
+[TAMER,Lucy]
+Pokemon = COCO,5
+Pokemon = COCO,5
+#-------------------------------
+[EXPERT,Light]
+Pokemon = COCO,5
+#-------------------------------
+[BOSS,Zero]
+Pokemon = MERUEM,72
+Pokemon = TRUEFORM,72
+Pokemon = GURENMK2,75
+Pokemon = LANCELOT,75
+Pokemon = ITACHI,72
+Pokemon = CC,80
+#-------------------------------
+[POKEMONTRAINER,Ash]
+Pokemon = PIKACHU,99
+Pokemon = KURAMAMODE,78
+Pokemon = LUFFYGEAR2,78
+Pokemon = SSJGOKU,78
+Pokemon = TRUEBANKAI,75
+Pokemon = MGREYMON,75
+#-------------------------------
+[YOUNGSTER,Sammy]
+Pokemon = KIDSASUKE,15
+#-------------------------------
+[ELITEFOUR,Phoebe]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Roxanne]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Brawly]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Tate&Liza]
+Pokemon = COCO,5
+#-------------------------------
+[AQUAADMIN,Matt]
+Pokemon = COCO,5
+#-------------------------------
+[AQUAADMIN,Shelly]
+Pokemon = COCO,5
+#-------------------------------
+[MAGMAADMIN,Tabitha]
+Pokemon = COCO,5
+#-------------------------------
+[MAGMAADMIN,Courtney]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Wattson]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Flannery]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Norman]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Winona]
+Pokemon = COCO,5
+#-------------------------------
+[LEADER,Wallace]
+Pokemon = COCO,5
+#-------------------------------
+[ELITEFOUR,Glacia]
+Pokemon = COCO,5
+#-------------------------------
+[ELITEFOUR,Drake]
+Pokemon = COCO,5
+#-------------------------------
+[YOUNGSTER,Dillon]
+Pokemon = KIDGAARA,50
+Pokemon = LANCELOT,50
+#-------------------------------
+[YOUNGSTER,Yasu]
+Pokemon = RAPHTALIA,50
+Pokemon = RAPHTALIA,50
+Pokemon = RAPHTALIA,50
+#-------------------------------
+[BUGCATCHER,Jerry]
+Pokemon = ENTOMA,6
+Pokemon = CELL,6
+#-------------------------------
+[BUGCATCHER,Doug]
+Pokemon = ENTOMA,7
+Pokemon = GREGORY,7
+Pokemon = ENTOMA,7
+#-------------------------------
+[BUGCATCHER,Sammy]
+Pokemon = ENTOMA,9
+#-------------------------------
+[BUGCATCHER,Keigo]
+Pokemon = ENTOMA,16
+Pokemon = CELL,16
+Pokemon = ENTOMA2,21
+#-------------------------------
+[LASS,Sally]
+Pokemon = RYUKO,34
+Pokemon = SENKETSU,36
+#-------------------------------
+[LASS,Reli]
+Pokemon = SENKETSU,43
+Pokemon = ICERING,44
+#-------------------------------
+[LASS,Ali]
+Pokemon = SASUKE,40
+Pokemon = ZORO,40
+Pokemon = MUSTANG,42
+#-------------------------------
+[LASS,Haley]
+Pokemon = PITOU,12
+Pokemon = FILOLIAL,13
+Pokemon = KRAPHTALIA,13
+#-------------------------------
+[BUGCATCHER,Paul]
+Pokemon = ENTOMA,11
+Pokemon = ENTOMA,13
+#-------------------------------
+[LASS,Andrea]
+Pokemon = KRAPHTALIA,12
+Pokemon = KRAPHTALIA,13
+Pokemon = KRAPHTALIA,14
+#-------------------------------
+[BLACKKNIGHT,Megan]
+Pokemon = FILOLIAL,12
+Pokemon = KRAPHTALIA,12
+Pokemon = FILOLIAL,12
+Pokemon = SHIROU,10
+Pokemon = KRAPHTALIA,12
+#-------------------------------
+[BLACKKNIGHT,Julia]
+Pokemon = GON,15
+Pokemon = KYUBEY,15
+#-------------------------------
+[SAILOR,Phillip]
+Pokemon = KIDVEGETA,20
+#-------------------------------
+[SAILOR,Donna]
+Pokemon = PIKACHU,21
+Pokemon = PIKACHU,21
+#-------------------------------
+[PICNICKER,Diana]
+Pokemon = YATO,19
+#-------------------------------
+[PICNICKER,Heidi]
+Pokemon = PIKACHU,42
+Pokemon = GON,46
+#-------------------------------
+[PICNICKER,Carol]
+Pokemon = REIJU,40
+Pokemon = WENDYFORCE,42
+#-------------------------------
+[PICNICKER,Martha]
+Pokemon = GREGORY,38
+Pokemon = KYUBEY,36
+#-------------------------------
+[PICNICKER,Hannah]
+Pokemon = FILOLIAL,24
+Pokemon = SHIROU,24
+Pokemon = KRAPHTALIA,24
+Pokemon = PIKACHU,24
+Pokemon = SHIROU,24
+#-------------------------------
+[SUPERNERD,Mark]
+Pokemon = AKAME2,44
+Pokemon = CINNABAR,44
+#-------------------------------
+[SUPERNERD,Herman]
+Pokemon = AKENO,43
+Pokemon = RIAS,43
+#-------------------------------
+[SUPERNERD,Cooper]
+Pokemon = USOPP,34
+Pokemon = DEKU,34
+Pokemon = NAOFUMI,34
+#-------------------------------
+[SUPERNERD,Steve]
+Pokemon = PITOU,35
+Pokemon = AQUADBZ,35
+#-------------------------------
+[SUPERNERD,Winston]
+Pokemon = ADAMANTINE,36
+#-------------------------------
+[ANIMANIAC,Dawson]
+Pokemon = TRUEAPUS,45
+Pokemon = ESDEATH,45
+Pokemon = CINNABAR,45
+#-------------------------------
+[COLLECTOR,Ashton]
+Pokemon = GREED,26
+Pokemon = YURUICHI,27
+#-------------------------------
+[BEAUTY,Blaire]
+Pokemon = AKAME,13
+Pokemon = AKAME,13
+Pokemon = KIDVEGETA,13
+Pokemon = AQUADBZ,13
+#-------------------------------
+[HIKER,Clark]
+Pokemon = GAARA,42
+    Moves = MAGNITUDE,ROCKTHROW,MUDSPORT,DEFENSECURL
+Pokemon = ARMSTRONG,43
+    Moves = HARDEN,ROCKTHROW,BIND,SCREECH
+#-------------------------------
+[HIKER,Trent]
+Pokemon = ARMSTRONG,42
+Pokemon = TOPH,42
+#-------------------------------
+[HIKER,Eric]
+Pokemon = VEGETA,28
+Pokemon = ARMSTRONG,28
+#-------------------------------
+[SCHOOLKID,Karma]
+Pokemon = AKAME,18
+    Moves = SMOKESCREEN,SLASH,SPIKES,POISONGAS
+Pokemon = KILLUA,18
+    Moves = SMOKESCREEN,THUNDERSHOCK,SMOG,SLASH
+Pokemon = KOROSENSEI,20
+    Moves = QUICKATTACK,OCTAZOOKA,CONSTRICT,DOUBLETEAM
+#-------------------------------
+[BIKER,Ernest]
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = BLACKASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = AKAME,25
+    Moves = MINIMIZE,SLUDGE,DISABLE,POUND
+#-------------------------------
+[SCIENTIST,Shao]
+Pokemon = ENVY,38
+Pokemon = GREED,40
+Pokemon = CHIMERA,10
+#-------------------------------
+[BLACKKNIGHT,Lao]
+Pokemon = SESSHOMARU,13
+    Moves = CUT,FOCUSENERGY,ACID,GROWTH
+Pokemon = CELL,13
+    Moves = SMOKESCREEN,ABSORB,SMOG,TACKLE
+#-------------------------------
+[BIKER,Hideo]
+Pokemon = BLACKASTA,33
+#-------------------------------
+[EXPERT,Kiritsugu]
+Pokemon = SHIROU,36
+    Moves = MIMIC,PROTECT,SLASH,TAKEDOWN
+Pokemon = ARCHER,38
+    Moves = MIRRORMOVE,QUICKATTACK,SLASH
+Pokemon = SABER,38
+    Moves = SLASH,PURSUIT
+#-------------------------------
+[SCIENTIST,Billy]
+Pokemon = ALPHONSE,38
+#-------------------------------
+[SCIENTIST,Nikolas]
+Pokemon = KIDKAKASHI,36
+    Moves = SPARK,SONICBOOM,SCREECH,CHARGE
+Pokemon = KAKASHI,38
+    Moves = SPARK,SONICBOOM,SCREECH,CHARGE
+#-------------------------------
+[BIKER,William]
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = BLACKASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = ASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SMOG,TACKLE
+Pokemon = BLACKASTA,25
+    Moves = SMOKESCREEN,SLUDGE,SELFDESTRUCT,TACKLE
+#-------------------------------
+[FISHERMAN,Dale]
+Pokemon = YATO,17
+Pokemon = DEKU,17
+Pokemon = YATO,17
+#-------------------------------
+[FISHERMAN,Nolan]
+Pokemon = HAFURIYATO,33
+Pokemon = YATO,33
+#-------------------------------
+[RUINMANIAC,Magin]
+Pokemon = YATO,29
+Pokemon = SLIME,29
+Pokemon = TOSHIRO,29
+#-------------------------------
+[EXPERT,Light,1]
+Pokemon = GILGAMESH,40
+Pokemon = GENOS,36
+Pokemon = RIMURU,38
+Pokemon = KAKUJA,38
+#-------------------------------
+[SWIMMER_M,Axle]
+Pokemon = DEKU,27
+Pokemon = DEKU,27
+Pokemon = TOSHIRO,27
+Pokemon = SLIME,27
+Pokemon = FULLCOWL,27
+#-------------------------------
+[SWIMMER_M,Barry]
+Pokemon = KISAME,31
+Pokemon = KISAME2,31
+#-------------------------------
+[SWIMMER_M,Dean]
+Pokemon = TOSHIRO,35
+#-------------------------------
+[SWIMMER_M,Darrin]
+Pokemon = SLIME,28
+Pokemon = SLIME,28
+Pokemon = RIMURU,28
+Pokemon = SLIME,28
+#-------------------------------
+[SWIMMER_M,Jack]
+Pokemon = ICERING,37
+#-------------------------------
+[EXPERT,Light,2]
+Pokemon = FILOLIAL,18
+Pokemon = YURUICHI,20
+Pokemon = KIDSASUKE,22
+#-------------------------------
+[BLACKBELT,Jackie]
+Pokemon = KRILLIN,30
+Pokemon = VEGETA,32
+Pokemon = GOKU,33
+#-------------------------------
+[CUEBALL,Luke]
+Pokemon = YUSUKE,29
+Pokemon = KIDVEGETA,29
+#-------------------------------
+[BLACKKNIGHT,Camron]
+Pokemon = KISAME,12
+Pokemon = KIDVEGETA,14
+#-------------------------------
+[BIRDKEEPER,Raul]
+Pokemon = FILOLIAL,22
+Pokemon = GODBIRD,24
+#-------------------------------
+[SCIENTIST,Jamal]
+Pokemon = CELL2,36
+Pokemon = GENOS,36
+Pokemon = KOROSENSEI,36
+Pokemon = GURENMK2,36
+#-------------------------------
+[CUEBALL,Chase]
+Pokemon = DEKU,31
+Pokemon = DEKU,31
+Pokemon = FULLCOWL,31
+#-------------------------------
+[GAMER,Hugo]
+Pokemon = LAGANN,50
+Pokemon = SHIKAMARU,50
+#-------------------------------
+[GAMER,Jasper]
+Pokemon = SUSANOO,50
+Pokemon = PITOU,50
+#-------------------------------
+[GAMER,Dirk]
+Pokemon = SHIKAMARU,49
+Pokemon = YURUICHI,47
+#-------------------------------
+[GAMER,Darian]
+Pokemon = ZUKO,50
+Pokemon = GURENMK2,50
+#-------------------------------
+[BLACKKNIGHT,Stacy]
+Pokemon = LAGANN,15
+Pokemon = CELL,15
+Pokemon = KISAME,15
+#-------------------------------
+[GAMER,Rich]
+Pokemon = ZUKO,50
+Pokemon = MERUEM,50
+#-------------------------------
+[BEAUTY,Sheila]
+Pokemon = GON,29
+Pokemon = SHIROU,29
+#-------------------------------
+[SWIMMER_F,Tiffany]
+Pokemon = HAFURIYATO,35
+#-------------------------------
+[SWIMMER_F,Nora]
+Pokemon = KISAME,30
+Pokemon = KISAME,30
+Pokemon = KISAME2,30
+#-------------------------------
+[BEAUTY,Olivia]
+Pokemon = AKENO,45
+Pokemon = ESDEATH,48
+#-------------------------------
+[BEAUTY,Lauren]
+Pokemon = SASUKE,33
+Pokemon = KIDSASUKE,33
+Pokemon = SASUKE,33
+#-------------------------------
+[SWIMMER_F,Shirley]
+Pokemon = RIMURU,30
+Pokemon = SLIME,30
+Pokemon = RIMURU,30
+#-------------------------------
+[PSYCHIC_M,Tyron]
+Pokemon = KYUBEY,34
+Pokemon = FRIEZA2,34
+#-------------------------------
+[ROCKER,Randall]
+Pokemon = KIDKAKASHI,20
+Pokemon = YURUICHI,20
+Pokemon = KIDKAKASHI,20
+#-------------------------------
+[ROCKER,Luca]
+Pokemon = KIDKAKASHI,29
+Pokemon = KAKASHI,29
+#-------------------------------
+[JUGGLER,Dalton]
+Pokemon = FRIEZA2,29
+Pokemon = ALPHONSE,29
+#-------------------------------
+[JUGGLER,Gregory]
+Pokemon = ALPHONSE,52
+#-------------------------------
+[JUGGLER,Edward]
+Pokemon = KIDKAKASHI,46
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+Pokemon = KIDKAKASHI,46
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+Pokemon = KAKASHI,47
+    Moves = SWIFT,SPARK,SELFDESTRUCT,SONICBOOM
+Pokemon = ALPHONSE,48
+    Moves = PSYCHIC,ROLEPLAY,REFLECT,ENCORE
+#-------------------------------
+[TAMER,Jason]
+Pokemon = KIRISHIMA,43
+#-------------------------------
+[TAMER,Cole]
+Pokemon = COCODEMON,32
+Pokemon = NAOFUMI,32
+#-------------------------------
+[TAMER,John]
+Pokemon = KIRISHIMA,42
+Pokemon = RAIZEN,42
+Pokemon = COCODEMON,42
+Pokemon = BAKUGOU,42
+#-------------------------------
+[BIRDKEEPER,Robert]
+Pokemon = FILOLIAL,32
+Pokemon = GODBIRD,34
+Pokemon = AANG,32
+Pokemon = AVATARAANG,36
+#-------------------------------
+[BIRDKEEPER,Edwin]
+Pokemon = GODBIRD,46
+Pokemon = AIS,44
+Pokemon = WENDY,45
+Pokemon = FILO,48
+#-------------------------------
+[BIRDKEEPER,Wilton]
+Pokemon = FILOLIAL,18
+Pokemon = GODBIRD,22
+#-------------------------------
+[BIRDKEEPER,Ramiro]
+Pokemon = WENDY,20
+#-------------------------------
+[BIRDKEEPER,Jacob]
+Pokemon = FILOLIAL,18
+Pokemon = GODBIRD,20
+Pokemon = KRILLIN,18
+Pokemon = GODBIRD,20
+#-------------------------------
+[BIRDKEEPER,Roger]
+Pokemon = KRILLIN,30
+Pokemon = KRILLIN,30
+Pokemon = GODBIRD,30
+#-------------------------------
+[BIRDKEEPER,Reed]
+Pokemon = GODBIRD,39
+Pokemon = GODBIRD,39
+Pokemon = FILOLIAL,39
+Pokemon = GODBIRD,39
+#-------------------------------
+[BIRDKEEPER,Keith]
+Pokemon = AIS,39
+Pokemon = KRILLIN,39
+#-------------------------------
+[BLACKBELT,Aaron]
+Pokemon = RAIZEN,36
+#-------------------------------
+[TAMER,Lucy,1]
+Pokemon = LUFFY,5
+#-------------------------------
+[TAMER,Lucy,2]
+Pokemon = KIDNARUTO,5
+#-------------------------------
+[TAMER,Lucy,3]
+Pokemon = KIDGOKU,5
+#-------------------------------
+[TAMER,Lucy,4]
+Pokemon = NATSU,17
+Pokemon = LUFFY,15
+#-------------------------------
+[TAMER,Lucy,5]
+Pokemon = NATSU,13
+Pokemon = KIDNARUTO,14
+#-------------------------------
+[TAMER,Lucy,6]
+Pokemon = NATSU,13
+Pokemon = KIDGOKU,14
+#-------------------------------
+[TAMER,Lucy,7]
+Pokemon = DEMONSLAY,40
+Pokemon = NATSUFORCE,43
+Pokemon = ADAMANTINE,43
+Pokemon = LUFFYGEAR4,45
+#-------------------------------
+[TAMER,Lucy,8]
+Pokemon = DEMONSLAY,40
+Pokemon = NATSUFORCE,43
+Pokemon = PURGATORY,43
+Pokemon = KURAMAMODE,45
+#-------------------------------
+[TAMER,Lucy,9]
+Pokemon = DEMONSLAY,40
+Pokemon = NATSUFORCE,43
+Pokemon = CLEARHEART,43
+Pokemon = SSJGOKU,45
+#-------------------------------
+[SCIENTIST,Ted]
+Pokemon = KAKASHI,29
+Pokemon = BLACKASTA,29
+#-------------------------------
+[SCIENTIST,Parker]
+Pokemon = AKAME,29
+Pokemon = KAKASHI,29
+#-------------------------------
+[SCIENTIST,Ed]
+Pokemon = KIDKAKASHI,28
+    Moves = SPARK,SONICBOOM,SCREECH,TACKLE
+Pokemon = ASTA,28
+    Moves = SMOKESCREEN,SLUDGE,TACKLE,SMOG
+Pokemon = FLASHGOD,28
+    Moves = SPARK,THUNDERWAVE,SONICBOOM,SUPERSONIC
+#-------------------------------
+[BOSS,Zero,1]
+Pokemon = CC,52
+Pokemon = GURENMK2,48
+Pokemon = LANCELOT,48
+#-------------------------------
+[LEADER,Yugi,1]
+Pokemon = DMAGICIAN,50
+    Moves = PSYCHIC,HYPNOSIS,BARRIER
+Pokemon = MAGICIAN,50
+    Moves = PSYCHIC,ATTRACT,LOVELYKISS
+Pokemon = GETSUGA,53
+    Moves = SHADOWBALL,EXTREMESPEED,DOUBLETEAM
+Pokemon = MAGICIAND,54
+    Moves = DRAGONBREATH,PSYCHIC,ATTRACT,FLY
+Pokemon = DPALADIN,55
+    Moves = PSYCHIC,SLASH
+#-------------------------------
+[BLACKKNIGHT,Grunt]
+Pokemon = RAPHTALIA,33
+Pokemon = KRILLIN,33
+#-------------------------------
+[BLACKKNIGHT,Grunt,1]
+Pokemon = KIDGAARA,32
+Pokemon = RAPHTALIA,32
+Pokemon = VEGETA,33
+#-------------------------------
+[BLACKKNIGHT,Grunt,2]
+Pokemon = PITOU,34
+Pokemon = COCODEMON,34
+#-------------------------------
+[BLACKKNIGHT,Grunt,3]
+Pokemon = KIDGAARA,32
+Pokemon = KISAME,33
+#-------------------------------
+[BLACKKNIGHT,Grunt,4]
+Pokemon = KIDVEGETA,17
+Pokemon = TIER,17
+#-------------------------------
+[BLACKKNIGHT,Grunt,5]
+Pokemon = COCODEMON,45
+Pokemon = FRIEZA3,45
+#-------------------------------
+[BLACKKNIGHT,Grunt,6]
+Pokemon = KRAPHTALIA,5
+Pokemon = KIDKRILLIN,5
+#-------------------------------
+[BLACKKNIGHT,Grunt,7]
+Pokemon = GREGORY,5
+Pokemon = CELL,5
+#-------------------------------
+[BLACKKNIGHT,Grunt,8]
+Pokemon = KRAPHTALIA,21
+Pokemon = KRAPHTALIA,21
+#-------------------------------
+[BLACKKNIGHT,Grunt,9]
+Pokemon = AKAME2,40
+Pokemon = BLACKASTA,40
+Pokemon = COCODEMON,40
+#-------------------------------
+[BLACKKNIGHT,Grunt,10]
+Pokemon = RAPHTALIA,38
+Pokemon = RAPHTALIA,38
+Pokemon = RAPHTALIA,38
+Pokemon = RAPHTALIA,40
+#-------------------------------
+[BLACKKNIGHT,Grunt,11]
+Pokemon = AKAME2,42
+Pokemon = BLACKASTA,42
+#-------------------------------
+[BLACKKNIGHT,Grunt,12]
+Pokemon = CELL,38
+Pokemon = CELL,38
+Pokemon = CELL2,40
+Pokemon = AKAME,40
+Pokemon = PITOU,40
+#-------------------------------
+[BLACKKNIGHT,Grunt,13]
+Pokemon = KRAPHTALIA,38
+Pokemon = RAPHTALIA,41
+Pokemon = PICA,40
+#-------------------------------
+[BLACKKNIGHT,Grunt,14]
+Pokemon = KIDVEGETA,38
+Pokemon = KIDVEGETA,38
+#-------------------------------
+[BLACKKNIGHT,Grunt,15]
+Pokemon = KIDGAARA,40
+Pokemon = KISAME,40
+Pokemon = SASUKE,40
+#-------------------------------
+[BLACKKNIGHT,Grunt,16]
+Pokemon = COCO,40
+Pokemon = KIDGAARA,40
+Pokemon = KISAME,40
+#-------------------------------
+[BLACKKNIGHT,Grunt,17]
+Pokemon = ASTA,38
+Pokemon = ZUKO,40
+#-------------------------------
+[BLACKKNIGHT,Grunt,18]
+Pokemon = KYUBEY,44
+Pokemon = FRIEZA2,44
+Pokemon = GREED,45
+#-------------------------------
+[BLACKKNIGHT,Grunt,19]
+Pokemon = ASTA,45
+Pokemon = BLACKASTA,46
+#-------------------------------
+[BLACKKNIGHT,Grunt,20]
+Pokemon = CROW,43
+Pokemon = RAPHTALIA,44
+Pokemon = NOFACE2,45
+Pokemon = VASTOLORDE,48
+#-------------------------------
+[BLACKKNIGHT,Grunt,21]
+Pokemon = KYUBEY,26
+Pokemon = ASTA,26
+#-------------------------------
+[BLACKKNIGHT,Grunt,22]
+Pokemon = GREED,29
+Pokemon = SESSHOMARU,29
+#-------------------------------
+[BLACKKNIGHT,Grunt,23]
+Pokemon = PICA,25
+Pokemon = PITOU,25
+Pokemon = PICA,25
+Pokemon = KIDGAARA,25
+Pokemon = ZUKO,25
+#-------------------------------
+[BLACKKNIGHT,Grunt,24]
+Pokemon = RAPHTALIA,28
+Pokemon = GODBIRD,28
+Pokemon = RAPHTALIA,28
+#-------------------------------
+[BLACKKNIGHT,Grunt,25]
+Pokemon = KIDVEGETA,29
+Pokemon = CELL2,29
+#-------------------------------
+[BLACKKNIGHT,Grunt,26]
+Pokemon = COCO,28
+Pokemon = SASUKE,28
+Pokemon = GREED,28
+#-------------------------------
+[BLACKKNIGHT,Grunt,27]
+Pokemon = COCODEMON,33
+#-------------------------------
+[BLACKKNIGHT,Grunt,28]
+Pokemon = BLACKASTA,33
+#-------------------------------
+[BLACKKNIGHT,Grunt,29]
+Pokemon = KIDVEGETA,29
+Pokemon = VEGETA,29
+#-------------------------------
+[BLACKKNIGHT,Grunt,30]
+Pokemon = ZUKO,28
+Pokemon = ZUKO,28
+Pokemon = TIER,28
+#-------------------------------
+[BLACKKNIGHT,Grunt,31]
+Pokemon = RAPHTALIA,26
+Pokemon = AKAME,26
+Pokemon = ASTA,26
+Pokemon = GURENMK2,26
+#-------------------------------
+[BLACKKNIGHT,Grunt,32]
+Pokemon = GREED,29
+Pokemon = GREED,29
+#-------------------------------
+[BLACKKNIGHT,Grunt,33]
+Pokemon = KIDGAARA,29
+Pokemon = GAARA,29
+#-------------------------------
+[BLACKKNIGHT,Grunt,34]
+Pokemon = RAPHTALIA,26
+Pokemon = PITOU,26
+Pokemon = ENTOMA,26
+Pokemon = ENTOMA2,28
+#-------------------------------
+[BLACKKNIGHT,Grunt,35]
+Pokemon = BLACKASTA,28
+Pokemon = GURENMK2,28
+Pokemon = ASTA,28
+#-------------------------------
+[BLACKKNIGHT,Grunt,36]
+Pokemon = KIDSASUKE,28
+Pokemon = AKAME,28
+Pokemon = KIDVEGETA,28
+#-------------------------------
+[BLACKKNIGHT,Grunt,37]
+Pokemon = GURENMK2,28
+Pokemon = ENTOMA2,28
+Pokemon = SESSHOMARU,28
+#-------------------------------
+[BLACKKNIGHT,Grunt,38]
+Pokemon = VEGETA,33
+#-------------------------------
+[BLACKKNIGHT,Grunt,39]
+Pokemon = KRAPHTALIA,25
+Pokemon = KRAPHTALIA,25
+Pokemon = NATSU,25
+Pokemon = KRAPHTALIA,25
+Pokemon = COCO,25
+#-------------------------------
+[BLACKKNIGHT,Grunt,40]
+Pokemon = GREED,32
+Pokemon = CROCODILE,32
+Pokemon = LINGREED,32
+#-------------------------------
+[COOLTRAINER_M,Gilbert]
+Pokemon = GODBIRD,42
+    Moves = RASENGAN,FEATHERDANCE,WHIRLWIND,QUICKATTACK
+Pokemon = KRILLIN,42
+    Moves = DRILLPECK,MIRRORMOVE,PURSUIT,LEER
+Pokemon = ARCHER,42
+    Moves = PAYDAY,FAINTATTACK,SCREECH,BITE
+Pokemon = CINNABAR,42
+    Moves = SLAM,DISABLE,WRAP,SUPERSONIC
+Pokemon = BAKUGOU,42
+    Moves = HORNATTACK,SCARYFACE,SWAGGER,TAILWHIP
+#-------------------------------
+[COOLTRAINER_M,Owen]
+Pokemon = STRELIZIA,42
+    Moves = SCRATCH,POISONSTING,DOUBLEKICK,BITE
+Pokemon = SENKETSU,42
+    Moves = HORNATTACK,POISONSTING,DOUBLEKICK,LEER
+Pokemon = RAPHTALIA,42
+    Moves = SUPERFANG,PURSUIT,SCARYFACE,QUICKATTACK
+Pokemon = GAARA,42
+    Moves = FURYSWIPES,SWIFT,SLASH,POISONSTING
+Pokemon = KIRISHIMA,42
+    Moves = ROCKBLAST,SCARYFACE,STOMP,TAILWHIP
+#-------------------------------
+[COOLTRAINER_M,Berke]
+Pokemon = HAKU,42
+    Moves = TAKEDOWN,AURORABEAM,ICYWIND,GROWL
+Pokemon = GREYMON,42
+    Moves = ROCKBLAST,MAGNITUDE,ROCKTHROW,MUDSPORT
+Pokemon = WHITEHAZE,42
+    Moves = GUILLOTINE,STOMP,MUDSHOT,BUBBLE
+Pokemon = ARMSTRONG,42
+    Moves = SLAM,SANDSTORM,DRAGONBREATH,ROCKTHROW
+Pokemon = KISAME2,42
+    Moves = SPIKECANNON,AURORABEAM,SUPERSONIC,PROTECT
+#-------------------------------
+[COOLTRAINER_M,Warren]
+Pokemon = LINGREED,45
+    Moves = BONEMERANG,HEADBUTT,LEER,GROWL
+Pokemon = BLACKASTA,48
+    Moves = BONEMERANG,HEADBUTT,LEER,GROWL
+Pokemon = RIAS,48
+    Moves = TAKEDOWN,ROCKBLAST,FURYATTACK,SCARYFACE
+Pokemon = RYUK,48
+    Moves = FURYSWIPES,BITE,POISONSTING,DOUBLEKICK
+Pokemon = RAIZEN,48
+    Moves = BODYSLAM,BITE,POISONSTING,DOUBLEKICK
+#-------------------------------
+[COOLTRAINER_M,Mary]
+Pokemon = MIMOSA,40
+Pokemon = HAKURYUU,40
+Pokemon = UEKI,40
+Pokemon = USOPP2,40
+Pokemon = HASHIRAMA,40
+#-------------------------------
+[COOLTRAINER_M,Caroline]
+Pokemon = SASUKE,48
+    Moves = THUNDERPUNCH,DREAMEATER,HYPNOSIS,FLAMETHROWER
+Pokemon = FULLCOWL,48
+    Moves = THUNDER,FLAMETHROWER,GLARE,BOUNCE
+Pokemon = SUSANOO,50
+    Moves = THUNDER,ACID,STUNSPORE,SLEEPPOWDER
+Pokemon = HASHIRAMA,48
+    Moves = GROWTH,SLASH,LEECHLIFE,STUNSPORE
+Pokemon = THOUSANDHANDS,50
+    Moves = MUDDYWATER,SLASH,VINEWHIP,RECOVER
+#-------------------------------
+[COOLTRAINER_M,Alexa]
+Pokemon = GON,48
+Pokemon = AANG,48
+Pokemon = ARCHER,48
+Pokemon = HAKUDRAGON,50
+Pokemon = ASUNA,50
+#-------------------------------
+[COOLTRAINER_M,Shannon]
+Pokemon = ENTOMA2,42
+    Moves = PINMISSILE,TWINEEDLE,AGILITY,PURSUIT
+Pokemon = CELL3,42
+    Moves = SAFEGUARD,PSYBEAM,GUST,SUPERSONIC
+Pokemon = THOUSANDHANDS,42
+    Moves = SPORE,LEECHLIFE,SLASH,GROWTH
+Pokemon = YUNO,42
+    Moves = PSYBEAM,STUNSPORE,LEECHLIFE,DISABLE
+Pokemon = SPIRITDIVE,42
+    Moves = PSYBEAM,GUST,SUPERSONIC,LEECHLIFE
+#-------------------------------
+[COOLTRAINER_M,Naomi]
+Pokemon = ARCHER,48
+Pokemon = SESSHOMARU,48
+Pokemon = TRUEFORM,48
+Pokemon = GURENMK2,48
+Pokemon = FULLCOWL,48
+#-------------------------------
+[COOLTRAINER_M,Brooke]
+Pokemon = UEKI,42
+    Moves = SLAM,BIND,MEGADRAIN,INGRAIN
+Pokemon = USOPP,42
+    Moves = ACID,MOONLIGHT,SLEEPPOWDER,STUNSPORE
+Pokemon = USOPP2,42
+    Moves = MEGADRAIN,ACID,STUNSPORE,AROMATHERAPY
+Pokemon = NARUTO,42
+    Moves = RAZORLEAF,SWEETSCENT,GROWL,LEECHSEED
+Pokemon = KURAMAMODE,42
+    Moves = RAZORLEAF,GROWTH,SLEEPPOWDER,POISONPOWDER
+#-------------------------------
+[COOLTRAINER_M,Austina]
+Pokemon = KIRISHIMA,42
+    Moves = HORNDRILL,ROCKBLAST,SCARYFACE,STOMP
+Pokemon = SENKETSU,42
+    Moves = DOUBLEKICK,FURYSWIPES,BITE,FLATTER
+Pokemon = TRUESYNC,42
+    Moves = BODYSLAM,DOUBLEKICK,BITE,GROWL
+Pokemon = STRELIZIA,42
+    Moves = HORNATTACK,POISONSTING,FOCUSENERGY,LEER
+Pokemon = TRUEAPUS,42
+    Moves = THRASH,DOUBLEKICK,POISONSTING,PECK
+#-------------------------------
+[COOLTRAINER_M,Julie]
+Pokemon = ARCHER,42
+    Moves = FURYSWIPES,BITE,SCREECH,FAINTATTACK
+Pokemon = GURENMK2,42
+    Moves = FLAMETHROWER,WILLOWISP,CONFUSERAY,GRUDGE
+Pokemon = TRUEFORM,42
+    Moves = FURYATTACK,FIRESPIN,TAKEDOWN,AGILITY
+Pokemon = PIKACHU,42
+    Moves = THUNDERBOLT,THUNDERWAVE,DOUBLETEAM,QUICKATTACK
+Pokemon = SHINRA,42
+    Moves = THUNDER,THUNDERWAVE,SLAM,DOUBLETEAM
+#-------------------------------
+[ELITEFOUR,Hiyuri]
+Pokemon = NOFACE2,60
+    Moves = TOXIC,SWALLOW,SPITUP,BODYSLAM
+Pokemon = HAKUDRAGON,60
+    Moves = DRAGONBREATH,SWALLOW,FLY,DIVE
+Pokemon = WHITEHAZE,60
+    Moves = SHADOWBALL,BLIZZARD,EXTREMESPEED
+Pokemon = TIERHUNT,60
+    Moves = ICEPUNCH,DOUBLESLAP,LOVELYKISS,ATTRACT
+Pokemon = HAFURIYATO,62
+    Moves = SLACKOFF
+#-------------------------------
+[ELITEFOUR,Erwin]
+Pokemon = TRUESYNC,61
+    Moves = SLASH,AERIALACE,BRICKBREAK,EXTREMESPEED
+Pokemon = ARCHER,60
+    Moves = SLASH,MACHPUNCH,SWORDSDANCE,MIRRORMOVE
+Pokemon = CLEARHEART,60
+    Moves = SLASH,SWORDSDANCE,EXTREMESPEED,MEGAPUNCH
+Pokemon = LEVI,62
+    Moves = SLASH,SWORDSDANCE,EXTREMESPEED,FAKEOUT
+Pokemon = TITANFORM,62
+    Moves = BODYSLAM,HYPERVOICE,SUPERPOWER,ROCKTOMB
+#-------------------------------
+[ELITEFOUR,Blank]
+Pokemon = JIBRIL,63
+    Moves = AERIALACE,PSYCHIC,THUNDER
+Pokemon = KAKASHI,62
+    Moves = EARTHQUAKE,DOUBLETEAM
+Pokemon = MERUEM,63
+    Moves = SUPERPOWER,SIGNALBEAM,IRONTAIL,MEANLOOK
+Pokemon = SHIKAMARU,63
+    Moves = DESTINYBOND,SLACKOFF,IRONTAIL,FAKEOUT
+Pokemon = RIMURU,62
+    Moves = HYDROPUMP,THUNDER,TOXIC,RECOVER
+#-------------------------------
+[ELITEFOUR,Kaiba,1]
+Pokemon = BLUEEYES,63
+    Moves = DRAGONCLAW,DRAGONDANCE,DRAGONBREATH
+Pokemon = NATSUFORCE,62
+    Moves = FIREBLAST,DRAGONBREATH,FIREPUNCH,OUTRAGE
+Pokemon = MAGICIAND,61
+    Moves = DRAGONBREATH,ATTRACT,DRAGONCLAW
+Pokemon = HAKUDRAGON,60
+    Moves = SKYATTACK,DRAGONBREATH,SURF
+Pokemon = BEYESULT,65
+    Moves = SKYATTACK,DRAGONDANCE
+Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+#-------------------------------
+[LEADER,Nami,1]
+Pokemon = KISAME,14
+    Moves = WATERGUN,CUT,RAINDANCE,SHARPEN
+Pokemon = JINBE,15
+    Moves = WATERGUN,POUND,FOCUSENERGY
+#-------------------------------
+[LEADER,Misty]
+Pokemon = TOSHIRO,18
+    Moves = TACKLE,HARDEN,RECOVER,WATERPULSE
+Pokemon = ICERING,21
+    Moves = SWIFT,RECOVER,RAPIDSPIN,WATERPULSE
+#-------------------------------
+[LEADER,Denki,1]
+Pokemon = YURUICHI,22
+    Moves = SONICBOOM,QUICKATTACK,THUNDERWAVE,SHOCKWAVE
+Pokemon = PIKACHU,23
+    Moves = QUICKATTACK,THUNDERWAVE,DOUBLETEAM,SHOCKWAVE
+Pokemon = AKENO,23
+    Moves = ATTRACT,THUNDERWAVE,DOUBLESLAP,SHOCKWAVE
+#-------------------------------
+[LEADER,Shiemi,1]
+Pokemon = MIMOSA,45
+    Moves = VINEWHIP,RECOVER,SLEEPPOWDER,MAGICALLEAF
+Pokemon = USOPP2,45
+    Moves = BULLETSEED,LEECHSEED,TRICK
+Pokemon = THOUSANDHANDS,48
+    Moves = MUDDYWATER,FLAMETHROWER,RECOVER
+#-------------------------------
+[LEADER,Winry,1]
+Pokemon = GURENMK2,40
+    Moves = METALCLAW,VICEGRIP
+Pokemon = STRELIZIA,40
+    Moves = HORNATTACK,IRONDEFENSE,IRONTAIL
+Pokemon = ALPHONSE,42
+    Moves = KARATECHOP,IRONDEFENSE,EARTHQUAKE
+Pokemon = EDWARD,43
+    Moves = SLASH,EARTHQUAKE,ROCKTOMB
+#-------------------------------
+[LEADER,Anna,1]
+Pokemon = BAKUGOU,50
+    Moves = RAGE,ROAR,BLASTBURN,EXPLOSION
+Pokemon = ZUKO2,47
+    Moves = DRAGONDANCE,FLAMETHROWER,FLAMEWHEEL,BRICKBREAK
+Pokemon = TODOROKI,48
+    Moves = ICICLESPEAR,AURORABEAM,FLAMETHROWER,FIREPUNCH
+Pokemon = MIKOTO,52
+    Moves = SLACKOFF,WILLOWISP,HEATWAVE,FIREBLAST
+#-------------------------------
+[LEADER,Reigan,1]
+Pokemon = MOB,35
+    Moves = PSYBEAM,REFLECT,BARRIER,CALMMIND
+Pokemon = FRIEZA2,36
+    Moves = KARATECHOP,PSYBEAM,CALMMIND
+Pokemon = TORNADO,37
+    Moves = PSYCHIC,AERIALACE,ROCKSLIDE,LIGHTSCREEN
+Pokemon = MOB100,38
+    Moves = PSYCHIC,REFLECT,ROCKSLIDE,HIDDENPOWER
+#-------------------------------
+[BEAUTY,Tina]
+Pokemon = PIKACHU,23
+#-------------------------------
+[GENTLEMAN,Norton]
+Pokemon = ARCHER,48
+#-------------------------------
+[GENTLEMAN,Walter]
+Pokemon = ZUKO,17
+Pokemon = SESSHOMARU,17
+#-------------------------------
+[TAMER,Lucy,10]
+Pokemon = NATSU,35
+Pokemon = GRAY,33
+Pokemon = ERZA,34
+Pokemon = LUFFYGEAR2,35
+#-------------------------------
+[TAMER,Lucy,11]
+Pokemon = NATSU,35
+Pokemon = GRAY,32
+Pokemon = ERZA,34
+Pokemon = NARUTO,35
+#-------------------------------
+[TAMER,Lucy,12]
+Pokemon = NATSU,35
+Pokemon = GRAY,32
+Pokemon = ERZA,34
+Pokemon = GOKU,35
+#-------------------------------
+[TAMER,Lucy,13]
+Pokemon = WENDYFORCE,45
+Pokemon = DEMONSLAY,45
+Pokemon = NATSUFORCE,48
+Pokemon = ADAMANTINE,48
+Pokemon = LUFFYGEAR2,50
+#-------------------------------
+[TAMER,Lucy,14]
+Pokemon = WENDYFORCE,45
+Pokemon = DEMONSLAY,45
+Pokemon = NATSUFORCE,48
+Pokemon = PURGATORY,48
+Pokemon = NARUTO,50
+#-------------------------------
+[TAMER,Lucy,15]
+Pokemon = WENDYFORCE,45
+Pokemon = DEMONSLAY,45
+Pokemon = CLEARHEART,48
+Pokemon = NATSUFORCE,48
+Pokemon = GOKU,50
+#-------------------------------
+[TAMER,Lucy,16]
+Pokemon = WENDYFORCE,51
+Pokemon = DEMONSLAY,51
+Pokemon = ADAMANTINE,53
+Pokemon = NATSUFORCE,53
+Pokemon = LUFFYGEAR4,55
+#-------------------------------
+[TAMER,Lucy,17]
+Pokemon = WENDYFORCE,51
+Pokemon = DEMONSLAY,51
+Pokemon = PURGATORY,53
+Pokemon = NATSUFORCE,53
+Pokemon = KURAMAMODE,55
+#-------------------------------
+[TAMER,Lucy,18]
+Pokemon = WENDYFORCE,51
+Pokemon = DEMONSLAY,51
+Pokemon = CLEARHEART,53
+Pokemon = NATSUFORCE,53
+Pokemon = SSJGOKU,55
+#-------------------------------
+[EXPERT,Light,3]
+Pokemon = RYUK,60
+    Moves = DESTINYBOND,AERIALACE,CRUNCH,SHADOWPUNCH
+Pokemon = GILGAMESH,58
+    Moves = SWORDSDANCE,METEORMASH
+Pokemon = GODSPEED,58
+    Moves = VOLTTACKLE,EXTREMESPEED
+Pokemon = THOUSANDHANDS,58
+    Moves = MUDDYWATER,EARTHQUAKE,RECOVER
+Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+Pokemon = KURAMAMODE,62
+    Moves = DESTINYBOND,AERIALACE,BRICKBREAK,AERIALACE
+#-------------------------------
+[EXPERT,Light,4]
+Pokemon = RYUK,60
+    Moves = DESTINYBOND,AERIALACE,CRUNCH,SHADOWPUNCH
+Pokemon = GILGAMESH,58
+    Moves = SWORDSDANCE,METEORMASH
+Pokemon = GODSPEED,58
+    Moves = VOLTTACKLE,EXTREMESPEED
+Pokemon = THOUSANDHANDS,58
+    Moves = MUDDYWATER,EARTHQUAKE,RECOVER
+Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+Pokemon = SSJGOKU,62
+    Moves = DESTINYBOND,AERIALACE,FIREPUNCH,BOUNCE
+#-------------------------------
+[EXPERT,Light,5]
+Pokemon = RYUK,60
+    Moves = DESTINYBOND,AERIALACE,CRUNCH,SHADOWPUNCH
+Pokemon = GILGAMESH,58
+    Moves = SWORDSDANCE,FURYATTACK
+Pokemon = GODSPEED,58
+    Moves = VOLTTACKLE,EXTREMESPEED,STUNSPORE
+Pokemon = THOUSANDHANDS,58
+    Moves = MUDDYWATER,EARTHQUAKE,RECOVER
+Pokemon = SSJVEGETA,80
+    Moves = SELFDESTRUCT
+Pokemon = LUFFYGEAR4,62
+    Moves = DESTINYBOND,AERIALACE,DOUBLETEAM,EXTREMESPEED
+#-------------------------------
+[EXPERT,Light,6]
+Pokemon = RYUK,75
+    Moves = AERIALACE,CRUNCH
+Pokemon = GILGAMESH,71
+    Moves = SWORDSDANCE,PROTECT
+Pokemon = GODSPEED,71
+    Moves = VOLTTACKLE,THUNDER,EXTREMESPEED,DOUBLETEAM
+Pokemon = THOUSANDHANDS,71
+    Moves = RECOVER,FLAMETHROWER,MUDDYWATER
+Pokemon = FRIEZA3,73
+    Moves = PSYCHIC,IRONTAIL,REFLECT
+Pokemon = BEERUS,77
+    Moves = HYDROPUMP,RAINDANCE,SKULLBASH,BITE
+#-------------------------------
+[TAMER,Lucy,19]
+Pokemon = WENDYFORCE,70
+    Moves = AERIALACE,DRAGONBREATH,HYPERVOICE,WHIRLWIND
+Pokemon = DEMONSLAY,70
+    Moves = ICEBEAM,SHEERCOLD,BARRIER
+Pokemon = PURGATORY,73
+    Moves = SLASH,METEORMASH,BRICKBREAK
+Pokemon = NATSUFORCE,73
+    Moves = FLAMETHROWER,DRAGONRAGE,FIREPUNCH,THUNDER
+Pokemon = CLEARHEART,73
+    Moves = EXTREMESPEED,SLASH,SWORDSDANCE,DOUBLETEAM
+Pokemon = MINATO,76
+    Moves = SUBSTITUTE,EXTREMESPEED
+#-------------------------------
+[CHAMPION,Light]
+Pokemon = FILO,59
+    Moves = AERIALACE,FEATHERDANCE,SANDATTACK,WHIRLWIND
+Pokemon = FRIEZA3,57
+    Moves = PSYCHIC,FUTURESIGHT,RECOVER,REFLECT
+Pokemon = REDRIOT,59
+    Moves = TAKEDOWN,EARTHQUAKE,ROCKTOMB,SCARYFACE
+Pokemon = NOFACE2,59
+    Moves = GIGADRAIN,EGGBOMB,SLEEPPOWDER,LIGHTSCREEN
+Pokemon = TITANFORM,61
+    Moves = HYDROPUMP,DRAGONRAGE,BITE,THRASH
+Pokemon = SSJGOKU,63
+    Moves = FIREBLAST,AERIALACE,SLASH,FIRESPIN
+#-------------------------------
+[CHANNELER,Patricia]
+Pokemon = YUSUKE,45
+#-------------------------------
+[CHANNELER,Carly]
+Pokemon = TOSHIRO,45
+#-------------------------------
+[CHANNELER,Paula]
+Pokemon = RYUK,45
+#-------------------------------
+[CHANNELER,Laurel]
+Pokemon = ICHIGO,45
+Pokemon = VIZARD,46
+#-------------------------------
+[CHANNELER,Jody]
+Pokemon = YATO,45
+#-------------------------------
+[CHANNELER,Tammy]
+Pokemon = ICERING,46
+#-------------------------------
+[CHANNELER,Janae]
+Pokemon = WHITEHAZE,45
+#-------------------------------
+[CHANNELER,Jennifer]
+Pokemon = HAKU,49
+#-------------------------------
+[CHANNELER,Tasha]
+Pokemon = ICHIGO,33
+Pokemon = ICHIGO,33
+Pokemon = VIZARD,33
+#-------------------------------
+[PICNICKER,Susie]
+Pokemon = FILOLIAL,32
+Pokemon = SHIROU,34
+Pokemon = MIMOSA,34
+Pokemon = PIKACHU,35
+Pokemon = RAPHTALIA,36
+#-------------------------------
+[PICNICKER,Valerie]
+Pokemon = USOPP,34
+Pokemon = USOPP2,36
+#-------------------------------
+[PICNICKER,Missy]
+Pokemon = YATO,31
+Pokemon = HAFURIYATO,31
+#-------------------------------
+[PICNICKER,Irene]
+Pokemon = DEKU,30
+Pokemon = SLIME,30
+Pokemon = HAKU,30
+#-------------------------------
+[PICNICKER,Yazmin]
+Pokemon = KIDSASUKE,47
+Pokemon = KRILLIN,47
+Pokemon = UEKI,46
+#-------------------------------
+[PICNICKER,Becky]
+Pokemon = PIKACHU,45
+Pokemon = GODSPEED,48
+#-------------------------------
+[PICNICKER,Celia]
+Pokemon = ADULTGON,48
+#-------------------------------
+[COOLCOUPLE,Ray & Tyra]
+Pokemon = TRUESYNC,52
+    Moves = SUPERPOWER,EXTREMESPEED,DOUBLEKICK,SLASH
+Pokemon = TRUEAPUS,52
+    Moves = MEGAHORN,THRASH,DOUBLEKICK,METEORMASH
+#-------------------------------
+[YOUNGCOUPLE,Lea & Jed]
+Pokemon = PIKACHU,20
+Pokemon = KILLUA,20
+#-------------------------------
+[SISANDBRO,Lia & Luc]
+Pokemon = YATO,30
+Pokemon = HAFURIYATO,30
+#-------------------------------
+[SISANDBRO,Lil & Ian]
+Pokemon = RIMURU,33
+Pokemon = ICERING,33
+#-------------------------------
+[LASS,Reli,1]
+Pokemon = FILOLIAL,20
+Pokemon = RYUKO,20
+#-------------------------------
+[LASS,Reli,2]
+Pokemon = GODBIRD,28
+Pokemon = SENKETSU,28
+#-------------------------------
+[PROFESSOR,Prof. Oak]
+Pokemon = COCO,5
+#-------------------------------
+[PLAYER,Brendan]
+Pokemon = COCO,5
+#-------------------------------
+[PLAYER,May]
+Pokemon = COCO,5
+#-------------------------------
+[PLAYER,Red]
+Pokemon = COCO,5
+#-------------------------------
+[PLAYER,Leaf]
+Pokemon = COCO,5
+#-------------------------------
+[BLACKKNIGHT,Grunt,41]
+Pokemon = HOUNDOUR,49
+Pokemon = HOUNDOUR,49
+#-------------------------------
+[PSYCHIC_M,Jaclyn]
+Pokemon = KYUBEY,48
+    Moves = NIGHTSHADE,CONFUSERAY,FUTURESIGHT,WISH
+Pokemon = MOB100,48
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,YAWN
+Pokemon = FRIEZA2,49
+    Moves = PSYCHIC,FUTURESIGHT,RECOVER,REFLECT
+#-------------------------------
+[TUBER_F,Amira]
+Pokemon = LAGANN,44
+Pokemon = GURREN,44
+Pokemon = LAGANN,44
+#-------------------------------
+[POKEMONBREEDER,Alize]
+Pokemon = PIKACHU,48
+Pokemon = GON,48
+Pokemon = KILLUA,48
+#-------------------------------
+[POKEMONRANGER_M,Nicolas]
+Pokemon = SASUKE,51
+    Moves = RAZORLEAF,ACID,SWEETSCENT,WRAP
+Pokemon = SUSANOO,51
+    Moves = RAZORLEAF,ACID,SLEEPPOWDER,STUNSPORE
+#-------------------------------
+[POKEMONRANGER_M,Madeline]
+Pokemon = USOPP,51
+    Moves = PETALDANCE,ACID,SWEETSCENT,POISONPOWDER
+Pokemon = USOPP2,51
+    Moves = PETALDANCE,MOONLIGHT,ACID,STUNSPORE
+#-------------------------------
+[AROMALADY,Nikki]
+Pokemon = KIDSASUKE,42
+Pokemon = SASUKE,45
+#-------------------------------
+[RUINMANIAC,Stanly]
+Pokemon = GREYMON,48
+Pokemon = ARMSTRONG,48
+Pokemon = GREYMON,48
+#-------------------------------
+[LADY,Jacki]
+Pokemon = NATSU,48
+Pokemon = NATSUFORCE,50
+#-------------------------------
+[PAINTER,Daisy]
+Pokemon = KOROSENSEI,50
+    Moves = DYNAMICPUNCH,DIZZYPUNCH,FOCUSPUNCH,MEGAPUNCH
+#-------------------------------
+[BIKER,Goon]
+Pokemon = ASTA,37
+    Moves = HAZE,SMOKESCREEN,SLUDGE,TACKLE
+Pokemon = AKAME,37
+    Moves = ACIDARMOR,SCREECH,MINIMIZE,SLUDGE
+#-------------------------------
+[BIKER,Goon,1]
+Pokemon = ASTA,38
+    Moves = HAZE,SMOKESCREEN,SLUDGE,TACKLE
+#-------------------------------
+[BIKER,Goon,2]
+Pokemon = AKAME,38
+#-------------------------------
+[BUGCATCHER,Anthony]
+Pokemon = CELL,7
+Pokemon = CELL,8
+#-------------------------------
+[BUGCATCHER,Charlie]
+Pokemon = CELL,7
+Pokemon = CELL,7
+Pokemon = CELL,7
+#-------------------------------
+[YOUNGSTER,Johnson]
+Pokemon = COCO,33
+Pokemon = COCO,33
+Pokemon = RAPHTALIA,34
+#-------------------------------
+[BIKER,Ricardo]
+Pokemon = ASTA,22
+Pokemon = ASTA,22
+Pokemon = AKAME,23
+#-------------------------------
+[BLACKKNIGHT,Grunt,42]
+Pokemon = GREED,37
+Pokemon = LINGREED,37
+#-------------------------------
+[BLACKKNIGHT,Grunt,43]
+Pokemon = KRAPHTALIA,35
+Pokemon = RAPHTALIA,35
+Pokemon = KIDGAARA,35
+Pokemon = GAARA,35
+#-------------------------------
+[BLACKKNIGHT,Grunt,44]
+Pokemon = SUZAKU,38
+Pokemon = SUZAKU,38
+Pokemon = LANCELOT,38
+#-------------------------------
+[BLACKKNIGHT,Grunt,45]
+Pokemon = AKAME2,48
+Pokemon = LANCELOT,48
+Pokemon = RAPHTALIA,48
+#-------------------------------
+[BLACKKNIGHT,Grunt,46]
+Pokemon = KIDVEGETA,48
+Pokemon = KIDVEGETA,48
+Pokemon = VEGETA,48
+#-------------------------------
+[BLACKKNIGHT,Grunt,47]
+Pokemon = DPALADIN,49
+Pokemon = DPALADIN,49
+#-------------------------------
+[BLACKKNIGHT,Admin]
+Pokemon = AKAME2,52
+    Moves = SLUDGEBOMB,SCREECH,MINIMIZE,ROCKTOMB
+Pokemon = COCODEMON,53
+    Moves = SLUDGEBOMB,BITE,EARTHQUAKE,IRONTAIL
+Pokemon = USOPP2,54
+    Moves = SLUDGEBOMB,GIGADRAIN,SLEEPPOWDER,STUNSPORE
+#-------------------------------
+[BLACKKNIGHT,Admin,1]
+Pokemon = LANCELOT,53
+    Moves = CONFUSERAY,SLUDGEBOMB,AIRCUTTER,SHADOWBALL
+Pokemon = BLACKASTA,54
+    Moves = SLUDGEBOMB,THUNDERBOLT,EXPLOSION,SHADOWBALL
+Pokemon = HOUNDOOM,55
+    Moves = FLAMETHROWER,CRUNCH,IRONTAIL,SHADOWBALL
+#-------------------------------
+[SCIENTIST,Gideon]
+Pokemon = KIDKAKASHI,46
+    Moves = SWIFT,SCREECH,SPARK,SONICBOOM
+Pokemon = KAKASHI,46
+    Moves = SPARK,SONICBOOM,SCREECH,CHARGE
+Pokemon = YURUICHI,46
+    Moves = SCREECH,SWIFT,SPARK,THUNDERWAVE
+Pokemon = FLASHGOD,46
+    Moves = TRIATTACK,SPARK,THUNDERWAVE,SONICBOOM
+Pokemon = RIAS,46
+    Moves = TRIATTACK,CONVERSION,RECOVER,PSYBEAM
+#-------------------------------
+[SWIMMER_F,Amara]
+Pokemon = HAKU,36
+Pokemon = HAKU,36
+Pokemon = HAKUDRAGON,36
+#-------------------------------
+[SWIMMER_M,Garrett]
+Pokemon = KISAME,35
+Pokemon = KISAME2,35
+Pokemon = LUFFYGEAR2,38
+#-------------------------------
+[CRUSHGIRL,Tanya]
+Pokemon = MUSTANG,38
+Pokemon = TOPH,38
+#-------------------------------
+[BLACKBELT,Shea]
+Pokemon = KIDVEGETA,38
+Pokemon = VEGETA,38
+#-------------------------------
+[CAMPER,Bryce]
+Pokemon = STRELIZIA,36
+Pokemon = RAPHTALIA,36
+Pokemon = GAARA,36
+#-------------------------------
+[PICNICKER,Claire]
+Pokemon = SHIROU,35
+Pokemon = SHIROU,35
+Pokemon = PIKACHU,35
+Pokemon = GON,35
+#-------------------------------
+[CRUSHKIN,Mik & Kia]
+Pokemon = VEGETA,39
+Pokemon = RAIZEN,39
+#-------------------------------
+[AROMALADY,Violet]
+Pokemon = KIDNARUTO,42
+Pokemon = NARUTO,44
+Pokemon = NARUTO,44
+#-------------------------------
+[TUBER_F,Alexis]
+Pokemon = TOSHIRO,42
+Pokemon = TOSHIRO,42
+Pokemon = RUKIA,42
+Pokemon = RUKIA,42
+#-------------------------------
+[TWINS,Joy & Meg]
+Pokemon = GON,45
+Pokemon = GON,45
+#-------------------------------
+[SWIMMER_F,Tisha]
+Pokemon = WHITEHAZE,46
+#-------------------------------
+[PAINTER,Celina]
+Pokemon = KOROSENSEI,50
+    Moves = FLY,DIG,DIVE,BOUNCE
+#-------------------------------
+[PAINTER,Rayna]
+Pokemon = KOROSENSEI,50
+    Moves = CROSSCHOP,MEGAHORN,DOUBLEEDGE,SELFDESTRUCT
+#-------------------------------
+[LADY,Gillian]
+Pokemon = MOB,47
+Pokemon = MOB,48
+Pokemon = MOB100,49
+#-------------------------------
+[YOUNGSTER,Destin]
+Pokemon = RAPHTALIA,48
+Pokemon = GODBIRD,48
+#-------------------------------
+[SWIMMER_M,Toby]
+Pokemon = GURREN,48
+Pokemon = DEKU,48
+Pokemon = FULLCOWL,48
+#-------------------------------
+[BLACKKNIGHT,Grunt,48]
+Pokemon = KRAPHTALIA,48
+Pokemon = AKAME,48
+Pokemon = AKAME2,48
+#-------------------------------
+[BLACKKNIGHT,Grunt,49]
+Pokemon = ASTA,49
+    Moves = MEMENTO,HAZE,SMOKESCREEN,SLUDGE
+Pokemon = BLACKASTA,49
+    Moves = HAZE,SMOKESCREEN,SLUDGE,SELFDESTRUCT
+#-------------------------------
+[BLACKKNIGHT,Grunt,50]
+Pokemon = COCO,48
+Pokemon = USOPP,48
+Pokemon = USOPP,48
+#-------------------------------
+[BIRDKEEPER,Milo]
+Pokemon = FILOLIAL,36
+Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,Chaz]
+Pokemon = FILOLIAL,36
+Pokemon = GODBIRD,38
+#-------------------------------
+[BIRDKEEPER,Harold]
+Pokemon = GODBIRD,38
+Pokemon = FILO,40
+#-------------------------------
+[FISHERMAN,Tylor]
+Pokemon = JINBE,49
+Pokemon = JINBE,49
+#-------------------------------
+[SWIMMER_M,Mymo]
+Pokemon = WHITEHAZE,49
+Pokemon = LUFFYGEAR2,49
+#-------------------------------
+[SWIMMER_F,Nicole]
+Pokemon = KILLUA,48
+#-------------------------------
+[SISANDBRO,Ava & Geb]
+Pokemon = GURREN,50
+Pokemon = ICERING,50
+#-------------------------------
+[AROMALADY,Rose]
+Pokemon = GETSUGA,49
+Pokemon = TRUEBANKAI,49
+#-------------------------------
+[SWIMMER_M,Samir]
+Pokemon = TITANFORM,50
+#-------------------------------
+[SWIMMER_F,Denise]
+Pokemon = TSUKIUMI,49
+Pokemon = ESCANOR,49
+#-------------------------------
+[TWINS,Miu & Mia]
+Pokemon = PIKACHU,50
+Pokemon = PIKACHU,50
+#-------------------------------
+[HIKER,Earl]
+Pokemon = ARMSTRONG,49
+Pokemon = VEGETA,49
+#-------------------------------
+[RUINMANIAC,Foster]
+Pokemon = MGREYMON,50
+#-------------------------------
+[RUINMANIAC,Larry]
+Pokemon = VEGETA,49
+Pokemon = VEGETA,49
+#-------------------------------
+[HIKER,Daryl]
+Pokemon = CROCODILE,50
+#-------------------------------
+[ANIMANIAC,Hector]
+Pokemon = KIRISHIMA,49
+Pokemon = JIRAIYA,49
+#-------------------------------
+[PSYCHIC_M,Dario]
+Pokemon = STARPLAT,52
+    Moves = CRUNCH,PSYBEAM,ODORSLEUTH,AGILITY
+#-------------------------------
+[PSYCHIC_M,Rodette]
+Pokemon = NATU,48
+    Moves = NIGHTSHADE,CONFUSERAY,WISH,FUTURESIGHT
+Pokemon = DMAGICIAN,48
+    Moves = PSYCHIC,DISABLE,PSYCHUP,FUTURESIGHT
+Pokemon = DPALADIN,50
+    Moves = PSYCHIC,HYPNOSIS,PSYCHUP,FUTURESIGHT
+#-------------------------------
+[AROMALADY,Miah]
+Pokemon = TANJIRO,50
+Pokemon = TANJIRO,50
+#-------------------------------
+[YOUNGCOUPLE,Eve & Jon]
+Pokemon = TIERHUNT,50
+Pokemon = TIER,50
+#-------------------------------
+[JUGGLER,Mason]
+Pokemon = KIDKAKASHI,47
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+Pokemon = PINECO,47
+    Moves = SPIKES,BIDE,RAPIDSPIN,TAKEDOWN
+Pokemon = KIDKAKASHI,47
+    Moves = SWIFT,LIGHTSCREEN,SPARK,SONICBOOM
+Pokemon = PINECO,47
+    Moves = SPIKES,BIDE,RAPIDSPIN,EXPLOSION
+#-------------------------------
+[CRUSHGIRL,Cyndy]
+Pokemon = RAIZEN,48
+Pokemon = HITMONTOP,48
+Pokemon = VEGETA,48
+#-------------------------------
+[TAMER,Evan]
+Pokemon = GAARA,48
+Pokemon = CINNABAR,48
+Pokemon = ZORO2,49
+#-------------------------------
+[ANIMANIAC,Mark]
+Pokemon = KIRISHIMA,33
+Pokemon = CINNABAR,33
+#-------------------------------
+[POKEMONRANGER_M,Jackson]
+Pokemon = UEKI,49
+    Moves = SLAM,MEGADRAIN,BIND,INGRAIN
+Pokemon = NOFACE,49
+    Moves = CONFUSION,POISONPOWDER,BARRAGE,REFLECT
+Pokemon = NOFACE2,49
+    Moves = CONFUSION,EGGBOMB,SLEEPPOWDER,STOMP
+#-------------------------------
+[POKEMONRANGER_M,Beth]
+Pokemon = KIDSASUKE,38
+Pokemon = USOPP,38
+Pokemon = USOPP,38
+#-------------------------------
+[POKEMONRANGER_M,Katelyn]
+Pokemon = ASUNA,52
+    Moves = EGGBOMB,DEFENSECURL,MINIMIZE,SOFTBOILED
+#-------------------------------
+[COOLTRAINER_M,Leroy]
+Pokemon = REDRIOT,47
+    Moves = TAKEDOWN,HORNDRILL,ROCKBLAST,SCARYFACE
+Pokemon = DEMONSLAY,48
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,DISABLE
+Pokemon = JIRAIYA,47
+    Moves = DIZZYPUNCH,BITE,ENDURE,REVERSAL
+Pokemon = VEGETA,48
+    Moves = CROSSCHOP,VITALTHROW,REVENGE,SEISMICTOSS
+Pokemon = ZORO2,50
+    Moves = SLASH,FAINTATTACK,SNORE,REST
+#-------------------------------
+[COOLTRAINER_M,Michelle]
+Pokemon = ARCHER,47
+    Moves = SLASH,SCREECH,FAINTATTACK,BITE
+Pokemon = HAKUDRAGON,47
+    Moves = ICEBEAM,TAKEDOWN,ICYWIND,GROWL
+Pokemon = GURENMK2,48
+    Moves = FLAMETHROWER,CONFUSERAY,WILLOWISP,GRUDGE
+Pokemon = TRUEFORM,48
+    Moves = BOUNCE,AGILITY,FIRESPIN,TAKEDOWN
+Pokemon = STARPLAT,50
+    Moves = CRUNCH,PSYBEAM,STOMP,ODORSLEUTH
+#-------------------------------
+[COOLCOUPLE,Lex & Nya]
+Pokemon = MASH,52
+    Moves = BODYSLAM,MILKDRINK,GROWL,DEFENSECURL
+Pokemon = BAKUGOU,52
+    Moves = THRASH,HORNATTACK,PURSUIT,SWAGGER
+#-------------------------------
+[RUINMANIAC,Brandon]
+Pokemon = ARMSTRONG,50
+#-------------------------------
+[RUINMANIAC,Benjamin]
+Pokemon = AGUMON,48
+    Moves = EARTHQUAKE,ROCKBLAST,ROLLOUT,SELFDESTRUCT
+Pokemon = GREYMON,48
+    Moves = EARTHQUAKE,ROCKBLAST,ROCKTHROW,SELFDESTRUCT
+Pokemon = GREYMON,48
+    Moves = EARTHQUAKE,ROCKBLAST,ROCKTHROW,SELFDESTRUCT
+#-------------------------------
+[PAINTER,Edna]
+Pokemon = KOROSENSEI,50
+    Moves = FAKEOUT,EXTREMESPEED,PROTECT,QUICKATTACK
+#-------------------------------
+[GENTLEMAN,Clifford]
+Pokemon = LINGREED,49
+Pokemon = TIERHUNT,49
+#-------------------------------
+[LADY,Selphy]
+Pokemon = ARCHER,49
+    Moves = PAYDAY,BITE,TAUNT,TORMENT
+Pokemon = ARCHER,49
+    Moves = PAYDAY,SCRATCH,TORMENT,TAUNT
+#-------------------------------
+[RUINMANIAC,Lawson]
+Pokemon = ARMSTRONG,47
+Pokemon = GREYMON,48
+Pokemon = LINGREED,49
+#-------------------------------
+[PSYCHIC_M,Laura]
+Pokemon = NATSU,48
+Pokemon = LEVI,48
+Pokemon = THEWORLD,49
+#-------------------------------
+[POKEMONBREEDER,Bethany]
+Pokemon = ASUNA,50
+#-------------------------------
+[POKEMONBREEDER,Allison]
+Pokemon = GON,48
+Pokemon = GON,48
+Pokemon = ADULTGON,48
+#-------------------------------
+[BUGCATCHER,Garret]
+Pokemon = ENJU,49
+#-------------------------------
+[BUGCATCHER,Jonah]
+Pokemon = GREGORY,45
+Pokemon = ENTOMA2,45
+Pokemon = GREGORY,46
+Pokemon = ENTOMA2,47
+#-------------------------------
+[BUGCATCHER,Vance]
+Pokemon = KANEKI,48
+Pokemon = KAKUJA,50
+#-------------------------------
+[YOUNGSTER,Nash]
+Pokemon = SASUKE,47
+Pokemon = SASUKE,47
+Pokemon = SUSANOO,49
+#-------------------------------
+[YOUNGSTER,Cordell]
+Pokemon = AIS,48
+Pokemon = AIS,48
+#-------------------------------
+[LASS,Dalia]
+Pokemon = NATSU,46
+Pokemon = NATSU,47
+Pokemon = NATSUFORCE,47
+Pokemon = NATSUFORCE,48
+#-------------------------------
+[LASS,Joana]
+Pokemon = ENTOMA2,49
+#-------------------------------
+[CAMPER,Riley]
+Pokemon = GREGORY,49
+Pokemon = ENJU,50
+#-------------------------------
+[PICNICKER,Marcy]
+Pokemon = HASHIRAMA,48
+Pokemon = HASHIRAMA,48
+Pokemon = THOUSANDHANDS,49
+#-------------------------------
+[RUINMANIAC,Layton]
+Pokemon = GAARA,48
+Pokemon = ARMSTRONG,48
+Pokemon = GAARA,48
+#-------------------------------
+[YOUNGSTER,Yasu,1]
+Pokemon = KRAPHTALIA,22
+Pokemon = RAPHTALIA,22
+Pokemon = RAPHTALIA,22
+#-------------------------------
+[YOUNGSTER,Yasu,2]
+Pokemon = RAPHTALIA,47
+Pokemon = RAPHTALIA,47
+Pokemon = RAPHTALIA,47
+#-------------------------------
+[GAMER,Darian,1]
+Pokemon = ZUKO,29
+Pokemon = KALLEN,29
+#-------------------------------
+[ANIMANIAC,Mark,1]
+Pokemon = REDRIOT,54
+Pokemon = CINNABAR,54
+#-------------------------------
+[ANIMANIAC,Herman]
+Pokemon = LINGREED,29
+Pokemon = DEMONSLAY,29
+#-------------------------------
+[ANIMANIAC,Herman,1]
+Pokemon = LINGREED,54
+Pokemon = DEMONSLAY,54
+#-------------------------------
+[HIKER,Trent,1]
+Pokemon = ARMSTRONG,31
+Pokemon = GREYMON,31
+#-------------------------------
+[LASS,Megan]
+Pokemon = GODBIRD,22
+Pokemon = RAPHTALIA,22
+Pokemon = STAMPEDE,23
+Pokemon = SHIROU,21
+Pokemon = PIKACHU,22
+#-------------------------------
+[LASS,Megan,1]
+Pokemon = FILO,46
+Pokemon = RAPHTALIA,47
+Pokemon = STRELIZIA,47
+Pokemon = ARCHER,47
+Pokemon = SHINRA,48
+#-------------------------------
+[GAMER,Rich,1]
+Pokemon = ZUKO,30
+Pokemon = KALLEN,30
+#-------------------------------
+[ROCKER,Luca,1]
+Pokemon = KAKASHI,33
+Pokemon = KAKASHI,33
+#-------------------------------
+[BEAUTY,Sheila,1]
+Pokemon = GON,49
+Pokemon = ARCHER,49
+#-------------------------------
+[BIRDKEEPER,Robert,1]
+Pokemon = GODBIRD,28
+Pokemon = GODBIRD,28
+Pokemon = KRILLIN,28
+Pokemon = KRILLIN,28
+#-------------------------------
+[BIRDKEEPER,Robert,2]
+Pokemon = FILO,47
+Pokemon = FILO,47
+Pokemon = KRILLIN,47
+Pokemon = KRILLIN,47
+#-------------------------------
+[PICNICKER,Susie,1]
+Pokemon = GODBIRD,27
+Pokemon = SHIROU,27
+Pokemon = RAPHTALIA,27
+Pokemon = PIKACHU,27
+Pokemon = SHIROU,27
+#-------------------------------
+[PICNICKER,Susie,2]
+Pokemon = GODBIRD,47
+Pokemon = ARCHER,47
+Pokemon = RAPHTALIA,47
+Pokemon = PIKACHU,47
+Pokemon = ARCHER,47
+#-------------------------------
+[PICNICKER,Susie,3]
+Pokemon = FILO,52
+Pokemon = ARCHER,52
+Pokemon = RAPHTALIA,52
+Pokemon = SHINRA,52
+Pokemon = ARCHER,52
+#-------------------------------
+[PICNICKER,Becky,1]
+Pokemon = PIKACHU,32
+Pokemon = SHINRA,32
+#-------------------------------
+[PICNICKER,Becky,2]
+Pokemon = PIKACHU,49
+Pokemon = SHINRA,49
+#-------------------------------
+[PICNICKER,Becky,3]
+Pokemon = SHINRA,54
+Pokemon = SHINRA,54
+#-------------------------------
+[BIKER,Ruben]
+Pokemon = BLACKASTA,48
+Pokemon = BLACKASTA,48
+Pokemon = BLACKASTA,48
+#-------------------------------
+[CUEBALL,Camron]
+Pokemon = RAIZEN,49
+Pokemon = VEGETA,49
+#-------------------------------
+[BIRDKEEPER,Jacob,1]
+Pokemon = KRILLIN,28
+Pokemon = KIDKRILLIN,28
+Pokemon = KRILLIN,28
+Pokemon = KIDKRILLIN,28
+#-------------------------------
+[BIRDKEEPER,Jacob,2]
+Pokemon = KRILLIN,47
+Pokemon = KRILLIN,47
+Pokemon = KRILLIN,47
+Pokemon = KRILLIN,47
+#-------------------------------
+[SWIMMER_M,Darrin,1]
+Pokemon = RIMURU,52
+Pokemon = RIMURU,52
+Pokemon = RIMURU,52
+Pokemon = RIMURU,52
+#-------------------------------
+[PICNICKER,Missy,1]
+Pokemon = HAFURIYATO,49
+Pokemon = HAFURIYATO,49
+#-------------------------------
+[PICNICKER,Missy,2]
+Pokemon = HAFURIYATO,54
+Pokemon = HAFURIYATO,54
+#-------------------------------
+[SWIMMER_M,Jack,1]
+Pokemon = ICERING,50
+#-------------------------------
+[SISANDBRO,Lil & Ian,1]
+Pokemon = RIMURU,50
+Pokemon = ICERING,50
+#-------------------------------
+[SISANDBRO,Lil & Ian,2]
+Pokemon = RIMURU,55
+Pokemon = ICERING,55
+#-------------------------------
+[CRUSHGIRL,Tanya,1]
+Pokemon = MUSTANG,50
+Pokemon = TOPH,50
+#-------------------------------
+[CRUSHGIRL,Tanya,2]
+Pokemon = MUSTANG,55
+Pokemon = TOPH,55
+#-------------------------------
+[BLACKBELT,Shea,1]
+Pokemon = VEGETA,50
+Pokemon = VEGETA,50
+#-------------------------------
+[BLACKBELT,Shea,2]
+Pokemon = VEGETA,55
+Pokemon = SSJVEGETA,55
+#-------------------------------
+[CRUSHKIN,Mik & Kia,1]
+Pokemon = VEGETA,51
+Pokemon = RAIZEN,51
+#-------------------------------
+[CRUSHKIN,Mik & Kia,2]
+Pokemon = SSJVEGETA,56
+Pokemon = RAIZEN,56
+#-------------------------------
+[TUBER_F,Amira,1]
+Pokemon = GURREN,47
+Pokemon = GURREN,47
+Pokemon = GURREN,47
+#-------------------------------
+[TWINS,Joy & Meg,1]
+Pokemon = GON,49
+Pokemon = GON,49
+#-------------------------------
+[PAINTER,Rayna,1]
+Pokemon = KOROSENSEI,54
+    Moves = CROSSCHOP,MEGAHORN,DOUBLEEDGE,SELFDESTRUCT
+#-------------------------------
+[YOUNGSTER,Destin,1]
+Pokemon = RAPHTALIA,53
+Pokemon = FILO,53
+#-------------------------------
+[POKEMONBREEDER,Alize,1]
+Pokemon = PIKACHU,53
+Pokemon = GON,53
+Pokemon = KILLUA,53
+#-------------------------------
+[BIRDKEEPER,Milo,1]
+Pokemon = GODBIRD,53
+Pokemon = FILO,55
+#-------------------------------
+[BIRDKEEPER,Chaz,1]
+Pokemon = KRILLIN,53
+Pokemon = KRILLIN,55
+#-------------------------------
+[BIRDKEEPER,Harold,1]
+Pokemon = SHIKAMARU,53
+Pokemon = SHIKAMARU,55
+#-------------------------------
+[SWIMMER_F,Nicole,1]
+Pokemon = KILLUA,54
+#-------------------------------
+[PSYCHIC_M,Jaclyn,1]
+Pokemon = NATU,52
+    Moves = PSYCHIC,CONFUSERAY,FUTURESIGHT,WISH
+Pokemon = DEMONSLAY,52
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,YAWN
+Pokemon = FRIEZA2,54
+    Moves = PSYCHIC,FUTURESIGHT,RECOVER,REFLECT
+#-------------------------------
+[SWIMMER_M,Samir,1]
+Pokemon = TITANFORM,55
+#-------------------------------
+[HIKER,Earl,1]
+Pokemon = ARMSTRONG,54
+Pokemon = SSJVEGETA,54
+#-------------------------------
+[RUINMANIAC,Larry,1]
+Pokemon = VEGETA,54
+Pokemon = VEGETA,54
+#-------------------------------
+[ANIMANIAC,Hector,1]
+Pokemon = REDRIOT,55
+Pokemon = JIRAIYA,55
+#-------------------------------
+[PSYCHIC_M,Dario,1]
+Pokemon = STARPLAT,56
+    Moves = CRUNCH,PSYBEAM,ODORSLEUTH,AGILITY
+#-------------------------------
+[PSYCHIC_M,Rodette,1]
+Pokemon = NATU,53
+    Moves = PSYCHIC,CONFUSERAY,WISH,FUTURESIGHT
+Pokemon = DPALADIN,53
+    Moves = PSYCHIC,DISABLE,PSYCHUP,FUTURESIGHT
+Pokemon = DPALADIN,53
+    Moves = PSYCHIC,HYPNOSIS,PSYCHUP,FUTURESIGHT
+#-------------------------------
+[JUGGLER,Mason,1]
+Pokemon = KAKASHI,52
+Pokemon = PINECO,52
+Pokemon = KAKASHI,52
+Pokemon = PINECO,52
+#-------------------------------
+[POKEMONRANGER_M,Nicolas,1]
+Pokemon = SUSANOO,55
+    Moves = RAZORLEAF,ACID,STUNSPORE,WRAP
+Pokemon = SUSANOO,55
+    Moves = RAZORLEAF,ACID,SLEEPPOWDER,SLAM
+#-------------------------------
+[POKEMONRANGER_M,Madeline,1]
+Pokemon = USOPP2,55
+    Moves = PETALDANCE,MOONLIGHT,ACID,SLEEPPOWDER
+Pokemon = USOPP2,55
+    Moves = PETALDANCE,MOONLIGHT,ACID,STUNSPORE
+#-------------------------------
+[CRUSHGIRL,Cyndy,1]
+Pokemon = RAIZEN,54
+Pokemon = HITMONTOP,54
+Pokemon = SSJVEGETA,54
+#-------------------------------
+[TAMER,Evan,1]
+Pokemon = GAARA,52
+Pokemon = CINNABAR,52
+Pokemon = ZORO2,55
+#-------------------------------
+[POKEMONRANGER_M,Jackson,1]
+Pokemon = UEKI,53
+    Moves = SLAM,MEGADRAIN,BIND,INGRAIN
+Pokemon = NOFACE2,54
+    Moves = CONFUSION,EGGBOMB,STUNSPORE,REFLECT
+Pokemon = NOFACE2,55
+    Moves = CONFUSION,EGGBOMB,SLEEPPOWDER,STOMP
+#-------------------------------
+[POKEMONRANGER_M,Katelyn,1]
+Pokemon = ASUNA,56
+    Moves = EGGBOMB,DEFENSECURL,MINIMIZE,SOFTBOILED
+#-------------------------------
+[COOLTRAINER_M,Leroy,1]
+Pokemon = REDRIOT,52
+    Moves = EARTHQUAKE,HORNDRILL,ROCKBLAST,SCARYFACE
+Pokemon = DEMONSLAY,54
+    Moves = PSYCHIC,HEADBUTT,AMNESIA,DISABLE
+Pokemon = JIRAIYA,52
+    Moves = DIZZYPUNCH,BITE,ENDURE,REVERSAL
+Pokemon = SSJVEGETA,52
+    Moves = CROSSCHOP,VITALTHROW,REVENGE,SEISMICTOSS
+Pokemon = ZORO2,55
+    Moves = SLASH,FAINTATTACK,SNORE,REST
+#-------------------------------
+[COOLTRAINER_M,Michelle,1]
+Pokemon = ARCHER,53
+    Moves = SLASH,SCREECH,FAINTATTACK,BITE
+Pokemon = HAKUDRAGON,53
+    Moves = ICEBEAM,TAKEDOWN,ICYWIND,SHEERCOLD
+Pokemon = GURENMK2,54
+    Moves = FLAMETHROWER,CONFUSERAY,WILLOWISP,GRUDGE
+Pokemon = TRUEFORM,54
+    Moves = BOUNCE,AGILITY,FIRESPIN,TAKEDOWN
+Pokemon = STARPLAT,56
+    Moves = CRUNCH,PSYBEAM,STOMP,ODORSLEUTH
+#-------------------------------
+[COOLCOUPLE,Lex & Nya,1]
+Pokemon = MASH,57
+    Moves = BODYSLAM,MILKDRINK,GROWL,DEFENSECURL
+Pokemon = BAKUGOU,57
+    Moves = TAKEDOWN,SCARYFACE,PURSUIT,SWAGGER
+#-------------------------------
+[ELITEFOUR,Hiyuri,1]
+Pokemon = HAKUDRAGON,64
+    Moves = ICEBEAM,SURF,SIGNALBEAM,DOUBLETEAM
+Pokemon = KISAME2,63
+    Moves = ICEBEAM,SURF,SUPERSONIC,RAINDANCE
+Pokemon = PILOSWINE,63
+    Moves = BLIZZARD,EARTHQUAKE,DOUBLEEDGE,ROCKSLIDE
+Pokemon = AQUADBZ,66
+    Moves = ICEBEAM,PSYCHIC,LOVELYKISS,ATTRACT
+Pokemon = ESDEATH,66
+    Moves = ICEBEAM,SURF,PSYCHIC,THUNDER
+#-------------------------------
+[ELITEFOUR,Erwin,1]
+Pokemon = ASTROBOY,65
+    Moves = EARTHQUAKE,IRONTAIL,CRUNCH,ROCKTOMB
+Pokemon = TOPH,65
+    Moves = SKYUPPERCUT,MACHPUNCH,ROCKSLIDE,COUNTER
+Pokemon = MUSTANG,65
+    Moves = MEGAKICK,FORESIGHT,EARTHQUAKE,ROCKSLIDE
+Pokemon = ASTROBOY,66
+    Moves = EARTHQUAKE,IRONTAIL,CRUNCH,DRAGONBREATH
+Pokemon = SSJVEGETA,68
+    Moves = CROSSCHOP,EARTHQUAKE,BRICKBREAK,ROCKSLIDE
+#-------------------------------
+[ELITEFOUR,Blank,1]
+Pokemon = VASTOLORDE,66
+    Moves = SHADOWBALL,PSYCHIC,CONFUSERAY,HYPNOSIS
+Pokemon = ITACHI,66
+    Moves = SLUDGEBOMB,AIRCUTTER,SHADOWBALL,CONFUSERAY
+Pokemon = KYUBEY,65
+    Moves = SHADOWBALL,PSYCHIC,THUNDERBOLT,ATTRACT
+Pokemon = COCODEMON,68
+    Moves = SLUDGEBOMB,EARTHQUAKE,GIGADRAIN,DOUBLETEAM
+Pokemon = VASTOLORDE,70
+    Moves = SHADOWBALL,PSYCHIC,THUNDERBOLT,SLUDGEBOMB
+#-------------------------------
+[ELITEFOUR,Kaiba,2]
+Pokemon = TITANFORM,68
+    Moves = HYPERBEAM,DRAGONDANCE,EARTHQUAKE,THUNDERWAVE
+Pokemon = BEYESULT,66
+    Moves = HYPERBEAM,EARTHQUAKE,DRAGONCLAW,FLAMETHROWER
+Pokemon = DENJI,66
+    Moves = HYPERBEAM,DRAGONDANCE,SURF,ICEBEAM
+Pokemon = REIJU,70
+    Moves = HYPERBEAM,ANCIENTPOWER,AERIALACE,EARTHQUAKE
+Pokemon = BEYESULT,72
+    Moves = HYPERBEAM,OUTRAGE,THUNDERBOLT,ICEBEAM
+#-------------------------------
+[CHAMPION,Light,1]
+Pokemon = RYUK,83
+    Moves = BITE,DESTINYBOND,PURSUIT
+Pokemon = GILGAMESH,80
+    Moves = METEORMASH,SWORDSDANCE,SLASH
+Pokemon = GODSPEED,80
+    Moves = EXTREMESPEED,VOLTTACKLE,THUNDERBOLT
+Pokemon = THOUSANDHANDS,80
+    Moves = MUDDYWATER,FLAMETHROWER,SUBSTITUTE
+Pokemon = FRIEZA3,73
+    Moves = PSYCHIC,LIGHTSCREEN,AERIALACE
+Pokemon = KURAMAMODE,85
+    Moves = EXTREMESPEED,RECOVER
+#-------------------------------
+[CHAMPION,Light,2]
+Pokemon = RYUK,83
+    Moves = BITE,DESTINYBOND,PURSUIT
+Pokemon = GILGAMESH,80
+    Moves = SWORDSDANCE,METEORMASH,SLASH
+Pokemon = GODSPEED,80
+    Moves = EXTREMESPEED,VOLTTACKLE,THUNDERBOLT
+Pokemon = THOUSANDHANDS,80
+    Moves = MUDDYWATER,FLAMETHROWER,SUBSTITUTE
+Pokemon = FRIEZA3,80
+    Moves = PSYCHIC,AERIALACE,LIGHTSCREEN
+Pokemon = SSJGOKU,85
+    Moves = SUPERPOWER,AERIALACE
+#-------------------------------
+[CHAMPION,Light,3]
+Pokemon = RYUK,83
+    Moves = BITE,DESTINYBOND,PURSUIT
+Pokemon = GILGAMESH,80
+    Moves = SWORDSDANCE,METEORMASH,SLASH
+Pokemon = GODSPEED,80
+    Moves = EXTREMESPEED,VOLTTACKLE,THUNDERBOLT
+Pokemon = THOUSANDHANDS,80
+    Moves = MUDDYWATER,FLAMETHROWER,SUBSTITUTE
+Pokemon = FRIEZA3,80
+    Moves = PSYCHIC,AERIALACE,LIGHTSCREEN
+Pokemon = LUFFYGEAR4,85
+    Moves = DESTINYBOND,BOUNCE,FIREPUNCH
+#-------------------------------
+# Manually authored from user-supplied guide data (not ROM-extracted - DBZ's own
+# extraction pass never captured these two, see project notes). Held items (Senzu
+# on West Kai, Z-Drink/Full Heal on Babidi) are omitted - those item names don't
+# exist in any PBS items.txt yet and would need new item definitions; flagged as
+# a separate follow-up, not guessed at here. Movesets also omitted deliberately -
+# not given in the source data - so each Pokemon auto-selects its own level-up
+# moves already defined in pokemon.txt.
+[ELITEFOUR_Agatha,West Kai,900]
+Pokemon = PIKKON,54
+Pokemon = KIDBUU,54
+Pokemon = SPPICCOLO,53
+Pokemon = GARLIC2,56
+Pokemon = HIRUDEGARN2,58
+#-------------------------------
+[ELITEFOUR_Agatha,West Kai,901]
+Pokemon = PIKKON,66
+Pokemon = KIDBUU,66
+Pokemon = SPPICCOLO,65
+Pokemon = GARLIC2,68
+Pokemon = HIRUDEGARN2,70
+#-------------------------------
+[LEADER_Sabrina,Babidi,900]
+Pokemon = PUIPUI,37
+Pokemon = YAKON,38
+Pokemon = DABURA,40
+Pokemon = KIDBUU,45
+#-------------------------------

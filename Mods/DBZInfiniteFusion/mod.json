@@ -1,0 +1,12 @@
+{
+  "name": "DBZ Infinite Fusion Port",
+  "id": "DBZInfiniteFusion",
+  "version": "0.1.0",
+  "author": "nickohlmeier",
+  "description": ["Full map/event/trainer port from the standalone 'DBZ Infinite Fusion' game into the Multiverse Hub, plus the staged asset files (Graphics/Audio content differing from the host's own copy at the same path, each renamed with a 'dbz_' prefix to avoid collisions)."],
+  "tags": ["Content", "Assets", "Maps"],
+  "scripts": ["main.rb", "FusionMechanics.rb"],
+  "dependencies": ["MultiverseHub", "AnimeFusionMerge"],
+  "incompatible": [],
+  "settings": []
+}

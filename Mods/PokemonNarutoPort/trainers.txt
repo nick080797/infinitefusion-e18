@@ -1,0 +1,2966 @@
+[CLASS_2, ARCHIE, 0]
+Pokemon = SHIMAGERO,17
+Pokemon = TENTEN2,17
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,32
+Pokemon = KAWAKI,32
+
+[CLASS_3, GRUNT, 0]
+Pokemon = OBITON,30
+Pokemon = KAWAKI,30
+Pokemon = TENTEN1,30
+Pokemon = KAWAKI,30
+
+[CLASS_3, GRUNT, 0]
+Pokemon = TENTEN1,32
+Pokemon = OBITON,32
+
+[CLASS_3, GRUNT, 0]
+Pokemon = TENTEN1,33
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,37
+Pokemon = TENTEN1,37
+
+[CLASS_3, GRUNT, 0]
+Pokemon = TENTEN1,38
+
+[CLASS_12, KUROI, 0]
+Pokemon = DELTA,100
+Pokemon = KOJI,100
+Pokemon = JIGEN,100
+
+[CLASS_3, GRUNT, 0]
+Pokemon = UTAKATA,17
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,9
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,9
+Pokemon = KAWAKI,9
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,16
+Pokemon = KAWAKI,16
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,16
+Pokemon = KAWAKI,16
+
+[CLASS_3, GRUNT, 0]
+Pokemon = OBITON,20
+Pokemon = KAWAKI,20
+
+[CLASS_3, GRUNT, 0]
+Pokemon = OBITON,17
+Pokemon = KAWAKI,17
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,11
+
+[CLASS_3, GRUNT, 0]
+Pokemon = OBITON,27
+Pokemon = KAWAKI,27
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,27
+Pokemon = TENTEN1,27
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,26
+Pokemon = OBITON,26
+Pokemon = TENTEN1,26
+
+[CLASS_3, GRUNT, 0]
+Pokemon = TENTEN1,15
+
+[CLASS_3, GRUNT, 0]
+Pokemon = OBITON,14
+Pokemon = TENTEN1,14
+
+[CLASS_3, GRUNT, 0]
+Pokemon = UTAKATA,17
+
+[CLASS_3, GRUNT, 0]
+Pokemon = OBITON,30
+Pokemon = OBITON,30
+Pokemon = OBITON,30
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,31
+Pokemon = TENTEN1,31
+
+[CLASS_3, GRUNT, 0]
+Pokemon = TENTEN1,31
+Pokemon = TENTEN1,31
+
+[CLASS_3, GRUNT, 0]
+Pokemon = TENTEN1,28
+
+[CLASS_3, GRUNT, 0]
+Pokemon = KAWAKI,31
+Pokemon = TENTEN1,31
+Pokemon = TENTEN1,31
+
+[CLASS_3, GRUNT, 0]
+Pokemon = OBITON,33
+
+[CLASS_4, MATT, 0]
+Pokemon = TENTEN1,32
+Pokemon = KAWAKIA,32
+Pokemon = TENTEN2,32
+
+[CLASS_4, MATT, 0]
+Pokemon = TENTEN1,20
+Pokemon = KAWAKI,20
+Pokemon = TENTEN1,20
+
+[CLASS_4, SHELLY, 0]
+Pokemon = TENTEN1,28
+Pokemon = KAWAKIA,28
+
+[CLASS_4, SHELLY, 0]
+Pokemon = TENTEN2,38
+Pokemon = KAWAKIA,38
+
+[CLASS_2, ARCHIE, 0]
+Pokemon = KAWAKIA,41
+Pokemon = AOBA,41
+Pokemon = TENTEN2,43
+
+[CLASS_2, ARCHIE, 0]
+Pokemon = KAWAKIA,24
+Pokemon = TOBI,24
+Pokemon = TENTEN2,25
+
+[CLASS_5, DAISY, 0]
+Pokemon = HANZO,16
+
+[CLASS_5, ROSE, 0]
+Pokemon = INU6,16
+Pokemon = BIWA,16
+
+[CLASS_5, LILY, 0]
+Pokemon = INU4,17
+Pokemon = BIWA,17
+
+[CLASS_5, VIOLET, 0]
+Pokemon = SAI,25
+Pokemon = ZETSU2,25
+Pokemon = GOBY,25
+
+[CLASS_5, ROSE, 0]
+Pokemon = CHOCHO,26
+Pokemon = BIWA,26
+
+[CLASS_5, ROSE, 0]
+Pokemon = SASUKE2,28
+Pokemon = ZETSU2,28
+Pokemon = BIWA,28
+
+[CLASS_5, ROSE, 0]
+Pokemon = AOBA,31
+Pokemon = ZETSU2,31
+Pokemon = BIWA,31
+
+[CLASS_5, ROSE, 0]
+Pokemon = TSUNADE2,34
+Pokemon = ZETSU2,34
+Pokemon = BIWA,34
+
+[CLASS_6, DUSTY, 0]
+Pokemon = MANDA,24
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+
+[CLASS_6, CHIP, 0]
+Pokemon = AODA,28
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+Pokemon = AODA,28
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+Pokemon = MANDA,28
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+
+[CLASS_6, FOSTER, 0]
+Pokemon = AODA,26
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+Pokemon = MANDA,26
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+
+[CLASS_6, DUSTY, 0]
+Pokemon = MANDA,27
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+
+[CLASS_6, DUSTY, 0]
+Pokemon = MANDA,30
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+
+[CLASS_6, DUSTY, 0]
+Pokemon = MANDA,33
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+
+[CLASS_6, DUSTY, 0]
+Pokemon = MANDA,36
+    Moves = EXCAVAR,CUCHILLADA,LANZAARENA,MIASMA
+
+[CLASS_7, GABBY ? TY, 0]
+Pokemon = KONOHAMAR,19
+Pokemon = ANKO,19
+
+[CLASS_7, GABBY ? TY, 0]
+Pokemon = CHOJURO,27
+Pokemon = PAIN6,27
+
+[CLASS_7, GABBY ? TY, 0]
+Pokemon = KITSUNE,30
+Pokemon = HASHIRAMA2,30
+
+[CLASS_7, GABBY ? TY, 0]
+Pokemon = SHINNIO,33
+Pokemon = NEJI2,33
+
+[CLASS_7, GABBY ? TY, 0]
+Pokemon = SARUTOBI,36
+Pokemon = SHIN,36
+
+[CLASS_7, GABBY ? TY, 0]
+Pokemon = MINATO2,39
+Pokemon = GAMAKEN,39
+
+[CLASS_8, LOLA, 0]
+Pokemon = GUREN,13
+Pokemon = GUREN,13
+
+[CLASS_8, CARMEN, 0]
+Pokemon = KIN,27
+
+[CLASS_8, GWEN, 0]
+Pokemon = KIN,27
+
+[CLASS_8, LOLA, 0]
+Pokemon = KIN,26
+Pokemon = KIN,26
+
+[CLASS_8, LOLA, 0]
+Pokemon = KIN,29
+Pokemon = KIN,29
+
+[CLASS_8, LOLA, 0]
+Pokemon = KIN,32
+Pokemon = KIN,32
+
+[CLASS_8, LOLA, 0]
+Pokemon = ZAKU,35
+Pokemon = ZAKU,35
+
+[CLASS_9, RICKY, 0]
+Pokemon = NEJI,14
+    Moves = LANZAARENA,CABEZAZO,COLACORTADA,SURF
+
+[CLASS_9, SIMON, 0]
+Pokemon = GUREN,12
+Pokemon = KIN,12
+
+[CLASS_9, CHARLIE, 0]
+Pokemon = KIN,27
+
+[CLASS_9, RICKY, 0]
+Pokemon = NEJI2,27
+    Moves = LANZAARENA,PINMISIL,COLACORTADA,SURF
+
+[CLASS_9, RICKY, 0]
+Pokemon = NEJI2,30
+    Moves = LANZAARENA,PINMISIL,COLACORTADA,SURF
+
+[CLASS_9, RICKY, 0]
+Pokemon = NEJI2,33
+    Moves = LANZAARENA,PINMISIL,COLACORTADA,SURF
+
+[CLASS_9, RICKY, 0]
+Pokemon = NEJI2,36
+    Moves = LANZAARENA,PINMISIL,COLACORTADA,SURF
+
+[CLASS_10, RANDALL, 0]
+Pokemon = SAKON2,27
+
+[CLASS_10, PARKER, 0]
+Pokemon = NEJI2,27
+
+[CLASS_10, GEORGE, 0]
+Pokemon = NEJI2,27
+
+[CLASS_10, BERKE, 0]
+Pokemon = PAIN5,27
+
+[CLASS_10, CLYDE, 0]
+Pokemon = NANABY,29
+    Moves = FOCOENERGIA,ATAQUERAPIDO,ATAQUEALA,RECARGAS
+Pokemon = PAIN1,29
+    Moves = MORDISCO,EXCAVAR,FINTA,TUMBAARENA
+Pokemon = UTAKATA,29
+    Moves = DESENROLLAR,TORBELLINO,SOMBRAVIVA,PULSOAGUA
+Pokemon = BORUTOA,29
+    Moves = CHIDORI,SUPERSONICO,PARALIZADOR,BOMBASONICA
+Pokemon = LEEA,29
+    Moves = GIGADRENADO,FINTA,DOBLEEQUIPO,LOCURA
+
+[CLASS_10, VINCENT, 0]
+Pokemon = KURENAI,44
+Pokemon = MITSUKISM,44
+Pokemon = TENTEN2,44
+
+[CLASS_10, LEROY, 0]
+Pokemon = NARUTOH,46
+Pokemon = GINKAKU,46
+
+[CLASS_10, WILTON, 0]
+Pokemon = KAGUYA,18
+Pokemon = UTAKATA,18
+Pokemon = KIBA,18
+
+[CLASS_10, EDGAR, 0]
+Pokemon = KONAN2,44
+
+[CLASS_10, ALBERT, 0]
+Pokemon = KAGUYA2,43
+Pokemon = KIDOMARU2,43
+
+[CLASS_10, SAMUEL, 0]
+Pokemon = TEMARI2,42
+Pokemon = ITACHI2,42
+Pokemon = SAMUI,42
+
+[CLASS_10, VITO, 0]
+Pokemon = NANABY,42
+Pokemon = SAMUI,42
+Pokemon = KAGUYA2,42
+Pokemon = LEEA,42
+
+[CLASS_10, OWEN, 0]
+Pokemon = RIN,42
+Pokemon = SHINNIO,42
+Pokemon = TSUNADE2,42
+
+[CLASS_10, WILTON, 0]
+Pokemon = KAGUYA,26
+Pokemon = UTAKATA,26
+Pokemon = KIBA,26
+
+[CLASS_10, WILTON, 0]
+Pokemon = KAGUYA2,29
+Pokemon = UTAKATA,29
+Pokemon = KIBA,29
+
+[CLASS_10, WILTON, 0]
+Pokemon = KAGUYA2,32
+Pokemon = UTAKATA,32
+Pokemon = KIBA,32
+
+[CLASS_10, WILTON, 0]
+Pokemon = KAGUYA2,35
+Pokemon = UTAKATA,35
+Pokemon = KIBA2,35
+
+[CLASS_10, WARREN, 0]
+Pokemon = NARUTOR6,34
+Pokemon = NIBY,34
+Pokemon = KABUTO3,34
+
+[CLASS_10, MARY, 0]
+Pokemon = SAKON2,27
+
+[CLASS_10, LORI, 0]
+Pokemon = NEJI2,27
+
+[CLASS_10, JODY, 0]
+Pokemon = PAIN5,27
+
+[CLASS_10, WENDY, 0]
+Pokemon = NARUTOH,31
+    Moves = BASTON,FINTA,EMBRUJO,MORDISCO
+Pokemon = BIWA,31
+    Moves = MEGADRENADO,ENERGIBOLA,PRADO,HOJAAFILADA
+Pokemon = KISAMET,31
+    Moves = VUELO,PISTOLAAGUA,NIEBLA,PROTECCION
+
+[CLASS_10, ELAINE, 0]
+Pokemon = ITACHI2,45
+Pokemon = KAGUYA2,45
+
+[CLASS_10, BROOKE, 0]
+Pokemon = KISAME,18
+Pokemon = GEDOMAZO,18
+Pokemon = BIWA,18
+
+[CLASS_10, JENNIFER, 0]
+Pokemon = OYABIN,31
+
+[CLASS_10, HOPE, 0]
+Pokemon = BIWA,44
+
+[CLASS_10, SHANNON, 0]
+Pokemon = ICHIBY,44
+
+[CLASS_10, MICHELLE, 0]
+Pokemon = CHOZA,42
+Pokemon = MITSUKISM,42
+Pokemon = KABUTO3,42
+
+[CLASS_10, CAROLINE, 0]
+Pokemon = NARUTOH,43
+Pokemon = KURENAI,43
+
+[CLASS_10, JULIE, 0]
+Pokemon = MANDA,43
+Pokemon = YONBY,43
+
+[CLASS_10, BROOKE, 0]
+Pokemon = KISAME,26
+Pokemon = GEDOMAZO,26
+Pokemon = BIWA,26
+
+[CLASS_10, BROOKE, 0]
+Pokemon = KISAMET,29
+Pokemon = GEDOMAZO,29
+Pokemon = BIWA,29
+
+[CLASS_10, BROOKE, 0]
+Pokemon = KISAMET,32
+Pokemon = GEDOMAZO,32
+Pokemon = BIWA,32
+
+[CLASS_10, BROOKE, 0]
+Pokemon = KISAMET,34
+Pokemon = YUUBY,34
+Pokemon = BIWA,34
+
+[CLASS_11, PATRICIA, 0]
+Pokemon = TONERI2,42
+
+[CLASS_11, KINDRA, 0]
+Pokemon = SHISHUI,31
+Pokemon = TONERI,31
+
+[CLASS_11, TAMMY, 0]
+Pokemon = TOBIM,30
+Pokemon = SHISHUI,30
+
+[CLASS_11, VALERIE, 0]
+Pokemon = KURENAI,32
+
+[CLASS_11, TASHA, 0]
+Pokemon = TONERI,31
+Pokemon = SAMUI,31
+
+[CLASS_11, VALERIE, 0]
+Pokemon = KURENAI,35
+
+[CLASS_11, VALERIE, 0]
+Pokemon = SUSANOOS,37
+Pokemon = KURENAI,37
+
+[CLASS_11, VALERIE, 0]
+Pokemon = SUSANOOS,40
+Pokemon = KURENAI,40
+
+[CLASS_11, VALERIE, 0]
+Pokemon = SHISHUI,42
+Pokemon = KURENAI,42
+Pokemon = SUSANOOS2,42
+
+[CLASS_12, CINDY, 0]
+Pokemon = NEROJUTSU,7
+
+[CLASS_12, BRIANNA, 0]
+Pokemon = INOICHI,10
+    Moves = REDUCTOR,REPETIR
+Pokemon = FUU,10
+    Moves = ATAQUERAPIDO,GRUIDO
+
+[CLASS_12, CINDY, 0]
+Pokemon = NEJI,11
+    Moves = PLACAJE,COLACORTADA
+
+[CLASS_12, BRIANNA, 0]
+Pokemon = FUGUKI,41
+
+[CLASS_12, ANETTE, 0]
+Pokemon = BIWA,45
+
+[CLASS_12, CINDY, 0]
+Pokemon = OROCHI,27
+
+[CLASS_12, CINDY, 0]
+Pokemon = KABUTO2,30
+
+[CLASS_12, CINDY, 0]
+Pokemon = JIRAYAS,33
+
+[CLASS_12, CINDY, 0]
+Pokemon = ROCOBY,36
+
+[CLASS_13, MELISSA, 0]
+Pokemon = KIN,22
+
+[CLASS_13, SHEILA, 0]
+Pokemon = HAN,22
+
+[CLASS_13, SHIRLEY, 0]
+Pokemon = GEDOMAZO,22
+
+[CLASS_13, JESSICA, 0]
+Pokemon = RIN,30
+    Moves = CODAZO,LENGUETAZO,GOLPESFURIA,FINTA
+Pokemon = PAIN4,30
+    Moves = COLAVENENO,CHIRRIDO,MINIESPORA,TRITURAR
+
+[CLASS_13, CONNIE, 0]
+Pokemon = AMEYURI,40
+Pokemon = UTAKATA,40
+
+[CLASS_13, BRIDGET, 0]
+Pokemon = ZAKU,41
+
+[CLASS_13, OLIVIA, 0]
+Pokemon = KABUTO2,41
+    Moves = SONAMBULO,GOLPESFURIA,RONQUIDO,PISTOLAAGUA
+
+[CLASS_13, TIFFANY, 0]
+Pokemon = TENTEN1,39
+Pokemon = UTAKATA,39
+Pokemon = TENTEN2,39
+
+[CLASS_13, JESSICA, 0]
+Pokemon = RIN,33
+    Moves = CODAZO,LENGUETAZO,GOLPESFURIA,FINTA
+Pokemon = PAIN4,33
+    Moves = COLAVENENO,CHIRRIDO,MINIESPORA,TRITURAR
+
+[CLASS_13, JESSICA, 0]
+Pokemon = RIN,36
+    Moves = CODAZO,LENGUETAZO,GOLPESFURIA,FINTA
+Pokemon = PAIN4,36
+    Moves = COLAVENENO,CHIRRIDO,MINIESPORA,TRITURAR
+
+[CLASS_13, JESSICA, 0]
+Pokemon = RIN,39
+    Moves = CODAZO,LENGUETAZO,GOLPESFURIA,FINTA
+Pokemon = PAIN4,39
+    Moves = COLAVENENO,CHIRRIDO,MINIESPORA,TRITURAR
+
+[CLASS_13, JESSICA, 0]
+Pokemon = RIN,42
+    Moves = CODAZO,LENGUETAZO,GOLPESFURIA,FINTA
+Pokemon = PAIN4,42
+    Moves = COLAVENENO,CHIRRIDO,MINIESPORA,TRITURAR
+
+[CLASS_14, WINSTON, 0]
+Pokemon = NEJI,7
+
+[CLASS_14, GARRET, 0]
+Pokemon = ZAKU,45
+
+[CLASS_14, WINSTON, 0]
+Pokemon = NEJI2,27
+
+[CLASS_14, WINSTON, 0]
+Pokemon = NEJI2,30
+
+[CLASS_14, WINSTON, 0]
+Pokemon = NEJI2,33
+
+[CLASS_14, WINSTON, 0]
+Pokemon = NEJI2,36
+    Moves = GOLPESFURIA,BAOBARRO,ESQUIVAR,LANZAARENA
+
+[CLASS_15, STEVE, 0]
+Pokemon = ITACHI,20
+
+[CLASS_15, CHRIS, 0]
+Pokemon = ITACHI2,23
+
+[CLASS_15, MARK, 0]
+Pokemon = ITACHI2,32
+
+[CLASS_15, KENN, 0]
+Pokemon = ITACHI2,25
+
+[CLASS_15, STEVE, 0]
+Pokemon = ITACHI2,27
+
+[CLASS_15, STEVE, 0]
+Pokemon = ITACHI2,29
+Pokemon = SHINNIO,29
+
+[CLASS_15, STEVE, 0]
+Pokemon = ITACHI2,32
+Pokemon = SHINNIO,32
+
+[CLASS_15, STEVE, 0]
+Pokemon = ITACHI3,35
+Pokemon = SHIN,35
+
+[CLASS_16, LUIS, 0]
+Pokemon = TENTEN1,27
+
+[CLASS_16, AUSTIN, 0]
+Pokemon = INU5,25
+Pokemon = TSUNADE,25
+Pokemon = KISAME,25
+
+[CLASS_16, DOUGLAS, 0]
+Pokemon = TSUNADE,26
+Pokemon = TSUNADE,26
+
+[CLASS_16, DARRIN, 0]
+Pokemon = TSUNADE,27
+
+[CLASS_16, TONY, 0]
+Pokemon = TENTEN1,27
+
+[CLASS_16, JEROME, 0]
+Pokemon = TSUNADE,26
+Pokemon = KISAME,26
+
+[CLASS_16, MATTHEW, 0]
+Pokemon = TENTEN1,27
+
+[CLASS_16, DAVID, 0]
+Pokemon = KISAME,26
+Pokemon = TENTEN1,26
+
+[CLASS_16, SPENCER, 0]
+Pokemon = TSUNADE,33
+Pokemon = TSUNADE,33
+Pokemon = TSUNADE,33
+
+[CLASS_16, ROLAND, 0]
+Pokemon = TENTEN1,35
+
+[CLASS_16, CODY, 0]
+Pokemon = KINKAKU,34
+Pokemon = KISAME,34
+
+[CLASS_16, STAN, 0]
+Pokemon = HIDAN,35
+
+[CLASS_16, BARRY, 0]
+Pokemon = HEBIS,35
+
+[CLASS_16, DEAN, 0]
+Pokemon = TENTEN1,33
+Pokemon = KISAME,33
+Pokemon = TENTEN1,33
+
+[CLASS_16, RODNEY, 0]
+Pokemon = HIDAN,34
+Pokemon = HEBIS,34
+
+[CLASS_16, RICHARD, 0]
+Pokemon = KISAMET,35
+
+[CLASS_16, HERMAN, 0]
+Pokemon = UTAKATA,34
+Pokemon = TSUNADE2,34
+
+[CLASS_16, GILBERT, 0]
+Pokemon = TENTEN2,35
+
+[CLASS_16, FRANKLIN, 0]
+Pokemon = TSUNADE2,34
+Pokemon = CHOJI2,34
+
+[CLASS_16, DANNY, 0]
+Pokemon = TSUNADE2,37
+Pokemon = UTAKATA,37
+
+[CLASS_16, JACK, 0]
+Pokemon = KINKAKU,34
+Pokemon = HEBIS,34
+
+[CLASS_16, DUDLEY, 0]
+Pokemon = TSUNADE,33
+Pokemon = KISAME,33
+Pokemon = TSUNADE2,33
+
+[CLASS_16, CHAD, 0]
+Pokemon = KISAME,34
+Pokemon = UTAKATA,34
+
+[CLASS_16, TONY, 0]
+Pokemon = TENTEN2,30
+
+[CLASS_16, TONY, 0]
+Pokemon = TENTEN2,33
+
+[CLASS_16, TONY, 0]
+Pokemon = KINKAKU,34
+Pokemon = TENTEN2,36
+
+[CLASS_16, TONY, 0]
+Pokemon = GINKAKU,37
+Pokemon = TENTEN2,39
+
+[CLASS_17, HIDEKI, 0]
+Pokemon = SAKURA,14
+
+[CLASS_17, HITOSHI, 0]
+Pokemon = SAKURA2,34
+Pokemon = SAKURA2,34
+
+[CLASS_17, KIYO, 0]
+Pokemon = KIBA,33
+Pokemon = KIBA,33
+Pokemon = SAKURA2,33
+
+[CLASS_17, KOICHI, 0]
+Pokemon = SAKURA,26
+Pokemon = SAKURA2,26
+
+[CLASS_17, NOB, 0]
+Pokemon = FUGAKU,20
+
+[CLASS_17, NOB, 0]
+Pokemon = SHIN,27
+
+[CLASS_17, NOB, 0]
+Pokemon = KUSHINA,29
+Pokemon = SAKURA2,29
+
+[CLASS_17, NOB, 0]
+Pokemon = RAIKAGE2,31
+Pokemon = DEIDARA2,31
+Pokemon = SAMUI,31
+
+[CLASS_17, NOB, 0]
+Pokemon = DEIDARA2,33
+Pokemon = ROSHI,33
+Pokemon = SAKURA2,33
+Pokemon = SAKURA3,33
+
+[CLASS_17, YUJI, 0]
+Pokemon = KIBA,26
+Pokemon = SAKURA2,26
+
+[CLASS_17, DAISUKE, 0]
+Pokemon = SAKURA,19
+
+[CLASS_17, ATSUSHI, 0]
+Pokemon = KIBA,30
+Pokemon = SAKURA2,30
+Pokemon = KIBA2,30
+
+[CLASS_18, KIRK, 0]
+Pokemon = KAGUYA,18
+Pokemon = BORUTO,18
+
+[CLASS_18, SCOTT, 0]
+Pokemon = KAGUYA,19
+
+[CLASS_18, HARVEY, 0]
+Pokemon = BORUTO,18
+Pokemon = KAGUYA,18
+
+[CLASS_18, SHAWN, 0]
+Pokemon = RAIKAGE,17
+Pokemon = RAIKAGE,17
+Pokemon = RAIKAGE,17
+
+[CLASS_18, RANDY, 0]
+Pokemon = KAGUYA,13
+Pokemon = KAGUYA,13
+Pokemon = KAGUYA,13
+
+[CLASS_18, DALTON, 0]
+Pokemon = BORUTO,15
+Pokemon = SASORI,15
+Pokemon = BORUTO,15
+
+[CLASS_18, DALTON, 0]
+Pokemon = BORUTO,25
+Pokemon = SASORI,25
+Pokemon = BORUTO,25
+
+[CLASS_18, DALTON, 0]
+Pokemon = BORUTO,28
+Pokemon = SASORI2,28
+Pokemon = BORUTO,28
+
+[CLASS_18, DALTON, 0]
+Pokemon = BORUTOA,31
+Pokemon = SASORI2,31
+Pokemon = BORUTOA,31
+
+[CLASS_18, DALTON, 0]
+Pokemon = BORUTOA,34
+Pokemon = SASORI3,34
+Pokemon = BORUTOA,34
+
+[CLASS_19, COLE, 0]
+Pokemon = YUGITO,22
+Pokemon = YUGITO,22
+Pokemon = GEDOMAZO,22
+
+[CLASS_19, FLINT, 0]
+Pokemon = YUGITO,24
+
+[CLASS_19, AXLE, 0]
+Pokemon = GEDOMAZO,23
+Pokemon = YUGITO,23
+
+[CLASS_19, JAKE, 0]
+Pokemon = GEDOMAZO,24
+
+[CLASS_19, ANDY, 0]
+Pokemon = YUGITO,23
+Pokemon = GEDOMAZO,23
+
+[CLASS_19, BERNIE, 0]
+Pokemon = YUGITO,19
+Pokemon = KISAME,19
+
+[CLASS_19, BERNIE, 0]
+Pokemon = YUGITO,26
+Pokemon = KISAME,26
+
+[CLASS_19, BERNIE, 0]
+Pokemon = YUGITO,29
+Pokemon = KISAMET,29
+
+[CLASS_19, BERNIE, 0]
+Pokemon = YUGITO,32
+Pokemon = KISAMET,32
+
+[CLASS_19, BERNIE, 0]
+Pokemon = NIBY,35
+Pokemon = KISAMET,35
+
+[CLASS_20, DREW, 0]
+Pokemon = AODA,24
+    Moves = EXCAVAR,LANZAARENA,MIASMA,CUCHILLADA
+
+[CLASS_20, CLIFF, 0]
+Pokemon = GAARAN,22
+    Moves = PINCHOVELOZ,BARRO,PSICORAYO,TUMBAROCA
+Pokemon = AODA,22
+    Moves = MIASMA,LANZAARENA,ARAAZO,EXCAVAR
+Pokemon = GAARAN,22
+    Moves = PINCHOVELOZ,BARRO,PSICORAYO,TUMBAROCA
+
+[CLASS_20, LARRY, 0]
+Pokemon = NEJI,18
+Pokemon = LEE2,18
+
+[CLASS_20, SHANE, 0]
+Pokemon = AODA,19
+Pokemon = LEE2,19
+
+[CLASS_20, JUSTIN, 0]
+Pokemon = RIN,24
+
+[CLASS_20, ETHAN, 0]
+Pokemon = NEJI,21
+Pokemon = FUU,21
+
+[CLASS_20, JEFF, 0]
+Pokemon = FUU,9
+Pokemon = RIN,9
+
+[CLASS_20, TRAVIS, 0]
+Pokemon = AODA,19
+
+[CLASS_20, ETHAN, 0]
+Pokemon = NEJI,26
+Pokemon = FUU,26
+
+[CLASS_20, ETHAN, 0]
+Pokemon = NEJI2,29
+Pokemon = NANABY,29
+
+[CLASS_20, ETHAN, 0]
+Pokemon = AODA,31
+Pokemon = NANABY,31
+Pokemon = NEJI2,31
+
+[CLASS_20, ETHAN, 0]
+Pokemon = NANABY,34
+Pokemon = MANDA,34
+Pokemon = NEJI2,34
+
+[CLASS_21, BRENT, 0]
+Pokemon = JIRAYA,27
+
+[CLASS_21, DONALD, 0]
+Pokemon = INU1,25
+Pokemon = INU2,25
+Pokemon = INU3,25
+
+[CLASS_21, TAYLOR, 0]
+Pokemon = INU1,25
+Pokemon = OROCHIMARU,25
+Pokemon = OROCHI,25
+
+[CLASS_21, BRANDON, 0]
+Pokemon = JIRAYA,28
+Pokemon = JIRAYA,28
+Pokemon = JIRAYA,28
+
+[CLASS_21, DEREK, 0]
+Pokemon = DANZOU,15
+Pokemon = OROCHI,15
+Pokemon = INU3,15
+
+[CLASS_21, BRANDON, 0]
+Pokemon = JIRAYA,31
+Pokemon = JIRAYA,31
+Pokemon = JIRAYA,31
+
+[CLASS_21, BRANDON, 0]
+Pokemon = JIRAYA,34
+Pokemon = JIRAYA,34
+Pokemon = JIRAYAS,34
+
+[CLASS_21, BRANDON, 0]
+Pokemon = JIRAYA,36
+Pokemon = INU1,36
+Pokemon = JIRAYA,36
+Pokemon = JIRAYAS,36
+
+[CLASS_21, BRANDON, 0]
+Pokemon = JIRAYA,38
+Pokemon = OROCHI,38
+Pokemon = JIRAYA,38
+Pokemon = JIRAYAS,38
+Pokemon = INU3,38
+
+[CLASS_22, EDWARD, 0]
+Pokemon = OMOI,16
+    Moves = ACUMULAPODER
+
+[CLASS_22, PRESTON, 0]
+Pokemon = TOBI2,37
+
+[CLASS_22, VIRGIL, 0]
+Pokemon = TOBIM,36
+Pokemon = SAMUI,36
+
+[CLASS_22, FRITZ, 0]
+Pokemon = HANABI,35
+Pokemon = INOYIN,35
+Pokemon = SAMUI,35
+
+[CLASS_22, WILLIAM, 0]
+Pokemon = TOBIM,31
+Pokemon = TOBI2,31
+
+[CLASS_22, JOSHUA, 0]
+Pokemon = SAMUI,41
+Pokemon = YAMATO,41
+
+[CLASS_22, CAMERON, 0]
+Pokemon = SAMUI,31
+Pokemon = YAMATO,31
+
+[CLASS_22, CAMERON, 0]
+Pokemon = SAMUI,34
+Pokemon = YAMATO,34
+
+[CLASS_22, CAMERON, 0]
+Pokemon = SAMUI,37
+Pokemon = YAMATO,37
+
+[CLASS_22, CAMERON, 0]
+Pokemon = SAMUI,40
+Pokemon = YAMATO,40
+
+[CLASS_22, CAMERON, 0]
+Pokemon = YAMATO,43
+Pokemon = DARUI,43
+
+[CLASS_22, JACLYN, 0]
+Pokemon = OMOI,16
+    Moves = ACUMULAPODER
+
+[CLASS_22, HANNAH, 0]
+Pokemon = TOBIM,36
+Pokemon = TOBI2,36
+
+[CLASS_22, SAMANTHA, 0]
+Pokemon = HANABI2,37
+
+[CLASS_22, MAURA, 0]
+Pokemon = SAMUI,36
+Pokemon = TOBI2,36
+
+[CLASS_22, KAYLA, 0]
+Pokemon = SAMUI,32
+
+[CLASS_22, ALEXIS, 0]
+Pokemon = TOBI2,40
+Pokemon = HANABI2,40
+Pokemon = SAMUI,40
+
+[CLASS_22, JACKI, 0]
+Pokemon = SAMUI,31
+Pokemon = TOBIRAMA,31
+
+[CLASS_22, JACKI, 0]
+Pokemon = SAMUI,34
+Pokemon = TOBIRAMA,34
+
+[CLASS_22, JACKI, 0]
+Pokemon = SAMUI,37
+Pokemon = TOBIRAMA,37
+
+[CLASS_22, JACKI, 0]
+Pokemon = SAMUI,40
+Pokemon = TOBIRAMA,40
+
+[CLASS_22, JACKI, 0]
+Pokemon = TOBIRAMA,43
+Pokemon = DARUI,43
+
+[CLASS_23, WALTER, 0]
+Pokemon = KAGUYA2,31
+
+[CLASS_23, TUCKER, 0]
+Pokemon = KAGUYA2,44
+Pokemon = KAGUYA2,44
+
+[CLASS_23, THOMAS, 0]
+Pokemon = PAIN5,45
+
+[CLASS_23, WALTER, 0]
+Pokemon = KAGUYA2,34
+
+[CLASS_23, WALTER, 0]
+Pokemon = NEJI2,36
+    Moves = CABEZAZO,LANZAARENA,ESQUIVAR,GOLPESFURIA
+Pokemon = KAGUYA2,36
+    Moves = ATAQUERAPIDO,CHISPA,ESQUIVAR,RUGIDO
+
+[CLASS_23, WALTER, 0]
+Pokemon = NEJI2,39
+    Moves = CABEZAZO,LANZAARENA,ESQUIVAR,GOLPESFURIA
+Pokemon = KAGUYA2,39
+    Moves = ATAQUERAPIDO,CHISPA,ESQUIVAR
+
+[CLASS_23, WALTER, 0]
+Pokemon = NEJI2,41
+    Moves = CABEZAZO,LANZAARENA,ESQUIVAR,GOLPESFURIA
+Pokemon = SUIGETSU,41
+    Moves = GOLPESFURIA,DESACTIVAR,CONFUSION,PISCOARRIBA
+Pokemon = KAGUYA2,41
+    Moves = ATAQUERAPIDO,CHISPA,ESQUIVAR,RUGIDO
+
+[CLASS_24, CAOS, 0]
+Pokemon = SUSANOOMA,50
+Pokemon = YUUBY,50
+Pokemon = JIRAYAS,50
+Pokemon = SASORI3,50
+Pokemon = KAKASHI,50
+
+[CLASS_24, GREEN, 0]
+Pokemon = SHIKAMARU3,48
+Pokemon = KINSHIKI,49
+Pokemon = KURENAI,50
+Pokemon = URASHIKI,50
+Pokemon = OBITO6C,51
+
+[CLASS_24, PROFE, 0]
+Pokemon = PAIN3,50
+Pokemon = PAIN1,50
+Pokemon = PAIN2,52
+Pokemon = PAIN4,52
+Pokemon = PAIN5,53
+
+[CLASS_24, LOCO, 0]
+Pokemon = MOMOSHIKI3,52
+Pokemon = MADARA6C,54
+Pokemon = ZETSU3,53
+Pokemon = JUGO2,53
+Pokemon = NAGATO2,55
+
+[CLASS_25, SIRVIENTE, 0]
+Pokemon = HAKU,18
+Pokemon = ZABUZA2,18
+
+[CLASS_25, CAZADOR, 0]
+Pokemon = OROCHI,19
+Pokemon = MITSUKISM,19
+
+[CLASS_25, LA RATA, 0]
+Pokemon = OYABIN,22
+Pokemon = MANDA,25
+Pokemon = KATSUYU,23
+
+[CLASS_25, PERLA, 0]
+Pokemon = CODE,26
+Pokemon = KAKUZU3,26
+Pokemon = KONAN2,28
+
+[CLASS_25, YAMA, 0]
+Pokemon = ITACHI3,30
+Pokemon = SUSANOOV,34
+Pokemon = SUSANOOS2,36
+
+[CLASS_25, YELLOW, 0]
+Pokemon = MINATO3,37
+Pokemon = HIDANR,37
+Pokemon = BORUTOA,39
+Pokemon = ADA,40
+
+[CLASS_25, GRAN DUO, 0]
+Pokemon = N4COLAS,45
+Pokemon = N6COLAS,45
+
+[CLASS_25, PLATA, 0]
+Pokemon = NARUTOTG,40
+Pokemon = BORUTOK2,42
+Pokemon = ASURA,44
+Pokemon = KAGUYA2,45
+Pokemon = INDRA,50
+
+[CLASS_26, JERRY, 0]
+Pokemon = TOBIM,10
+
+[CLASS_26, TED, 0]
+Pokemon = MADARA2,17
+
+[CLASS_26, PAUL, 0]
+Pokemon = INOICHI,15
+Pokemon = ZETSU1,15
+Pokemon = KISAME,15
+
+[CLASS_26, JERRY, 0]
+Pokemon = KUSHINA,26
+Pokemon = MITSUKI,26
+
+[CLASS_26, JERRY, 0]
+Pokemon = TOBI2,29
+Pokemon = MITSUKI,29
+
+[CLASS_26, JERRY, 0]
+Pokemon = TOBI2,32
+Pokemon = GAMASHUSI,32
+
+[CLASS_26, JERRY, 0]
+Pokemon = ZABUZA,34
+Pokemon = TONERI2,34
+Pokemon = MITSUKISM,34
+
+[CLASS_26, KAREN, 0]
+Pokemon = HAN,9
+Pokemon = SASORI,9
+
+[CLASS_26, GEORGIA, 0]
+Pokemon = HAN,16
+Pokemon = INU3,16
+
+[CLASS_26, KAREN, 0]
+Pokemon = HAN,26
+Pokemon = SASORI,26
+
+[CLASS_26, KAREN, 0]
+Pokemon = HAN,29
+Pokemon = SASORI2,29
+
+[CLASS_26, KAREN, 0]
+Pokemon = GOBY,32
+Pokemon = SASORI2,32
+
+[CLASS_26, KAREN, 0]
+Pokemon = GOBY,35
+Pokemon = SASORI3,35
+
+[CLASS_27, KATE ? JOY, 0]
+Pokemon = PAKUN,30
+Pokemon = SUSANOOV,32
+
+[CLASS_27, ANNA ? MEG, 0]
+Pokemon = NEJI,16
+    Moves = GRUIDO,COLACORTADA,CABEZAZO,ESQUIVAR
+Pokemon = KIBA,18
+    Moves = PLACAJE,FOCOENERGIA,GOLPIZA
+
+[CLASS_27, ANNA ? MEG, 0]
+Pokemon = LEE,26
+Pokemon = PAIN2,28
+
+[CLASS_27, ANNA ? MEG, 0]
+Pokemon = ICHIBY,29
+Pokemon = SUSANOOS2,31
+
+[CLASS_27, ANNA ? MEG, 0]
+Pokemon = NEJI2,32
+    Moves = GRUIDO,COLACORTADA,CABEZAZO,ESQUIVAR
+Pokemon = KIBA,34
+    Moves = PLACAJE,FOCOENERGIA,GOLPIZA
+
+[CLASS_27, ANNA ? MEG, 0]
+Pokemon = NEJI2,35
+    Moves = GRUIDO,COLACORTADA,CABEZAZO,ESQUIVAR
+Pokemon = KIBA2,37
+    Moves = PLACAJE,FOCOENERGIA,GOLPIZA
+
+[CLASS_28, VICTOR, 0]
+Pokemon = FUU,16
+Pokemon = NEJI,16
+
+[CLASS_29, MIGUEL, 0]
+Pokemon = SAKON,16
+
+[CLASS_29, COLTON, 0]
+Pokemon = SAKON,22
+    Moves = ASISTENTE,REDUCTOR,FINTA,CAMPANACURA
+Pokemon = SAKON,36
+    Moves = ASISTENTE,REDUCTOR,FINTA,CAMPANACURA
+Pokemon = SAKON,40
+    Moves = ASISTENTE,REDUCTOR,FINTA,CAMPANACURA
+Pokemon = SAKON,12
+    Moves = ASISTENTE,REDUCTOR,FINTA,CAMPANACURA
+Pokemon = SAKON,30
+    Moves = ASISTENTE,REDUCTOR,FINTA,CAMPANACURA
+Pokemon = SAKON2,42
+    Moves = ASISTENTE,REDUCTOR,FINTA,CAMPANACURA
+
+[CLASS_29, MIGUEL, 0]
+Pokemon = SAKON,27
+
+[CLASS_29, MIGUEL, 0]
+Pokemon = SAKON,30
+
+[CLASS_29, MIGUEL, 0]
+Pokemon = SAKON2,33
+
+[CLASS_29, MIGUEL, 0]
+Pokemon = SAKON2,36
+
+[CLASS_28, VICTORIA, 0]
+Pokemon = BIWA,17
+
+[CLASS_29, VANESSA, 0]
+Pokemon = MINATO2,31
+
+[CLASS_29, MARISSA, 0]
+Pokemon = GUREN,36
+Pokemon = KIN,38
+Pokemon = ZAKU,40
+
+[CLASS_29, ISABEL, 0]
+Pokemon = SASUKEA,15
+Pokemon = PAIN2,15
+
+[CLASS_29, ISABEL, 0]
+Pokemon = SASUKEA,26
+Pokemon = PAIN2,26
+
+[CLASS_29, ISABEL, 0]
+Pokemon = SASUKEA,29
+Pokemon = PAIN2,29
+
+[CLASS_29, ISABEL, 0]
+Pokemon = SASUKEA,32
+Pokemon = PAIN2,32
+
+[CLASS_29, ISABEL, 0]
+Pokemon = SASUKEA,35
+Pokemon = PAIN2,35
+
+[CLASS_30, TIMOTHY, 0]
+Pokemon = KIBA2,28
+
+[CLASS_30, TIMOTHY, 0]
+Pokemon = KIBA2,31
+    Moves = GOLPIZA,APAGON,LANZAARENA,EXCAVAR
+
+[CLASS_30, TIMOTHY, 0]
+Pokemon = KIBA2,34
+    Moves = GOLPIZA,APAGON,LANZAARENA,EXCAVAR
+
+[CLASS_30, TIMOTHY, 0]
+Pokemon = KIBA2,37
+    Moves = GOLPIZA,CAMPANAZO,LANZAARENA,EXCAVAR
+
+[CLASS_30, TIMOTHY, 0]
+Pokemon = KIBA2,40
+    Moves = GOLPIZA,CAMPANAZO,LANZAARENA,EXCAVAR
+
+[CLASS_28, VICKY, 0]
+Pokemon = MITSUKI,18
+    Moves = GOLPETRASERO,MEDITAR,CONFUSION,DETECTAR
+
+[CLASS_30, SHELBY, 0]
+Pokemon = MITSUKI,22
+Pokemon = KIBA,22
+
+[CLASS_30, SHELBY, 0]
+Pokemon = MITSUKI,30
+Pokemon = KIBA,30
+
+[CLASS_30, SHELBY, 0]
+Pokemon = MITSUKISM,33
+Pokemon = KIBA2,33
+
+[CLASS_30, SHELBY, 0]
+Pokemon = MITSUKISM,36
+Pokemon = KIBA2,36
+
+[CLASS_30, SHELBY, 0]
+Pokemon = MITSUKISM,39
+Pokemon = KIBA2,39
+
+[CLASS_31, CALVIN, 0]
+Pokemon = NEJI,5
+
+[CLASS_31, BILLY, 0]
+Pokemon = LEE,6
+Pokemon = FUU,8
+
+[CLASS_31, JOSH, 0]
+Pokemon = NARUTOB,10
+    Moves = PLACAJE
+Pokemon = NARUTOB,8
+    Moves = PLACAJE
+Pokemon = NARUTOB,6
+    Moves = PLACAJE
+
+[CLASS_31, TOMMY, 0]
+Pokemon = NARUTOB,11
+
+[CLASS_31, JOEY, 0]
+Pokemon = NEJI,8
+Pokemon = SAKURA,10
+
+[CLASS_31, BEN, 0]
+Pokemon = NEJI,19
+    Moves = CABEZAZO,LANZAARENA,GRUIDO,CHIDORI
+
+[CLASS_31, KEVIN, 0]
+Pokemon = DANZOU,9
+Pokemon = DANZOU,9
+
+[CLASS_31, NEAL, 0]
+Pokemon = PAIN1,18
+Pokemon = NEJI2,20
+
+[CLASS_31, DILLON, 0]
+Pokemon = ITACHI,20
+
+[CLASS_31, CALVIN, 0]
+Pokemon = NEJI2,27
+
+[CLASS_31, CALVIN, 0]
+Pokemon = NANABY,28
+Pokemon = NEJI2,30
+
+[CLASS_31, CALVIN, 0]
+Pokemon = NANABY,31
+Pokemon = NEJI2,33
+
+[CLASS_31, CALVIN, 0]
+Pokemon = NANABY,34
+Pokemon = SHIKAMARU2,32
+Pokemon = NEJI2,36
+
+[CLASS_31, EDDIE, 0]
+Pokemon = NEJI,14
+Pokemon = NEJI,16
+
+[CLASS_31, ALLEN, 0]
+Pokemon = KAWAKI,5
+Pokemon = FUU,3
+
+[CLASS_31, TIMMY, 0]
+Pokemon = KAWAKI,12
+Pokemon = ITACHI,16
+Pokemon = KAGUYA,14
+
+[CLASS_32, CHECHU, 0]
+Pokemon = HAGOROMO,60
+Pokemon = ISSHIKI,65
+Pokemon = SKURAMA,70
+Pokemon = NBARYON,80
+Pokemon = MSUSANOO,80
+Pokemon = NARUTOA6,85
+
+[CLASS_33, ANDREW, 0]
+Pokemon = INU5,5
+Pokemon = TSUNADE,10
+Pokemon = INU5,15
+
+[CLASS_33, IVAN, 0]
+Pokemon = INU5,6
+Pokemon = INU5,6
+Pokemon = INU5,6
+
+[CLASS_33, CLAUDE, 0]
+Pokemon = AMEYURI,16
+Pokemon = AMEYURI,16
+Pokemon = KILLERBEE,18
+Pokemon = AMEYURI,16
+
+[CLASS_33, ELLIOT, 0]
+Pokemon = INU5,11
+Pokemon = TSUNADE,8
+Pokemon = INU5,11
+
+[CLASS_33, NED, 0]
+Pokemon = TSUNADE,12
+
+[CLASS_33, DALE, 0]
+Pokemon = TSUNADE,12
+Pokemon = UTAKATA,15
+Pokemon = TSUNADE,9
+Pokemon = TSUNADE,12
+
+[CLASS_33, NOLAN, 0]
+Pokemon = KILLERBEE,20
+
+[CLASS_33, BARNY, 0]
+Pokemon = TENTEN1,26
+Pokemon = TENTEN1,26
+
+[CLASS_33, WADE, 0]
+Pokemon = TENTEN1,17
+
+[CLASS_33, CARTER, 0]
+Pokemon = TSUNADE,23
+Pokemon = TSUNADE,24
+Pokemon = UTAKATA,24
+Pokemon = TSUNADE,25
+
+[CLASS_33, ELLIOT, 0]
+Pokemon = TSUNADE,24
+Pokemon = HEBIS,27
+Pokemon = HEBIS,27
+
+[CLASS_33, ELLIOT, 0]
+Pokemon = HEBIS,29
+Pokemon = TENTEN1,26
+Pokemon = TSUNADE,26
+Pokemon = HEBIS,29
+
+[CLASS_33, ELLIOT, 0]
+Pokemon = HEBIS,31
+Pokemon = TENTEN1,30
+Pokemon = TSUNADE2,30
+Pokemon = HEBIS,31
+
+[CLASS_33, ELLIOT, 0]
+Pokemon = HEBIS,33
+Pokemon = TENTEN2,33
+Pokemon = HEBIS,33
+Pokemon = TSUNADE2,35
+
+[CLASS_33, RONALD, 0]
+Pokemon = HEBIS,34
+Pokemon = HEBIS,29
+Pokemon = HEBIS,25
+Pokemon = HEBIS,22
+Pokemon = HEBIS,20
+Pokemon = INU5,19
+
+[CLASS_34, JACOB, 0]
+Pokemon = RAIKAGE,7
+Pokemon = RAIKAGE,7
+Pokemon = BORUTO,15
+
+[CLASS_34, ANTHONY, 0]
+Pokemon = BORUTO,16
+Pokemon = BORUTO,16
+
+[CLASS_34, BENJAMIN, 0]
+Pokemon = BORUTO,17
+
+[CLASS_34, BENJAMIN, 0]
+Pokemon = BORUTO,28
+
+[CLASS_34, BENJAMIN, 0]
+Pokemon = BORUTO,31
+
+[CLASS_34, BENJAMIN, 0]
+Pokemon = BORUTOA,34
+
+[CLASS_34, BENJAMIN, 0]
+Pokemon = BORUTOA,37
+
+[CLASS_34, ABIGAIL, 0]
+Pokemon = BORUTO,17
+
+[CLASS_34, JASMINE, 0]
+Pokemon = BORUTO,15
+Pokemon = BORUTO,15
+Pokemon = RAIKAGE,7
+
+[CLASS_34, ABIGAIL, 0]
+Pokemon = BORUTO,28
+
+[CLASS_34, ABIGAIL, 0]
+Pokemon = BORUTO,31
+
+[CLASS_34, ABIGAIL, 0]
+Pokemon = BORUTOA,34
+
+[CLASS_34, ABIGAIL, 0]
+Pokemon = BORUTOA,37
+
+[CLASS_34, DYLAN, 0]
+Pokemon = TEMARI,18
+
+[CLASS_34, DYLAN, 0]
+Pokemon = TEMARI,28
+
+[CLASS_34, DYLAN, 0]
+Pokemon = TEMARI,31
+
+[CLASS_34, DYLAN, 0]
+Pokemon = TEMARI2,34
+
+[CLASS_34, DYLAN, 0]
+Pokemon = TEMARI2,37
+
+[CLASS_34, MARIA, 0]
+Pokemon = TEMARI,18
+
+[CLASS_34, MARIA, 0]
+Pokemon = TEMARI,28
+
+[CLASS_34, MARIA, 0]
+Pokemon = TEMARI,31
+
+[CLASS_34, MARIA, 0]
+Pokemon = TEMARI2,34
+
+[CLASS_34, MARIA, 0]
+Pokemon = TEMARI2,37
+
+[CLASS_34, CALEB, 0]
+Pokemon = KINKAKU,33
+Pokemon = KINKAKU,33
+Pokemon = KINKAKU,33
+Pokemon = KINKAKU,33
+
+[CLASS_34, ISAIAH, 0]
+Pokemon = KINKAKU,36
+
+[CLASS_34, CHASE, 0]
+Pokemon = KISAME,27
+Pokemon = KINKAKU,35
+
+[CLASS_34, ISAIAH, 0]
+Pokemon = KINKAKU,39
+
+[CLASS_34, ISAIAH, 0]
+Pokemon = KINKAKU,42
+
+[CLASS_34, ISAIAH, 0]
+Pokemon = GINKAKU,45
+
+[CLASS_34, ISAIAH, 0]
+Pokemon = GINKAKU,48
+
+[CLASS_34, CONNOR, 0]
+Pokemon = KISAME,25
+Pokemon = KINKAKU,33
+Pokemon = KISAME,25
+Pokemon = KINKAKU,33
+
+[CLASS_34, KATELYN, 0]
+Pokemon = KINKAKU,36
+
+[CLASS_34, ALLISON, 0]
+Pokemon = KISAME,25
+Pokemon = KISAME,25
+Pokemon = KINKAKU,33
+Pokemon = KISAME,25
+
+[CLASS_34, KATELYN, 0]
+Pokemon = KINKAKU,39
+
+[CLASS_34, KATELYN, 0]
+Pokemon = KINKAKU,42
+
+[CLASS_34, KATELYN, 0]
+Pokemon = GINKAKU,45
+
+[CLASS_34, KATELYN, 0]
+Pokemon = GINKAKU,48
+
+[CLASS_35, NICOLAS, 0]
+Pokemon = KYUBI,38
+Pokemon = KYUBI,38
+
+[CLASS_35, NICOLAS, 0]
+Pokemon = KYUBI,41
+Pokemon = KYUBI,41
+
+[CLASS_35, NICOLAS, 0]
+Pokemon = KYUBI,44
+Pokemon = KYUBI,44
+
+[CLASS_35, NICOLAS, 0]
+Pokemon = MADARA,46
+Pokemon = KYUBI,46
+Pokemon = KYUBI,46
+
+[CLASS_35, NICOLAS, 0]
+Pokemon = KYUBI,49
+Pokemon = KYUBI,49
+Pokemon = MADARA2,49
+
+[CLASS_35, AARON, 0]
+Pokemon = MADARA,35
+
+[CLASS_36, PERRY, 0]
+Pokemon = KISAME,27
+
+[CLASS_36, HUGH, 0]
+Pokemon = NANABY,27
+
+[CLASS_36, PHIL, 0]
+Pokemon = FUU,25
+Pokemon = KISAME,25
+Pokemon = NANABY,25
+
+[CLASS_36, JARED, 0]
+Pokemon = TEMARI,30
+
+[CLASS_36, TANNER, 0]
+Pokemon = N6COLAS,30
+Pokemon = N6COLAS,30
+Pokemon = KISAME,30
+
+[CLASS_36, WILL, 0]
+Pokemon = KISAME,28
+Pokemon = NANABY,28
+Pokemon = KISAMET,28
+
+[CLASS_36, COLIN, 0]
+Pokemon = HANABI,29
+Pokemon = NANABY,29
+
+[CLASS_36, ROBERT, 0]
+Pokemon = N6COLAS,30
+
+[CLASS_36, BENNY, 0]
+Pokemon = NANABY,36
+Pokemon = KISAMET,36
+Pokemon = HANABI2,36
+
+[CLASS_36, CHESTER, 0]
+Pokemon = FUU,26
+Pokemon = NANABY,26
+
+[CLASS_36, ROBERT, 0]
+Pokemon = HANABI,32
+Pokemon = N6COLAS,32
+
+[CLASS_36, ROBERT, 0]
+Pokemon = HANABI,35
+Pokemon = KYUBI,35
+
+[CLASS_36, ROBERT, 0]
+Pokemon = HANABI,38
+Pokemon = KYUBI,38
+
+[CLASS_36, ROBERT, 0]
+Pokemon = KYUBI,41
+Pokemon = HANABI2,41
+
+[CLASS_36, ALEX, 0]
+Pokemon = HANABI,32
+Pokemon = KISAME,32
+Pokemon = NANABY,32
+Pokemon = KISAMET,32
+
+[CLASS_36, BECK, 0]
+Pokemon = KISAMET,34
+Pokemon = KISAMET,34
+
+[CLASS_37, YASU, 0]
+Pokemon = DANZOU2,27
+
+[CLASS_37, TAKASHI, 0]
+Pokemon = DANZOU,25
+Pokemon = YAGURA,25
+Pokemon = DANZOU2,25
+
+[CLASS_37, MAKOTO, 0]
+Pokemon = DANZOU2,23
+
+[CLASS_37, HIDEO, 0]
+Pokemon = DANZOU2,20
+Pokemon = KARASU,20
+Pokemon = PAIN1,20
+Pokemon = DANZOU2,20
+
+[CLASS_37, LAO, 0]
+Pokemon = YAGURA,17
+    Moves = GASVENENO,PLACAJE,RESIDUOS,ADESTRUCION
+Pokemon = YAGURA,17
+    Moves = GASVENENO,PLACAJE,RESIDUOS
+Pokemon = YAGURA,17
+    Moves = GASVENENO,PLACAJE,RESIDUOS,ADESTRUCION
+Pokemon = YAGURA,19
+    Moves = PLACAJE,RESIDUOS
+
+[CLASS_37, LUNG, 0]
+Pokemon = DANZOU,19
+Pokemon = DANZOU2,19
+
+[CLASS_37, LAO, 0]
+Pokemon = YAGURA,24
+    Moves = GASVENENO,PLACAJE,VENENOX,ADESTRUCION
+Pokemon = YAGURA,24
+    Moves = GASVENENO,PLACAJE,VENENOX
+Pokemon = YAGURA,24
+    Moves = GASVENENO,PLACAJE,VENENOX,ADESTRUCION
+Pokemon = YAGURA,26
+    Moves = PLACAJE,VENENOX
+
+[CLASS_37, LAO, 0]
+Pokemon = YAGURA,27
+    Moves = GASVENENO,PLACAJE,VENENOX,ADESTRUCION
+Pokemon = YAGURA,27
+    Moves = GASVENENO,PLACAJE,VENENOX,ADESTRUCION
+Pokemon = YAGURA,27
+    Moves = GASVENENO,PLACAJE,VENENOX
+Pokemon = YAGURA,29
+    Moves = PLACAJE,VENENOX
+
+[CLASS_37, LAO, 0]
+Pokemon = YAGURA,30
+    Moves = GASVENENO,PLACAJE,VENENOX
+Pokemon = YAGURA,30
+    Moves = GASVENENO,PLACAJE,VENENOX
+Pokemon = YAGURA,30
+    Moves = GASVENENO,PLACAJE,VENENOX
+Pokemon = YAGURA,32
+    Moves = PLACAJE,VENENOX
+
+[CLASS_37, LAO, 0]
+Pokemon = YAGURA,33
+    Moves = GASVENENO,PLACAJE,VENENOX
+Pokemon = YAGURA,33
+    Moves = GASVENENO,PLACAJE,VENENOX,ADESTRUCION
+Pokemon = YAGURA,33
+    Moves = GASVENENO,PLACAJE,VENENOX,ADESTRUCION
+Pokemon = SAMBY,35
+    Moves = PLACAJE,VENENOX
+
+[CLASS_38, TESSA, 0]
+Pokemon = MITSUKI,12
+Pokemon = SAKURA,12
+Pokemon = MITSUKI,12
+
+[CLASS_38, LAURA, 0]
+Pokemon = MITSUKI,14
+
+[CLASS_38, CYNDY, 0]
+Pokemon = MITSUKI,19
+Pokemon = KIBA,19
+
+[CLASS_38, CORA, 0]
+Pokemon = MITSUKI,27
+
+[CLASS_38, JILL, 0]
+Pokemon = GOBY,27
+
+[CLASS_38, CYNDY, 0]
+Pokemon = MITSUKI,26
+Pokemon = KIBA,26
+
+[CLASS_38, CYNDY, 0]
+Pokemon = MITSUKI,29
+Pokemon = KIBA,29
+
+[CLASS_38, CYNDY, 0]
+Pokemon = MITSUKISM,32
+Pokemon = KIBA2,32
+
+[CLASS_38, CYNDY, 0]
+Pokemon = MITSUKISM,35
+Pokemon = KIBA2,35
+
+[CLASS_39, MADELINE, 0]
+Pokemon = GEDOMAZO,20
+    Moves = ASCUAS,PLACAJE,MAGNITUD,DIASOLEADO
+
+[CLASS_39, CLARISSA, 0]
+Pokemon = AMEYURI,29
+Pokemon = UTAKATA,29
+
+[CLASS_39, ANGELICA, 0]
+Pokemon = KUROZETSU,30
+
+[CLASS_39, MADELINE, 0]
+Pokemon = GEDOMAZO,27
+    Moves = ASCUAS,PLACAJE,MAGNITUD,DIASOLEADO
+
+[CLASS_39, MADELINE, 0]
+Pokemon = GEDOMAZO,30
+    Moves = ASCUAS,GOLPEBAJO,MAGNITUD,DIASOLEADO
+
+[CLASS_39, MADELINE, 0]
+Pokemon = BIWA,32
+    Moves = HOJAAFILADA,MEGADRENADO,PRADO,DIASOLEADO
+Pokemon = GEDOMAZO,32
+    Moves = LANZALLAMAS,GOLPEBAJO,MAGNITUD,DIASOLEADO
+
+[CLASS_39, MADELINE, 0]
+Pokemon = BIWA,35
+    Moves = HOJAAFILADA,GIGADRENADO,RAYOSOLAR,DIASOLEADO
+Pokemon = YUUBY,35
+    Moves = LANZALLAMAS,GOLPEBAJO,TERREMOTO,DIASOLEADO
+
+[CLASS_40, BEVERLY, 0]
+Pokemon = UTAKATA,26
+Pokemon = UTAKATA,26
+
+[CLASS_40, DAWN, 0]
+Pokemon = KIN,27
+
+[CLASS_40, NICOLE, 0]
+Pokemon = UTAKATA,27
+
+[CLASS_40, DENISE, 0]
+Pokemon = KISAME,27
+
+[CLASS_40, BETH, 0]
+Pokemon = KIN,25
+Pokemon = AMEYURI,25
+Pokemon = KISAME,25
+
+[CLASS_40, TARA, 0]
+Pokemon = HIDAN,26
+Pokemon = KIN,26
+
+[CLASS_40, MISSY, 0]
+Pokemon = AMEYURI,24
+Pokemon = KISAME,24
+Pokemon = KIN,24
+Pokemon = UTAKATA,24
+
+[CLASS_40, ALICE, 0]
+Pokemon = AMEYURI,25
+Pokemon = KISAME,25
+Pokemon = AMEYURI,25
+
+[CLASS_40, JENNY, 0]
+Pokemon = UTAKATA,35
+
+[CLASS_40, GRACE, 0]
+Pokemon = KIN,33
+Pokemon = UTAKATA,33
+Pokemon = KISAME,33
+
+[CLASS_40, TANYA, 0]
+Pokemon = MIZUKAGE,35
+
+[CLASS_40, SHARON, 0]
+Pokemon = AMEYURI,34
+Pokemon = FUGUKI,34
+
+[CLASS_40, NIKKI, 0]
+Pokemon = KIN,32
+Pokemon = UTAKATA,32
+Pokemon = CHOJI,32
+
+[CLASS_40, BRENDA, 0]
+Pokemon = AMEYURI,35
+
+[CLASS_40, KATIE, 0]
+Pokemon = AMEYURI,33
+Pokemon = INU6,33
+Pokemon = CHOJI,33
+
+[CLASS_40, SUSIE, 0]
+Pokemon = HIDAN,33
+Pokemon = UTAKATA,33
+Pokemon = KISAMET,33
+
+[CLASS_40, KARA, 0]
+Pokemon = FUGUKI,35
+
+[CLASS_40, DANA, 0]
+Pokemon = KIN,33
+Pokemon = MIZUKAGE,33
+Pokemon = ZAKU,33
+
+[CLASS_40, ERIN, 0]
+Pokemon = UTAKATA,38
+
+[CLASS_40, DEBRA, 0]
+Pokemon = AMEYURI,34
+Pokemon = FUGUKI,34
+
+[CLASS_40, LINDA, 0]
+Pokemon = HIDAN,34
+Pokemon = HIDANR,34
+
+[CLASS_40, KAYLEE, 0]
+Pokemon = INU7,34
+Pokemon = KISAMET,34
+
+[CLASS_40, LAUREL, 0]
+Pokemon = MIZUKAGE,33
+Pokemon = MIZUKAGE,33
+Pokemon = MIZUKAGE,33
+
+[CLASS_40, DARCY, 0]
+Pokemon = AMEYURI,13
+
+[CLASS_40, JENNY, 0]
+Pokemon = UTAKATA,38
+
+[CLASS_40, JENNY, 0]
+Pokemon = UTAKATA,41
+
+[CLASS_40, JENNY, 0]
+Pokemon = KINKAKU,43
+Pokemon = UTAKATA,43
+
+[CLASS_40, JENNY, 0]
+Pokemon = MIZUKAGE,45
+Pokemon = UTAKATA,45
+Pokemon = GINKAKU,45
+
+[CLASS_41, HEIDI, 0]
+Pokemon = AODA,23
+    Moves = EXCAVAR,LANZAARENA,MIASMA,CUCHILLADA
+Pokemon = GAARAN,23
+    Moves = PINCHOVELOZ,BARRO,PSICORAYO,TUMBAROCA
+
+[CLASS_41, BECKY, 0]
+Pokemon = AODA,24
+    Moves = LANZAARENA,MIASMA,CUCHILLADA,EXCAVAR
+
+[CLASS_41, CAROL, 0]
+Pokemon = FUU,18
+Pokemon = KABUTO2,18
+
+[CLASS_41, NANCY, 0]
+Pokemon = KIN,19
+Pokemon = KABUTO2,19
+
+[CLASS_41, MARTHA, 0]
+Pokemon = SAKON,23
+Pokemon = N6COLAS,23
+
+[CLASS_41, DIANA, 0]
+Pokemon = HAN,20
+Pokemon = ZETSU1,20
+Pokemon = N6COLAS,20
+
+[CLASS_41, NINA, 0]
+Pokemon = N6COLAS,9
+Pokemon = NEJI,9
+
+[CLASS_41, IRENE, 0]
+Pokemon = HAN,18
+Pokemon = KIN,18
+
+[CLASS_41, DIANA, 0]
+Pokemon = HAN,25
+Pokemon = ZETSU2,25
+Pokemon = N6COLAS,25
+
+[CLASS_41, DIANA, 0]
+Pokemon = GOBY,28
+Pokemon = ZETSU2,28
+Pokemon = N6COLAS,28
+
+[CLASS_41, DIANA, 0]
+Pokemon = GOBY,31
+Pokemon = ZETSU2,31
+Pokemon = N6COLAS,31
+
+[CLASS_41, DIANA, 0]
+Pokemon = GOBY,40
+Pokemon = ZETSU3,40
+Pokemon = KYUBI,40
+
+[CLASS_42, AMY ? LIV, 0]
+Pokemon = GARO,16
+Pokemon = SAKUMO,16
+
+[CLASS_42, AMY ? LIV, 0]
+Pokemon = SASUKEA,27
+Pokemon = PAIN2,27
+
+[CLASS_42, GINA ? MIA, 0]
+Pokemon = BEROJUTSU,8
+Pokemon = NEROJUTSU,8
+
+[CLASS_42, MIU ? YUKI, 0]
+Pokemon = INU3,27
+Pokemon = OROCHI,27
+
+[CLASS_42, AMY ? LIV, 0]
+Pokemon = YODO,9
+Pokemon = ARAYA,9
+
+[CLASS_42, GINA ? MIA, 0]
+Pokemon = SHISHUI,10
+    Moves = SOMBRA,DESACTIVAR
+Pokemon = HAN,10
+    Moves = ABSORBER,HOJAAFILADA
+
+[CLASS_42, AMY ? LIV, 0]
+Pokemon = SASUKEA,30
+Pokemon = PAIN2,30
+
+[CLASS_42, AMY ? LIV, 0]
+Pokemon = SASUKEA,33
+    Moves = CHISPA,CARGA,EMBRUJO,REFUERZO
+Pokemon = PAIN2,33
+    Moves = CHISPA,CARGA,REDUCTOR,REFUERZO
+
+[CLASS_42, AMY ? LIV, 0]
+Pokemon = SASUKEA,36
+    Moves = TRUENO,CARGA,EMBRUJO,REFUERZO
+Pokemon = PAIN2,36
+    Moves = TRUENO,CARGA,REDUCTOR,REFUERZO
+
+[CLASS_43, HUEY, 0]
+Pokemon = SAKURA,14
+
+[CLASS_43, EDMOND, 0]
+Pokemon = KISAME,12
+Pokemon = SAKURA,12
+Pokemon = KISAME,12
+
+[CLASS_43, ERNEST, 0]
+Pokemon = KISAME,33
+Pokemon = TSUNADE,33
+Pokemon = SAKURA2,33
+
+[CLASS_43, DWAYNE, 0]
+Pokemon = KISAME,11
+Pokemon = SAKURA,11
+Pokemon = TSUNADE,11
+
+[CLASS_43, PHILLIP, 0]
+Pokemon = TSUNADE2,44
+Pokemon = SAKURA2,44
+
+[CLASS_43, LEONARD, 0]
+Pokemon = SAKURA,43
+Pokemon = KISAMET,43
+Pokemon = SAKURA2,43
+
+[CLASS_43, DUNCAN, 0]
+Pokemon = UTAKATA,26
+Pokemon = SAKURA2,26
+
+[CLASS_43, ERNEST, 0]
+Pokemon = KISAME,36
+Pokemon = TSUNADE,36
+Pokemon = SAKURA2,36
+
+[CLASS_43, ERNEST, 0]
+Pokemon = KISAMET,39
+Pokemon = TSUNADE,39
+Pokemon = SAKURA2,39
+
+[CLASS_43, ERNEST, 0]
+Pokemon = KISAMET,42
+Pokemon = TSUNADE,42
+Pokemon = SAKURA2,42
+
+[CLASS_43, ERNEST, 0]
+Pokemon = KISAMET,45
+Pokemon = SAKURA2,45
+Pokemon = TSUNADE2,45
+
+[CLASS_44, SONNY, 0]
+Pokemon = CHOJI,35
+
+[CLASS_44, DONOVAN, 0]
+Pokemon = CHOJI,34
+Pokemon = CHOJI,34
+
+[CLASS_44, GERALD, 0]
+Pokemon = CHOJI,33
+Pokemon = CHOJI,33
+Pokemon = CHOJI,33
+
+[CLASS_44, KELVIN, 0]
+Pokemon = CHOJI,34
+Pokemon = CHOJI,34
+
+[CLASS_44, KODY, 0]
+Pokemon = CHOJI,33
+Pokemon = CHOJI,33
+Pokemon = CHOJI,33
+
+[CLASS_44, TEVIN, 0]
+Pokemon = CHOJI,35
+
+[CLASS_44, DAMON, 0]
+Pokemon = CHOJI,34
+Pokemon = CHOJI,34
+
+[CLASS_44, PABLO, 0]
+Pokemon = CHOJI,35
+
+[CLASS_45, EDWIN, 0]
+Pokemon = KABUTO2,14
+Pokemon = LEE2,14
+
+[CLASS_45, HECTOR, 0]
+Pokemon = PAIN5,20
+
+[CLASS_45, HECTOR, 0]
+Pokemon = PAIN4,20
+
+[CLASS_45, EDWIN, 0]
+Pokemon = KABUTO2,26
+Pokemon = LEE2,26
+
+[CLASS_45, EDWIN, 0]
+Pokemon = KABUTO2,29
+Pokemon = LEE2,29
+
+[CLASS_45, EDWIN, 0]
+Pokemon = KABUTO2,32
+Pokemon = LEE2,32
+
+[CLASS_45, EDWIN, 0]
+Pokemon = KABUTO3,35
+Pokemon = LEEA,35
+
+[CLASS_46, WALLY, 0]
+Pokemon = KYUBI,44
+    Moves = TAJOAEREO,PREVENCION,GARRADRAGON,DANZADRAGON
+Pokemon = SAKON2,43
+    Moves = CANTO,ASISTENTE,REDUCTOR,FINTA
+Pokemon = BIWA,44
+    Moves = ENERGIBOLA,HOJAAFILADA,GIGADRENADO,TOXICO
+Pokemon = BORUTOA,41
+    Moves = SUPERSONICO,CHIDORI,TRIATAQUE,CHIRRIDO
+Pokemon = OBITO6C,45
+    Moves = DOBLEEQUIPO,CALMA,PSIQUICO,CANTOFUTURO
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = GAARA,5
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = GEDOMAZO,18
+Pokemon = UTAKATA,18
+Pokemon = GAARA2,20
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = GEDOMAZO,29
+Pokemon = UTAKATA,29
+Pokemon = GAARA2,31
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = SASUKE,5
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = UTAKATA,18
+Pokemon = HAN,18
+Pokemon = SASUKE2,20
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = UTAKATA,29
+Pokemon = HAN,29
+Pokemon = SASUKE2,31
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = INO,5
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = HAN,18
+Pokemon = GEDOMAZO,18
+Pokemon = INO2,20
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = HAN,29
+Pokemon = GEDOMAZO,29
+Pokemon = INO2,31
+
+[CLASS_46, MAY, 0]
+Pokemon = GAARA,5
+
+[CLASS_46, MAY, 0]
+Pokemon = UTAKATA,18
+Pokemon = GEDOMAZO,18
+Pokemon = GAARA2,20
+
+[CLASS_46, MAY, 0]
+Pokemon = GEDOMAZO,29
+Pokemon = UTAKATA,29
+Pokemon = GAARA2,31
+
+[CLASS_46, MAY, 0]
+Pokemon = SASUKE,5
+
+[CLASS_46, MAY, 0]
+Pokemon = UTAKATA,18
+Pokemon = HAN,18
+Pokemon = SASUKE2,20
+
+[CLASS_46, MAY, 0]
+Pokemon = UTAKATA,29
+Pokemon = HAN,29
+Pokemon = SASUKE2,31
+
+[CLASS_46, MAY, 0]
+Pokemon = INO,5
+
+[CLASS_46, MAY, 0]
+Pokemon = HAN,18
+Pokemon = GEDOMAZO,18
+Pokemon = INO2,20
+
+[CLASS_46, MAY, 0]
+Pokemon = HAN,29
+Pokemon = GEDOMAZO,29
+Pokemon = INO2,31
+
+[CLASS_47, ISAAC, 0]
+Pokemon = SASORI,12
+Pokemon = NEJI,12
+Pokemon = ITACHI,12
+Pokemon = KAWAKI,12
+Pokemon = FUU,12
+Pokemon = KIBA,12
+
+[CLASS_47, RILEY, 0]
+Pokemon = NEJI,15
+Pokemon = PAKUN,15
+Pokemon = KAWAKI,15
+
+[CLASS_47, AIDAN, 0]
+Pokemon = LEE,13
+Pokemon = LEE2,13
+
+[CLASS_47, ISAAC, 0]
+Pokemon = SASORI2,22
+Pokemon = NEJI2,22
+Pokemon = ITACHI,22
+Pokemon = KAWAKIA,22
+Pokemon = NANABY,22
+Pokemon = KIBA,22
+
+[CLASS_47, ISAAC, 0]
+Pokemon = SASORI2,25
+Pokemon = NEJI2,25
+Pokemon = ITACHI,25
+Pokemon = KAWAKIA,25
+Pokemon = NANABY,25
+Pokemon = KIBA2,25
+
+[CLASS_47, ISAAC, 0]
+Pokemon = SASORI2,28
+Pokemon = NEJI2,28
+Pokemon = ITACHI,28
+Pokemon = KAWAKIA,28
+Pokemon = NANABY,28
+Pokemon = KIBA2,28
+
+[CLASS_47, ISAAC, 0]
+Pokemon = SASORI2,31
+Pokemon = NEJI2,31
+Pokemon = ITACHI2,31
+Pokemon = KAWAKIA,31
+Pokemon = NANABY,31
+Pokemon = KIBA2,31
+
+[CLASS_47, LYDIA, 0]
+Pokemon = KISAME,12
+Pokemon = HAN,12
+Pokemon = KIN,12
+Pokemon = BIWA,12
+Pokemon = SAKON,12
+Pokemon = AMEYURI,12
+
+[CLASS_47, ALEXIA, 0]
+Pokemon = KABUTO,13
+Pokemon = KABUTO2,13
+
+[CLASS_47, DANIELLE, 0]
+Pokemon = SAKON,24
+
+[CLASS_47, LYDIA, 0]
+Pokemon = KISAME,22
+Pokemon = HAN,22
+Pokemon = KIN,22
+Pokemon = BIWA,22
+Pokemon = SAKON,22
+Pokemon = AMEYURI,22
+
+[CLASS_47, LYDIA, 0]
+Pokemon = KISAMET,25
+Pokemon = GOBY,25
+Pokemon = KIN,25
+Pokemon = BIWA,25
+Pokemon = SAKON2,25
+Pokemon = AMEYURI,25
+
+[CLASS_47, LYDIA, 0]
+Pokemon = KISAMET,28
+Pokemon = GOBY,28
+Pokemon = KIN,28
+Pokemon = BIWA,28
+Pokemon = SAKON2,28
+Pokemon = AMEYURI,28
+
+[CLASS_47, LYDIA, 0]
+Pokemon = KISAMET,31
+Pokemon = GOBY,31
+Pokemon = ZAKU,31
+Pokemon = BIWA,31
+Pokemon = SAKON2,31
+Pokemon = FUGUKI,31
+
+[CLASS_48, JACKSON, 0]
+Pokemon = GOBY,28
+
+[CLASS_48, CARLOS, 0]
+Pokemon = LEE,29
+Pokemon = LEE2,29
+Pokemon = KABUTO2,29
+
+[CLASS_48, SEBASTIAN, 0]
+Pokemon = KONAN2,39
+
+[CLASS_48, JACKSON, 0]
+Pokemon = GOBY,31
+
+[CLASS_48, JACKSON, 0]
+Pokemon = GOBY,34
+
+[CLASS_48, JACKSON, 0]
+Pokemon = GOBY,37
+
+[CLASS_48, JACKSON, 0]
+Pokemon = RIN,39
+Pokemon = GOBY,39
+
+[CLASS_48, CATHERINE, 0]
+Pokemon = ZETSU2,27
+Pokemon = BIWA,27
+
+[CLASS_48, JENNA, 0]
+Pokemon = KABUTO,29
+Pokemon = KABUTO2,29
+Pokemon = LEE2,29
+
+[CLASS_48, SOPHIA, 0]
+Pokemon = N6COLAS,38
+Pokemon = BIWA,38
+
+[CLASS_48, CATHERINE, 0]
+Pokemon = ZETSU2,30
+Pokemon = BIWA,30
+
+[CLASS_48, CATHERINE, 0]
+Pokemon = ZETSU2,33
+Pokemon = BIWA,33
+
+[CLASS_48, CATHERINE, 0]
+Pokemon = ZETSU2,36
+Pokemon = BIWA,36
+
+[CLASS_48, CATHERINE, 0]
+Pokemon = KUSHINA,39
+Pokemon = BIWA,39
+
+[CLASS_49, BLACK, 0]
+Pokemon = NARUTOBM,17
+Pokemon = BORO,17
+
+[CLASS_50, GRUNT, 0]
+Pokemon = NIBY,32
+Pokemon = KAWAKI,32
+
+[CLASS_50, GRUNT, 0]
+Pokemon = OBITON,30
+Pokemon = KAWAKI,30
+Pokemon = GEDOMAZO,30
+Pokemon = KAWAKI,30
+
+[CLASS_50, GRUNT, 0]
+Pokemon = ENMA,32
+Pokemon = OBITON,32
+
+[CLASS_50, GRUNT, 0]
+Pokemon = JINPACHI,33
+
+[CLASS_50, GRUNT, 0]
+Pokemon = KAKUZU2,37
+Pokemon = GEDOMAZO,37
+
+[CLASS_50, GRUNT, 0]
+Pokemon = CHIYO,38
+
+[CLASS_50, GRUNT, 0]
+Pokemon = DANZOU2,36
+Pokemon = OBITON,36
+Pokemon = GEDOMAZO,36
+
+[CLASS_50, GRUNT, 0]
+Pokemon = GAARAN,17
+
+[CLASS_50, GRUNT, 0]
+Pokemon = HEBIS,9
+
+[CLASS_50, GRUNT, 0]
+Pokemon = MANDA,9
+Pokemon = KAMATARI,9
+
+[CLASS_50, GRUNT, 0]
+Pokemon = LEE,16
+Pokemon = GAI2,16
+
+[CLASS_50, GRUNT, 0]
+Pokemon = ARAYA,16
+Pokemon = KAWAKI,16
+
+[CLASS_50, GRUNT, 0]
+Pokemon = OBITON,20
+Pokemon = KAWAKI,20
+
+[CLASS_50, GRUNT, 0]
+Pokemon = OBITON,17
+Pokemon = KAWAKI,17
+
+[CLASS_50, GRUNT, 0]
+Pokemon = DEEPA,11
+
+[CLASS_50, GRUNT, 0]
+Pokemon = VICTOR,27
+Pokemon = KAWAKI,27
+
+[CLASS_50, GRUNT, 0]
+Pokemon = DEEPA2,27
+Pokemon = GEDOMAZO,27
+
+[CLASS_50, GRUNT, 0]
+Pokemon = MITO,26
+Pokemon = AMADOO,26
+Pokemon = GEDOMAZO,26
+
+[CLASS_50, GRUNT, 0]
+Pokemon = ASUMA,15
+
+[CLASS_50, GRUNT, 0]
+Pokemon = SANSHOUO,14
+Pokemon = CHOJI2,14
+
+[CLASS_50, GRUNT, 0]
+Pokemon = GAARAN,17
+
+[CLASS_50, GRUNT, 0]
+Pokemon = SAKURA2,30
+Pokemon = GAMAKEN,30
+Pokemon = SUIGETSU,30
+
+[CLASS_50, GRUNT, 0]
+Pokemon = NANABY,31
+Pokemon = GEDOMAZO,31
+
+[CLASS_50, GRUNT, 0]
+Pokemon = HIMAWARI,31
+Pokemon = GEDOMAZO,31
+
+[CLASS_50, GRUNT, 0]
+Pokemon = GEDOMAZO,28
+
+[CLASS_50, GRUNT, 0]
+Pokemon = ANKO,31
+Pokemon = HYB,31
+Pokemon = GEDOMAZO,31
+
+[CLASS_50, GRUNT, 0]
+Pokemon = OBITON,33
+
+[CLASS_51, TABITHA, 0]
+Pokemon = GARAGA,32
+Pokemon = AKITA,32
+Pokemon = INOICHI,32
+
+[CLASS_51, TABITHA, 0]
+Pokemon = GENGETSU,20
+Pokemon = MOEGI2,20
+Pokemon = SHISHUI,20
+
+[CLASS_51, COURTNEY, 0]
+Pokemon = CHOJIA,28
+Pokemon = SHIKAKU,28
+
+[CLASS_51, COURTNEY, 0]
+Pokemon = SASUKEA,38
+Pokemon = SUMIRE,38
+
+[CLASS_49, BLACK, 0]
+Pokemon = IWABE,41
+Pokemon = KARIN,41
+Pokemon = NARUTOH,43
+
+[CLASS_49, BLACK, 0]
+Pokemon = KYUBI,24
+Pokemon = KATASUKE,24
+Pokemon = SHINIGAMI,25
+
+[CLASS_52, TIANA, 0]
+Pokemon = NEJI,4
+Pokemon = NEJI,4
+
+[CLASS_52, HALEY, 0]
+Pokemon = KABUTO,7
+Pokemon = HAN,7
+
+[CLASS_52, JANICE, 0]
+Pokemon = KIN,10
+
+[CLASS_28, VIVI, 0]
+Pokemon = KIN,15
+Pokemon = HAN,15
+Pokemon = GEDOMAZO,15
+
+[CLASS_52, HALEY, 0]
+Pokemon = KABUTO2,26
+Pokemon = HAN,26
+
+[CLASS_52, HALEY, 0]
+Pokemon = KABUTO2,29
+Pokemon = GOBY,29
+
+[CLASS_52, HALEY, 0]
+Pokemon = KABUTO2,32
+Pokemon = GOBY,32
+
+[CLASS_52, HALEY, 0]
+Pokemon = NANABY,34
+Pokemon = KABUTO2,34
+Pokemon = GOBY,34
+
+[CLASS_52, SALLY, 0]
+Pokemon = ZETSU1,16
+
+[CLASS_52, ROBIN, 0]
+Pokemon = SAKON,14
+Pokemon = HAN,14
+Pokemon = KIN,14
+
+[CLASS_52, ANDREA, 0]
+Pokemon = MIZUKAGE,41
+
+[CLASS_52, CRISSY, 0]
+Pokemon = UTAKATA,40
+Pokemon = UTAKATA,40
+
+[CLASS_53, RICK, 0]
+Pokemon = INU1,4
+Pokemon = INU1,4
+
+[CLASS_53, LYLE, 0]
+Pokemon = INU1,3
+Pokemon = INU1,3
+Pokemon = INU1,3
+Pokemon = INU1,3
+Pokemon = INU1,3
+Pokemon = INU1,3
+
+[CLASS_53, JOSE, 0]
+Pokemon = INU1,8
+Pokemon = INU2,8
+Pokemon = DANZOU,8
+
+[CLASS_53, DOUG, 0]
+Pokemon = DANZOU,26
+Pokemon = DANZOU,26
+
+[CLASS_53, GREG, 0]
+Pokemon = TAYUYA2,26
+Pokemon = TAYUYA1,26
+
+[CLASS_53, KENT, 0]
+Pokemon = DANZOU2,26
+
+[CLASS_53, JAMES, 0]
+Pokemon = DANZOU,8
+
+[CLASS_53, JAMES, 0]
+Pokemon = DANZOU2,27
+
+[CLASS_53, JAMES, 0]
+Pokemon = OROCHI,29
+Pokemon = DANZOU2,29
+
+[CLASS_53, JAMES, 0]
+Pokemon = JIRAYA,31
+Pokemon = OROCHI,31
+Pokemon = DANZOU2,31
+
+[CLASS_53, JAMES, 0]
+Pokemon = JIRAYA,33
+Pokemon = DANZOU2,33
+Pokemon = OROCHI,33
+Pokemon = DANZOU2,33
+
+[CLASS_54, BRICE, 0]
+Pokemon = GEDOMAZO,18
+Pokemon = SAKURA,18
+
+[CLASS_54, TRENT, 0]
+Pokemon = NARUTOB,16
+Pokemon = NARUTOB,16
+Pokemon = NARUTOB,16
+Pokemon = NARUTOB,16
+
+[CLASS_54, LENNY, 0]
+Pokemon = SAKURA,19
+Pokemon = SAKURA,19
+
+[CLASS_54, LUCAS, 0]
+Pokemon = NARUTOB,18
+Pokemon = NARUTOB,18
+Pokemon = NARUTOB,18
+
+[CLASS_54, ALAN, 0]
+Pokemon = NARUTOB,22
+Pokemon = CHOZA,22
+Pokemon = NARUTOR6,22
+
+[CLASS_54, CLARK, 0]
+Pokemon = NARUTOB,8
+Pokemon = NARUTOB,8
+Pokemon = NARUTOB,8
+
+[CLASS_54, ERIC, 0]
+Pokemon = GAARAN,21
+Pokemon = GAARAN,21
+
+[CLASS_54, LUCAS, 0]
+Pokemon = UTAKATA,9
+    Moves = APLAUSO,PISTOLAAGUA
+
+[CLASS_54, MIKE, 0]
+Pokemon = KISAMET,10
+    Moves = TORNADO,GRUIDO
+Pokemon = KAWAKI,10
+    Moves = MORDISCO,CARASUSTO
+
+[CLASS_54, MIKE, 0]
+Pokemon = NARUTOB,16
+Pokemon = NARUTOB,16
+Pokemon = SAKURA,16
+
+[CLASS_54, TRENT, 0]
+Pokemon = NARUTOB,24
+Pokemon = NARUTOB,24
+Pokemon = NARUTOB,24
+Pokemon = NARUTOR6,24
+
+[CLASS_54, TRENT, 0]
+Pokemon = NARUTOB,27
+Pokemon = NARUTOB,27
+Pokemon = NARUTOR6,27
+Pokemon = NARUTOR6,27
+
+[CLASS_54, TRENT, 0]
+Pokemon = NARUTOB,30
+Pokemon = NARUTOR6,30
+Pokemon = NARUTOR6,30
+Pokemon = NARUTOR6,30
+
+[CLASS_54, TRENT, 0]
+Pokemon = NARUTOR6,33
+Pokemon = NARUTOR6,33
+Pokemon = NARUTOR6,33
+Pokemon = NARUTOA6,33
+
+[CLASS_55, DEZ ? LUKE, 0]
+Pokemon = SAKON2,32
+Pokemon = KAGUYA2,32
+
+[CLASS_55, LEA ? JED, 0]
+Pokemon = MIZUKAGE,45
+Pokemon = MIZUKAGE,45
+
+[CLASS_55, LOIS ? HAL, 0]
+Pokemon = TAYUYA2,27
+Pokemon = TAYUYA1,27
+
+[CLASS_55, LOIS ? HAL, 0]
+Pokemon = TAYUYA2,30
+Pokemon = TAYUYA1,30
+
+[CLASS_55, LOIS ? HAL, 0]
+Pokemon = TAYUYA2,33
+Pokemon = TAYUYA1,33
+
+[CLASS_55, LOIS ? HAL, 0]
+Pokemon = TAYUYA2,36
+Pokemon = TAYUYA1,36
+
+[CLASS_55, LOIS ? HAL, 0]
+Pokemon = TAYUYA2,39
+Pokemon = TAYUYA1,39
+
+[CLASS_13, JOHANNA, 0]
+Pokemon = AMEYURI,13
+
+[CLASS_10, ZANE, 0]
+Pokemon = RIN,24
+    Moves = LANZALLAMAS,GOLPESFURIA,FINTA,CODAZO
+
+[CLASS_38, VIVIAN, 0]
+Pokemon = MITSUKI,19
+    Moves = IMPACTO,DETECTAR,CONFUSION,PUOTRUENO
+
+[CLASS_38, SADIE, 0]
+Pokemon = MITSUKI,24
+    Moves = IMPACTO,DETECTAR,CONFUSION,PUOFUEGO
+
+[CLASS_37, HIDEO, 0]
+Pokemon = YAGURA,26
+    Moves = PLACAJE,ADESTRUCION,VENENOX,HUMO
+Pokemon = YAGURA,26
+    Moves = PLACAJE,GASVENENO,VENENOX,HUMO
+
+[CLASS_37, KEIGO, 0]
+Pokemon = YAGURA,29
+    Moves = GASVENENO,PLACAJE,VENENOX,HUMO
+Pokemon = DANZOU2,29
+    Moves = LANZAARENA,DOBLEEQUIPO,CORTEFURIA,DANZAESPADA
+
+[CLASS_37, TSUNAO, 0]
+Pokemon = DANZOU,28
+    Moves = CHUPAVIDA,GOLPESFURIA,MIRON,EXCAVAR
+Pokemon = YAGURA,28
+    Moves = PLACAJE,ADESTRUCION,VENENOX,HUMO
+Pokemon = DANZOU2,28
+    Moves = DOBLEEQUIPO,CORTEFURIA,CHIRRIDO,DANZAESPADA
+
+[CLASS_20, TERRELL, 0]
+Pokemon = FUU,29
+Pokemon = NANABY,29
+
+[CLASS_41, KYLEE, 0]
+Pokemon = N6COLAS,30
+
+[CLASS_46, WALLY, 0]
+Pokemon = TOBIM,16
+
+[CLASS_46, WALLY, 0]
+Pokemon = KYUBI,47
+    Moves = TAJOAEREO,PREVENCION,GARRADRAGON,DANZADRAGON
+Pokemon = SAKON2,46
+    Moves = CANTO,ASISTENTE,REDUCTOR,FINTA
+Pokemon = BIWA,47
+    Moves = ENERGIBOLA,HOJAAFILADA,GIGADRENADO,TOXICO
+Pokemon = BORUTOA,44
+    Moves = SUPERSONICO,CHIDORI,TRIATAQUE,CHIRRIDO
+Pokemon = OBITO6C,48
+    Moves = DOBLEEQUIPO,CALMA,PSIQUICO,CANTOFUTURO
+
+[CLASS_46, WALLY, 0]
+Pokemon = KYUBI,50
+    Moves = TAJOAEREO,PREVENCION,GARRADRAGON,DANZADRAGON
+Pokemon = SAKON2,49
+    Moves = CANTO,ASISTENTE,REDUCTOR,FINTA
+Pokemon = BIWA,50
+    Moves = ENERGIBOLA,HOJAAFILADA,GIGADRENADO,TOXICO
+Pokemon = BORUTOA,47
+    Moves = SUPERSONICO,CHIDORI,TRIATAQUE,CHIRRIDO
+Pokemon = OBITO6C,51
+    Moves = DOBLEEQUIPO,CALMA,PSIQUICO,CANTOFUTURO
+
+[CLASS_46, WALLY, 0]
+Pokemon = KYUBI,53
+    Moves = TAJOAEREO,PREVENCION,GARRADRAGON,DANZADRAGON
+Pokemon = SAKON2,52
+    Moves = CANTO,ASISTENTE,REDUCTOR,FINTA
+Pokemon = BIWA,53
+    Moves = ENERGIBOLA,HOJAAFILADA,GIGADRENADO,TOXICO
+Pokemon = BORUTOA,50
+    Moves = SUPERSONICO,CHIDORI,TRIATAQUE,CHIRRIDO
+Pokemon = OBITO6C,54
+    Moves = DOBLEEQUIPO,CALMA,PSIQUICO,CANTOFUTURO
+
+[CLASS_46, WALLY, 0]
+Pokemon = KYUBI,56
+    Moves = TAJOAEREO,PREVENCION,GARRADRAGON,DANZADRAGON
+Pokemon = SAKON2,55
+    Moves = CANTO,ASISTENTE,REDUCTOR,FINTA
+Pokemon = BIWA,56
+    Moves = ENERGIBOLA,HOJAAFILADA,GIGADRENADO,TOXICO
+Pokemon = BORUTOA,53
+    Moves = SUPERSONICO,CHIDORI,TRIATAQUE,CHIRRIDO
+Pokemon = OBITO6C,57
+    Moves = DOBLEEQUIPO,CALMA,PSIQUICO,CANTOFUTURO
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = NANABY,31
+Pokemon = GEDOMAZO,32
+Pokemon = UTAKATA,32
+Pokemon = GAARA2,34
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = NANABY,31
+Pokemon = UTAKATA,32
+Pokemon = HAN,32
+Pokemon = SASUKE2,34
+
+[CLASS_46, BRENDAN, 0]
+Pokemon = NANABY,31
+Pokemon = HAN,32
+Pokemon = GEDOMAZO,32
+Pokemon = INO2,34
+
+[CLASS_46, MAY, 0]
+Pokemon = NANABY,31
+Pokemon = GEDOMAZO,32
+Pokemon = UTAKATA,32
+Pokemon = GAARA2,34
+
+[CLASS_46, MAY, 0]
+Pokemon = NANABY,31
+Pokemon = UTAKATA,32
+Pokemon = HAN,32
+Pokemon = SASUKE2,34
+
+[CLASS_46, MAY, 0]
+Pokemon = NANABY,31
+Pokemon = HAN,32
+Pokemon = GEDOMAZO,32
+Pokemon = INO2,34
+
+[CLASS_33, JONAH, 0]
+Pokemon = UTAKATA,34
+Pokemon = TSUNADE,32
+Pokemon = UTAKATA,30
+Pokemon = TENTEN2,32
+
+[CLASS_33, HENRY, 0]
+Pokemon = TSUNADE,31
+Pokemon = TENTEN1,33
+Pokemon = TSUNADE2,35
+
+[CLASS_33, ROGER, 0]
+Pokemon = INU5,15
+Pokemon = INU5,25
+Pokemon = HEBIS,35
+Pokemon = INU5,45
+
+[CLASS_10, ALEXA, 0]
+Pokemon = ZETSU2,35
+Pokemon = ZAKU,35
+
+[CLASS_10, RUBEN, 0]
+Pokemon = LEEA,34
+Pokemon = NARUTOR6,34
+Pokemon = SASORI2,34
+
+[CLASS_17, KOJI, 0]
+Pokemon = SAKURA2,34
+Pokemon = SAKURA2,34
+
+[CLASS_33, WAYNE, 0]
+Pokemon = TSUNADE,30
+Pokemon = TSUNADE,30
+Pokemon = UTAKATA,35
+Pokemon = TSUNADE2,32
+
+[CLASS_36, BYRON, 0]
+Pokemon = NANABY,34
+Pokemon = KISAMET,34
+
+[CLASS_16, REED, 0]
+Pokemon = TENTEN1,32
+Pokemon = TENTEN1,32
+Pokemon = CHOJI,32
+Pokemon = TENTEN2,32
+
+[CLASS_40, TISHA, 0]
+Pokemon = INU6,33
+Pokemon = MIZUKAGE,33
+Pokemon = KISAMET,33
+
+[CLASS_42, TORI ? TIA, 0]
+Pokemon = SASORI,20
+Pokemon = SASORI,20
+
+[CLASS_27, KIM ? IRIS, 0]
+Pokemon = N6COLAS,34
+    Moves = CANTO,ATAQUEFURIA,PREVENCION,TAJOAEREO
+Pokemon = GEDOMAZO,36
+    Moves = LANZALLAMAS,GOLPEBAJO,RESTOS,TERREMOTO
+
+[CLASS_27, TYRA ? IVY, 0]
+Pokemon = BIWA,19
+    Moves = GRITO,ESPORAS,MEGADRENADO,HOJAAFILADA
+Pokemon = NARUTOR6,21
+    Moves = ESFERA,DESENROLLAR,BAOBARRO,PICOROCA
+
+[CLASS_55, MEL ? PAUL, 0]
+Pokemon = OROCHI,27
+    Moves = TORNADO,PSICORAYO,TOXICO,PROTECCION
+Pokemon = INU3,27
+    Moves = TORNADO,MEGADRENADO,ATRACCION,ESPORAS
+
+[CLASS_56, JOHN ? JAY, 0]
+Pokemon = MITSUKISM,40
+    Moves = PSIQUICO,PUOFUEGO,PISCOARRIBA,PROTECCION
+Pokemon = KIBA2,40
+    Moves = PUOSUPREMO,TUMBAROCA,RESTOS,CAMPANAZO
+
+[CLASS_56, JOHN ? JAY, 0]
+Pokemon = MITSUKISM,43
+    Moves = PSIQUICO,PUOFUEGO,PISCOARRIBA,PROTECCION
+Pokemon = KIBA2,43
+    Moves = PUOSUPREMO,TUMBAROCA,RESTOS,CAMPANAZO
+
+[CLASS_56, JOHN ? JAY, 0]
+Pokemon = MITSUKISM,46
+    Moves = PSIQUICO,PUOFUEGO,PISCOARRIBA,PROTECCION
+Pokemon = KIBA2,46
+    Moves = PUOSUPREMO,TUMBAROCA,RESTOS,CAMPANAZO
+
+[CLASS_56, JOHN ? JAY, 0]
+Pokemon = MITSUKISM,49
+    Moves = PSIQUICO,PUOFUEGO,PISCOARRIBA,PROTECCION
+Pokemon = KIBA2,49
+    Moves = PUOSUPREMO,TUMBAROCA,RESTOS,CAMPANAZO
+
+[CLASS_56, JOHN ? JAY, 0]
+Pokemon = MITSUKISM,52
+    Moves = PSIQUICO,PUOFUEGO,PISCOARRIBA,PROTECCION
+Pokemon = KIBA2,52
+    Moves = PUOSUPREMO,TUMBAROCA,RESTOS,CAMPANAZO
+
+[CLASS_57, RELI ? IAN, 0]
+Pokemon = ZAKU,36
+Pokemon = KISAME,34
+
+[CLASS_57, RITA ? SAM, 0]
+Pokemon = INU6,36
+Pokemon = TENTEN1,34
+
+[CLASS_57, RITA ? SAM, 0]
+Pokemon = INU6,42
+Pokemon = TENTEN1,40
+
+[CLASS_57, RITA ? SAM, 0]
+Pokemon = INU7,45
+Pokemon = TENTEN1,43
+
+[CLASS_57, RITA ? SAM, 0]
+Pokemon = INU7,48
+Pokemon = TENTEN2,46
+
+[CLASS_57, RITA ? SAM, 0]
+Pokemon = INU7,51
+Pokemon = TENTEN2,49
+
+[CLASS_57, LISA ? RAY, 0]
+Pokemon = AMEYURI,28
+Pokemon = TSUNADE,26

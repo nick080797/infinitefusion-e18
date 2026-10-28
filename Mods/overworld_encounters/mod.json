@@ -1,0 +1,268 @@
+{
+  "name": "Overworld Encounters",
+  "id": "overworld_encounters",
+  "version": "2.2.5",
+  "author": "jov4n",
+  "description": [
+    "Adds Pokemon that roam the overworld as visible encounters.",
+    "Features shiny spawns, fusion encounters, horde battles (2v1),",
+    "outbreak events with Shiny Panic, and highly configurable settings.",
+    "",
+    "Repo: github.com/jov4n/KurayOverworldEncounters"
+  ],
+  "tags": ["Gameplay", "Content"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [
+    {
+      "key": "voe_disable_settings",
+      "label": "Disable Encounters",
+      "type": "toggle",
+      "default": false,
+      "description": "Disable overworld encounters."
+    },
+    {
+      "key": "voe_log_spawns",
+      "label": "Log Spawns",
+      "type": "toggle",
+      "default": false,
+      "description": "Log encounter spawns to console."
+    },
+    {
+      "key": "voe_shiny_rate",
+      "label": "Shiny Rate (1/X)",
+      "type": "number",
+      "default": 8192,
+      "min": 1,
+      "max": 65536,
+      "description": "Chance denominator for shiny spawns."
+    },
+    {
+      "key": "voe_max_distance",
+      "label": "Spawn Distance",
+      "type": "slider",
+      "default": 12,
+      "min": 1,
+      "max": 20,
+      "description": "Maximum distance from player before despawn."
+    },
+    {
+      "key": "voe_delete_events",
+      "label": "Despawn Far Events",
+      "type": "toggle",
+      "default": true,
+      "description": "Remove events that are too far away."
+    },
+    {
+      "key": "voe_brt_shiny",
+      "label": "Bright Shinies",
+      "type": "toggle",
+      "default": true,
+      "description": "Shinies are unaffected by day/night tone."
+    },
+    {
+      "key": "voe_colorful_text",
+      "label": "Colorful Names",
+      "type": "toggle",
+      "default": true,
+      "description": "Use gender colors for Pokemon names."
+    },
+    {
+      "key": "voe_water_surf_only",
+      "label": "Water Spawns (Surf)",
+      "type": "toggle",
+      "default": true,
+      "description": "Only spawn water Pokemon when surfing."
+    },
+    {
+      "key": "voe_spawn_anim",
+      "label": "Spawn Animation ID",
+      "type": "number",
+      "default": 2,
+      "min": 0,
+      "max": 999,
+      "description": "Animation ID for spawning Pokemon."
+    },
+    {
+      "key": "voe_shiny_anim",
+      "label": "Shiny Animation ID",
+      "type": "number",
+      "default": 53,
+      "min": 0,
+      "max": 999,
+      "description": "Animation ID for shiny Pokemon."
+    },
+    {
+      "key": "voe_delete_shiny",
+      "label": "Despawn Shinies",
+      "type": "toggle",
+      "default": false,
+      "description": "Allow shiny Pokemon to despawn."
+    },
+    {
+      "key": "voe_diff_enc",
+      "label": "Different Encounters",
+      "type": "toggle",
+      "default": false,
+      "description": "Use different encounter tables."
+    },
+    {
+      "key": "voe_enc_table",
+      "label": "Encounter Table ID",
+      "type": "number",
+      "default": 1,
+      "min": 0,
+      "max": 10,
+      "description": "Encounter table index to use."
+    },
+    {
+      "key": "voe_max_encounters",
+      "label": "Max Encounters",
+      "type": "slider",
+      "default": 5,
+      "min": 1,
+      "max": 20,
+      "description": "Maximum Pokemon spawned on each map."
+    },
+    {
+      "key": "voe_fusion_encounters",
+      "label": "Fusion Encounters",
+      "type": "toggle",
+      "default": true,
+      "description": "Enable wild fusion encounters."
+    },
+    {
+      "key": "voe_fusion_rate",
+      "label": "Fusion Rate (1/X)",
+      "type": "number",
+      "default": 10,
+      "min": 1,
+      "max": 100,
+      "description": "Chance for encounter to be a fusion."
+    },
+    {
+      "key": "voe_horde_battles",
+      "label": "Horde Battles (2v1)",
+      "type": "toggle",
+      "default": true,
+      "description": "Nearby encounters team up against you."
+    },
+    {
+      "key": "voe_horde_distance",
+      "label": "Horde Distance",
+      "type": "slider",
+      "default": 2,
+      "min": 1,
+      "max": 5,
+      "description": "Max tiles apart for horde battle."
+    },
+    {
+      "key": "voe_spawn_on_load",
+      "label": "Spawn on Map Load",
+      "type": "toggle",
+      "default": false,
+      "description": "Spawn multiple encounters immediately when entering a map."
+    },
+    {
+      "key": "voe_initial_spawn_count",
+      "label": "Initial Spawn Count",
+      "type": "slider",
+      "default": 6,
+      "min": 1,
+      "max": 15,
+      "description": "Number of encounters to spawn when entering a map (if enabled)."
+    },
+    {
+      "key": "voe_outbreak_enabled",
+      "label": "Outbreak Events",
+      "type": "toggle",
+      "default": true,
+      "description": "Enable random outbreak events on maps."
+    },
+    {
+      "key": "voe_outbreak_duration",
+      "label": "Outbreak Duration",
+      "type": "enum",
+      "options": ["5 Minutes", "10 Minutes", "15 Minutes"],
+      "default": "10 Minutes",
+      "description": "How long outbreak events last."
+    },
+    {
+      "key": "voe_outbreak_type",
+      "label": "Outbreak Variety",
+      "type": "enum",
+      "options": ["Mixed Species", "Same Species"],
+      "default": "Mixed Species",
+      "description": "Pokemon variety during outbreaks."
+    },
+    {
+      "key": "voe_outbreak_shiny_mult",
+      "label": "Outbreak Shiny Rate",
+      "type": "slider",
+      "default": 1,
+      "min": 1,
+      "max": 10,
+      "description": "Shiny rate multiplier during outbreaks (1-10x)."
+    },
+    {
+      "key": "voe_outbreak_no_shiny_despawn",
+      "label": "No Shiny Despawn (Outbreak)",
+      "type": "toggle",
+      "default": true,
+      "description": "Prevent shiny despawn during outbreaks."
+    },
+    {
+      "key": "voe_outbreak_spawn_count",
+      "label": "Outbreak Initial Spawns",
+      "type": "slider",
+      "default": 6,
+      "min": 3,
+      "max": 12,
+      "description": "Pokemon spawned when outbreak starts."
+    },
+    {
+      "key": "voe_outbreak_max_override",
+      "label": "Outbreak Max Pokemon",
+      "type": "slider",
+      "default": 12,
+      "min": 5,
+      "max": 20,
+      "description": "Max encounters during an outbreak."
+    },
+    {
+      "key": "voe_outbreak_spawn_rate",
+      "label": "Outbreak Spawn Rate",
+      "type": "slider",
+      "default": 200,
+      "min": 50,
+      "max": 500,
+      "description": "Frames between spawns during outbreaks (Lower is faster)."
+    },
+    {
+      "key": "voe_outbreak_radius",
+      "label": "Outbreak Radius",
+      "type": "slider",
+      "default": 15,
+      "min": 5,
+      "max": 30,
+      "description": "Radius around the player where outbreak Pokemon appear."
+    },
+    {
+      "key": "voe_outbreak_shiny_panic",
+      "label": "Outbreak Shiny Panic",
+      "type": "toggle",
+      "default": true,
+      "description": "1/8096 chance to turn all spawns Shiny for 1 minute during outbreaks."
+    }
+  ],
+  "scripts": [
+    "000_VOE_Utils.rb",
+    "000b_VOE_Settings.rb",
+    "001_VOE_Config.rb",
+    "002_VOE_Pokemon Behavior.rb",
+    "003_VOE_Event Handlers.rb",
+    "004_VOE_Movement.rb",
+    "005_VOE_VersionManager.rb"
+  ],
+  "icon": "icon.png"
+}

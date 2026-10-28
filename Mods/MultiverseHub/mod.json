@@ -1,0 +1,12 @@
+{
+  "name": "Multiverse Hub",
+  "id": "MultiverseHub",
+  "version": "0.1.0",
+  "author": "nickohlmeier",
+  "description": ["Adds a 'Change Game' option to the PC that warps the player into a small hand-built 'gauntlet' zone for an integrated source game, populated with that game's real extracted content. Pilot: a two-battle Animon gauntlet (Naruto -> Kuramamode) using species already merged into AnimeFusionMerge. New maps are built as fully synthetic RPG::Map objects at runtime (no .rxdata files), following GhostBase_PlayerHousing's proven pattern, so nothing here touches any base game file."],
+  "tags": ["Content", "Maps", "PC"],
+  "dependencies": ["AnimeFusionMerge"],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["animon_species_pools.rb", "animon_species_bands.rb", "main.rb"]
+}

@@ -241,6 +241,11 @@ class PokemonPokedexInfo_Scene
 
   def setIconStatus(iconName, position, species_blacklist)
     sprite = @available[position]
+    # GHOST/QOL: @available can legitimately be empty (species with no
+    # registered alt sprites at all) - used to crash here with
+    # "undefined method 'type' for nil" the moment the Sprites page tried to
+    # refresh its icons. Just leave the icon in its default state instead.
+    return unless sprite
     if sprite.type == :AUTOGEN && @available.length == 1
       if @available.length > 1
         setBlacklistIconDisabled(iconName)
@@ -388,7 +393,11 @@ class PokemonPokedexInfo_Scene
   def get_pif_sprite(alt_letter, species = nil)
     species = @species unless species
     dex_number = getDexNumberForSpecies(species) #@species is a symbol when called from the summary screen and an int from the pokedex... Would be nice to refactor
-    if isFusion(dex_number)
+    if isTripleFusion?(dex_number)
+      pif_sprite = PIFSprite.new(:TRIPLE, dex_number, nil, alt_letter)
+      spritename = BattleSpriteLoader.new.get_triple_fusion_base_name(dex_number)
+      pif_sprite.local_path = "Graphics/Battlers/special/#{spritename}#{alt_letter}"
+    elsif isFusion(dex_number)
       body_id = getBodyID(dex_number)
       head_id = getHeadID(dex_number, body_id)
 
@@ -480,7 +489,7 @@ class PokemonPokedexInfo_Scene
 
   def list_pokemon_forms
     dexNum = dexNum(@species)
-    if dexNum > NB_POKEMON
+    if !is_reserved_standalone_dex?(dexNum) && dexNum > NB_POKEMON
       body_id = getBodyID(dexNum)
     else
       if @species.is_a?(Symbol)

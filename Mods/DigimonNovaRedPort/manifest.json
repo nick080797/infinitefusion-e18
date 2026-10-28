@@ -1,0 +1,3327 @@
+{
+ "name": "DigimonNovaRed",
+ "mod_name": "DigimonNovaRedPort",
+ "source_rom": "Digimon Nova Red 3.2 patch.gba",
+ "rom_meta": {
+  "title": "POKEMON FIRE",
+  "code": "BPRE",
+  "version": 1,
+  "base": "FireRed",
+  "size": 16777216,
+  "is_efrlg": true,
+  "is_fr10": false
+ },
+ "map_mode": "banked",
+ "map_id_base": 135285,
+ "tileset_id_base": 5845,
+ "flag_base": 476000,
+ "var_base": 476000,
+ "map_count": 425,
+ "tileset_pair_count": 60,
+ "game_key": "digimonnovared",
+ "start_map_id": 135286,
+ "start_spawn": [
+  7,
+  4,
+  2
+ ],
+ "seed_dynamic_warp": [
+  135294,
+  3,
+  3
+ ],
+ "map_names": {
+  "135286": "DigimonNovaRed 0-0",
+  "135287": "DigimonNovaRed 0-1",
+  "135288": "DigimonNovaRed 0-2",
+  "135289": "DigimonNovaRed 0-3",
+  "135290": "DigimonNovaRed 0-4",
+  "135291": "DigimonNovaRed 1-0",
+  "135292": "DigimonNovaRed 1-1",
+  "135293": "DigimonNovaRed 1-2",
+  "135294": "DigimonNovaRed 1-3",
+  "135295": "DigimonNovaRed 1-4",
+  "135296": "DigimonNovaRed 1-5",
+  "135297": "DigimonNovaRed 1-6",
+  "135298": "DigimonNovaRed 1-7",
+  "135299": "DigimonNovaRed 1-8",
+  "135300": "DigimonNovaRed 1-9",
+  "135301": "DigimonNovaRed 1-10",
+  "135302": "DigimonNovaRed 1-11",
+  "135303": "DigimonNovaRed 1-12",
+  "135304": "DigimonNovaRed 1-13",
+  "135305": "DigimonNovaRed 1-14",
+  "135306": "DigimonNovaRed 1-15",
+  "135307": "DigimonNovaRed 1-16",
+  "135308": "DigimonNovaRed 1-17",
+  "135309": "DigimonNovaRed 1-18",
+  "135310": "DigimonNovaRed 1-19",
+  "135311": "DigimonNovaRed 1-20",
+  "135312": "DigimonNovaRed 1-21",
+  "135313": "DigimonNovaRed 1-22",
+  "135314": "DigimonNovaRed 1-23",
+  "135315": "DigimonNovaRed 1-24",
+  "135316": "DigimonNovaRed 1-25",
+  "135317": "DigimonNovaRed 1-26",
+  "135318": "DigimonNovaRed 1-27",
+  "135319": "DigimonNovaRed 1-28",
+  "135320": "DigimonNovaRed 1-29",
+  "135321": "DigimonNovaRed 1-30",
+  "135322": "DigimonNovaRed 1-31",
+  "135323": "DigimonNovaRed 1-32",
+  "135324": "DigimonNovaRed 1-33",
+  "135325": "DigimonNovaRed 1-34",
+  "135326": "DigimonNovaRed 1-35",
+  "135327": "DigimonNovaRed 1-36",
+  "135328": "DigimonNovaRed 1-37",
+  "135329": "DigimonNovaRed 1-38",
+  "135330": "DigimonNovaRed 1-39",
+  "135331": "DigimonNovaRed 1-40",
+  "135332": "DigimonNovaRed 1-41",
+  "135333": "DigimonNovaRed 1-42",
+  "135334": "DigimonNovaRed 1-43",
+  "135335": "DigimonNovaRed 1-44",
+  "135336": "DigimonNovaRed 1-45",
+  "135337": "DigimonNovaRed 1-46",
+  "135338": "DigimonNovaRed 1-47",
+  "135339": "DigimonNovaRed 1-48",
+  "135340": "DigimonNovaRed 1-49",
+  "135341": "DigimonNovaRed 1-50",
+  "135342": "DigimonNovaRed 1-51",
+  "135343": "DigimonNovaRed 1-52",
+  "135344": "DigimonNovaRed 1-53",
+  "135345": "DigimonNovaRed 1-54",
+  "135346": "DigimonNovaRed 1-55",
+  "135347": "DigimonNovaRed 1-56",
+  "135348": "DigimonNovaRed 1-57",
+  "135349": "DigimonNovaRed 1-58",
+  "135350": "DigimonNovaRed 1-59",
+  "135351": "DigimonNovaRed 1-60",
+  "135352": "DigimonNovaRed 1-61",
+  "135353": "DigimonNovaRed 1-62",
+  "135354": "DigimonNovaRed 1-63",
+  "135355": "DigimonNovaRed 1-64",
+  "135356": "DigimonNovaRed 1-65",
+  "135357": "DigimonNovaRed 1-66",
+  "135358": "DigimonNovaRed 1-67",
+  "135359": "DigimonNovaRed 1-68",
+  "135360": "DigimonNovaRed 1-69",
+  "135361": "DigimonNovaRed 1-70",
+  "135362": "DigimonNovaRed 1-71",
+  "135363": "DigimonNovaRed 1-72",
+  "135364": "DigimonNovaRed 1-73",
+  "135365": "DigimonNovaRed 1-74",
+  "135366": "DigimonNovaRed 1-75",
+  "135367": "DigimonNovaRed 1-76",
+  "135368": "DigimonNovaRed 1-77",
+  "135369": "DigimonNovaRed 1-78",
+  "135370": "DigimonNovaRed 1-79",
+  "135371": "DigimonNovaRed 1-80",
+  "135372": "DigimonNovaRed 1-81",
+  "135373": "DigimonNovaRed 1-82",
+  "135374": "DigimonNovaRed 1-83",
+  "135375": "DigimonNovaRed 1-84",
+  "135376": "DigimonNovaRed 1-85",
+  "135377": "DigimonNovaRed 1-86",
+  "135378": "DigimonNovaRed 1-87",
+  "135379": "DigimonNovaRed 1-88",
+  "135380": "DigimonNovaRed 1-89",
+  "135381": "DigimonNovaRed 1-90",
+  "135382": "DigimonNovaRed 1-91",
+  "135383": "DigimonNovaRed 1-92",
+  "135384": "DigimonNovaRed 1-93",
+  "135385": "DigimonNovaRed 1-94",
+  "135386": "DigimonNovaRed 1-95",
+  "135387": "DigimonNovaRed 1-96",
+  "135388": "DigimonNovaRed 1-97",
+  "135389": "DigimonNovaRed 1-98",
+  "135390": "DigimonNovaRed 1-99",
+  "135391": "DigimonNovaRed 1-100",
+  "135392": "DigimonNovaRed 1-101",
+  "135393": "DigimonNovaRed 1-102",
+  "135394": "DigimonNovaRed 1-103",
+  "135395": "DigimonNovaRed 1-104",
+  "135396": "DigimonNovaRed 1-105",
+  "135397": "DigimonNovaRed 1-106",
+  "135398": "DigimonNovaRed 1-107",
+  "135399": "DigimonNovaRed 1-108",
+  "135400": "DigimonNovaRed 1-109",
+  "135401": "DigimonNovaRed 1-110",
+  "135402": "DigimonNovaRed 1-111",
+  "135403": "DigimonNovaRed 1-112",
+  "135404": "DigimonNovaRed 1-113",
+  "135405": "DigimonNovaRed 1-114",
+  "135406": "DigimonNovaRed 1-115",
+  "135407": "DigimonNovaRed 1-116",
+  "135408": "DigimonNovaRed 1-117",
+  "135409": "DigimonNovaRed 1-118",
+  "135410": "DigimonNovaRed 1-119",
+  "135411": "DigimonNovaRed 1-120",
+  "135412": "DigimonNovaRed 1-121",
+  "135413": "DigimonNovaRed 1-122",
+  "135414": "DigimonNovaRed 2-0",
+  "135415": "DigimonNovaRed 2-1",
+  "135416": "DigimonNovaRed 2-2",
+  "135417": "DigimonNovaRed 2-3",
+  "135418": "DigimonNovaRed 2-4",
+  "135419": "DigimonNovaRed 2-5",
+  "135420": "DigimonNovaRed 2-6",
+  "135421": "DigimonNovaRed 2-7",
+  "135422": "DigimonNovaRed 2-8",
+  "135423": "DigimonNovaRed 2-9",
+  "135424": "DigimonNovaRed 2-10",
+  "135425": "DigimonNovaRed 2-11",
+  "135426": "DigimonNovaRed 2-12",
+  "135427": "DigimonNovaRed 2-13",
+  "135428": "DigimonNovaRed 2-14",
+  "135429": "DigimonNovaRed 2-15",
+  "135430": "DigimonNovaRed 2-16",
+  "135431": "DigimonNovaRed 2-17",
+  "135432": "DigimonNovaRed 2-18",
+  "135433": "DigimonNovaRed 2-19",
+  "135434": "DigimonNovaRed 2-20",
+  "135435": "DigimonNovaRed 2-21",
+  "135436": "DigimonNovaRed 2-22",
+  "135437": "DigimonNovaRed 2-23",
+  "135438": "DigimonNovaRed 2-24",
+  "135439": "DigimonNovaRed 2-25",
+  "135440": "DigimonNovaRed 2-26",
+  "135441": "DigimonNovaRed 2-27",
+  "135442": "DigimonNovaRed 2-28",
+  "135443": "DigimonNovaRed 2-29",
+  "135444": "DigimonNovaRed 2-30",
+  "135445": "DigimonNovaRed 2-31",
+  "135446": "DigimonNovaRed 2-32",
+  "135447": "DigimonNovaRed 2-33",
+  "135448": "DigimonNovaRed 2-34",
+  "135449": "DigimonNovaRed 2-35",
+  "135450": "DigimonNovaRed 2-36",
+  "135451": "DigimonNovaRed 2-37",
+  "135452": "DigimonNovaRed 2-38",
+  "135453": "DigimonNovaRed 2-39",
+  "135454": "DigimonNovaRed 2-40",
+  "135455": "DigimonNovaRed 2-41",
+  "135456": "DigimonNovaRed 2-42",
+  "135457": "DigimonNovaRed 2-43",
+  "135458": "DigimonNovaRed 2-44",
+  "135459": "DigimonNovaRed 2-45",
+  "135460": "DigimonNovaRed 2-46",
+  "135461": "DigimonNovaRed 2-47",
+  "135462": "DigimonNovaRed 2-48",
+  "135463": "DigimonNovaRed 2-49",
+  "135464": "DigimonNovaRed 2-50",
+  "135465": "DigimonNovaRed 2-51",
+  "135466": "DigimonNovaRed 2-52",
+  "135467": "DigimonNovaRed 2-53",
+  "135468": "DigimonNovaRed 2-54",
+  "135469": "DigimonNovaRed 2-55",
+  "135470": "DigimonNovaRed 2-56",
+  "135471": "DigimonNovaRed 2-57",
+  "135472": "DigimonNovaRed 2-58",
+  "135473": "DigimonNovaRed 2-59",
+  "135474": "DigimonNovaRed 3-0",
+  "135475": "DigimonNovaRed 3-1",
+  "135476": "DigimonNovaRed 3-2",
+  "135477": "DigimonNovaRed 3-3",
+  "135478": "DigimonNovaRed 3-4",
+  "135479": "DigimonNovaRed 3-5",
+  "135480": "DigimonNovaRed 3-6",
+  "135481": "DigimonNovaRed 3-7",
+  "135482": "DigimonNovaRed 3-8",
+  "135483": "DigimonNovaRed 3-9",
+  "135484": "DigimonNovaRed 3-10",
+  "135485": "DigimonNovaRed 3-11",
+  "135486": "DigimonNovaRed 3-12",
+  "135487": "DigimonNovaRed 3-13",
+  "135488": "DigimonNovaRed 3-14",
+  "135489": "DigimonNovaRed 3-15",
+  "135490": "DigimonNovaRed 3-16",
+  "135491": "DigimonNovaRed 3-17",
+  "135492": "DigimonNovaRed 3-18",
+  "135493": "DigimonNovaRed 3-19",
+  "135494": "DigimonNovaRed 3-20",
+  "135495": "DigimonNovaRed 3-21",
+  "135496": "DigimonNovaRed 3-22",
+  "135497": "DigimonNovaRed 3-23",
+  "135498": "DigimonNovaRed 3-24",
+  "135499": "DigimonNovaRed 3-25",
+  "135500": "DigimonNovaRed 3-26",
+  "135501": "DigimonNovaRed 3-27",
+  "135502": "DigimonNovaRed 3-28",
+  "135503": "DigimonNovaRed 3-29",
+  "135504": "DigimonNovaRed 3-30",
+  "135505": "DigimonNovaRed 3-31",
+  "135506": "DigimonNovaRed 3-32",
+  "135507": "DigimonNovaRed 3-33",
+  "135508": "DigimonNovaRed 3-34",
+  "135509": "DigimonNovaRed 3-35",
+  "135510": "DigimonNovaRed 3-36",
+  "135511": "DigimonNovaRed 3-37",
+  "135512": "DigimonNovaRed 3-38",
+  "135513": "DigimonNovaRed 3-39",
+  "135514": "DigimonNovaRed 3-40",
+  "135515": "DigimonNovaRed 3-41",
+  "135516": "DigimonNovaRed 3-42",
+  "135517": "DigimonNovaRed 3-43",
+  "135518": "DigimonNovaRed 3-44",
+  "135519": "DigimonNovaRed 3-45",
+  "135520": "DigimonNovaRed 3-46",
+  "135521": "DigimonNovaRed 3-47",
+  "135522": "DigimonNovaRed 3-48",
+  "135523": "DigimonNovaRed 3-49",
+  "135524": "DigimonNovaRed 3-50",
+  "135525": "DigimonNovaRed 3-51",
+  "135526": "DigimonNovaRed 3-52",
+  "135527": "DigimonNovaRed 3-53",
+  "135528": "DigimonNovaRed 3-54",
+  "135529": "DigimonNovaRed 3-55",
+  "135530": "DigimonNovaRed 3-56",
+  "135531": "DigimonNovaRed 3-57",
+  "135532": "DigimonNovaRed 3-58",
+  "135533": "DigimonNovaRed 3-59",
+  "135534": "DigimonNovaRed 3-60",
+  "135535": "DigimonNovaRed 3-61",
+  "135536": "DigimonNovaRed 3-62",
+  "135537": "DigimonNovaRed 3-63",
+  "135538": "DigimonNovaRed 3-64",
+  "135539": "DigimonNovaRed 3-65",
+  "135540": "DigimonNovaRed 4-0",
+  "135541": "DigimonNovaRed 4-1",
+  "135542": "DigimonNovaRed 4-2",
+  "135543": "DigimonNovaRed 4-3",
+  "135544": "DigimonNovaRed 5-0",
+  "135545": "DigimonNovaRed 5-1",
+  "135546": "DigimonNovaRed 5-2",
+  "135547": "DigimonNovaRed 5-3",
+  "135548": "DigimonNovaRed 5-4",
+  "135549": "DigimonNovaRed 5-5",
+  "135550": "DigimonNovaRed 6-0",
+  "135551": "DigimonNovaRed 6-1",
+  "135552": "DigimonNovaRed 6-2",
+  "135553": "DigimonNovaRed 6-3",
+  "135554": "DigimonNovaRed 6-4",
+  "135555": "DigimonNovaRed 6-5",
+  "135556": "DigimonNovaRed 6-6",
+  "135557": "DigimonNovaRed 6-7",
+  "135558": "DigimonNovaRed 7-0",
+  "135559": "DigimonNovaRed 7-1",
+  "135560": "DigimonNovaRed 7-2",
+  "135561": "DigimonNovaRed 7-3",
+  "135562": "DigimonNovaRed 7-4",
+  "135563": "DigimonNovaRed 7-5",
+  "135564": "DigimonNovaRed 7-6",
+  "135565": "DigimonNovaRed 7-7",
+  "135566": "DigimonNovaRed 7-8",
+  "135567": "DigimonNovaRed 7-9",
+  "135568": "DigimonNovaRed 8-0",
+  "135569": "DigimonNovaRed 8-1",
+  "135570": "DigimonNovaRed 8-2",
+  "135571": "DigimonNovaRed 8-3",
+  "135572": "DigimonNovaRed 8-4",
+  "135573": "DigimonNovaRed 8-5",
+  "135574": "DigimonNovaRed 9-0",
+  "135575": "DigimonNovaRed 9-1",
+  "135576": "DigimonNovaRed 9-2",
+  "135577": "DigimonNovaRed 9-3",
+  "135578": "DigimonNovaRed 9-4",
+  "135579": "DigimonNovaRed 9-5",
+  "135580": "DigimonNovaRed 9-6",
+  "135581": "DigimonNovaRed 9-7",
+  "135582": "DigimonNovaRed 10-0",
+  "135583": "DigimonNovaRed 10-1",
+  "135584": "DigimonNovaRed 10-2",
+  "135585": "DigimonNovaRed 10-3",
+  "135586": "DigimonNovaRed 10-4",
+  "135587": "DigimonNovaRed 10-5",
+  "135588": "DigimonNovaRed 10-6",
+  "135589": "DigimonNovaRed 10-7",
+  "135590": "DigimonNovaRed 10-8",
+  "135591": "DigimonNovaRed 10-9",
+  "135592": "DigimonNovaRed 10-10",
+  "135593": "DigimonNovaRed 10-11",
+  "135594": "DigimonNovaRed 10-12",
+  "135595": "DigimonNovaRed 10-13",
+  "135596": "DigimonNovaRed 10-14",
+  "135597": "DigimonNovaRed 10-15",
+  "135598": "DigimonNovaRed 10-16",
+  "135599": "DigimonNovaRed 10-17",
+  "135600": "DigimonNovaRed 10-18",
+  "135601": "DigimonNovaRed 10-19",
+  "135602": "DigimonNovaRed 11-0",
+  "135603": "DigimonNovaRed 11-1",
+  "135604": "DigimonNovaRed 11-2",
+  "135605": "DigimonNovaRed 11-3",
+  "135606": "DigimonNovaRed 11-4",
+  "135607": "DigimonNovaRed 11-5",
+  "135608": "DigimonNovaRed 11-6",
+  "135609": "DigimonNovaRed 11-7",
+  "135610": "DigimonNovaRed 11-8",
+  "135611": "DigimonNovaRed 11-9",
+  "135612": "DigimonNovaRed 12-0",
+  "135613": "DigimonNovaRed 12-1",
+  "135614": "DigimonNovaRed 12-2",
+  "135615": "DigimonNovaRed 12-3",
+  "135616": "DigimonNovaRed 12-4",
+  "135617": "DigimonNovaRed 12-5",
+  "135618": "DigimonNovaRed 12-6",
+  "135619": "DigimonNovaRed 12-7",
+  "135620": "DigimonNovaRed 13-0",
+  "135621": "DigimonNovaRed 13-1",
+  "135622": "DigimonNovaRed 14-0",
+  "135623": "DigimonNovaRed 14-1",
+  "135624": "DigimonNovaRed 14-2",
+  "135625": "DigimonNovaRed 14-3",
+  "135626": "DigimonNovaRed 14-4",
+  "135627": "DigimonNovaRed 14-5",
+  "135628": "DigimonNovaRed 14-6",
+  "135629": "DigimonNovaRed 14-7",
+  "135630": "DigimonNovaRed 14-8",
+  "135631": "DigimonNovaRed 14-9",
+  "135632": "DigimonNovaRed 15-0",
+  "135633": "DigimonNovaRed 15-1",
+  "135634": "DigimonNovaRed 15-2",
+  "135635": "DigimonNovaRed 15-3",
+  "135636": "DigimonNovaRed 16-0",
+  "135637": "DigimonNovaRed 16-1",
+  "135638": "DigimonNovaRed 17-0",
+  "135639": "DigimonNovaRed 17-1",
+  "135640": "DigimonNovaRed 18-0",
+  "135641": "DigimonNovaRed 18-1",
+  "135642": "DigimonNovaRed 19-0",
+  "135643": "DigimonNovaRed 20-0",
+  "135644": "DigimonNovaRed 21-0",
+  "135645": "DigimonNovaRed 21-1",
+  "135646": "DigimonNovaRed 22-0",
+  "135647": "DigimonNovaRed 22-1",
+  "135648": "DigimonNovaRed 23-0",
+  "135649": "DigimonNovaRed 23-1",
+  "135650": "DigimonNovaRed 23-2",
+  "135651": "DigimonNovaRed 24-0",
+  "135652": "DigimonNovaRed 24-1",
+  "135653": "DigimonNovaRed 25-0",
+  "135654": "DigimonNovaRed 25-1",
+  "135655": "DigimonNovaRed 25-2",
+  "135656": "DigimonNovaRed 26-0",
+  "135657": "DigimonNovaRed 26-1",
+  "135658": "DigimonNovaRed 27-0",
+  "135659": "DigimonNovaRed 28-0",
+  "135660": "DigimonNovaRed 29-0",
+  "135661": "DigimonNovaRed 30-0",
+  "135662": "DigimonNovaRed 31-0",
+  "135663": "DigimonNovaRed 31-1",
+  "135664": "DigimonNovaRed 31-2",
+  "135665": "DigimonNovaRed 31-3",
+  "135666": "DigimonNovaRed 31-4",
+  "135667": "DigimonNovaRed 31-5",
+  "135668": "DigimonNovaRed 31-6",
+  "135669": "DigimonNovaRed 32-0",
+  "135670": "DigimonNovaRed 32-1",
+  "135671": "DigimonNovaRed 32-2",
+  "135672": "DigimonNovaRed 32-3",
+  "135673": "DigimonNovaRed 32-4",
+  "135674": "DigimonNovaRed 33-0",
+  "135675": "DigimonNovaRed 33-1",
+  "135676": "DigimonNovaRed 33-2",
+  "135677": "DigimonNovaRed 33-3",
+  "135678": "DigimonNovaRed 33-4",
+  "135679": "DigimonNovaRed 34-0",
+  "135680": "DigimonNovaRed 34-1",
+  "135681": "DigimonNovaRed 34-2",
+  "135682": "DigimonNovaRed 34-3",
+  "135683": "DigimonNovaRed 34-4",
+  "135684": "DigimonNovaRed 34-5",
+  "135685": "DigimonNovaRed 34-6",
+  "135686": "DigimonNovaRed 34-7",
+  "135687": "DigimonNovaRed 35-0",
+  "135688": "DigimonNovaRed 35-1",
+  "135689": "DigimonNovaRed 35-2",
+  "135690": "DigimonNovaRed 35-3",
+  "135691": "DigimonNovaRed 35-4",
+  "135692": "DigimonNovaRed 35-5",
+  "135693": "DigimonNovaRed 35-6",
+  "135694": "DigimonNovaRed 35-7",
+  "135695": "DigimonNovaRed 36-0",
+  "135696": "DigimonNovaRed 36-1",
+  "135697": "DigimonNovaRed 36-2",
+  "135698": "DigimonNovaRed 36-3",
+  "135699": "DigimonNovaRed 36-4",
+  "135700": "DigimonNovaRed 37-0",
+  "135701": "DigimonNovaRed 37-1",
+  "135702": "DigimonNovaRed 37-2",
+  "135703": "DigimonNovaRed 37-3",
+  "135704": "DigimonNovaRed 37-4",
+  "135705": "DigimonNovaRed 38-0",
+  "135706": "DigimonNovaRed 39-0",
+  "135707": "DigimonNovaRed 40-0",
+  "135708": "DigimonNovaRed 41-0",
+  "135709": "DigimonNovaRed 41-1",
+  "135710": "DigimonNovaRed 42-0"
+ },
+ "connections": [
+  [
+   135474,
+   "N",
+   0,
+   135493,
+   "S",
+   0
+  ],
+  [
+   135474,
+   "S",
+   0,
+   135513,
+   "N",
+   0
+  ],
+  [
+   135475,
+   "N",
+   12,
+   135494,
+   "S",
+   0
+  ],
+  [
+   135475,
+   "S",
+   12,
+   135493,
+   "N",
+   0
+  ],
+  [
+   135475,
+   "W",
+   10,
+   135515,
+   "E",
+   0
+  ],
+  [
+   135476,
+   "E",
+   10,
+   135495,
+   "W",
+   0
+  ],
+  [
+   135476,
+   "S",
+   12,
+   135494,
+   "N",
+   0
+  ],
+  [
+   135477,
+   "E",
+   10,
+   135501,
+   "W",
+   0
+  ],
+  [
+   135477,
+   "N",
+   12,
+   135517,
+   "S",
+   0
+  ],
+  [
+   135477,
+   "S",
+   0,
+   135497,
+   "N",
+   0
+  ],
+  [
+   135477,
+   "W",
+   10,
+   135496,
+   "E",
+   0
+  ],
+  [
+   135478,
+   "N",
+   0,
+   135502,
+   "S",
+   0
+  ],
+  [
+   135478,
+   "S",
+   0,
+   135504,
+   "N",
+   0
+  ],
+  [
+   135478,
+   "W",
+   0,
+   135500,
+   "E",
+   0
+  ],
+  [
+   135479,
+   "E",
+   10,
+   135503,
+   "W",
+   0
+  ],
+  [
+   135479,
+   "N",
+   12,
+   135498,
+   "S",
+   0
+  ],
+  [
+   135480,
+   "E",
+   10,
+   135499,
+   "W",
+   0
+  ],
+  [
+   135480,
+   "W",
+   10,
+   135508,
+   "E",
+   0
+  ],
+  [
+   135481,
+   "E",
+   10,
+   135507,
+   "W",
+   0
+  ],
+  [
+   135481,
+   "S",
+   12,
+   135511,
+   "N",
+   0
+  ],
+  [
+   135481,
+   "W",
+   10,
+   135510,
+   "E",
+   0
+  ],
+  [
+   135482,
+   "E",
+   0,
+   135512,
+   "W",
+   0
+  ],
+  [
+   135482,
+   "N",
+   0,
+   135514,
+   "S",
+   0
+  ],
+  [
+   135483,
+   "S",
+   0,
+   135516,
+   "N",
+   0
+  ],
+  [
+   135485,
+   "E",
+   10,
+   135500,
+   "W",
+   0
+  ],
+  [
+   135485,
+   "N",
+   0,
+   135497,
+   "S",
+   0
+  ],
+  [
+   135485,
+   "S",
+   12,
+   135498,
+   "N",
+   0
+  ],
+  [
+   135485,
+   "W",
+   10,
+   135499,
+   "E",
+   0
+  ],
+  [
+   135486,
+   "E",
+   0,
+   135519,
+   "W",
+   120
+  ],
+  [
+   135486,
+   "S",
+   0,
+   135520,
+   "N",
+   0
+  ],
+  [
+   135487,
+   "N",
+   24,
+   135521,
+   "S",
+   0
+  ],
+  [
+   135488,
+   "S",
+   0,
+   135523,
+   "N",
+   0
+  ],
+  [
+   135488,
+   "S",
+   0,
+   135524,
+   "N",
+   0
+  ],
+  [
+   135488,
+   "S",
+   0,
+   135525,
+   "N",
+   0
+  ],
+  [
+   135488,
+   "W",
+   0,
+   135522,
+   "E",
+   0
+  ],
+  [
+   135490,
+   "E",
+   0,
+   135530,
+   "W",
+   0
+  ],
+  [
+   135490,
+   "N",
+   0,
+   135529,
+   "S",
+   48
+  ],
+  [
+   135491,
+   "N",
+   0,
+   135536,
+   "S",
+   48
+  ],
+  [
+   135491,
+   "S",
+   0,
+   135537,
+   "N",
+   0
+  ],
+  [
+   135492,
+   "E",
+   0,
+   135534,
+   "W",
+   40
+  ],
+  [
+   135495,
+   "N",
+   60,
+   135496,
+   "S",
+   0
+  ],
+  [
+   135501,
+   "E",
+   0,
+   135502,
+   "W",
+   0
+  ],
+  [
+   135503,
+   "E",
+   0,
+   135504,
+   "W",
+   60
+  ],
+  [
+   135504,
+   "S",
+   0,
+   135505,
+   "N",
+   48
+  ],
+  [
+   135505,
+   "W",
+   0,
+   135506,
+   "E",
+   0
+  ],
+  [
+   135506,
+   "W",
+   40,
+   135507,
+   "E",
+   0
+  ],
+  [
+   135508,
+   "S",
+   0,
+   135509,
+   "N",
+   0
+  ],
+  [
+   135509,
+   "S",
+   0,
+   135510,
+   "N",
+   0
+  ],
+  [
+   135511,
+   "W",
+   40,
+   135512,
+   "E",
+   0
+  ],
+  [
+   135513,
+   "S",
+   0,
+   135514,
+   "N",
+   0
+  ],
+  [
+   135515,
+   "N",
+   0,
+   135516,
+   "S",
+   0
+  ],
+  [
+   135517,
+   "E",
+   0,
+   135518,
+   "W",
+   0
+  ],
+  [
+   135528,
+   "S",
+   0,
+   135529,
+   "N",
+   48
+  ],
+  [
+   135530,
+   "E",
+   20,
+   135531,
+   "W",
+   0
+  ],
+  [
+   135532,
+   "S",
+   0,
+   135533,
+   "N",
+   0
+  ],
+  [
+   135533,
+   "E",
+   0,
+   135534,
+   "W",
+   0
+  ],
+  [
+   135534,
+   "W",
+   80,
+   135535,
+   "E",
+   0
+  ],
+  [
+   135537,
+   "E",
+   20,
+   135538,
+   "W",
+   0
+  ],
+  [
+   135538,
+   "S",
+   0,
+   135539,
+   "N",
+   48
+  ]
+ ],
+ "mapid_of": {
+  "0.0": 135286,
+  "0.1": 135287,
+  "0.2": 135288,
+  "0.3": 135289,
+  "0.4": 135290,
+  "1.0": 135291,
+  "1.1": 135292,
+  "1.2": 135293,
+  "1.3": 135294,
+  "1.4": 135295,
+  "1.5": 135296,
+  "1.6": 135297,
+  "1.7": 135298,
+  "1.8": 135299,
+  "1.9": 135300,
+  "1.10": 135301,
+  "1.11": 135302,
+  "1.12": 135303,
+  "1.13": 135304,
+  "1.14": 135305,
+  "1.15": 135306,
+  "1.16": 135307,
+  "1.17": 135308,
+  "1.18": 135309,
+  "1.19": 135310,
+  "1.20": 135311,
+  "1.21": 135312,
+  "1.22": 135313,
+  "1.23": 135314,
+  "1.24": 135315,
+  "1.25": 135316,
+  "1.26": 135317,
+  "1.27": 135318,
+  "1.28": 135319,
+  "1.29": 135320,
+  "1.30": 135321,
+  "1.31": 135322,
+  "1.32": 135323,
+  "1.33": 135324,
+  "1.34": 135325,
+  "1.35": 135326,
+  "1.36": 135327,
+  "1.37": 135328,
+  "1.38": 135329,
+  "1.39": 135330,
+  "1.40": 135331,
+  "1.41": 135332,
+  "1.42": 135333,
+  "1.43": 135334,
+  "1.44": 135335,
+  "1.45": 135336,
+  "1.46": 135337,
+  "1.47": 135338,
+  "1.48": 135339,
+  "1.49": 135340,
+  "1.50": 135341,
+  "1.51": 135342,
+  "1.52": 135343,
+  "1.53": 135344,
+  "1.54": 135345,
+  "1.55": 135346,
+  "1.56": 135347,
+  "1.57": 135348,
+  "1.58": 135349,
+  "1.59": 135350,
+  "1.60": 135351,
+  "1.61": 135352,
+  "1.62": 135353,
+  "1.63": 135354,
+  "1.64": 135355,
+  "1.65": 135356,
+  "1.66": 135357,
+  "1.67": 135358,
+  "1.68": 135359,
+  "1.69": 135360,
+  "1.70": 135361,
+  "1.71": 135362,
+  "1.72": 135363,
+  "1.73": 135364,
+  "1.74": 135365,
+  "1.75": 135366,
+  "1.76": 135367,
+  "1.77": 135368,
+  "1.78": 135369,
+  "1.79": 135370,
+  "1.80": 135371,
+  "1.81": 135372,
+  "1.82": 135373,
+  "1.83": 135374,
+  "1.84": 135375,
+  "1.85": 135376,
+  "1.86": 135377,
+  "1.87": 135378,
+  "1.88": 135379,
+  "1.89": 135380,
+  "1.90": 135381,
+  "1.91": 135382,
+  "1.92": 135383,
+  "1.93": 135384,
+  "1.94": 135385,
+  "1.95": 135386,
+  "1.96": 135387,
+  "1.97": 135388,
+  "1.98": 135389,
+  "1.99": 135390,
+  "1.100": 135391,
+  "1.101": 135392,
+  "1.102": 135393,
+  "1.103": 135394,
+  "1.104": 135395,
+  "1.105": 135396,
+  "1.106": 135397,
+  "1.107": 135398,
+  "1.108": 135399,
+  "1.109": 135400,
+  "1.110": 135401,
+  "1.111": 135402,
+  "1.112": 135403,
+  "1.113": 135404,
+  "1.114": 135405,
+  "1.115": 135406,
+  "1.116": 135407,
+  "1.117": 135408,
+  "1.118": 135409,
+  "1.119": 135410,
+  "1.120": 135411,
+  "1.121": 135412,
+  "1.122": 135413,
+  "2.0": 135414,
+  "2.1": 135415,
+  "2.2": 135416,
+  "2.3": 135417,
+  "2.4": 135418,
+  "2.5": 135419,
+  "2.6": 135420,
+  "2.7": 135421,
+  "2.8": 135422,
+  "2.9": 135423,
+  "2.10": 135424,
+  "2.11": 135425,
+  "2.12": 135426,
+  "2.13": 135427,
+  "2.14": 135428,
+  "2.15": 135429,
+  "2.16": 135430,
+  "2.17": 135431,
+  "2.18": 135432,
+  "2.19": 135433,
+  "2.20": 135434,
+  "2.21": 135435,
+  "2.22": 135436,
+  "2.23": 135437,
+  "2.24": 135438,
+  "2.25": 135439,
+  "2.26": 135440,
+  "2.27": 135441,
+  "2.28": 135442,
+  "2.29": 135443,
+  "2.30": 135444,
+  "2.31": 135445,
+  "2.32": 135446,
+  "2.33": 135447,
+  "2.34": 135448,
+  "2.35": 135449,
+  "2.36": 135450,
+  "2.37": 135451,
+  "2.38": 135452,
+  "2.39": 135453,
+  "2.40": 135454,
+  "2.41": 135455,
+  "2.42": 135456,
+  "2.43": 135457,
+  "2.44": 135458,
+  "2.45": 135459,
+  "2.46": 135460,
+  "2.47": 135461,
+  "2.48": 135462,
+  "2.49": 135463,
+  "2.50": 135464,
+  "2.51": 135465,
+  "2.52": 135466,
+  "2.53": 135467,
+  "2.54": 135468,
+  "2.55": 135469,
+  "2.56": 135470,
+  "2.57": 135471,
+  "2.58": 135472,
+  "2.59": 135473,
+  "3.0": 135474,
+  "3.1": 135475,
+  "3.2": 135476,
+  "3.3": 135477,
+  "3.4": 135478,
+  "3.5": 135479,
+  "3.6": 135480,
+  "3.7": 135481,
+  "3.8": 135482,
+  "3.9": 135483,
+  "3.10": 135484,
+  "3.11": 135485,
+  "3.12": 135486,
+  "3.13": 135487,
+  "3.14": 135488,
+  "3.15": 135489,
+  "3.16": 135490,
+  "3.17": 135491,
+  "3.18": 135492,
+  "3.19": 135493,
+  "3.20": 135494,
+  "3.21": 135495,
+  "3.22": 135496,
+  "3.23": 135497,
+  "3.24": 135498,
+  "3.25": 135499,
+  "3.26": 135500,
+  "3.27": 135501,
+  "3.28": 135502,
+  "3.29": 135503,
+  "3.30": 135504,
+  "3.31": 135505,
+  "3.32": 135506,
+  "3.33": 135507,
+  "3.34": 135508,
+  "3.35": 135509,
+  "3.36": 135510,
+  "3.37": 135511,
+  "3.38": 135512,
+  "3.39": 135513,
+  "3.40": 135514,
+  "3.41": 135515,
+  "3.42": 135516,
+  "3.43": 135517,
+  "3.44": 135518,
+  "3.45": 135519,
+  "3.46": 135520,
+  "3.47": 135521,
+  "3.48": 135522,
+  "3.49": 135523,
+  "3.50": 135524,
+  "3.51": 135525,
+  "3.52": 135526,
+  "3.53": 135527,
+  "3.54": 135528,
+  "3.55": 135529,
+  "3.56": 135530,
+  "3.57": 135531,
+  "3.58": 135532,
+  "3.59": 135533,
+  "3.60": 135534,
+  "3.61": 135535,
+  "3.62": 135536,
+  "3.63": 135537,
+  "3.64": 135538,
+  "3.65": 135539,
+  "4.0": 135540,
+  "4.1": 135541,
+  "4.2": 135542,
+  "4.3": 135543,
+  "5.0": 135544,
+  "5.1": 135545,
+  "5.2": 135546,
+  "5.3": 135547,
+  "5.4": 135548,
+  "5.5": 135549,
+  "6.0": 135550,
+  "6.1": 135551,
+  "6.2": 135552,
+  "6.3": 135553,
+  "6.4": 135554,
+  "6.5": 135555,
+  "6.6": 135556,
+  "6.7": 135557,
+  "7.0": 135558,
+  "7.1": 135559,
+  "7.2": 135560,
+  "7.3": 135561,
+  "7.4": 135562,
+  "7.5": 135563,
+  "7.6": 135564,
+  "7.7": 135565,
+  "7.8": 135566,
+  "7.9": 135567,
+  "8.0": 135568,
+  "8.1": 135569,
+  "8.2": 135570,
+  "8.3": 135571,
+  "8.4": 135572,
+  "8.5": 135573,
+  "9.0": 135574,
+  "9.1": 135575,
+  "9.2": 135576,
+  "9.3": 135577,
+  "9.4": 135578,
+  "9.5": 135579,
+  "9.6": 135580,
+  "9.7": 135581,
+  "10.0": 135582,
+  "10.1": 135583,
+  "10.2": 135584,
+  "10.3": 135585,
+  "10.4": 135586,
+  "10.5": 135587,
+  "10.6": 135588,
+  "10.7": 135589,
+  "10.8": 135590,
+  "10.9": 135591,
+  "10.10": 135592,
+  "10.11": 135593,
+  "10.12": 135594,
+  "10.13": 135595,
+  "10.14": 135596,
+  "10.15": 135597,
+  "10.16": 135598,
+  "10.17": 135599,
+  "10.18": 135600,
+  "10.19": 135601,
+  "11.0": 135602,
+  "11.1": 135603,
+  "11.2": 135604,
+  "11.3": 135605,
+  "11.4": 135606,
+  "11.5": 135607,
+  "11.6": 135608,
+  "11.7": 135609,
+  "11.8": 135610,
+  "11.9": 135611,
+  "12.0": 135612,
+  "12.1": 135613,
+  "12.2": 135614,
+  "12.3": 135615,
+  "12.4": 135616,
+  "12.5": 135617,
+  "12.6": 135618,
+  "12.7": 135619,
+  "13.0": 135620,
+  "13.1": 135621,
+  "14.0": 135622,
+  "14.1": 135623,
+  "14.2": 135624,
+  "14.3": 135625,
+  "14.4": 135626,
+  "14.5": 135627,
+  "14.6": 135628,
+  "14.7": 135629,
+  "14.8": 135630,
+  "14.9": 135631,
+  "15.0": 135632,
+  "15.1": 135633,
+  "15.2": 135634,
+  "15.3": 135635,
+  "16.0": 135636,
+  "16.1": 135637,
+  "17.0": 135638,
+  "17.1": 135639,
+  "18.0": 135640,
+  "18.1": 135641,
+  "19.0": 135642,
+  "20.0": 135643,
+  "21.0": 135644,
+  "21.1": 135645,
+  "22.0": 135646,
+  "22.1": 135647,
+  "23.0": 135648,
+  "23.1": 135649,
+  "23.2": 135650,
+  "24.0": 135651,
+  "24.1": 135652,
+  "25.0": 135653,
+  "25.1": 135654,
+  "25.2": 135655,
+  "26.0": 135656,
+  "26.1": 135657,
+  "27.0": 135658,
+  "28.0": 135659,
+  "29.0": 135660,
+  "30.0": 135661,
+  "31.0": 135662,
+  "31.1": 135663,
+  "31.2": 135664,
+  "31.3": 135665,
+  "31.4": 135666,
+  "31.5": 135667,
+  "31.6": 135668,
+  "32.0": 135669,
+  "32.1": 135670,
+  "32.2": 135671,
+  "32.3": 135672,
+  "32.4": 135673,
+  "33.0": 135674,
+  "33.1": 135675,
+  "33.2": 135676,
+  "33.3": 135677,
+  "33.4": 135678,
+  "34.0": 135679,
+  "34.1": 135680,
+  "34.2": 135681,
+  "34.3": 135682,
+  "34.4": 135683,
+  "34.5": 135684,
+  "34.6": 135685,
+  "34.7": 135686,
+  "35.0": 135687,
+  "35.1": 135688,
+  "35.2": 135689,
+  "35.3": 135690,
+  "35.4": 135691,
+  "35.5": 135692,
+  "35.6": 135693,
+  "35.7": 135694,
+  "36.0": 135695,
+  "36.1": 135696,
+  "36.2": 135697,
+  "36.3": 135698,
+  "36.4": 135699,
+  "37.0": 135700,
+  "37.1": 135701,
+  "37.2": 135702,
+  "37.3": 135703,
+  "37.4": 135704,
+  "38.0": 135705,
+  "39.0": 135706,
+  "40.0": 135707,
+  "41.0": 135708,
+  "41.1": 135709,
+  "42.0": 135710
+ },
+ "tileset_ids": {
+  "0": 5846,
+  "1": 5847,
+  "2": 5848,
+  "3": 5849,
+  "4": 5850,
+  "5": 5851,
+  "6": 5852,
+  "7": 5853,
+  "8": 5854,
+  "9": 5855,
+  "10": 5856,
+  "11": 5857,
+  "12": 5858,
+  "13": 5859,
+  "14": 5860,
+  "15": 5861,
+  "16": 5862,
+  "17": 5863,
+  "18": 5864,
+  "19": 5865,
+  "20": 5866,
+  "21": 5867,
+  "22": 5868,
+  "23": 5869,
+  "24": 5870,
+  "25": 5871,
+  "26": 5872,
+  "27": 5873,
+  "28": 5874,
+  "29": 5875,
+  "30": 5876,
+  "31": 5877,
+  "32": 5878,
+  "33": 5879,
+  "34": 5880,
+  "35": 5881,
+  "36": 5882,
+  "37": 5883,
+  "38": 5884,
+  "39": 5885,
+  "40": 5886,
+  "41": 5887,
+  "42": 5888,
+  "43": 5889,
+  "44": 5890,
+  "45": 5891,
+  "46": 5892,
+  "47": 5893,
+  "48": 5894,
+  "49": 5895,
+  "50": 5896,
+  "51": 5897,
+  "52": 5898,
+  "53": 5899,
+  "54": 5900,
+  "55": 5901,
+  "56": 5902,
+  "57": 5903,
+  "58": 5904,
+  "59": 5905
+ },
+ "pair_gba_ptrs": {
+  "0": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4cb4"
+  },
+  "1": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d514c"
+  },
+  "2": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4e34"
+  },
+  "3": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4c6c"
+  },
+  "4": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4b94"
+  },
+  "5": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4e04"
+  },
+  "6": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4ef4"
+  },
+  "7": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4f54"
+  },
+  "8": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4e7c"
+  },
+  "9": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4f3c"
+  },
+  "10": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4f9c"
+  },
+  "11": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4bc4"
+  },
+  "12": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4f84"
+  },
+  "13": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4ec4"
+  },
+  "14": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d5134"
+  },
+  "15": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4e64"
+  },
+  "16": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4e94"
+  },
+  "17": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4f6c"
+  },
+  "18": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4f0c"
+  },
+  "19": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d505c"
+  },
+  "20": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d50bc"
+  },
+  "21": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d5074"
+  },
+  "22": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d508c"
+  },
+  "23": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d5104"
+  },
+  "24": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d50a4"
+  },
+  "25": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d50ec"
+  },
+  "26": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d511c"
+  },
+  "27": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4b1c"
+  },
+  "28": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4b34"
+  },
+  "29": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4b4c"
+  },
+  "30": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4b64"
+  },
+  "31": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4b7c"
+  },
+  "32": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4bac"
+  },
+  "33": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4bdc"
+  },
+  "34": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4bf4"
+  },
+  "35": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d4c0c"
+  },
+  "36": {
+   "primary": "0x82d4b04",
+   "secondary": "0x82d50d4"
+  },
+  "37": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4ce4"
+  },
+  "38": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4cfc"
+  },
+  "39": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4d2c"
+  },
+  "40": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4fcc"
+  },
+  "41": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4c3c"
+  },
+  "42": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4c54"
+  },
+  "43": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4c9c"
+  },
+  "44": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4d74"
+  },
+  "45": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d5014"
+  },
+  "46": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4d8c"
+  },
+  "47": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4ccc"
+  },
+  "48": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4fe4"
+  },
+  "49": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4da4"
+  },
+  "50": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4edc"
+  },
+  "51": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4ffc"
+  },
+  "52": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4d5c"
+  },
+  "53": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4dbc"
+  },
+  "54": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4fb4"
+  },
+  "55": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4d14"
+  },
+  "56": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4dec"
+  },
+  "57": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4dd4"
+  },
+  "58": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4f24"
+  },
+  "59": {
+   "primary": "0x82d4c24",
+   "secondary": "0x82d4e94"
+  }
+ },
+ "stats": {
+  "maps": 425,
+  "warps_emitted": 1318,
+  "warps_dropped": 149,
+  "cells": 233741,
+  "unrenderable_cells": 0,
+  "script_events": 2741,
+  "npc_events": 1777,
+  "coord_events": 230,
+  "sign_events": 422,
+  "map_scripts": 584,
+  "transpile_text_lines": 18554,
+  "transpile_warps": 105,
+  "transpile_branches": 14152,
+  "transpile_stubs": 33979,
+  "transpile_dropped_noops": 24862,
+  "transpile_truncated": 225,
+  "npc_sprites_decoded": 1682,
+  "bgm_songs_exported": 0,
+  "bgm_maps_assigned": 0,
+  "connections": 59
+ },
+ "data_layer": {
+  "rom": "Digimon Nova Red 3.2 patch.gba",
+  "warnings": [
+   "FireRed v1: no dynamic repoint-detection implemented for trainers/movesets/TMHM/evolutions yet (only FireRed 1.0(US) has it) -- those tables were not located; species/moves/abilities/encounters are unaffected."
+  ],
+  "species": {
+   "case_a_overlap": 38,
+   "case_b_registry": 49,
+   "case_c_new": 299,
+   "junk_skipped": 16
+  },
+  "moves": {
+   "reused": 0,
+   "new": 0
+  },
+  "abilities": {
+   "reused": 324,
+   "new": 0,
+   "no_effect_handler": 0
+  },
+  "items": {
+   "resolved": 55,
+   "unresolved": 233
+  },
+  "types": {
+   "new": 1
+  },
+  "encounters": {
+   "maps": 85,
+   "slots": 1005,
+   "maps_not_ported": 0
+  },
+  "trainers": {
+   "registered": 0,
+   "classes": 0,
+   "skipped": 0
+  },
+  "stat_conflicts": [
+   {
+    "species": "arurumon",
+    "internal_name": "ARURUMON",
+    "registry_base_stats": [
+     70,
+     70,
+     100,
+     50,
+     60,
+     100
+    ],
+    "this_rom_base_stats": [
+     80,
+     80,
+     120,
+     60,
+     60,
+     110
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "komon",
+    "internal_name": "KOMON",
+    "registry_base_stats": [
+     90,
+     90,
+     130,
+     60,
+     60,
+     130
+    ],
+    "this_rom_base_stats": [
+     120,
+     115,
+     80,
+     130,
+     95,
+     80
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "komon",
+    "internal_name": "KOMON",
+    "registry_base_stats": [
+     90,
+     90,
+     130,
+     60,
+     60,
+     130
+    ],
+    "this_rom_base_stats": [
+     70,
+     85,
+     65,
+     90,
+     70,
+     70
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "tomon",
+    "internal_name": "TOMON",
+    "registry_base_stats": [
+     65,
+     60,
+     65,
+     65,
+     70,
+     65
+    ],
+    "this_rom_base_stats": [
+     100,
+     100,
+     80,
+     120,
+     130,
+     100
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "pmon",
+    "internal_name": "PMON",
+    "registry_base_stats": [
+     50,
+     65,
+     45,
+     70,
+     55,
+     45
+    ],
+    "this_rom_base_stats": [
+     55,
+     55,
+     50,
+     50,
+     50,
+     50
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "r.Dramon",
+    "internal_name": "RDRAMON",
+    "registry_base_stats": [
+     60,
+     50,
+     50,
+     60,
+     80,
+     80
+    ],
+    "this_rom_base_stats": [
+     95,
+     90,
+     70,
+     70,
+     75,
+     70
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "ramon",
+    "internal_name": "RAMON",
+    "registry_base_stats": [
+     100,
+     110,
+     90,
+     80,
+     80,
+     80
+    ],
+    "this_rom_base_stats": [
+     35,
+     50,
+     45,
+     50,
+     55,
+     55
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "pmon",
+    "internal_name": "PMON",
+    "registry_base_stats": [
+     50,
+     65,
+     45,
+     70,
+     55,
+     45
+    ],
+    "this_rom_base_stats": [
+     25,
+     35,
+     25,
+     50,
+     40,
+     30
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "ximon",
+    "internal_name": "XIMON",
+    "registry_base_stats": [
+     110,
+     130,
+     100,
+     100,
+     110,
+     80
+    ],
+    "this_rom_base_stats": [
+     45,
+     55,
+     45,
+     70,
+     60,
+     50
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "emon",
+    "internal_name": "EMON",
+    "registry_base_stats": [
+     65,
+     45,
+     45,
+     65,
+     85,
+     85
+    ],
+    "this_rom_base_stats": [
+     40,
+     45,
+     35,
+     90,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "tamon",
+    "internal_name": "TAMON",
+    "registry_base_stats": [
+     40,
+     55,
+     40,
+     70,
+     55,
+     40
+    ],
+    "this_rom_base_stats": [
+     75,
+     75,
+     55,
+     65,
+     75,
+     55
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "kamon",
+    "internal_name": "KAMON",
+    "registry_base_stats": [
+     40,
+     55,
+     50,
+     55,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     40,
+     40,
+     60,
+     25,
+     35,
+     40
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "emon",
+    "internal_name": "EMON",
+    "registry_base_stats": [
+     65,
+     45,
+     45,
+     65,
+     85,
+     85
+    ],
+    "this_rom_base_stats": [
+     60,
+     60,
+     95,
+     40,
+     45,
+     60
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "rdramon",
+    "internal_name": "RDRAMON",
+    "registry_base_stats": [
+     60,
+     50,
+     50,
+     60,
+     80,
+     80
+    ],
+    "this_rom_base_stats": [
+     65,
+     115,
+     100,
+     80,
+     40,
+     120
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "yomon",
+    "internal_name": "YOMON",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     50,
+     65,
+     65
+    ],
+    "this_rom_base_stats": [
+     80,
+     80,
+     80,
+     80,
+     80,
+     80
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "tamon",
+    "internal_name": "TAMON",
+    "registry_base_stats": [
+     40,
+     55,
+     40,
+     70,
+     55,
+     40
+    ],
+    "this_rom_base_stats": [
+     100,
+     80,
+     80,
+     60,
+     80,
+     80
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "emon",
+    "internal_name": "EMON",
+    "registry_base_stats": [
+     65,
+     45,
+     45,
+     65,
+     85,
+     85
+    ],
+    "this_rom_base_stats": [
+     85,
+     73,
+     70,
+     67,
+     73,
+     115
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "l.Dramon",
+    "internal_name": "LDRAMON",
+    "registry_base_stats": [
+     75,
+     80,
+     65,
+     75,
+     75,
+     80
+    ],
+    "this_rom_base_stats": [
+     70,
+     60,
+     125,
+     55,
+     115,
+     70
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "idramon",
+    "internal_name": "IDRAMON",
+    "registry_base_stats": [
+     30,
+     30,
+     30,
+     30,
+     30,
+     30
+    ],
+    "this_rom_base_stats": [
+     80,
+     85,
+     95,
+     25,
+     30,
+     30
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "kemon",
+    "internal_name": "KEMON",
+    "registry_base_stats": [
+     120,
+     115,
+     90,
+     115,
+     90,
+     90
+    ],
+    "this_rom_base_stats": [
+     30,
+     105,
+     90,
+     50,
+     25,
+     25
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "lemon",
+    "internal_name": "LEMON",
+    "registry_base_stats": [
+     65,
+     45,
+     55,
+     45,
+     45,
+     70
+    ],
+    "this_rom_base_stats": [
+     70,
+     80,
+     50,
+     35,
+     35,
+     35
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "omon",
+    "internal_name": "OMON",
+    "registry_base_stats": [
+     85,
+     85,
+     85,
+     85,
+     85,
+     85
+    ],
+    "this_rom_base_stats": [
+     75,
+     80,
+     70,
+     90,
+     65,
+     75
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "nimon",
+    "internal_name": "NIMON",
+    "registry_base_stats": [
+     110,
+     95,
+     110,
+     75,
+     60,
+     90
+    ],
+    "this_rom_base_stats": [
+     80,
+     105,
+     79,
+     90,
+     75,
+     90
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "komon",
+    "internal_name": "KOMON",
+    "registry_base_stats": [
+     90,
+     90,
+     130,
+     60,
+     60,
+     130
+    ],
+    "this_rom_base_stats": [
+     70,
+     65,
+     70,
+     60,
+     55,
+     55
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "omon",
+    "internal_name": "OMON",
+    "registry_base_stats": [
+     85,
+     85,
+     85,
+     85,
+     85,
+     85
+    ],
+    "this_rom_base_stats": [
+     35,
+     55,
+     40,
+     70,
+     25,
+     25
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "ramon",
+    "internal_name": "RAMON",
+    "registry_base_stats": [
+     100,
+     110,
+     90,
+     80,
+     80,
+     80
+    ],
+    "this_rom_base_stats": [
+     84,
+     84,
+     84,
+     84,
+     84,
+     84
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "kumon",
+    "internal_name": "KUMON",
+    "registry_base_stats": [
+     40,
+     55,
+     40,
+     50,
+     50,
+     55
+    ],
+    "this_rom_base_stats": [
+     50,
+     150,
+     50,
+     150,
+     150,
+     50
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "ramon",
+    "internal_name": "RAMON",
+    "registry_base_stats": [
+     100,
+     110,
+     90,
+     80,
+     80,
+     80
+    ],
+    "this_rom_base_stats": [
+     90,
+     90,
+     85,
+     100,
+     80,
+     80
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "armon",
+    "internal_name": "ARMON",
+    "registry_base_stats": [
+     105,
+     130,
+     120,
+     40,
+     45,
+     45
+    ],
+    "this_rom_base_stats": [
+     85,
+     95,
+     90,
+     95,
+     80,
+     80
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "adramon",
+    "internal_name": "ADRAMON",
+    "registry_base_stats": [
+     40,
+     40,
+     40,
+     40,
+     50,
+     50
+    ],
+    "this_rom_base_stats": [
+     75,
+     100,
+     85,
+     80,
+     55,
+     70
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "armon",
+    "internal_name": "ARMON",
+    "registry_base_stats": [
+     105,
+     130,
+     120,
+     40,
+     45,
+     45
+    ],
+    "this_rom_base_stats": [
+     85,
+     75,
+     65,
+     85,
+     75,
+     75
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "tamon",
+    "internal_name": "TAMON",
+    "registry_base_stats": [
+     40,
+     55,
+     40,
+     70,
+     55,
+     40
+    ],
+    "this_rom_base_stats": [
+     30,
+     30,
+     30,
+     30,
+     30,
+     30
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "ramon",
+    "internal_name": "RAMON",
+    "registry_base_stats": [
+     100,
+     110,
+     90,
+     80,
+     80,
+     80
+    ],
+    "this_rom_base_stats": [
+     90,
+     56,
+     56,
+     15,
+     40,
+     40
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "lamon",
+    "internal_name": "LAMON",
+    "registry_base_stats": [
+     55,
+     50,
+     55,
+     55,
+     60,
+     55
+    ],
+    "this_rom_base_stats": [
+     105,
+     85,
+     70,
+     80,
+     110,
+     110
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "lamon",
+    "internal_name": "LAMON",
+    "registry_base_stats": [
+     55,
+     50,
+     55,
+     55,
+     60,
+     55
+    ],
+    "this_rom_base_stats": [
+     50,
+     95,
+     180,
+     70,
+     85,
+     45
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "edmon",
+    "internal_name": "EDMON",
+    "registry_base_stats": [
+     75,
+     75,
+     75,
+     65,
+     65,
+     75
+    ],
+    "this_rom_base_stats": [
+     63,
+     63,
+     63,
+     63,
+     63,
+     63
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "memon",
+    "internal_name": "MEMON",
+    "registry_base_stats": [
+     90,
+     65,
+     55,
+     95,
+     130,
+     110
+    ],
+    "this_rom_base_stats": [
+     95,
+     70,
+     75,
+     55,
+     70,
+     75
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "mmymon",
+    "internal_name": "MMYMON",
+    "registry_base_stats": [
+     110,
+     105,
+     85,
+     110,
+     95,
+     85
+    ],
+    "this_rom_base_stats": [
+     65,
+     75,
+     45,
+     95,
+     65,
+     55
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "temon",
+    "internal_name": "TEMON",
+    "registry_base_stats": [
+     75,
+     105,
+     75,
+     75,
+     100,
+     70
+    ],
+    "this_rom_base_stats": [
+     160,
+     110,
+     65,
+     30,
+     65,
+     110
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "Chessmon",
+    "internal_name": "CHESSMON",
+    "registry_base_stats": [
+     70,
+     50,
+     60,
+     90,
+     70,
+     60
+    ],
+    "this_rom_base_stats": [
+     100,
+     90,
+     80,
+     120,
+     90,
+     80
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "Chessmon",
+    "internal_name": "CHESSMON",
+    "registry_base_stats": [
+     70,
+     50,
+     60,
+     90,
+     70,
+     60
+    ],
+    "this_rom_base_stats": [
+     60,
+     60,
+     60,
+     60,
+     60,
+     60
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "rimon",
+    "internal_name": "RIMON",
+    "registry_base_stats": [
+     95,
+     100,
+     85,
+     100,
+     100,
+     85
+    ],
+    "this_rom_base_stats": [
+     40,
+     50,
+     70,
+     30,
+     20,
+     20
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "rimon",
+    "internal_name": "RIMON",
+    "registry_base_stats": [
+     95,
+     100,
+     85,
+     100,
+     100,
+     85
+    ],
+    "this_rom_base_stats": [
+     60,
+     70,
+     90,
+     35,
+     25,
+     25
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "namon",
+    "internal_name": "NAMON",
+    "registry_base_stats": [
+     65,
+     65,
+     65,
+     65,
+     65,
+     65
+    ],
+    "this_rom_base_stats": [
+     80,
+     45,
+     65,
+     80,
+     90,
+     110
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "nmon",
+    "internal_name": "NMON",
+    "registry_base_stats": [
+     70,
+     80,
+     70,
+     70,
+     80,
+     70
+    ],
+    "this_rom_base_stats": [
+     90,
+     72,
+     72,
+     72,
+     72,
+     72
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "llenium",
+    "internal_name": "LLENIUM",
+    "registry_base_stats": [
+     120,
+     130,
+     95,
+     90,
+     150,
+     150
+    ],
+    "this_rom_base_stats": [
+     100,
+     150,
+     140,
+     90,
+     100,
+     90
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "nimon",
+    "internal_name": "NIMON",
+    "registry_base_stats": [
+     110,
+     95,
+     110,
+     75,
+     60,
+     90
+    ],
+    "this_rom_base_stats": [
+     105,
+     150,
+     90,
+     95,
+     150,
+     90
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "memon",
+    "internal_name": "MEMON",
+    "registry_base_stats": [
+     90,
+     65,
+     55,
+     95,
+     130,
+     110
+    ],
+    "this_rom_base_stats": [
+     200,
+     200,
+     200,
+     200,
+     200,
+     200
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   },
+   {
+    "species": "remon",
+    "internal_name": "REMON",
+    "registry_base_stats": [
+     60,
+     65,
+     60,
+     95,
+     110,
+     75
+    ],
+    "this_rom_base_stats": [
+     150,
+     150,
+     150,
+     150,
+     150,
+     150
+    ],
+    "registry_sources": [
+     "DigimonNovaRedPort"
+    ]
+   }
+  ],
+  "type_fallbacks": [],
+  "identity_matches": [],
+  "sprites_needed": 299,
+  "sprites_extracted": 285,
+  "evolutions": {
+   "resolved": 0,
+   "skipped_method": 0,
+   "skipped_species": 0,
+   "skipped_item": 0
+  },
+  "gaps": [
+   "trainers: trainerbattle opcodes now emit a real pbTrainerBattle call resolved via trainer_key (class, name, version); only double vs. single battle is inferred (tb_type==2), the other 9 GBA type bytes' extra semantics (e.g. tag partners, silhouette reveals) are not modeled",
+   "items: GBA item ids are resolved to Essentials InternalNames by reading each item's name straight out of the ROM's own item table (handles hack-renamed items, e.g. DBZ Team Training's 'Golden Caps.' for Master Ball) and matching it against vanilla + other mods' items.txt; additem/removeitem/pokemart use the real Essentials call for resolved ids -- items with no existing PBS match (genuinely new, hack-only items) have no stats/pocket/price/icon minting pipeline yet and fall back to a comment stub for just those ids (see items.unresolved count)",
+   "sprites: front battler art (spritesheets_base/{dex}.png) is extracted from the ROM's own pic+palette tables when both are structurally located (see sprites_extracted vs sprites_needed); icon sprites and the back-sprite table are not resolved -- icon-table candidates found by structural scan were indistinguishable/false-positive on the one ROM tried, and back-sprite art has no confirmed in-game consumer for a fused species -- ROM-hack originals also have no pokemondb.net source",
+   "abilities: a new ability (no name match to an existing PBS ability) gets a real PBS entry -- name + flavor description -- but no battle effect. Confirmed (ck32) this is a permanent Gen3 data-model limit, not an unbuilt feature: unlike moves' per-move effect byte or the evolution method field, vanilla Gen3 has no ability-effect table at all -- behavior is scattered ad-hoc engine checks, not decodable data -- so there's no ROM to extract this from on any hack, ever; see abilities.no_effect_handler count",
+   "evolutions: no evolution table located on this rom (neither the FR10 boot pointer nor the generic structural scan resolved one) -- extra_evolutions.txt is empty"
+  ],
+  "id_ranges": {
+   "species": [
+    60000,
+    608289
+   ],
+   "moves": null,
+   "abilities": null,
+   "trainertype_id_base": 14500000,
+   "trainer_id_base": 17500000
+  },
+  "species_sym": {
+   "1": "GREYMON",
+   "2": "KAMON",
+   "3": "MAMON",
+   "4": "KAKUMON",
+   "5": "DOMON",
+   "6": "KEMON",
+   "7": "UNOMON",
+   "8": "BUMON",
+   "9": "RURUMON",
+   "10": "ARURUMON",
+   "11": "ARURUMON",
+   "12": "KOMON",
+   "13": "TAMON",
+   "14": "GEMON",
+   "15": "ANGEMON",
+   "16": "RAPHIMON",
+   "17": "KOMON",
+   "18": "YOMON",
+   "19": "RDRAMON",
+   "20": "RUDAMON",
+   "21": "UOUMON",
+   "22": "TIMON",
+   "23": "NTOMON",
+   "24": "BUTERIMO",
+   "25": "KABUTERI",
+   "26": "KABUTERI",
+   "27": "AROMON",
+   "28": "LAMON",
+   "29": "TOMON",
+   "30": "GEWOMON",
+   "31": "HANIMON",
+   "32": "IBOMON",
+   "33": "MIVEEMON",
+   "34": "EMON",
+   "35": "VEEMON",
+   "36": "GNAMON",
+   "37": "AMEDRAMO",
+   "38": "IDRAMON",
+   "39": "AMON",
+   "40": "MADILOMO",
+   "41": "KYLOMON",
+   "42": "AKKOUMON",
+   "43": "GMON",
+   "44": "ROMON",
+   "45": "WKMON",
+   "46": "UILAMON",
+   "47": "LPHYMON",
+   "48": "URIMON",
+   "49": "NOMON",
+   "50": "RMMON",
+   "51": "INGMON",
+   "52": "ILDRAMON",
+   "53": "PDRAMON",
+   "54": "KOMON",
+   "55": "PMON",
+   "56": "RUIEMON",
+   "57": "TYLAMON",
+   "58": "ERUBIMON",
+   "59": "MMYMON",
+   "60": "RRIERMON",
+   "61": "RGOMON",
+   "62": "PIDMON",
+   "63": "GARGOMON",
+   "64": "XIMON",
+   "65": "NAMON",
+   "66": "UBIMON",
+   "67": "OMON",
+   "68": "KUYAMON",
+   "69": "GIMON",
+   "70": "ILMON",
+   "71": "OWLMON",
+   "72": "GROWLMON",
+   "73": "LLANTMON",
+   "74": "TOMON",
+   "75": "PMON",
+   "76": "NODRAMON",
+   "77": "RDRAMON",
+   "78": "BERDRAMO",
+   "79": "LUMON",
+   "80": "MIDEVIMO",
+   "81": "VIMON",
+   "82": "OTISMON",
+   "83": "EDMON",
+   "84": "RAMON",
+   "85": "UMEMON",
+   "86": "RAMON",
+   "87": "RYSALIMO",
+   "88": "FERMON",
+   "89": "ABOROMON",
+   "90": "PMON",
+   "91": "ELZEMON",
+   "92": "XIMON",
+   "93": "RANGEMO",
+   "94": "NARIZAMO",
+   "95": "RTOMON",
+   "96": "INOMON",
+   "97": "RIMON",
+   "98": "RUMON",
+   "99": "MEMON",
+   "100": "APPAMON",
+   "101": "AWJAMON",
+   "102": "NIMON",
+   "103": "EMON",
+   "104": "NDAMON",
+   "105": "GUMON",
+   "106": "ZIMON",
+   "107": "VIDRAMON",
+   "108": "RBERUMON",
+   "109": "MBMON",
+   "110": "UNDERMON",
+   "111": "NANIMON",
+   "112": "TAMON",
+   "113": "ZARDMON",
+   "114": "SEMON",
+   "115": "YAGUMON",
+   "116": "TYRANOMO",
+   "117": "KNIGHTMO",
+   "118": "NITAMON",
+   "119": "PUTYMON",
+   "120": "STIMON",
+   "121": "KAMON",
+   "122": "EMON",
+   "123": "ETEMON",
+   "124": "KOROMON",
+   "125": "KUWAMON",
+   "126": "DROMON",
+   "127": "TITMON",
+   "128": "ACOMON",
+   "129": "RDRAMON",
+   "130": "NGDRAMON",
+   "131": "LPHMON",
+   "132": "VERMON",
+   "133": "KUMON",
+   "134": "PTUNEMON",
+   "135": "LDRAMON",
+   "136": "GIDRAMON",
+   "137": "LEMON",
+   "138": "CHINEDRA",
+   "139": "NEMON",
+   "140": "CEMONX",
+   "141": "CEMON",
+   "142": "WAGAMON",
+   "143": "ROROMON",
+   "144": "NBEEMON",
+   "145": "NEYBEEMO",
+   "146": "TTERFLYM",
+   "147": "NMAMON",
+   "148": "KUGUMON",
+   "149": "PIRMON",
+   "150": "MAMMOTH",
+   "151": "YOMON",
+   "152": "NBOMON",
+   "153": "CHIMAIRA",
+   "154": "TAMON",
+   "155": "EMON",
+   "156": "DAMON",
+   "157": "ETZALMON",
+   "158": "ORPIOMON",
+   "159": "SCORPIO",
+   "160": "RVOMON",
+   "161": "VORVOMON",
+   "162": "VOGARITA",
+   "163": "LDRAMON",
+   "164": "NZAEMON",
+   "165": "OKIMON",
+   "166": "ORAMON",
+   "167": "BUKIMON",
+   "168": "FFLESIMO",
+   "169": "RCMON",
+   "170": "LKYRIMON",
+   "171": "ZAMON",
+   "172": "ELAMON",
+   "173": "GALECUS",
+   "174": "TSUMON",
+   "175": "GEMOGUMO",
+   "176": "GAMON",
+   "177": "RBAMON",
+   "178": "OOPMON",
+   "179": "NOCHROMO",
+   "180": "SKMON",
+   "181": "LOMON",
+   "182": "GITAMAMO",
+   "183": "VITAMAMO",
+   "184": "ABMON",
+   "185": "IDRAMON",
+   "186": "SOKUMON",
+   "187": "ARMON",
+   "188": "IZZMON",
+   "189": "APLEOMON",
+   "190": "KEMON",
+   "191": "ITCH",
+   "192": "PHANTOMO",
+   "193": "LEMON",
+   "194": "DYDEVIMO",
+   "195": "LITHMON",
+   "196": "BLIMON",
+   "197": "REMON",
+   "198": "TUMON",
+   "199": "OLLMON",
+   "200": "OMON",
+   "201": "BLEOMON",
+   "202": "ECMON",
+   "203": "IMON",
+   "204": "NIMON",
+   "205": "OSSMON",
+   "206": "RANNOMON",
+   "207": "AOSDRAMO",
+   "208": "TYRANNO",
+   "209": "STYRANNO",
+   "210": "AMAMON",
+   "211": "KOMON",
+   "212": "OGUNGEKO",
+   "213": "PURIMON",
+   "214": "TEMON",
+   "215": "SYAMON",
+   "216": "URAMON",
+   "217": "NBAMON",
+   "218": "NYAMON",
+   "219": "OMON",
+   "220": "OGAMON",
+   "221": "CHGAOGA",
+   "222": "RGAOGA",
+   "223": "JYAMON",
+   "224": "JIMON",
+   "225": "BAMON",
+   "226": "NKERMON",
+   "227": "ZEMON",
+   "228": "KAZEMON",
+   "229": "IKURIMON",
+   "230": "GURUMON",
+   "231": "EKAMON",
+   "232": "BOTAMON",
+   "233": "ACKMON",
+   "234": "IGIMON",
+   "235": "XEBLAUMO",
+   "236": "ICCHIMON",
+   "237": "OKOMON",
+   "238": "RAIMON",
+   "239": "WIMON",
+   "240": "RAMON",
+   "241": "LMONANK",
+   "242": "BLISSEY",
+   "243": "RAIKOU",
+   "244": "ENTEI",
+   "245": "SUICUNE",
+   "246": "LARVITAR",
+   "247": "PUPITAR",
+   "248": "TYRANITAR",
+   "249": "LUGIA",
+   "250": "HOOH",
+   "251": "CELEBI",
+   "267": "VEMON",
+   "268": "CHOMON",
+   "269": "KATORIMO",
+   "270": "KUMON",
+   "271": "MIMERAMO",
+   "272": "NDLEMON",
+   "273": "RAMON",
+   "274": "MERAMON",
+   "275": "ARMON",
+   "276": "NXMON",
+   "277": "ADRAMON",
+   "278": "LIZAMON",
+   "279": "CHIMON",
+   "280": "APMON",
+   "281": "ADRAMON",
+   "282": "SEADRAMO",
+   "283": "ARMON",
+   "284": "STARMON",
+   "285": "TAMON",
+   "286": "SOMON",
+   "287": "DEVIMON",
+   "288": "NUMEMON",
+   "289": "RMAIMON",
+   "290": "MERMAIMO",
+   "291": "AKOMON",
+   "292": "ELLMON",
+   "293": "ESIGLITC",
+   "294": "RAMON",
+   "295": "DMON",
+   "296": "LAMON",
+   "297": "NFLOWMON",
+   "298": "LAMON",
+   "299": "TUSMON",
+   "300": "ODMON",
+   "301": "MPKINMON",
+   "302": "EDMON",
+   "303": "OSSOMON",
+   "304": "HEMON",
+   "305": "PPETMON",
+   "306": "NMON",
+   "307": "KURAMON",
+   "308": "MEMON",
+   "309": "MAMEMON",
+   "310": "METYRAMO",
+   "311": "NMAMEMO",
+   "312": "AOMON",
+   "313": "BRAMON",
+   "314": "ASARMON",
+   "315": "SPHINXMO",
+   "316": "ARIEMON",
+   "317": "CCHIEMON",
+   "318": "AMELEMON",
+   "319": "ICOOMON",
+   "320": "ASTMON",
+   "321": "NERVAMON",
+   "322": "OSTMON",
+   "323": "BALUCHI",
+   "324": "UKENIMON",
+   "325": "MMYMON",
+   "326": "TIRIMON",
+   "327": "RASAURMO",
+   "328": "ROPIAMON",
+   "329": "DRAMON",
+   "330": "ACMON",
+   "331": "MONZAEMO",
+   "332": "SURIMON",
+   "333": "RISSMON",
+   "334": "LMON",
+   "335": "EFILMON",
+   "336": "SENMON",
+   "337": "TEMON",
+   "338": "MBHIRAMO",
+   "339": "IHUMON",
+   "340": "CHESSMON",
+   "341": "CHESSMO",
+   "342": "CHESSMON",
+   "343": "CHESSMON",
+   "344": "OUTMON",
+   "345": "SHOUTMO",
+   "346": "RIMON",
+   "347": "RIMON",
+   "348": "MMAMON",
+   "349": "WEISSMON",
+   "350": "EPTOMON",
+   "351": "ONMON",
+   "352": "NAMON",
+   "353": "ANAMON",
+   "354": "NMON",
+   "355": "RONAMON",
+   "356": "OLLOMON",
+   "357": "TTIMON",
+   "358": "UPIMON",
+   "359": "NUSMON",
+   "360": "STAKE",
+   "361": "PS",
+   "362": "G",
+   "363": "DLUCEMON",
+   "364": "ROR",
+   "365": "LLENIUM",
+   "366": "LLENIUM",
+   "367": "LADINMOD",
+   "368": "NIMON",
+   "369": "PHAMON",
+   "370": "OUTMONX3",
+   "371": "MAGOTCHI",
+   "372": "IPUI",
+   "373": "ANTOMON",
+   "374": "MEMON",
+   "375": "REMON",
+   "376": "AGOMON",
+   "378": "YMON",
+   "379": "ESIOMON",
+   "380": "ORITH",
+   "381": "MALDO",
+   "382": "LTSN",
+   "383": "RLIAON",
+   "384": "RDEVOIR",
+   "385": "GONTFORM",
+   "386": "ELGON",
+   "387": "LAMENCE",
+   "388": "LDUMEP",
+   "389": "TANGILY",
+   "390": "TAGROSS",
+   "391": "GIROCK",
+   "392": "GICES",
+   "393": "GISTEEL",
+   "394": "OGRE",
+   "395": "OUDON",
+   "396": "YQUAZA",
+   "397": "TIASMENCE",
+   "398": "TIOSUM",
+   "399": "RACHI",
+   "400": "ITCHLUCE",
+   "401": "IMECHO",
+   "402": "REGICE"
+  },
+  "trainer_key": {},
+  "item_sym": {
+   "26": "FRESHWATER",
+   "73": "GUARDSPEC",
+   "102": "ICESTONE",
+   "105": "BIGNUGGET",
+   "109": "STARPIECE",
+   "148": "CHILANBERRY",
+   "149": "OCCABERRY",
+   "150": "PASSHOBERRY",
+   "152": "RINDOBERRY",
+   "153": "YACHEBERRY",
+   "154": "CHOPLEBERRY",
+   "155": "KEBIABERRY",
+   "156": "SHUCABERRY",
+   "157": "COBABERRY",
+   "158": "PAYAPABERRY",
+   "159": "TANGABERRY",
+   "160": "CHARTIBERRY",
+   "161": "KASIBBERRY",
+   "162": "HABANBERRY",
+   "163": "COLBURBERRY",
+   "164": "BABIRIBERRY",
+   "176": "FLAMEORB",
+   "177": "TOXICORB",
+   "226": "CHOICESPECS",
+   "227": "CHOICESCARF",
+   "228": "LIFEORB",
+   "229": "ROCKYHELMET",
+   "230": "BLACKSLUDGE",
+   "231": "ASSAULTVEST",
+   "232": "EVIOLITE",
+   "233": "EXPERTBELT",
+   "234": "WIDELENS",
+   "235": "OVALSTONE",
+   "236": "PROTECTOR",
+   "237": "ELECTIRIZER",
+   "238": "MAGMARIZER",
+   "239": "DUBIOUSDISC",
+   "240": "REAPERCLOTH",
+   "241": "RAZORCLAW",
+   "242": "RAZORFANG",
+   "243": "PRISMSCALE",
+   "244": "WHIPPEDDREAM",
+   "245": "SACHET",
+   "246": "POWERWEIGHT",
+   "247": "POWERBRACER",
+   "248": "POWERBELT",
+   "249": "POWERANKLET",
+   "250": "POWERLENS",
+   "251": "POWERBAND",
+   "281": "SKULLFOSSIL",
+   "282": "ARMORFOSSIL",
+   "285": "JAWFOSSIL",
+   "286": "SAILFOSSIL",
+   "287": "ROOTFOSSIL",
+   "288": "CLAWFOSSIL"
+  }
+ }
+}

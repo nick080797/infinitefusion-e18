@@ -1,0 +1,62 @@
+{
+  "mods": {
+    "AnimeFusionMerge": {
+      "enabled": true
+    },
+    "AnimeFusionQoL": {
+      "enabled": true
+    },
+    "GhostBase_PlayerHousing": {
+      "enabled": true
+    },
+    "GhostBattle_ClassicPlus": {
+      "enabled": true
+    },
+    "GhostGame_Broker": {
+      "enabled": true
+    },
+    "GhostItem_Bag": {
+      "enabled": true
+    },
+    "GhostItem_Splicers": {
+      "enabled": true
+    },
+    "GhostNPC_Buddy": {
+      "enabled": true
+    },
+    "GhostNPC_WanderingTrainers": {
+      "enabled": true
+    },
+    "Ghost_QoL": {
+      "enabled": true
+    },
+    "KantoReloaded": {
+      "enabled": true
+    },
+    "alpha_encounters": {
+      "enabled": true
+    },
+    "counterfeit_shinies": {
+      "enabled": true
+    },
+    "crafting_system": {
+      "enabled": true
+    },
+    "diagonal_movement": {
+      "enabled": true
+    },
+    "mega_stones": {
+      "enabled": true
+    },
+    "mouse_ui": {
+      "enabled": true
+    },
+    "overworld_encounters": {
+      "enabled": true
+    },
+    "UnlockAllMysteryGifts": {
+      "enabled": true
+    }
+  },
+  "moddev_override": true
+}

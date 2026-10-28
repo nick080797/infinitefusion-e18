@@ -1,0 +1,1 @@
+60620,AQUSHURIKEN,Aqu.Shuriken,0A5,15,WATER,Special,0,20,0,NearOther,0,bef,""

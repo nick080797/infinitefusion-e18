@@ -125,7 +125,13 @@ class PokemonDataBox < SpriteWrapper
 
   def x=(value)
     super
-    @hpBar.x = value + @spriteBaseX + 12 # 102
+    # HP bar track's left edge sits at local x=18 (foe) / x=44 (player) in
+    # the active databox_normal(_foe)/databox_thin(_foe) art (measured
+    # directly from the PNGs) - @spriteBaseX is 8/34 respectively, so +12
+    # put the green fill bar 2px right of the frame it's meant to sit
+    # flush inside, exposing a sliver of the dark track underneath at the
+    # left end. +10 lines them up exactly on both sides/layouts.
+    @hpBar.x = value + @spriteBaseX + 10
     @expBar.x = value + @spriteBaseX + 24
     @hpNumbers.x = value + @spriteBaseX + 80
   end

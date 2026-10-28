@@ -275,8 +275,10 @@ def pbJustRaiseEffortValues(pkmn, stat, evGain)
   stat = GameData::Stat.get(stat).id
   evTotal = 0
   GameData::Stat.each_main { |s| evTotal += pkmn.ev[s.id] }
-  evGain = evGain.clamp(0, Pokemon::EV_STAT_LIMIT - pkmn.ev[stat])
-  evGain = evGain.clamp(0, Pokemon::EV_LIMIT - evTotal)
+  # AnimeFusionMerge: clamp(0, X) raises ArgumentError if X<0 (already over
+  # cap, e.g. from a mod-granted EV overflow) - floor X at 0 first.
+  evGain = evGain.clamp(0, [Pokemon::EV_STAT_LIMIT - pkmn.ev[stat], 0].max)
+  evGain = evGain.clamp(0, [Pokemon::EV_LIMIT - evTotal, 0].max)
   if evGain > 0
     pkmn.ev[stat] += evGain
     pkmn.calc_stats
@@ -289,9 +291,10 @@ def pbRaiseEffortValues(pkmn, stat, evGain = 10, ev_limit = true)
   return 0 if ev_limit && pkmn.ev[stat] >= 100
   evTotal = 0
   GameData::Stat.each_main { |s| evTotal += pkmn.ev[s.id] }
-  evGain = evGain.clamp(0, Pokemon::EV_STAT_LIMIT - pkmn.ev[stat])
+  # AnimeFusionMerge: same overflow guard as pbJustRaiseEffortValues above.
+  evGain = evGain.clamp(0, [Pokemon::EV_STAT_LIMIT - pkmn.ev[stat], 0].max)
   evGain = evGain.clamp(0, 100 - pkmn.ev[stat]) if ev_limit
-  evGain = evGain.clamp(0, Pokemon::EV_LIMIT - evTotal)
+  evGain = evGain.clamp(0, [Pokemon::EV_LIMIT - evTotal, 0].max)
   if evGain > 0
     pkmn.ev[stat] += evGain
     pkmn.calc_stats

@@ -653,10 +653,14 @@ def getFormattedText(bitmap,xDst,yDst,widthDst,heightDst,text,lineheight=32,
     bitmap.font.italic=(italiccount>0)
     if graphic
       if !graphicWidth
-        tempgraphic=Bitmap.new(graphic)
+        # Cache instead of Bitmap.new+dispose on every single redraw - Options
+        # (and anything else with icon/img text) redraws its help text
+        # constantly, and rapid native alloc/dispose churn here is a
+        # suspected contributor to a native crash on repeated redraws.
+        $__icon_bitmap_cache ||= {}
+        tempgraphic=($__icon_bitmap_cache[graphic] ||= Bitmap.new(graphic))
         graphicWidth=tempgraphic.width
         graphicHeight=tempgraphic.height
-        tempgraphic.dispose
       end
       width=graphicWidth   # +8  # No padding
       xStart=0   # 4
@@ -1089,10 +1093,10 @@ end
 
 def drawSingleFormattedChar(bitmap,ch)
   if ch[5] # If a graphic
-    graphic=Bitmap.new(ch[0])
+    $__icon_bitmap_cache ||= {}
+    graphic=($__icon_bitmap_cache[ch[0]] ||= Bitmap.new(ch[0]))
     graphicRect=ch[15]
     bitmap.blt(ch[1], ch[2], graphic,graphicRect,ch[8].alpha)
-    graphic.dispose
   else
     bitmap.font.size=ch[13] if bitmap.font.size!=ch[13]
     if ch[0]!="\n" && ch[0]!="\r" && ch[0]!=" " && !isWaitChar(ch[0])

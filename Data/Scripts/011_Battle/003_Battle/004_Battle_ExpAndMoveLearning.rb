@@ -74,15 +74,20 @@ class PokeBattle_Battle
     if pkmn.shadowPokemon? && pkmn.saved_ev
       pkmn.saved_ev.each_value { |e| evTotal += e }
       GameData::Stat.each_main do |s|
-        evGain = evYield[s.id].clamp(0, Pokemon::EV_STAT_LIMIT - pkmn.ev[s.id] - pkmn.saved_ev[s.id])
-        evGain = evGain.clamp(0, Pokemon::EV_LIMIT - evTotal)
+        # AnimeFusionMerge: clamp(0, X) raises ArgumentError if X<0 (i.e. this
+        # stat or the total is already over its cap, e.g. from a mod-granted
+        # EV overflow) - floor X at 0 first so an already-maxed Pokemon just
+        # gains nothing instead of crashing.
+        evGain = evYield[s.id].clamp(0, [Pokemon::EV_STAT_LIMIT - pkmn.ev[s.id] - pkmn.saved_ev[s.id], 0].max)
+        evGain = evGain.clamp(0, [Pokemon::EV_LIMIT - evTotal, 0].max)
         pkmn.saved_ev[s.id] += evGain
         evTotal += evGain
       end
     else
       GameData::Stat.each_main do |s|
-        evGain = evYield[s.id].clamp(0, Pokemon::EV_STAT_LIMIT - pkmn.ev[s.id])
-        evGain = evGain.clamp(0, Pokemon::EV_LIMIT - evTotal)
+        # AnimeFusionMerge: same overflow guard as above.
+        evGain = evYield[s.id].clamp(0, [Pokemon::EV_STAT_LIMIT - pkmn.ev[s.id], 0].max)
+        evGain = evGain.clamp(0, [Pokemon::EV_LIMIT - evTotal, 0].max)
         pkmn.ev[s.id] += evGain
         evTotal += evGain
       end

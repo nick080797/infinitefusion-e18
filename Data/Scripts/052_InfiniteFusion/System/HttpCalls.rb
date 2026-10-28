@@ -1,6 +1,12 @@
+# See http_call_gc_guard in 001_Technical/002_Files/003_HTTP_Utilities.rb
+# for why every HTTPLite.* call site is wrapped like this.
+def http_get_gc_guard(*args)
+  http_call_gc_guard { HTTPLite.get(*args) }
+end
+
 def test_http_get
   url = "http://localhost:8080"
-  response = HTTPLite.get(url)
+  response = http_get_gc_guard(url)
   if response[:status] == 200
     p response[:body]
   end
@@ -34,7 +40,7 @@ end
 def download_file(url, saveLocation)
   echoln url
   begin
-    response = HTTPLite.get(url)
+    response = http_get_gc_guard(url)
     if response[:status] == 200
       File.open(saveLocation, "wb") do |file|
         file.write(response[:body])
@@ -63,7 +69,7 @@ def fetch_sprite_from_web(url, destinationPath)
   return false if !downloadAllowed?()
   begin
 
-    response = HTTPLite.get(url)
+    response = http_get_gc_guard(url)
     if response[:status] == 200
       File.open(destinationPath, "wb") do |file|
         file.write(response[:body])

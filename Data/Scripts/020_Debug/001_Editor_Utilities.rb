@@ -123,7 +123,20 @@ def pbChooseSpeciesList(default = nil,max=nil)
   defaultNumber = default == nil ? 1 : getDexNumberForSpecies(default)
   params = ChooseNumberParams.new
 
-  max = max ? max : PBSpecies.maxValue
+  # Default ceiling only covers PBSpecies.maxValue (the head*727+body fusion
+  # arithmetic ceiling, ~529256) - the 600000-699999 reserved standalone-dex
+  # band (is_reserved_standalone_dex?, 052_InfiniteFusion/Fusion/
+  # FusionUtils.rb; holds custom non-fusion species like KIDGOKU and any
+  # future standalone mon) sits entirely above that. pbChooseNumber rejects
+  # (buzzes, refuses to confirm) any typed value above the range's max, so a
+  # Pokemon already AT a reserved-band species couldn't even be re-confirmed
+  # unchanged, let alone set TO one - the reported "can't use debug mode to
+  # change species to the correct one" bug. Only widen when the caller didn't
+  # pass an explicit max: the fusion-species sub-picker in 020_Debug/
+  # 003_Debug menus/005_Debug_PokemonCommands.rb intentionally passes
+  # NB_POKEMON to restrict head/body selection to real base-dex species, and
+  # that restriction must stay exactly as narrow as it is.
+  max = max ? max : 699999
   params.setRange(1,max)
   params.setInitialValue(defaultNumber)
   dexNum = pbMessageChooseNumber(_INTL("dex number?"),params)

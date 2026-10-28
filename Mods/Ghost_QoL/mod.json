@@ -1,0 +1,25 @@
+{
+  "name": "Ghost QoL",
+  "id": "Ghost_QoL",
+  "version": "1.0.3",
+  "author": "t-Ghost-t",
+  "description": [
+    "GhostQoL is a collection of many smaller quality-of-life mods packed into one, each independently toggleable in the settings menu.",
+    " ",
+    "This mod includes:",
+    "- Learn Move Stats: Press LEFT on the Move Learn screen to see your Pokémon's full IVs and EVs.",
+    "- Pokedex Search: Adds a lightning-fast keyboard search to find any Pokémon by name in the Dex.",
+    "- Tutor.net Upgrade: Provides dynamic move info panels and STAB-highlighting for easy teaching.",
+    "- Battle Size Selector: Choose your preferred battle size (1v1, 2v2, 3v3) for encounters.",
+    "- Battle Move Info: View detailed move data during battle by pressing X.",
+    "- PC-Plus: Adds visual box renaming and bulk actions to the PC system.",
+    "- HUD Elements: A permanent onscreen PocketWatch and a quick-toggle for the Team Rocket disguise.",
+    "- Automation & Skips: Includes Slots AutoPlay, Intro Skip, and Hotel Multi-sleep options.",
+    "- More stuff I probably forgot to list."
+  ],
+  "tags": ["QoL"],
+  "dependencies": [],
+  "incompatible": [],
+  "settings": [],
+  "scripts": ["main.rb"]
+}
