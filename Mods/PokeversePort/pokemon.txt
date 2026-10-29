@@ -58,6 +58,7 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
+Moves = 216,IRONTAIL,216,IRONTAIL,232,ARENAVEIL,232,HIDDENPOWER,232,ARENAVEIL,232,HIDDENPOWER
 [606664]
 Name = LycanrocMN
 InternalName = LYCANROCMN
@@ -297,6 +298,7 @@ Compatibility = Undiscovered
 StepsToHatch = 10200
 Shape = Head
 
+Moves = 1,SPLASH
 [606676]
 Name = xxxxxx
 InternalName = XXXXXX

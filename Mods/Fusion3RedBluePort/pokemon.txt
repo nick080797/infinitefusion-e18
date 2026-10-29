@@ -1454,6 +1454,7 @@ Compatibility = Undiscovered
 StepsToHatch = 5100
 Shape = Head
 
+Moves = 0,SPITUP,0,SPITUP,0,SPITUP,195,SNORE,218,IRONTAIL,224,METALCLAW,227,IRONTAIL,232,THUNDERCUT
 [603571]
 Name = CURGROWTH
 InternalName = CURGROWTH
@@ -2048,6 +2049,7 @@ Compatibility = Undiscovered
 StepsToHatch = 3825
 Shape = Head
 
+Moves = 6,HEADBUTTY,6,LEGSWINGZ,200,POUND
 [603600]
 Name = FOONMISH
 InternalName = FOONMISH
